@@ -43,5 +43,6 @@ https://docusaurus.io
 
 # Deployment
 
-The site deploys from the `gh-pages` branch and is viewable at:  
-https://onearmyworld.github.io/docs-demo/
+The site is configured to automatically build whenever changes are made to the master branch, and the generated html is deployed from the `gh-pages` branch. 
+You can view build status at https://travis-ci.org/OneArmyWorld/docs-demo  
+You can see live deployment at : https://onearmyworld.github.io/docs-demo/
