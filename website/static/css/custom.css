@@ -33,6 +33,50 @@ article iframe {
 	margin: 0;
 }
 
+.navGroup:nth-child(1) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_intro.svg');
+}
+
+.navGroup:nth-child(2) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_plastic.svg');
+}
+
+.navGroup:nth-child(3) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_build.svg');
+}
+
+.navGroup:nth-child(4) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_collect.svg');
+}
+
+.navGroup:nth-child(5) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_create.svg');
+}
+
+.navGroup:nth-child(6) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_business.svg');
+}
+
+.navGroup:nth-child(7) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_starterkits.svg');
+}
+
+.navGroup:nth-child(8) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_experiments.svg');
+}
+
+.navGroup:nth-child(9) .collapsible {
+  background-image: url('/docs-demo/img/menu-selection-bg.jpg');
+}
+
+.navGroup:nth-child(10) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_questions.svg');
+}
+
+.navGroup:nth-child(11) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_download.svg');
+}
+
 .toc .toggleNav .navGroup  ul {
 	border-left: 4px solid #E9E9E9;
 	padding: 0;
