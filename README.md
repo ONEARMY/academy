@@ -43,6 +43,7 @@ https://docusaurus.io
 
 # Deployment
 
-The site is configured to automatically build whenever changes are made to the master branch, and the generated html is deployed from the `gh-pages` branch. 
+The site is configured to automatically build whenever changes are made to the master branch, and the generated html is deployed from the `gh-pages` branch.
+ 
 You can view build status at https://travis-ci.org/OneArmyWorld/docs-demo  
 You can see live deployment at : https://onearmyworld.github.io/docs-demo/
