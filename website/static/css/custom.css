@@ -1,6 +1,60 @@
 /* your custom css */
 
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
 
+
+body {
+	background-color: #f4f6f7;
+	font-family: 'Varela Round', sans-serif;
+}
+
+.docMainWrapper {
+	margin-top: 50px;
+	width: 80%;
+	background: #FFF;
+	border-radius: 10px;
+	border: 2px solid #000;
+}
+
+.button {
+	background: #FEE77B;
+	border: 2px solid #2C2C2C;
+	border-radius: 5px;
+	color: #000;
+	padding: 20px;
+}
+
+article iframe {
+	border: 5px #F29094 solid;
+    border-radius: 10px;
+}
+
+.navGroup .collapsible {
+	font-size: 16px;
+	background: url("../img/menu-selection-bg.jpg") no-repeat;
+	padding: 10px;
+	margin: 0;
+}
+
+.toc .toggleNav .navGroup  ul {
+	border-left: 4px solid #E9E9E9;
+	padding: 0;
+	margin-left: 10px;
+}
+
+.toc .toggleNav .navGroup  ul li.navListItem {
+	margin-left: -4px;
+    padding-left: 15px;
+    margin-bottom: 15px; 
+}
+
+.navGroup  ul li.navListItemActive {
+	border-left: 4px solid #F29094;
+}
+
+.navGroup  .arrow {
+	display: none;
+}
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 
