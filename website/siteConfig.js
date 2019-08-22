@@ -87,7 +87,7 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ["https://buttons.github.io/buttons.js"],
+  scripts: ["https://buttons.github.io/buttons.js", "/docs-demo/js/custom.js"],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Varela+Round&display=swap"
   ],
