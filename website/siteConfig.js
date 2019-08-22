@@ -71,6 +71,12 @@ const siteConfig = {
     ]
   },
   */
+  fonts: {
+    bodyFont: [
+      "Varela Round",
+      "sans-serif"
+    ]
+  },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
@@ -82,6 +88,9 @@ const siteConfig = {
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ["https://buttons.github.io/buttons.js"],
+  stylesheets: [
+    "https://fonts.googleapis.com/css?family=Varela+Round&display=swap"
+  ],
 
   // On page navigation for the current documentation page.
   onPageNav: "separate",
