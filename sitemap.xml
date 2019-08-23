@@ -38,4 +38,5 @@
 <url> <loc>https://onearmyworld.github.io/docs-demo/docs/starterkit/machinebuilder</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmyworld.github.io/docs-demo/docs/starterkit/machinebuilder" /> </url>
 <url> <loc>https://onearmyworld.github.io/docs-demo/docs/starterkit/sheetpressworkspace</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmyworld.github.io/docs-demo/docs/starterkit/sheetpressworkspace" /> </url>
 <url> <loc>https://onearmyworld.github.io/docs-demo/docs/starterkit/shredderworkspace</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmyworld.github.io/docs-demo/docs/starterkit/shredderworkspace" /> </url>
+<url> <loc>https://onearmyworld.github.io/docs-demo/docs/styles</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmyworld.github.io/docs-demo/docs/styles" /> </url>
 </urlset>
