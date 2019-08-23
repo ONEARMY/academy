@@ -81,6 +81,19 @@ article iframe {
 	border-left: 4px solid #E9E9E9;
 	padding: 0;
 	margin-left: 10px;
+	visibility: visible;
+  	opacity: 1;
+  	height: auto;
+  	transition:  all 0.5s, visibility 0s linear;
+}
+
+.toc .toggleNav .navGroup  ul.hide {
+	visibility: hidden;
+  	opacity: 0;
+  	transition: all 0.5s, visibility 0s linear;
+  	display: block;
+  	height: 0;
+  	margin: 0;
 }
 
 .toc .toggleNav .navGroup  ul li.navListItem {
@@ -98,7 +111,7 @@ article iframe {
 }
 
 .onPageNav {
-  display: none;
+  	display: none;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
