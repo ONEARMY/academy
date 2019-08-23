@@ -1,11 +1,8 @@
 /* your custom css */
 
-@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
-
-
 body {
 	background-color: #f4f6f7;
-	font-family: 'Varela Round', sans-serif;
+	font-family: $bodyFont;
 }
 
 .docMainWrapper {
@@ -36,6 +33,50 @@ article iframe {
 	margin: 0;
 }
 
+.navGroup:nth-child(1) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_intro.svg');
+}
+
+.navGroup:nth-child(2) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_plastic.svg');
+}
+
+.navGroup:nth-child(3) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_build.svg');
+}
+
+.navGroup:nth-child(4) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_collect.svg');
+}
+
+.navGroup:nth-child(5) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_create.svg');
+}
+
+.navGroup:nth-child(6) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_business.svg');
+}
+
+.navGroup:nth-child(7) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_starterkits.svg');
+}
+
+.navGroup:nth-child(8) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_experiments.svg');
+}
+
+.navGroup:nth-child(9) .collapsible {
+  background-image: url('/docs-demo/img/menu-selection-bg.jpg');
+}
+
+.navGroup:nth-child(10) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_questions.svg');
+}
+
+.navGroup:nth-child(11) .collapsible {
+  background-image: url('/docs-demo/img/highlight_stroke_download.svg');
+}
+
 .toc .toggleNav .navGroup  ul {
 	border-left: 4px solid #E9E9E9;
 	padding: 0;
@@ -45,7 +86,7 @@ article iframe {
 .toc .toggleNav .navGroup  ul li.navListItem {
 	margin-left: -4px;
     padding-left: 15px;
-    margin-bottom: 15px; 
+    margin-bottom: 15px;
 }
 
 .navGroup  ul li.navListItemActive {
@@ -54,6 +95,10 @@ article iframe {
 
 .navGroup  .arrow {
 	display: none;
+}
+
+.onPageNav {
+  display: none;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
