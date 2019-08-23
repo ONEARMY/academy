@@ -10,7 +10,8 @@
     "8. Experiments": ["experiments", "experiments/robotics", "experiments/scanner", "experiments/beyondplastic"],
     "9. Done": ["done"],
     "10. Questions": ["questions"],
-    "11. Download": ["download"]
+    "11. Download": ["download"],
+    "12. Styles": ["styles]"
   },
   "docs-other": {
     "First Categordy": [""]
