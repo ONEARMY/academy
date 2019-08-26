@@ -13,6 +13,10 @@ body {
 	border: 2px solid #000;
 }
 
+.wrapper {
+  padding: 0 50px;
+}
+
 .button {
 	background: #FEE77B;
 	border: 2px solid #2C2C2C;
@@ -106,6 +110,9 @@ article iframe {
 }
 
 @media only screen and (min-width: 1024px) {
+  .toc {
+    padding: 50px 0;
+  }
 }
 
 @media only screen and (max-width: 1023px) {
