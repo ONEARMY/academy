@@ -9,34 +9,6 @@
         "title": "Build",
         "sidebar_label": "Intro"
       },
-      "build/compression": {
-        "title": "Build compression",
-        "sidebar_label": "Build a compression"
-      },
-      "build/extrusion-pro": {
-        "title": "Build a extrusion Pro",
-        "sidebar_label": "Build an extrusion Pro"
-      },
-      "build/extrusion": {
-        "title": "Build extrusion",
-        "sidebar_label": "Build an extrusion"
-      },
-      "build/injection": {
-        "title": "Build injection",
-        "sidebar_label": "Build an injection"
-      },
-      "build/sheetpress": {
-        "title": "Build a sheetpress",
-        "sidebar_label": "Build a sheetpress"
-      },
-      "build/shredder-pro": {
-        "title": "Build a Shredder Pro",
-        "sidebar_label": "Build a shredder Pro"
-      },
-      "build/shredder": {
-        "title": "Build a Shredder",
-        "sidebar_label": "Build a shredder"
-      },
       "business": {
         "title": "Business",
         "sidebar_label": "Intro"
@@ -112,8 +84,8 @@
         "sidebar_label": "Hello you! 🤙"
       },
       "plastic": {
-        "title": "Plastic",
-        "sidebar_label": "The basics of plastic"
+        "title": "The Basics of Plastic",
+        "sidebar_label": "The Basics of Plastic"
       },
       "questions": {
         "title": "Questions",
@@ -150,6 +122,9 @@
       "starterkit/shredderworkspace": {
         "title": "Setup a shredder workspace",
         "sidebar_label": "Shredder workspace"
+      },
+      "styles": {
+        "title": "styles"
       }
     },
     "links": {
@@ -170,7 +145,8 @@
       "9. Done": "9. Done",
       "10. Questions": "10. Questions",
       "11. Download": "11. Download",
-      "First Categordy": "First Categordy"
+      "12. Styles": "12. Styles",
+      "First Category": "First Category"
     }
   },
   "pages-strings": {
