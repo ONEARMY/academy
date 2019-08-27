@@ -4,6 +4,13 @@ title: The Basics of Plastic
 sidebar_label: The Basics of Plastic
 ---
 
+<style>
+:root {
+  --highlight: #84cfec;
+  --hover: #84cfec;
+}
+</style>
+
 # The Basics of Plastic
 
 talking about plastic
