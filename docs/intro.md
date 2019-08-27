@@ -10,6 +10,14 @@ sidebar_label: Hello you! 🤙
 
 All information about plastic recycling TEST 123
 This is a link to [another document.](doc3.md)  
+
+<style>
+:root {
+  --highlight: #e1e1e1;
+  --hover: #e1e1e1;
+}
+</style>
+
 This is a link to an [external page.](http://www.example.com)
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
