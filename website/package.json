@@ -6,7 +6,8 @@
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version"
+    "rename-version": "docusaurus-rename-version",
+    "debug": "node --nolazy --inspect-brk=9229 ./node_modules/docusaurus/lib/start-server.js"
   },
   "devDependencies": {
     "docusaurus": "^1.11.1"
