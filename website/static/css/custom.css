@@ -38,6 +38,10 @@ article iframe {
   border-radius: 10px;
 }
 
+article div span h1:first-child {
+  margin-top: 0;
+}
+
 .navGroup .collapsible {
 	font-size: 16px;
 	background: url("../img/menu-selection-bg.jpg") no-repeat;
@@ -110,6 +114,10 @@ article iframe {
 }
 
 .onPageNav {
+  display: none;
+}
+
+.postHeaderTitle {
   display: none;
 }
 
