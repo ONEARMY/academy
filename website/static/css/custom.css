@@ -1,16 +1,16 @@
 /* your custom css */
 
 body {
-	background-color: #f4f6f7;
-	font-family: $bodyFont;
+  background-color: #f4f6f7;
+  font-family: $bodyFont;
 }
 
 .docMainWrapper {
-	margin: 50px auto;
-	width: 80%;
-	background: #FFF;
-	border-radius: 10px;
-	border: 2px solid #000;
+  margin: 50px auto;
+  width: 80%;
+  background: #fff;
+  border-radius: 10px;
+  border: 2px solid #000;
 }
 
 .wrapper {
@@ -18,15 +18,42 @@ body {
 }
 
 .button {
-	background: #FEE77B;
-	border: 2px solid #2C2C2C;
-	border-radius: 5px;
-	color: #000;
-	padding: 20px;
+  background: #fee77b;
+  border: 2px solid #2c2c2c;
+  border-radius: 5px;
+  color: #000;
+  padding: 20px;
 }
 
 a {
   color: var(--highlight, $primaryColor);
+}
+
+.navGroup ul li.navListItem {
+  border-color: transparent;
+}
+
+.navGroup ul li.navListItem:hover {
+  border-left: 4px var(--highlight, $primaryColor) solid;
+  transition: border-color 0.3s;
+}
+
+.navGroup ul li.navListItem:hover a {
+  margin-left: -4px;
+}
+
+.toc .toggleNav ul li.navListItemActive a {
+  color: $defaultFontColor;
+  margin-left: -4px;
+}
+
+.toc .toggleNav ul li a {
+  color: #afafaf;
+}
+
+.toc .toggleNav ul li a:hover,
+.toc .toggleNav ul li a:focus {
+  color: $defaultFontColor;
 }
 
 a:hover {
@@ -34,7 +61,7 @@ a:hover {
 }
 
 article iframe {
-	border: 5px solid var(--highlight, $primaryColor);
+  border: 5px solid var(--highlight, $primaryColor);
   border-radius: 10px;
 }
 
@@ -43,74 +70,74 @@ article div span h1:first-child {
 }
 
 .navGroup .collapsible {
-	font-size: 16px;
-	background: url("../img/menu-selection-bg.jpg") no-repeat;
-	padding: 10px;
-	margin: 0;
+  font-size: 16px;
+  background: url("../img/menu-selection-bg.jpg") no-repeat;
+  padding: 10px;
+  margin: 0;
 }
 
 .navGroup:nth-child(1) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_intro.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_intro.svg");
 }
 
 .navGroup:nth-child(2) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_plastic.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_plastic.svg");
 }
 
 .navGroup:nth-child(3) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_build.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_build.svg");
 }
 
 .navGroup:nth-child(4) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_collect.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_collect.svg");
 }
 
 .navGroup:nth-child(5) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_create.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_create.svg");
 }
 
 .navGroup:nth-child(6) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_business.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_business.svg");
 }
 
 .navGroup:nth-child(7) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_starterkits.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_starterkits.svg");
 }
 
 .navGroup:nth-child(8) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_experiments.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_experiments.svg");
 }
 
 .navGroup:nth-child(9) .collapsible {
-  background-image: url('/docs-demo/img/menu-selection-bg.jpg');
+  background-image: url("/docs-demo/img/menu-selection-bg.jpg");
 }
 
 .navGroup:nth-child(10) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_questions.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_questions.svg");
 }
 
 .navGroup:nth-child(11) .collapsible {
-  background-image: url('/docs-demo/img/highlight_stroke_download.svg');
+  background-image: url("/docs-demo/img/highlight_stroke_download.svg");
 }
 
-.toc .toggleNav .navGroup  ul {
-	border-left: 4px solid #E9E9E9;
-	padding: 0;
-	margin-left: 10px;
+.toc .toggleNav .navGroup ul {
+  border-left: 4px solid #e9e9e9;
+  padding: 0;
+  margin-left: 10px;
 }
 
-.toc .toggleNav .navGroup  ul li.navListItem {
-	margin-left: -4px;
-    padding-left: 15px;
-    margin-bottom: 15px;
+.toc .toggleNav .navGroup ul li.navListItem {
+  margin-left: -4px;
+  padding-left: 15px;
+  margin-bottom: 15px;
 }
 
-.navGroup  ul li.navListItemActive {
-	border-left: 4px solid #F29094;
+.navGroup ul li.navListItemActive {
+  border-left: 4px solid var(--highlight, $primaryColor);
 }
 
-.navGroup  .arrow {
-	display: none;
+.navGroup .arrow {
+  display: none;
 }
 
 .onPageNav {
@@ -122,7 +149,6 @@ article div span h1:first-child {
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
-
 }
 
 @media only screen and (min-width: 1024px) {
