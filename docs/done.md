@@ -1,7 +1,7 @@
 ---
 id: done
 title: Done?sd
-sidebar_label: Done yes?
+sidebar_label: Finished?
 ---
 
 if you are finished

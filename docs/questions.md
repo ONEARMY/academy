@@ -1,7 +1,7 @@
 ---
 id: questions
 title: Questions
-sidebar_label: Questions?
+sidebar_label: FAQ
 ---
 
 <style>

@@ -1,5 +1,5 @@
 ---
-id: plastic
+id: basics
 title: The Basics of Plastic
 sidebar_label: The Basics of Plastic
 ---

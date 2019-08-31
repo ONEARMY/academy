@@ -9,21 +9,49 @@
         "title": "Build",
         "sidebar_label": "Intro"
       },
+      "build/compression": {
+        "title": "Build a Compression",
+        "sidebar_label": "Compression"
+      },
+      "build/extrusion": {
+        "title": "Build an Extrusion Machine",
+        "sidebar_label": "Extrusion"
+      },
+      "build/extrusionPro": {
+        "title": "Build an Extrusion Pro",
+        "sidebar_label": "Extrusion Pro"
+      },
+      "build/injection": {
+        "title": "Build an injection Machine",
+        "sidebar_label": "Injection"
+      },
+      "build/sheetpress": {
+        "title": "Build a Sheet Press",
+        "sidebar_label": "Sheet Press"
+      },
+      "build/shredder": {
+        "title": "Build a Shredder",
+        "sidebar_label": "Shredder"
+      },
+      "build/shredderPro": {
+        "title": "Build a Shredder Pro",
+        "sidebar_label": "Shredder Pro"
+      },
       "business": {
         "title": "Business",
         "sidebar_label": "Intro"
       },
       "business/actionplan": {
         "title": "Actions Plan",
-        "sidebar_label": "Actions Plan"
+        "sidebar_label": "Action Plan"
       },
       "business/productiontool": {
         "title": "Production Tool",
         "sidebar_label": "Production Tool"
       },
       "business/startupcalculator": {
-        "title": "Start-up calculator",
-        "sidebar_label": "Start-up calculator"
+        "title": "Start-up Calculator",
+        "sidebar_label": "Start-up Calculator"
       },
       "collect": {
         "title": "Collect",
@@ -43,7 +71,7 @@
       },
       "create": {
         "title": "Create",
-        "sidebar_label": "Creates"
+        "sidebar_label": "Create"
       },
       "doc1": {
         "title": "Latin-ish",
@@ -57,11 +85,11 @@
       },
       "done": {
         "title": "Done?sd",
-        "sidebar_label": "Done yes?"
+        "sidebar_label": "Finished?"
       },
       "download": {
         "title": "download",
-        "sidebar_label": "download here"
+        "sidebar_label": "Download Here"
       },
       "experiments": {
         "title": "Experiments",
@@ -81,47 +109,55 @@
       },
       "intro": {
         "title": "Intro",
-        "sidebar_label": "Hello you! 🤙"
+        "sidebar_label": "Hello! 🤙"
       },
-      "plastic": {
+      "plastic/basics": {
         "title": "The Basics of Plastic",
         "sidebar_label": "The Basics of Plastic"
       },
+      "plastic/geeky": {
+        "title": "The Geeky on Plastic",
+        "sidebar_label": "The Geeky on Plastic"
+      },
+      "plastic/safety": {
+        "title": "Safety and Fumes",
+        "sidebar_label": "Safety and Fumes"
+      },
       "questions": {
         "title": "Questions",
-        "sidebar_label": "Questions?"
+        "sidebar_label": "FAQ"
       },
       "starterkit": {
         "title": "Starterkits intro",
         "sidebar_label": "Intro"
       },
       "starterkit/communitybuilder": {
-        "title": "Become a community builder",
-        "sidebar_label": "Community builder"
+        "title": "Become a Community Builder",
+        "sidebar_label": "Community Builder"
       },
       "starterkit/containerworkspace": {
-        "title": "Setup a container workspace",
-        "sidebar_label": "Container workspace"
+        "title": "Setup a Container Workspace",
+        "sidebar_label": "Container Workspace"
       },
       "starterkit/extrusionworkspace": {
-        "title": "Setup an extrusion workspace",
-        "sidebar_label": "Extrusion workspace"
+        "title": "Setup an Extrusion Workspace",
+        "sidebar_label": "Extrusion Workspace"
       },
       "starterkit/injectionworkspace": {
-        "title": "Setup an injection workspace",
-        "sidebar_label": "Injection workspace"
+        "title": "Setup an Injection Workspace",
+        "sidebar_label": "Injection Workspace"
       },
       "starterkit/machinebuilder": {
-        "title": "Become a machine builder",
-        "sidebar_label": "Machine builder"
+        "title": "Become a Machine Builder",
+        "sidebar_label": "Machine Builder"
       },
       "starterkit/sheetpressworkspace": {
-        "title": "Setup a sheetpress workspace",
-        "sidebar_label": "Sheetpress workspace"
+        "title": "Setup a Sheetpress Workspace",
+        "sidebar_label": "Sheetpress Workspace"
       },
       "starterkit/shredderworkspace": {
-        "title": "Setup a shredder workspace",
-        "sidebar_label": "Shredder workspace"
+        "title": "Setup a Shredder Workspace",
+        "sidebar_label": "Shredder Workspace"
       },
       "styles": {
         "title": "styles"

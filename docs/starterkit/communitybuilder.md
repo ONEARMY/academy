@@ -1,7 +1,7 @@
 ---
 id: communitybuilder
-title: Become a community builder
-sidebar_label: Community builder
+title: Become a Community Builder
+sidebar_label: Community Builder
 ---
 
 <style>
