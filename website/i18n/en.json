@@ -43,15 +43,15 @@
       },
       "business/actionplan": {
         "title": "Actions Plan",
-        "sidebar_label": "Action Plan"
+        "sidebar_label": "Actions Plan"
       },
       "business/productiontool": {
         "title": "Production Tool",
         "sidebar_label": "Production Tool"
       },
       "business/startupcalculator": {
-        "title": "Start-up Calculator",
-        "sidebar_label": "Start-up Calculator"
+        "title": "Start-up calculator",
+        "sidebar_label": "Start-up calculator"
       },
       "collect": {
         "title": "Collect",
@@ -71,7 +71,7 @@
       },
       "create": {
         "title": "Create",
-        "sidebar_label": "Create"
+        "sidebar_label": "Creates"
       },
       "doc1": {
         "title": "Latin-ish",
@@ -88,7 +88,7 @@
         "sidebar_label": "Finished?"
       },
       "download": {
-        "title": "download",
+        "title": "Download",
         "sidebar_label": "Download Here"
       },
       "experiments": {
@@ -160,7 +160,8 @@
         "sidebar_label": "Shredder Workspace"
       },
       "styles": {
-        "title": "styles"
+        "title": "Styles",
+        "sidebar_label": "Intro"
       }
     },
     "links": {

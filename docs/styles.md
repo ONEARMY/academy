@@ -8,7 +8,7 @@ sidebar_label: Intro
 
 # Styles
 
-Chapters
+Video Chapters
 
 - 0:11 Introduction
 - 00:18 What is plastic?
