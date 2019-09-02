@@ -11,12 +11,9 @@ sidebar_label: Safety and Fumes
 }
 </style>
 
-talking about plastic
-This is a link to [another document.](doc3.md)
-This is a link to an [external page.](http://www.example.com)
+# Safety and Fumes
 
-
-Chapters
+Video Chapters
 
 - 0:11 Introduction
 - 00:18 What is plastic?
@@ -24,5 +21,4 @@ Chapters
 - 02:45 Recognize plastics
 - 05:18 Transform plastics
 
-
-Safety and Fumes
+### Intro

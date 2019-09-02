@@ -1,7 +1,7 @@
 ---
 id: productiontool
-title: Production Tool
-sidebar_label: Production Tool
+title: Business Plan Template
+sidebar_label: Business Plan Template
 ---
 
 <style>

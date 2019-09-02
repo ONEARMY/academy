@@ -11,19 +11,22 @@ sidebar_label: The Geeky on Plastic
 }
 </style>
 
-talking about plastic
-This is a link to [another document.](doc3.md)
-This is a link to an [external page.](http://www.example.com)
+# The Geeky on Plastic
 
+Video Chapters
 
-Chapters
+- 00:36 General Knowledge on Plastic
+- 06:58 Industrial Production Methods
+- 14:56 The Afterlife of Plastics
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+### Intro
 
+Let’s get into the details: when did plastic arrive in our society, and how did it grow from a small niche material to the huge reach it has today? In this video, Jerry takes us through how it all began, to the different categories of plastic, and why we work with thermoplastics only. He takes us through the common ways of producing plastic, as well as what happens after they are thrown out. 
 
-The Geeky on Plastic
+General Knowledge on Plastic
+
+Industrial Production Methods
+
+The Afterlife of Plastics
+
 

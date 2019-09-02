@@ -8,10 +8,9 @@
     "6. Business": ["business", "business/actionplan", "business/productiontool", "business/startupcalculator"],
     "7. Starterkits": ["starterkit", "starterkit/injectionworkspace", "starterkit/extrusionworkspace", "starterkit/shredderworkspace", "starterkit/sheetpressworkspace", "starterkit/containerworkspace", "starterkit/machinebuilder", "starterkit/communitybuilder"],
     "8. Experiments": ["experiments", "experiments/robotics", "experiments/scanner", "experiments/beyondplastic"],
-    "9. Done": ["done"],
-    "10. Questions": ["questions"],
-    "11. Download": ["download"],
-    "12. Styles": ["styles"]
+    "9. Questions": ["questions"],
+    "10. Download": ["download"],
+    "11. Styles": ["styles"]
   },
   "docs-other": {
     "First Category": [""]

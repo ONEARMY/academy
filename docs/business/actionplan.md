@@ -1,7 +1,7 @@
 ---
 id: actionplan
-title: Actions Plan
-sidebar_label: Actions Plan
+title: Action Plan
+sidebar_label: Action Plan
 ---
 
 <style>
