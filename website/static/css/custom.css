@@ -191,6 +191,7 @@ article div span h1:first-child {
   padding: 0;
   visibility: visible;
   opacity: 1;
+  margin-left: 10px;
   height: auto;
   transition:  all 0.5s, visibility 0s linear;
 }
@@ -200,8 +201,10 @@ article div span h1:first-child {
   opacity: 0;
   transition: all 0.5s, visibility 0s linear;
   display: block;
+  border-left: 4px solid transparent;
   height: 0;
   margin: 0;
+  margin-left: 10px;
 }
 
 .toc .toggleNav .navGroup ul li.navListItem {
