@@ -42,16 +42,16 @@
         "sidebar_label": "Intro"
       },
       "business/actionplan": {
-        "title": "Actions Plan",
-        "sidebar_label": "Actions Plan"
+        "title": "Action Plan",
+        "sidebar_label": "Action Plan"
       },
       "business/productiontool": {
-        "title": "Production Tool",
-        "sidebar_label": "Production Tool"
+        "title": "Business Plan Template",
+        "sidebar_label": "Business Plan Template"
       },
       "business/startupcalculator": {
-        "title": "Start-up calculator",
-        "sidebar_label": "Start-up calculator"
+        "title": "Start-Up calculator",
+        "sidebar_label": "Start-Up calculator"
       },
       "collect": {
         "title": "Collect",
@@ -180,7 +180,7 @@
       "7. Starterkits": "7. Starterkits",
       "8. Experiments": "8. Experiments",
       "9. Questions": "9. Questions",
-      "11. Download": "11. Download",
+      "10. Download": "10. Download",
       "11. Styles": "11. Styles",
       "First Category": "First Category"
     }
