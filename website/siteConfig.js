@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: "Precious Plastic Toolbox", // Title for your website.
   tagline: "A website for testing",
-  url: "https://onearmyworld.github.io", // Your website URL
+  url: "https://onearmy.github.io", // Your website URL
   baseUrl: "/docs-demo/",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -31,7 +31,7 @@ const siteConfig = {
 
   // Used for publishing and more
   projectName: "docs-demo",
-  organizationName: "onearmyworld",
+  organizationName: "onearmy",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -73,10 +73,7 @@ const siteConfig = {
   },
   */
   fonts: {
-    bodyFont: [
-      "Varela Round",
-      "sans-serif"
-    ]
+    bodyFont: ["Varela Round", "sans-serif"]
   },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.

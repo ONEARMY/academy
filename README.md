@@ -1,8 +1,8 @@
 # OneArmy Docs Demo
 
-This repo is for testing the integration of [Docusaurus](https://docusaurus.io) static site generation within the [OneArmy](https://github.com/OneArmyWorld/onearmy) platform. The code is hosted at:
+This repo is for testing the integration of [Docusaurus](https://docusaurus.io) static site generation within the [OneArmy](https://github.com/onearmy/community-platform) platform. The code is hosted at:
 
-https://onearmyworld.github.io/docs-demo/
+https://onearmy.github.io/docs-demo/
 
 It isn't particularly well-optimised for external contribution (yet!), but if you really want to try it out:
 
@@ -16,7 +16,7 @@ It isn't particularly well-optimised for external contribution (yet!), but if yo
 
 3. Clone the repo  
    Either use your favourite git client [client](https://git-scm.com/download/gui) or  
-   `git clone https://github.com/OneArmyWorld/docs-demo.git`
+   `git clone https://github.com/onearmy/docs-demo.git`
 4. Install website dependencies
 
 ```
@@ -44,6 +44,6 @@ https://docusaurus.io
 # Deployment
 
 The site is configured to automatically build whenever changes are made to the master branch, and the generated html is deployed from the `gh-pages` branch.
- 
-You can view build status at https://travis-ci.org/OneArmyWorld/docs-demo  
-You can see live deployment at : https://onearmyworld.github.io/docs-demo/
+
+You can view build status at https://travis-ci.org/onearmy/docs-demo  
+You can see live deployment at : https://onearmy.github.io/docs-demo/
