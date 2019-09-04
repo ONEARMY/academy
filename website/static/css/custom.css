@@ -231,6 +231,32 @@ article div span h1:first-child {
   display: none;
 }
 
+.videoChapters {
+  display: flex;
+}
+
+.videoChaptersMain {
+  width: 75%;
+  margin-right: 5%;
+}
+
+.videoChaptersSidebar ul {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+}
+
+.videoChaptersSidebar li {
+  color: #bababa;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+
+.videoChaptersSidebar li:last-child {
+  margin-bottom: 0;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
