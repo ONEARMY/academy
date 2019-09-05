@@ -223,6 +223,62 @@ article div span h1:first-child {
   margin-bottom: 0;
 }
 
+.tns-outer {
+  position: relative;
+}
+
+.tns-controls {
+  position: absolute;
+  top: 50%;
+  transform: translate3d(0, -50%, 0);
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.tns-nav {
+  display: flex;
+  justify-content: center;
+}
+
+.tns-nav button {
+  font-family: inherit; /* 1 */
+  font-size: 100%; /* 1 */
+  line-height: 1; /* 1 */
+  margin: 0 8px 0 0; /* 2 */
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  background-color: $primaryFade;
+  border: none;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  padding: 0;
+}
+
+button.tns-nav-active {
+  background-color: $primaryColor;
+}
+
+.tns-controls button {
+  font-family: inherit; /* 1 */
+  font-size: 200%; /* 1 */
+  line-height: 1; /* 1 */
+  margin: 0; /* 2 */
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  background: none;
+  color: rgba(255, 255, 255, 0.7);
+  border: none;
+  transition: color 300ms;
+}
+
+.tns-controls button:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

@@ -55,6 +55,7 @@ const siteConfig = {
   /* Colors for website */
   colors: {
     primaryColor: "#f58d8e",
+    primaryFade: "#f5c3c4",
     secondaryColor: "#256e23",
     defaultFontColor: "#404040"
   },
@@ -85,9 +86,14 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ["https://buttons.github.io/buttons.js", "/docs-demo/js/custom.js"],
+  scripts: [
+    "https://buttons.github.io/buttons.js",
+    "/docs-demo/js/custom.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
+  ],
   stylesheets: [
-    "https://fonts.googleapis.com/css?family=Varela+Round&display=swap"
+    "https://fonts.googleapis.com/css?family=Varela+Round&display=swap",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css"
   ],
 
   // On page navigation for the current documentation page.
