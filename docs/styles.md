@@ -96,7 +96,6 @@ Produces this image below:
 
 </div>
 
-
 # Icon list with labels
 
 <div class="icon-list">
@@ -123,4 +122,56 @@ Produces this image below:
 </div>
 
 </div>
+
+# Icon list with labels and one without
+
+<div class="icon-list">
+
+<div data-label="Bottle">
+
+![hdpe](assets/plastic/type-hdpe.svg)
+
+</div>
+<div data-label="Bottle">
+
+![ldpe](assets/plastic/type-ldpe.svg)
+
+</div>
+<div data-label="Bottle">
+
+![other](assets/plastic/type-other.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pet](assets/plastic/type-pet.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pp](assets/plastic/type-pp.svg)
+
+</div>
+<div data-label="Bottle">
+
+![ps](assets/plastic/type-ps.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pvc](assets/plastic/type-pvc.svg)
+
+</div>
+
+</div>
+
+## The icon without a label
+
+![pet](assets/plastic/type-pet.svg)
+
+Since this is a Vector graphic it will fill up the available space in the document so it MUST BE CONSTRAINED!
+
+Use the img tag instead:
+
+<img src="assets/plastic/type-pet.svg" width="50" height="50" />
 
