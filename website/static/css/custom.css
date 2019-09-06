@@ -73,6 +73,10 @@ article div span h1:first-child {
   margin-top: 0;
 }
 
+article h1 {
+  color: var(--highlight, $primaryColor);
+}
+
 .navGroup .collapsible {
   font-size: 16px;
   background-repeat: no-repeat;
@@ -188,6 +192,7 @@ article div span h1:first-child {
 .navGroup .arrow {
   display: none;
 }
+
 
 .onPageNav {
   display: none;
