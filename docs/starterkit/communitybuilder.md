@@ -2,6 +2,7 @@
 id: communitybuilder
 title: Become a community builder
 sidebar_label: Community builder
+hide_title: true
 ---
 
 <style>

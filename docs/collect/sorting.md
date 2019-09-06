@@ -2,6 +2,7 @@
 id: sorting
 title: How to sort
 sidebar_label: How to sort
+hide_title: true
 ---
 
 <style>

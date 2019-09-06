@@ -2,6 +2,7 @@
 id: machinebuilder
 title: Become a machine builder
 sidebar_label: Machine builder
+hide_title: true
 ---
 
 <style>

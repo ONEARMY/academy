@@ -2,6 +2,7 @@
 id: intro
 title: Intro
 sidebar_label: Hello you! 🤙
+hide_title: true
 ---
 
 <style>

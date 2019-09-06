@@ -2,6 +2,7 @@
 id: done
 title: Done?sd
 sidebar_label: Done yes?
+hide_title: true
 ---
 
 # Done?sd

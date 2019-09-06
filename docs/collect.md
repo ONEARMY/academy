@@ -2,6 +2,7 @@
 id: collect
 title: Collect
 sidebar_label: Intro
+hide_title: true
 ---
 
 <style>

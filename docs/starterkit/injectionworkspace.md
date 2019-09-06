@@ -2,6 +2,7 @@
 id: injectionworkspace
 title: Setup an injection workspace
 sidebar_label: Injection workspace
+hide_title: true
 ---
 
 <style>

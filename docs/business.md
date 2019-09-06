@@ -2,6 +2,7 @@
 id: business
 title: Business
 sidebar_label: Intro
+hide_title: true
 ---
 
 <style>

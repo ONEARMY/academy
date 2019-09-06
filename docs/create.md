@@ -2,6 +2,7 @@
 id: create
 title: Create
 sidebar_label: Creates
+hide_title: true
 ---
 
 <style>

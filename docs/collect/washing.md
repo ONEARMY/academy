@@ -2,6 +2,7 @@
 id: washing
 title: Washing
 sidebar_label: Washing
+hide_title: true
 ---
 
 <style>

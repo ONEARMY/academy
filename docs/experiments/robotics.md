@@ -2,6 +2,7 @@
 id: robotics
 title: Robotic sorting
 sidebar_label: Robotic sorting
+hide_title: true
 ---
 
 <style>

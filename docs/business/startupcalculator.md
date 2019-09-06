@@ -2,6 +2,7 @@
 id: startupcalculator
 title: Start-up calculator
 sidebar_label: Start-up calculator
+hide_title: true
 ---
 
 <style>

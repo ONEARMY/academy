@@ -2,6 +2,7 @@
 id: questions
 title: Questions
 sidebar_label: Questions?
+hide_title: true
 ---
 
 <style>

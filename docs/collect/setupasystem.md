@@ -2,6 +2,7 @@
 id: setupasystem
 title: Setup a collection system
 sidebar_label: Setup a system
+hide_title: true
 ---
 
 <style>

@@ -2,6 +2,7 @@
 id: shredderworkspace
 title: Setup a shredder workspace
 sidebar_label: Shredder workspace
+hide_title: true
 ---
 
 <style>

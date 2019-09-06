@@ -2,6 +2,7 @@
 id: extrusionworkspace
 title: Setup an extrusion workspace
 sidebar_label: Extrusion workspace
+hide_title: true
 ---
 
 <style>

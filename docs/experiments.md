@@ -2,6 +2,7 @@
 id: experiments
 title: Experiments
 sidebar_label: Intro
+hide_title: true
 ---
 
 <style>

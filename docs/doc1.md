@@ -2,6 +2,7 @@
 id: doc1
 title: Latin-ish
 sidebar_label: Example Pagse
+hide_title: true
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.

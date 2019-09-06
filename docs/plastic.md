@@ -2,6 +2,7 @@
 id: plastic
 title: The Basics of Plastic
 sidebar_label: The Basics of Plastic
+hide_title: true
 ---
 
 <style>

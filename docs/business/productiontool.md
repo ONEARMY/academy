@@ -2,6 +2,7 @@
 id: productiontool
 title: Production Tool
 sidebar_label: Production Tool
+hide_title: true
 ---
 
 <style>

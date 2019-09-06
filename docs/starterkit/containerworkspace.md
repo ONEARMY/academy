@@ -2,6 +2,7 @@
 id: containerworkspace
 title: Setup a container workspace
 sidebar_label: Container workspace
+hide_title: true
 ---
 
 <style>

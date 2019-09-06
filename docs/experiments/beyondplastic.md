@@ -2,6 +2,7 @@
 id: beyondplastic
 title: Beyond Plastic
 sidebar_label: Beyond Plastic
+hide_title: true
 ---
 
 <style>

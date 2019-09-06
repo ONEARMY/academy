@@ -2,6 +2,7 @@
 id: download
 title: Download
 sidebar_label: download here
+hide_title: true
 ---
 
 <style>

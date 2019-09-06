@@ -2,6 +2,7 @@
 id: actionplan
 title: Actions Plan
 sidebar_label: Actions Plan
+hide_title: true
 ---
 
 <style>

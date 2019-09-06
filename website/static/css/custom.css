@@ -193,10 +193,6 @@ article div span h1:first-child {
   display: none;
 }
 
-.postHeaderTitle {
-  display: none;
-}
-
 .videoChapters {
   display: flex;
 }

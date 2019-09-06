@@ -2,6 +2,7 @@
 id: scanner
 title: Plastic scanner
 sidebar_label: Plastic Scanner
+hide_title: true
 ---
 
 <style>

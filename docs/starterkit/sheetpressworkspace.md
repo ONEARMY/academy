@@ -2,6 +2,7 @@
 id: sheetpressworkspace
 title: Setup a sheetpress workspace
 sidebar_label: Sheetpress workspace
+hide_title: true
 ---
 
 <style>

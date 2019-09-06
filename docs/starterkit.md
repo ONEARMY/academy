@@ -2,6 +2,7 @@
 id: starterkit
 title: Starterkits intro
 sidebar_label: Intro
+hide_title: true
 ---
 
 <style>
