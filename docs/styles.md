@@ -45,3 +45,17 @@ Button
 Image
 
 Icons
+
+<div class="j-slideshow">
+
+![machine](https://preciousplastic.com/images/Community-machine-3.jpg)
+
+![machine](https://preciousplastic.com/images/Community-machine-1-p-1600.jpeg)
+
+![machine](https://preciousplastic.com/images/Community-machine-6.jpg)
+
+![machine](https://preciousplastic.com/images/Community-machine-5.jpg)
+
+![machine](https://preciousplastic.com/images/Community-machine-2.jpg)
+
+</div>
