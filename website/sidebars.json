@@ -5,7 +5,7 @@
     "3. Build": ["build", "build/shredder", "build/injection", "build/compression", "build/extrusion", "build/sheetpress", "build/shredderPro", "build/extrusionPro"],
     "4. Collect": ["collect", "collect/sorting", "collect/washing",  "collect/setupasystem"],
     "5. Create": ["create"],
-    "6. Business": ["business", "business/actionplan", "business/productiontool", "business/startupcalculator"],
+    "6. Business": ["business/actionplan", "business/productiontool", "business/startupcalculator"],
     "7. Starterkits": ["starterkit", "starterkit/injectionworkspace", "starterkit/extrusionworkspace", "starterkit/shredderworkspace", "starterkit/sheetpressworkspace", "starterkit/containerworkspace", "starterkit/machinebuilder", "starterkit/communitybuilder"],
     "8. Experiments": ["experiments", "experiments/robotics", "experiments/scanner", "experiments/beyondplastic"],
     "9. Questions": ["questions"],
