@@ -42,9 +42,31 @@ This is a link to an [external page.](http://www.example.com)
 
 Button
 
-Image
+## Image
 
-Icons
+To add images in markdown use:
+
+```markdown
+![Background](/docs-demo/img/menu-selection-bg.jpg)
+```
+
+<div style="text-align: center;">Will produce 👇</div>
+
+![Background](/docs-demo/img/menu-selection-bg.jpg)
+
+If you need to specify the size of the image use an `<img />` tag
+
+#### Example with `<img />`:
+
+```html
+<img src="/docs-demo/img/favicon.ico" width="150" height="150" />
+```
+
+<div style="text-align: center;">Will produce 👇</div>
+
+<img src="/docs-demo/img/favicon.ico" width="150" height="150" />
+
+## Icons are included in the same way as images
 
 <div class="j-slideshow">
 
@@ -59,3 +81,32 @@ Icons
 ![machine](https://preciousplastic.com/images/Community-machine-2.jpg)
 
 </div>
+
+
+# Icon list with labels
+
+<div class="icon-list">
+
+<div data-label="40kg">
+
+![Weight](assets/icons/weight.svg)
+
+</div>
+<div data-label="€300">
+
+![Money](assets/icons/money.svg)
+
+</div>
+<div data-label="Hard">
+
+![Difficulty](assets/icons/difficulty.svg)
+
+</div>
+<div data-label="14 days">
+
+![Time](assets/icons/time-needed.svg)
+
+</div>
+
+</div>
+
