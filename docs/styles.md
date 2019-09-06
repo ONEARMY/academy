@@ -56,6 +56,20 @@ To add images in markdown use:
 
 If you need to specify the size of the image use an `<img />` tag
 
+When using imagery and icons that we have produced add them to the `docs/assets` folder and include them with the url prefix `assets/`.
+Example:
+"Saskia wants to add an image `fancy-plastic.jpg` to the folder `docs/assets/fancy-plastic.jpg` and then she uses it in the docs like this:
+
+```markdown
+![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
+```
+
+Produces this image below:
+
+![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
+
+(🤫 She would never do that of course)
+
 #### Example with `<img />`:
 
 ```html
