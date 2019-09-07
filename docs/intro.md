@@ -15,13 +15,9 @@ sidebar_label: Hello! 🤙
 }
 </style>
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
-
 # Intro
 
 ### Welcome! Awesome to see you are interested in recycling plastic. 
-
 We've made this section of videos, tutorials and content to share the most crucial things we've learned over the last years about transforming plastic waste into valuable products. We will teach you about the basics of plastic - what types there are and how to identify them, to collecting and separating plastic, to building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more. We’ve created download packs and templates and once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world! 
 
 </div>

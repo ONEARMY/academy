@@ -17,4 +17,13 @@ window.addEventListener("load", function() {
       that.parentNode.querySelector("ul .navListItem a").click();
     });
   });
+
+  var slideshow = tns({
+    container: ".j-slideshow",
+    items: 1,
+    controlsPosition: "bottom",
+    navPosition: "bottom",
+    slideBy: "page",
+    controlsText: ["<", ">"]
+  });
 });
