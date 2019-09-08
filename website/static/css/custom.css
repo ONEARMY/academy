@@ -270,10 +270,10 @@ article div span h1:first-child {
 }
 
 .tns-nav button {
-  font-family: inherit; /* 1 */
-  font-size: 100%; /* 1 */
-  line-height: 1; /* 1 */
-  margin: 0 8px 0 0; /* 2 */
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1;
+  margin: 0 8px 0 0;
   overflow: visible;
   text-transform: none;
   -webkit-appearance: button;
@@ -290,10 +290,10 @@ button.tns-nav-active {
 }
 
 .tns-controls button {
-  font-family: inherit; /* 1 */
-  font-size: 200%; /* 1 */
-  line-height: 1; /* 1 */
-  margin: 0; /* 2 */
+  font-family: inherit;
+  font-size: 200%;
+  line-height: 1;
+  margin: 0;
   overflow: visible;
   text-transform: none;
   -webkit-appearance: button;
