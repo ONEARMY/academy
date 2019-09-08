@@ -56,6 +56,7 @@ const siteConfig = {
   colors: {
     primaryColor: "#f58d8e",
     primaryFade: "#f5c3c4",
+    primaryShade: "#e18183",
     secondaryColor: "#256e23",
     defaultFontColor: "#404040"
   },
