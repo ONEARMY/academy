@@ -1,7 +1,7 @@
 ---
 id: machinebuilder
-title: Become a machine builder
-sidebar_label: Machine builder
+title: Become a Machine Builder
+sidebar_label: Machine Builder
 ---
 
 <style>

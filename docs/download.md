@@ -1,7 +1,9 @@
 ---
 id: download
 title: Download
-sidebar_label: download here
+sidebar_label: Download Here
+title: Download
+sidebar_label: Download Here
 ---
 
 <style>

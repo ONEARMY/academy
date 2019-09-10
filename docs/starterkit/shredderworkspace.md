@@ -1,7 +1,7 @@
 ---
 id: shredderworkspace
-title: Setup a shredder workspace
-sidebar_label: Shredder workspace
+title: Setup a Shredder Workspace
+sidebar_label: Shredder Workspace
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 id: productiontool
-title: Production Tool
-sidebar_label: Production Tool
+title: Business Plan Template
+sidebar_label: Business Plan Template
 ---
 
 <style>
@@ -11,16 +11,60 @@ sidebar_label: Production Tool
 }
 </style>
 
-# Production Tool
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
-building shredders
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fingilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+# Business Plan Template
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+This template is a very easy to follow framework for your business plan and consists of different sections to work through everything you need to get started and to build your case as to why someone should be contributing to your business. The outline is below, but don’t worry if you don’t know what some of these are, Joseph is here to take you through bit by bit:
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+1. Executive summary 
+2. Mission 
+3. Team 
+4. Market Analysis
+    - Product and Services
+    - Target Groups
+    - Engagement
+    - Sales Channels    
+5. Operations
+    - Key Resources    
+    - Key Activities
+    - Running Costs
+    - Collaborators
+6. Impact Measures
+    - Community
+    - Planet
+    - Income Streams
+7. Financials 
+8. Legal Structure
+9. Appendix 
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+</div>
+<div class="videoChaptersSidebar">
+
+### Video Chapters
+
+- 00.08 Intro to the Business Plan template
+- 00.37 Template Structure
+- 00.55 Your business details
+- 01.11 Executive Summary
+- 01.25 Mission
+- 02.17 Team
+- 02.42 Market Analysis
+- 03.33 Target Groups
+- 04.37 Operations
+- 06.12 Impact
+- 07.39 Financials
+- 08.29 Legal Structure
+- 09.05 Appendix
+
+
+</div>
+</div>
+
+So, what are you waiting for! Watch the video above with Joseph and if you have any questions, please check out our community Discord and head to the business channels.
+
+
+

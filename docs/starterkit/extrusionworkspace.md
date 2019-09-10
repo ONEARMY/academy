@@ -1,7 +1,7 @@
 ---
 id: extrusionworkspace
-title: Setup an extrusion workspace
-sidebar_label: Extrusion workspace
+title: Setup an Extrusion Workspace
+sidebar_label: Extrusion Workspace
 ---
 
 <style>

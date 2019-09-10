@@ -1,7 +1,7 @@
 ---
 id: injectionworkspace
-title: Setup an injection workspace
-sidebar_label: Injection workspace
+title: Setup an Injection Workspace
+sidebar_label: Injection Workspace
 ---
 
 <style>

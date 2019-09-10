@@ -1,7 +1,7 @@
 ---
 id: sheetpressworkspace
-title: Setup a sheetpress workspace
-sidebar_label: Sheetpress workspace
+title: Setup a Sheetpress Workspace
+sidebar_label: Sheetpress Workspace
 ---
 
 <style>

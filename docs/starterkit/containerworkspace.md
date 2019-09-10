@@ -1,7 +1,7 @@
 ---
 id: containerworkspace
-title: Setup a container workspace
-sidebar_label: Container workspace
+title: Setup a Container Workspace
+sidebar_label: Container Workspace
 ---
 
 <style>
