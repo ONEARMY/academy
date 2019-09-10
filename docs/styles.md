@@ -174,4 +174,9 @@ Since this is a Vector graphic it will fill up the available space in the docume
 Use the img tag instead:
 
 <img src="assets/plastic/type-pet.svg" width="50" height="50" />
+<img style="margin-left: 0;" src="assets/plastic/type-pet.svg" width="100"/>
+
+Or: 
+
+<img style="margin-left: 0;" src="./assets/ppimage.jpg" width="300" />
 
