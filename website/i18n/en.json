@@ -10,32 +10,32 @@
         "sidebar_label": "Intro"
       },
       "build/compression": {
-        "title": "Build a Compression",
-        "sidebar_label": "Compression"
+        "title": "Build an compression Machine",
+        "sidebar_label": "✅ Compression"
       },
       "build/extrusion": {
         "title": "Build an Extrusion Machine",
-        "sidebar_label": "Extrusion"
+        "sidebar_label": "✅ Extrusion"
       },
-      "build/extrusionPro": {
-        "title": "Build an Extrusion Pro",
-        "sidebar_label": "Extrusion Pro"
+      "build/extrusionpro": {
+        "title": "Build an extrusion Pro",
+        "sidebar_label": "🚫🚫 Extrusion Pro"
       },
       "build/injection": {
-        "title": "Build an injection Machine",
-        "sidebar_label": "Injection"
+        "title": "Build an Injection Machine",
+        "sidebar_label": "✅ Injection"
       },
-      "build/sheetpress": {
-        "title": "Build a Sheet Press",
-        "sidebar_label": "Sheet Press"
+      "build/sheetpresspro": {
+        "title": "Build a Sheetpress Pro",
+        "sidebar_label": "🚫🚫 Sheetpress Pro"
       },
       "build/shredder": {
-        "title": "Build a Shredder",
-        "sidebar_label": "Shredder"
+        "title": "Build a Shredder Machine",
+        "sidebar_label": "✅ Shredder"
       },
-      "build/shredderPro": {
+      "build/shredderpro": {
         "title": "Build a Shredder Pro",
-        "sidebar_label": "Shredder Pro"
+        "sidebar_label": "🚫🚫 Shredder Pro"
       },
       "business": {
         "title": "Business",
@@ -177,11 +177,10 @@
       "4. Collect": "4. Collect",
       "5. Create": "5. Create",
       "6. Business": "6. Business",
-      "7. Starterkits": "7. Starterkits",
-      "8. Experiments": "8. Experiments",
-      "9. Questions": "9. Questions",
-      "10. Download": "10. Download",
-      "11. Styles": "11. Styles",
+      "7. Workspace": "7. Workspace",
+      "8. Research": "8. Research",
+      "？Questions": "？Questions",
+      "↓ Download": "↓ Download",
       "First Category": "First Category"
     }
   },
