@@ -1,7 +1,7 @@
 ---
-id: collect
-title: Collect
-sidebar_label: 🚫 Collection worldwide
+id: extrusion
+title: Setup an Extrusion Workspace
+sidebar_label: 🚫 Extrusion
 ---
 
 <div class="videocontainer">
@@ -10,15 +10,14 @@ sidebar_label: 🚫 Collection worldwide
 
 <style>
 :root {
-  --highlight: #b79ecb;
-  --hover: #b79ecb;
+  --highlight: #37b4a3;
+  --hover: #37b4a3;
 }
 </style>
-
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Plastic collection worldwide (mattia)
+# Setup an extrusion workspace (paul)
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
@@ -39,8 +38,8 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 </div>
 </div>
-collecting stuff
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis telluasfs elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+building extrusions
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 [documentation](https://docusaurus.io)
 
 Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.

@@ -1,8 +1,12 @@
 ---
 id: geeky
 title: The Geeky on Plastic
-sidebar_label: The Geeky on Plastic
+sidebar_label: ✅ The Geeky on Plastic
 ---
+
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
@@ -11,7 +15,7 @@ sidebar_label: The Geeky on Plastic
 }
 </style>
 
-# The Geeky on Plastic
+# The Geeky on Plastic (jerry)
 
 Video Chapters
 
@@ -21,12 +25,10 @@ Video Chapters
 
 ### Intro
 
-Let’s get into the details: when did plastic arrive in our society, and how did it grow from a small niche material to the huge reach it has today? In this video, Jerry takes us through how it all began, to the different categories of plastic, and why we work with thermoplastics only. He takes us through the common ways of producing plastic, as well as what happens after they are thrown out. 
+Let’s get into the details: when did plastic arrive in our society, and how did it grow from a small niche material to the huge reach it has today? In this video, Jerry takes us through how it all began, to the different categories of plastic, and why we work with thermoplastics only. He takes us through the common ways of producing plastic, as well as what happens after they are thrown out.
 
 General Knowledge on Plastic
 
 Industrial Production Methods
 
 The Afterlife of Plastics
-
-
