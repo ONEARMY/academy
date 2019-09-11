@@ -1,23 +1,23 @@
 ---
-id: beyondplastic
-title: Beyond Plastic
-sidebar_label: 🚫 🚫Beyond Plastic
+id: finishing
+title: Finishing Plastic
+sidebar_label: ✅ Finishing
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/JwdlLelQWws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
 :root {
-  --highlight: #798bc5;
-  --hover: #798bc5;
+  --highlight: #ffe084;
+  --hover: #ffe084;
 }
 </style>
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Beyond Plastic (jannis)
+# How to finish plastic
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
@@ -40,7 +40,9 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 </div>
 
 
-beyondplastic plasticcss
+
+
+building extrusions
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 [documentation](https://docusaurus.io)
 
