@@ -1,7 +1,7 @@
 ---
 id: basics
 title: The Basics of Plastic
-sidebar_label: The Basics of Plastic
+sidebar_label: ✅ The Basics of Plastic
 ---
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/watch?v=fsqLJNyrVss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,9 +19,9 @@ sidebar_label: The Basics of Plastic
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### This is a great title for this section. 
+### This is a great title for this section.
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with! 
+Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
 `Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
 
@@ -55,7 +55,7 @@ Plastics are synthetic chemicals extracted mainly from petroleum and made of hyd
 
 Most plastics contain other organic or inorganic compounds blended in called additives to improve performance or reduce production costs. The amount of additives ranges widely depending on the application and plastic type.
 
-So, you can find it everywhere in the world, and it ends up in places we definitely don’t want it to be. 
+So, you can find it everywhere in the world, and it ends up in places we definitely don’t want it to be.
 
 ![PP Image](assets/ppimage.jpg)
 
@@ -65,7 +65,7 @@ So, how do we solve this? Well, it’s time to get recycling!
 
 # Different plastics types
 
-Firstly, there are two major categories of plastic: Thermoplastics and Thermoset. 
+Firstly, there are two major categories of plastic: Thermoplastics and Thermoset.
 
 ![PP Image](assets/ppimage.jpg)
 
@@ -73,11 +73,11 @@ Thermoset plastics contain polymers that cross-link together and create an irrev
 
 ![PP Image](assets/ppimage.jpg)
 
-Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again. 
+Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again.
 
 ![PP Image](assets/ppimage.jpg)
 
-Thankfully, 80% of plastics in the world are thermoplastics (🎉) meaning they can be recycled and transformed. Thermoplastics (which we will just refer to as plastic) are divided into further subcategories depending on their structure and properties, and can be recognized by their name or number that should be usually printed or embossed somewhere on your products. 
+Thankfully, 80% of plastics in the world are thermoplastics (🎉) meaning they can be recycled and transformed. Thermoplastics (which we will just refer to as plastic) are divided into further subcategories depending on their structure and properties, and can be recognized by their name or number that should be usually printed or embossed somewhere on your products.
 
 The most common ones are:
 
