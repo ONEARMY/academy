@@ -1,20 +1,24 @@
 ---
 id: actionplan
 title: Action Plan
-sidebar_label: Action Plan
+sidebar_label: ✅ Action Plan
 ---
+
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
-  --highlight: #f090b1;
-  --hover: #f090b1;
+  --highlight: #f7b77b;
+  --hover: #f7b77b;
 }
 </style>
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Action Plan
+# Action Plan (joseph)
 
 So, how can you make money out of recycling plastic? We are excited to take you through some crucial tools to help you not only have an impact in your local community, but to become financially sustainable so you can do it for a long time. Joseph (our Business Guy) is going to take you through the following three tools to go from nothing, to having a business!
 
@@ -23,7 +27,7 @@ So, how can you make money out of recycling plastic? We are excited to take you 
 
 ### Video Chapters
 
-- 00.08 Intro 
+- 00.08 Intro
 - 00:58 Business tools
 - 01.47 Action Plan overview
 - 02.39 Action Plan explained

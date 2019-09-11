@@ -1,28 +1,32 @@
 ---
 id: productiontool
 title: Business Plan Template
-sidebar_label: Business Plan Template
+sidebar_label: ✅ Business Plan Template
 ---
+
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
-  --highlight: #f090b1;
-  --hover: #f090b1;
+  --highlight: #f7b77b;
+  --hover: #f7b77b;
 }
 </style>
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Business Plan Template
+# Business Plan Template (joseph)
 
 The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
 This template is a very easy to follow framework for your business plan and consists of different sections to work through everything you need to get started and to build your case as to why someone should be contributing to your business. The outline is below, but don’t worry if you don’t know what some of these are, Joseph is here to take you through bit by bit:
 
-1. Executive summary 
-2. Mission 
-3. Team 
+1. Executive summary
+2. Mission
+3. Team
 4. Market Analysis
     - Product and Services
     - Target Groups
@@ -37,9 +41,9 @@ This template is a very easy to follow framework for your business plan and cons
     - Community
     - Planet
     - Income Streams
-7. Financials 
+7. Financials
 8. Legal Structure
-9. Appendix 
+9. Appendix
 
 </div>
 <div class="videoChaptersSidebar">
@@ -65,6 +69,3 @@ This template is a very easy to follow framework for your business plan and cons
 </div>
 
 So, what are you waiting for! Watch the video above with Joseph and if you have any questions, please check out our community Discord and head to the business channels.
-
-
-

@@ -36,7 +36,7 @@ article .videocontainer iframe {
     position: absolute;
     top: 0;
     left: 0;
-	height: 100%; 
+	height: 100%;
 }
 a {
   color: var(--highlight, $primaryColor);
@@ -183,18 +183,12 @@ article div span h1:first-child {
 
 .navGroup:nth-child(9) .collapsible:hover,
 .navGroup:nth-child(9) ul:after {
-  background-image: url("/docs-demo/img/menu-selection-bg.jpg");
-  background-size: 192px 35px;
-}
-
-.navGroup:nth-child(10) .collapsible:hover,
-.navGroup:nth-child(10) ul:after {
   background-image: url("/docs-demo/img/highlight_stroke_questions.svg");
   background-size: 148.4px 39.91px;
 }
 
-.navGroup:nth-child(11) .collapsible:hover,
-.navGroup:nth-child(11) ul:after {
+.navGroup:nth-child(10) .collapsible:hover,
+.navGroup:nth-child(10) ul:after {
   background-image: url("/docs-demo/img/highlight_stroke_download.svg");
   background-size: 201.44px 46.2px;
 }

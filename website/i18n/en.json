@@ -7,35 +7,35 @@
     "docs": {
       "build": {
         "title": "Build",
-        "sidebar_label": "Intro"
+        "sidebar_label": "✅ Intro"
       },
       "build/compression": {
-        "title": "Build a Compression",
-        "sidebar_label": "Compression"
+        "title": "Build an compression Machine",
+        "sidebar_label": "✅ Compression"
       },
       "build/extrusion": {
         "title": "Build an Extrusion Machine",
-        "sidebar_label": "Extrusion"
+        "sidebar_label": "✅ Extrusion"
       },
-      "build/extrusionPro": {
-        "title": "Build an Extrusion Pro",
-        "sidebar_label": "Extrusion Pro"
+      "build/extrusionpro": {
+        "title": "Build an extrusion Pro",
+        "sidebar_label": "🚫🚫 Extrusion Pro"
       },
       "build/injection": {
-        "title": "Build an injection Machine",
-        "sidebar_label": "Injection"
+        "title": "Build an Injection Machine",
+        "sidebar_label": "✅ Injection"
       },
-      "build/sheetpress": {
-        "title": "Build a Sheet Press",
-        "sidebar_label": "Sheet Press"
+      "build/sheetpresspro": {
+        "title": "Build a Sheetpress Pro",
+        "sidebar_label": "🚫🚫 Sheetpress Pro"
       },
       "build/shredder": {
-        "title": "Build a Shredder",
-        "sidebar_label": "Shredder"
+        "title": "Build a Shredder Machine",
+        "sidebar_label": "✅ Shredder"
       },
-      "build/shredderPro": {
+      "build/shredderpro": {
         "title": "Build a Shredder Pro",
-        "sidebar_label": "Shredder Pro"
+        "sidebar_label": "🚫🚫 Shredder Pro"
       },
       "business": {
         "title": "Business",
@@ -43,35 +43,35 @@
       },
       "business/actionplan": {
         "title": "Action Plan",
-        "sidebar_label": "Action Plan"
+        "sidebar_label": "✅ Action Plan"
       },
       "business/productiontool": {
         "title": "Business Plan Template",
-        "sidebar_label": "Business Plan Template"
+        "sidebar_label": "✅ Business Plan Template"
       },
       "business/startupcalculator": {
         "title": "Workspace calculator",
-        "sidebar_label": "Workspace calculator"
+        "sidebar_label": "✅ Workspace calculator"
       },
       "collect": {
         "title": "Collect",
-        "sidebar_label": "Intro"
-      },
-      "collect/setupasystem": {
-        "title": "Setup a collection system",
-        "sidebar_label": "Setup a system"
-      },
-      "collect/sorting": {
-        "title": "How to sort",
-        "sidebar_label": "How to sort"
-      },
-      "collect/washing": {
-        "title": "Washing",
-        "sidebar_label": "Washing"
+        "sidebar_label": "🚫 Collection worldwide"
       },
       "create": {
         "title": "Create",
-        "sidebar_label": "Creates"
+        "sidebar_label": "✅ Intro"
+      },
+      "create/design": {
+        "title": "Design for Recycled plastic",
+        "sidebar_label": "🚫 Design"
+      },
+      "create/finishing": {
+        "title": "Finishing Plastic",
+        "sidebar_label": "✅ Finishing"
+      },
+      "create/howto": {
+        "title": "Browse how-to",
+        "sidebar_label": "How-to"
       },
       "doc1": {
         "title": "Latin-ish",
@@ -91,77 +91,69 @@
         "title": "Download",
         "sidebar_label": "Download Here"
       },
-      "experiments": {
-        "title": "Experiments",
-        "sidebar_label": "Intro"
-      },
-      "experiments/beyondplastic": {
-        "title": "Beyond Plastic",
-        "sidebar_label": "Beyond Plastic"
-      },
-      "experiments/robotics": {
-        "title": "Robotic sorting",
-        "sidebar_label": "Robotic sorting"
-      },
-      "experiments/scanner": {
-        "title": "Plastic scanner",
-        "sidebar_label": "Plastic Scanner"
-      },
       "intro": {
         "title": "Intro",
         "sidebar_label": "Hello! 🤙"
       },
       "plastic/basics": {
         "title": "The Basics of Plastic",
-        "sidebar_label": "The Basics of Plastic"
+        "sidebar_label": "✅ The Basics of Plastic"
       },
       "plastic/geeky": {
         "title": "The Geeky on Plastic",
-        "sidebar_label": "The Geeky on Plastic"
+        "sidebar_label": "✅ The Geeky on Plastic"
       },
       "plastic/safety": {
         "title": "Safety and Fumes",
-        "sidebar_label": "Safety and Fumes"
+        "sidebar_label": "✅ Safety and Fumes"
       },
       "questions": {
         "title": "Questions",
         "sidebar_label": "FAQ"
       },
-      "starterkit": {
-        "title": "Starterkits intro",
+      "research": {
+        "title": "Research",
         "sidebar_label": "Intro"
       },
-      "starterkit/communitybuilder": {
-        "title": "Become a Community Builder",
-        "sidebar_label": "Community Builder"
+      "research/beyondplastic": {
+        "title": "Beyond Plastic",
+        "sidebar_label": "🚫 🚫Beyond Plastic"
       },
-      "starterkit/containerworkspace": {
-        "title": "Setup a Container Workspace",
-        "sidebar_label": "Container Workspace"
-      },
-      "starterkit/extrusionworkspace": {
-        "title": "Setup an Extrusion Workspace",
-        "sidebar_label": "Extrusion Workspace"
-      },
-      "starterkit/injectionworkspace": {
-        "title": "Setup an Injection Workspace",
-        "sidebar_label": "Injection Workspace"
-      },
-      "starterkit/machinebuilder": {
-        "title": "Become a Machine Builder",
-        "sidebar_label": "Machine Builder"
-      },
-      "starterkit/sheetpressworkspace": {
-        "title": "Setup a Sheetpress Workspace",
-        "sidebar_label": "Sheetpress Workspace"
-      },
-      "starterkit/shredderworkspace": {
-        "title": "Setup a Shredder Workspace",
-        "sidebar_label": "Shredder Workspace"
+      "research/robotics": {
+        "title": "Robotic sorting",
+        "sidebar_label": "🚫 Robotic sorting"
       },
       "styles": {
         "title": "Styles",
+        "sidebar_label": "Styles (temp)"
+      },
+      "workspace": {
+        "title": "Workspace",
         "sidebar_label": "Intro"
+      },
+      "workspace/collectionpoint": {
+        "title": "Setup an Collection Point",
+        "sidebar_label": "🚫 Collection point"
+      },
+      "workspace/extrusion": {
+        "title": "Setup an Extrusion Workspace",
+        "sidebar_label": "🚫 Extrusion"
+      },
+      "workspace/injection": {
+        "title": "Setup an Injection Workspace",
+        "sidebar_label": "🚫 Injection"
+      },
+      "workspace/mixed": {
+        "title": "Setup a mixed Workspace",
+        "sidebar_label": "🚫 Mixed"
+      },
+      "workspace/sheetpress": {
+        "title": "Setup a Sheetpress Workspace",
+        "sidebar_label": "🚫 Sheetpress"
+      },
+      "workspace/shredder": {
+        "title": "Setup a Shredder Workspace",
+        "sidebar_label": "🚫 Shredder"
       }
     },
     "links": {
@@ -177,11 +169,10 @@
       "4. Collect": "4. Collect",
       "5. Create": "5. Create",
       "6. Business": "6. Business",
-      "7. Starterkits": "7. Starterkits",
-      "8. Experiments": "8. Experiments",
-      "9. Questions": "9. Questions",
-      "10. Download": "10. Download",
-      "11. Styles": "11. Styles",
+      "7. Workspace": "7. Workspace",
+      "8. Research": "8. Research",
+      "？Questions": "？Questions",
+      "↓ Download": "↓ Download",
       "First Category": "First Category"
     }
   },
