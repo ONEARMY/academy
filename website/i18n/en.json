@@ -111,10 +111,6 @@
         "title": "Questions",
         "sidebar_label": "FAQ"
       },
-      "research": {
-        "title": "Research",
-        "sidebar_label": "Intro"
-      },
       "research/beyondplastic": {
         "title": "Beyond Plastic",
         "sidebar_label": "🚫 🚫Beyond Plastic"
@@ -157,10 +153,7 @@
       }
     },
     "links": {
-      "Academy": "Academy",
-      "Maps": "Maps",
-      "Events": "Events",
-      "How-to": "How-to"
+      "Academy": "Academy"
     },
     "categories": {
       "1. Intro": "1. Intro",
@@ -171,9 +164,8 @@
       "6. Business": "6. Business",
       "7. Workspace": "7. Workspace",
       "8. Research": "8. Research",
-      "？Questions": "？Questions",
-      "↓ Download": "↓ Download",
-      "First Category": "First Category"
+      "9.Questions": "9.Questions",
+      "10. Download": "10. Download"
     }
   },
   "pages-strings": {

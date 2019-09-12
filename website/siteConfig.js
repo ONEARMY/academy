@@ -8,23 +8,13 @@
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
-// List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: "User1",
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: "/img/undraw_open_source.svg",
-    infoLink: "https://www.facebook.com",
-    pinned: true
-  }
-];
-
 const siteConfig = {
   title: "Precious Plastic Toolbox", // Title for your website.
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
   baseUrl: "/docs-demo/",
+  // remove /docs/ prefix
+  docsUrl: "",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -37,15 +27,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { doc: "intro", label: "Academy" },
-    { doc: "download", label: "Maps" },
-    { page: "help", label: "Events" },
-    { blog: true, label: "How-to" }
-  ],
-
-  // If you have users set above, you add it here:
-  users,
+  headerLinks: [{ doc: "intro", label: "Academy" }],
 
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
@@ -77,9 +59,6 @@ const siteConfig = {
   fonts: {
     bodyFont: ["Varela Round", "sans-serif"]
   },
-
-  // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
