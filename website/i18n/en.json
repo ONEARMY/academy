@@ -73,16 +73,6 @@
         "title": "Browse how-to",
         "sidebar_label": "How-to"
       },
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Pagse"
-      },
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
-      },
       "done": {
         "title": "Done?sd",
         "sidebar_label": "Finished?"
