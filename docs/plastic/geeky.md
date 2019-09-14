@@ -1,7 +1,7 @@
 ---
-id: geeky
-title: The Geeky on Plastic
-sidebar_label: ✅ The Geeky on Plastic
+id: nerdy
+title: Go nerdy on Plastic
+sidebar_label: ✅ Nerdy on Plastic
 ---
 
 <div class="videocontainer">
