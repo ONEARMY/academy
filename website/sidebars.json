@@ -2,7 +2,7 @@
   "docs": {
     "1. Intro": ["intro"],
     "2. Plastic": ["plastic/basics", "plastic/safety", "plastic/nerdy"],
-    "3. Build": ["build", "build/shredder", "build/injection", "build/compression", "build/extrusion", "build/extrusionpro", "build/shredderpro", "build/sheetpresspro"],
+    "3. Build": ["build", "build/shredder", "build/injection", "build/compression", "build/extrusion", , "build/sheetpress", "build/shredderpro", "build/extrusionpro"],
     "4. Collect": ["collect"],
     "5. Create": ["create", "create/design", "create/howto", "create/finishing"],
     "6. Business": ["business/actionplan", "business/productiontool", "business/startupcalculator"],
