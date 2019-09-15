@@ -47,12 +47,12 @@ Button
 To add images in markdown use:
 
 ```markdown
-![Background](/docs-demo/img/menu-selection-bg.jpg)
+![Background](/academy/img/menu-selection-bg.jpg)
 ```
 
 <div style="text-align: center;">Will produce 👇</div>
 
-![Background](/docs-demo/img/menu-selection-bg.jpg)
+![Background](/academy/img/menu-selection-bg.jpg)
 
 If you need to specify the size of the image use an `<img />` tag
 
@@ -73,12 +73,12 @@ Produces this image below:
 #### Example with `<img />`:
 
 ```html
-<img src="/docs-demo/img/favicon.ico" width="150" height="150" />
+<img src="/academy/img/favicon.ico" width="150" height="150" />
 ```
 
 <div style="text-align: center;">Will produce 👇</div>
 
-<img src="/docs-demo/img/favicon.ico" width="150" height="150" />
+<img src="/academy/img/favicon.ico" width="150" height="150" />
 
 ## Icons are included in the same way as images
 

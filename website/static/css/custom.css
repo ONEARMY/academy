@@ -136,61 +136,61 @@ article div span h1:first-child {
 
 .navGroup:nth-child(1) .collapsible:hover,
 .navGroup:nth-child(1) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_intro.svg");
+  background-image: url("/academy/img/highlight_stroke_intro.svg");
   background-size: 102.68px 39.91px;
 }
 
 .navGroup:nth-child(2) .collapsible:hover,
 .navGroup:nth-child(2) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_plastic.svg");
+  background-image: url("/academy/img/highlight_stroke_plastic.svg");
   background-size: 138.01px 41.37px;
 }
 
 .navGroup:nth-child(3) .collapsible:hover,
 .navGroup:nth-child(3) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_build.svg");
+  background-image: url("/academy/img/highlight_stroke_build.svg");
   background-size: 135.23px 44.16px;
 }
 
 .navGroup:nth-child(4) .collapsible:hover,
 .navGroup:nth-child(4) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_collect.svg");
+  background-image: url("/academy/img/highlight_stroke_collect.svg");
   background-size: 154.69px 44.96px;
 }
 
 .navGroup:nth-child(5) .collapsible:hover,
 .navGroup:nth-child(5) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_create.svg");
+  background-image: url("/academy/img/highlight_stroke_create.svg");
   background-size: 136.83px 37px;
 }
 
 .navGroup:nth-child(6) .collapsible:hover,
 .navGroup:nth-child(6) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_business.svg");
+  background-image: url("/academy/img/highlight_stroke_business.svg");
   background-size: 173.72px 36.5px;
 }
 
 .navGroup:nth-child(7) .collapsible:hover,
 .navGroup:nth-child(7) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_starterkits.svg");
+  background-image: url("/academy/img/highlight_stroke_starterkits.svg");
   background-size: 174.46px 42.01px;
 }
 
 .navGroup:nth-child(8) .collapsible:hover,
 .navGroup:nth-child(8) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_experiments.svg");
+  background-image: url("/academy/img/highlight_stroke_experiments.svg");
   background-size: 243.5px 49.04px;
 }
 
 .navGroup:nth-child(9) .collapsible:hover,
 .navGroup:nth-child(9) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_questions.svg");
+  background-image: url("/academy/img/highlight_stroke_questions.svg");
   background-size: 148.4px 39.91px;
 }
 
 .navGroup:nth-child(10) .collapsible:hover,
 .navGroup:nth-child(10) ul:after {
-  background-image: url("/docs-demo/img/highlight_stroke_download.svg");
+  background-image: url("/academy/img/highlight_stroke_download.svg");
   background-size: 201.44px 46.2px;
 }
 
