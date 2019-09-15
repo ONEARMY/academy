@@ -1,7 +1,7 @@
 ---
 id: sheetpresspro
-title: Build a Sheetpress Pro
-sidebar_label: 🚫🚫 Sheetpress Pro
+title: Build a Sheetpress
+sidebar_label: 🚫🚫 Sheetpress
 ---
 
 <div class="videocontainer">

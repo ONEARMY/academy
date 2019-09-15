@@ -1,14 +1,14 @@
 {
   "academy-sidebar": {
     "1. Intro": ["intro"],
-    "2. Plastic": ["plastic/basics", "plastic/geeky", "plastic/safety"],
+    "2. Plastic": ["plastic/basics", "plastic/safety", "plastic/nerdy"],
     "3. Build": [
       "build",
       "build/shredder",
       "build/injection",
       "build/compression",
       "build/extrusion",
-      "build/sheetpresspro",
+      "build/sheetpress",
       "build/shredderpro",
       "build/extrusionpro"
     ],
@@ -26,11 +26,11 @@
     ],
     "7. Workspace": [
       "workspace",
+      "workspace/shredder",
       "workspace/injection",
       "workspace/extrusion",
-      "workspace/shredder",
       "workspace/sheetpress",
-      "workspace/mixed",
+      "workspace/mix",
       "workspace/collectionpoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],

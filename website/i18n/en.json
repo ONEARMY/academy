@@ -26,8 +26,8 @@
         "sidebar_label": "✅ Injection"
       },
       "build/sheetpresspro": {
-        "title": "Build a Sheetpress Pro",
-        "sidebar_label": "🚫🚫 Sheetpress Pro"
+        "title": "Build a Sheetpress",
+        "sidebar_label": "🚫🚫 Sheetpress"
       },
       "build/shredder": {
         "title": "Build a Shredder Machine",
@@ -89,9 +89,9 @@
         "title": "The Basics of Plastic",
         "sidebar_label": "✅ The Basics of Plastic"
       },
-      "plastic/geeky": {
-        "title": "The Geeky on Plastic",
-        "sidebar_label": "✅ The Geeky on Plastic"
+      "plastic/nerdy": {
+        "title": "Go nerdy on Plastic",
+        "sidebar_label": "✅ Nerdy on Plastic"
       },
       "plastic/safety": {
         "title": "Safety and Fumes",
@@ -129,9 +129,9 @@
         "title": "Setup an Injection Workspace",
         "sidebar_label": "🚫 Injection"
       },
-      "workspace/mixed": {
-        "title": "Setup a mixed Workspace",
-        "sidebar_label": "🚫 Mixed"
+      "workspace/mix": {
+        "title": "Setup a mix Workspace",
+        "sidebar_label": "🚫 Mix"
       },
       "workspace/sheetpress": {
         "title": "Setup a Sheetpress Workspace",
