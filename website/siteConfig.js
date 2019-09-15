@@ -42,6 +42,7 @@ const siteConfig = {
     secondaryColor: "#256e23",
     defaultFontColor: "#404040"
   },
+  editUrl: "https://github.com/ONEARMY/academy/blob/master/docs/",
 
   /* Custom fonts for website */
   /*
