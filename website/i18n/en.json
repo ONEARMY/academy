@@ -73,16 +73,6 @@
         "title": "Browse how-to",
         "sidebar_label": "How-to"
       },
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Pagse"
-      },
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
-      },
       "done": {
         "title": "Done?sd",
         "sidebar_label": "Finished?"
@@ -153,10 +143,7 @@
       }
     },
     "links": {
-      "Academy": "Academy",
-      "Maps": "Maps",
-      "Events": "Events",
-      "How-to": "How-to"
+      "Academy": "Academy"
     },
     "categories": {
       "1. Intro": "1. Intro",
@@ -168,8 +155,7 @@
       "7. Workspace": "7. Workspace",
       "8. Research": "8. Research",
       "9.Questions": "9.Questions",
-      "10. Download": "10. Download",
-      "First Category": "First Category"
+      "10. Download": "10. Download"
     }
   },
   "pages-strings": {

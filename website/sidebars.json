@@ -1,5 +1,5 @@
 {
-  "docs": {
+  "academy-sidebar": {
     "1. Intro": ["intro"],
     "2. Plastic": ["plastic/basics", "plastic/safety", "plastic/nerdy"],
     "3. Build": [
@@ -36,8 +36,5 @@
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
     "9.Questions": ["questions"],
     "10. Download": ["download", "styles"]
-  },
-  "docs-other": {
-    "First Category": [""]
   }
 }
