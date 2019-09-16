@@ -8,44 +8,26 @@
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
-// List of projects/orgs using your project for the users page.
-const users = [
-  {
-    caption: "User1",
-    // You will need to prepend the image path with your baseUrl
-    // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: "/img/undraw_open_source.svg",
-    infoLink: "https://www.facebook.com",
-    pinned: true
-  }
-];
-
 const siteConfig = {
   title: "Precious Plastic Toolbox", // Title for your website.
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
-  baseUrl: "/docs-demo/",
+  baseUrl: "/academy/",
+  // remove /docs/ prefix
+  docsUrl: "",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: "docs-demo",
+  projectName: "academy",
   organizationName: "onearmy",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { doc: "intro", label: "Academy" },
-    { doc: "download", label: "Maps" },
-    { page: "help", label: "Events" },
-    { blog: true, label: "How-to" }
-  ],
-
-  // If you have users set above, you add it here:
-  users,
+  headerLinks: [{ doc: "intro", label: "Academy" }],
 
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
@@ -56,9 +38,11 @@ const siteConfig = {
   colors: {
     primaryColor: "#f58d8e",
     primaryFade: "#f5c3c4",
+    primaryShade: "#e18183",
     secondaryColor: "#256e23",
     defaultFontColor: "#404040"
   },
+  editUrl: "https://github.com/ONEARMY/academy/blob/master/docs/",
 
   /* Custom fonts for website */
   /*
@@ -77,9 +61,6 @@ const siteConfig = {
     bodyFont: ["Varela Round", "sans-serif"]
   },
 
-  // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
-
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
     theme: "default"
@@ -88,7 +69,7 @@ const siteConfig = {
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
     "https://buttons.github.io/buttons.js",
-    "/docs-demo/js/custom.js",
+    "/academy/js/custom.js",
     "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
   ],
   stylesheets: [

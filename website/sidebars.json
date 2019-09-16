@@ -1,19 +1,40 @@
 {
-  "docs": {
+  "academy-sidebar": {
     "1. Intro": ["intro"],
-    "2. Plastic": ["plastic"],
-    "3. Build": ["build", "build/shredder", "build/injection", "build/compression", "build/extrusion", "build/sheetpress", "build/shredder-pro", "build/extrusion-pro"],
-    "4. Collect": ["collect", "collect/sorting", "collect/washing",  "collect/setupasystem"],
-    "5. Create": ["create"],
-    "6. Business": ["business", "business/actionplan", "business/productiontool", "business/startupcalculator"],
-    "7. Starterkits": ["starterkit", "starterkit/injectionworkspace", "starterkit/extrusionworkspace", "starterkit/shredderworkspace", "starterkit/sheetpressworkspace", "starterkit/containerworkspace", "starterkit/machinebuilder", "starterkit/communitybuilder"],
-    "8. Experiments": ["experiments", "experiments/robotics", "experiments/scanner", "experiments/beyondplastic"],
-    "9. Done": ["done"],
-    "10. Questions": ["questions"],
-    "11. Download": ["download"],
-    "12. Styles": ["styles"]
-  },
-  "docs-other": {
-    "First Category": [""]
+    "2. Plastic": ["plastic/basics", "plastic/safety", "plastic/nerdy"],
+    "3. Build": [
+      "build",
+      "build/shredder",
+      "build/injection",
+      "build/compression",
+      "build/extrusion",
+      "build/sheetpress",
+      "build/shredderpro",
+      "build/extrusionpro"
+    ],
+    "4. Collect": ["collect"],
+    "5. Create": [
+      "create",
+      "create/design",
+      "create/howto",
+      "create/finishing"
+    ],
+    "6. Business": [
+      "business/actionplan",
+      "business/productiontool",
+      "business/startupcalculator"
+    ],
+    "7. Workspace": [
+      "workspace",
+      "workspace/shredder",
+      "workspace/injection",
+      "workspace/extrusion",
+      "workspace/sheetpress",
+      "workspace/mix",
+      "workspace/collectionpoint"
+    ],
+    "8. Research": ["research", "research/robotics", "research/beyondplastic"],
+    "9.Questions": ["questions"],
+    "10. Download": ["download", "styles"]
   }
 }

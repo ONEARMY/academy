@@ -1,27 +1,45 @@
 ---
 id: startupcalculator
-title: Start-up calculator
-sidebar_label: Start-up calculator
+title: Workspace calculator
 hide_title: true
+sidebar_label: ✅ Workspace calculator
 ---
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
-  --highlight: #f090b1;
-  --hover: #f090b1;
+  --highlight: #f7b77b;
+  --hover: #f7b77b;
 }
 </style>
 
-# Start-up calculator
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
-Sorting plasticcss
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+# Workspace Calculator (joseph)
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+The Workspace Calculator is a financial forecasting tool for you to understand the financial feasibility of starting a workspace. This tool isn’t exact but should give you a ball-park figure and should help you understand how much money you should need to start, how many products and services you need to sell per month in order to be profitable and how long it’s going to take to pay back your initial investment.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+This tool is applicable to any type of business you hope to start within Precious Plastic, whether you’re a machine builder, you’re working in production, hosting workshops - it doesn’t matter! The idea of this tool is that you’re going to list your sources of income, subtract the costs and then look at the summary results.
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+</div>
+<div class="videoChaptersSidebar">
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+### Video Chapters
+
+- 00.08 What is it?
+- 02.00 Start
+- 03.13 Sales
+- 04.48 Costs
+- 07.53 Dashboard
+- 13.03 Extras
+
+
+</div>
+</div
+
+Note: this calculator doesn’t include taxes, so be sure to consider your country’s applicable taxes when you’re working with this calculator.
+
+Let’s jump in!

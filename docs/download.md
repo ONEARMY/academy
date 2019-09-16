@@ -1,14 +1,14 @@
 ---
 id: download
 title: Download
-sidebar_label: download here
 hide_title: true
+sidebar_label: Download Here
 ---
 
 <style>
 :root {
-  --highlight: #ffe083;
-  --hover: #ffe083;
+  --highlight: #f2a5c1;
+  --hover: #f2a5c1;
 }
 </style>
 

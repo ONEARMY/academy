@@ -1,13 +1,13 @@
 ---
 id: styles
 title: Styles
-sidebar_label: Intro
 hide_title: true
+sidebar_label: Styles (temp)
 ---
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/dP1s7viFZHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Styles
+# Styles (to delete)
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
@@ -43,9 +43,45 @@ This is a link to an [external page.](http://www.example.com)
 
 Button
 
-Image
+## Image
 
-Icons
+To add images in markdown use:
+
+```markdown
+![Background](/academy/img/menu-selection-bg.jpg)
+```
+
+<div style="text-align: center;">Will produce 👇</div>
+
+![Background](/academy/img/menu-selection-bg.jpg)
+
+If you need to specify the size of the image use an `<img />` tag
+
+When using imagery and icons that we have produced add them to the `docs/assets` folder and include them with the url prefix `assets/`.
+Example:
+"Saskia wants to add an image `fancy-plastic.jpg` to the folder `docs/assets/fancy-plastic.jpg` and then she uses it in the docs like this:
+
+```markdown
+![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
+```
+
+Produces this image below:
+
+![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
+
+(🤫 She would never do that of course)
+
+#### Example with `<img />`:
+
+```html
+<img src="/academy/img/favicon.ico" width="150" height="150" />
+```
+
+<div style="text-align: center;">Will produce 👇</div>
+
+<img src="/academy/img/favicon.ico" width="150" height="150" />
+
+## Icons are included in the same way as images
 
 <div class="j-slideshow">
 
@@ -60,3 +96,87 @@ Icons
 ![machine](https://preciousplastic.com/images/Community-machine-2.jpg)
 
 </div>
+
+# Icon list with labels
+
+<div class="icon-list">
+
+<div data-label="40kg">
+
+![Weight](assets/icons/weight.svg)
+
+</div>
+<div data-label="€300">
+
+![Money](assets/icons/money.svg)
+
+</div>
+<div data-label="Hard">
+
+![Difficulty](assets/icons/difficulty.svg)
+
+</div>
+<div data-label="14 days">
+
+![Time](assets/icons/time-needed.svg)
+
+</div>
+
+</div>
+
+# Icon list with labels and one without
+
+<div class="icon-list">
+
+<div data-label="Bottle">
+
+![hdpe](assets/plastic/type-hdpe.svg)
+
+</div>
+<div data-label="Bottle">
+
+![ldpe](assets/plastic/type-ldpe.svg)
+
+</div>
+<div data-label="Bottle">
+
+![other](assets/plastic/type-other.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pet](assets/plastic/type-pet.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pp](assets/plastic/type-pp.svg)
+
+</div>
+<div data-label="Bottle">
+
+![ps](assets/plastic/type-ps.svg)
+
+</div>
+<div data-label="Bottle">
+
+![pvc](assets/plastic/type-pvc.svg)
+
+</div>
+
+</div>
+
+## The icon without a label
+
+![pet](assets/plastic/type-pet.svg)
+
+Since this is a Vector graphic it will fill up the available space in the document so it MUST BE CONSTRAINED!
+
+Use the img tag instead:
+
+<img src="assets/plastic/type-pet.svg" width="50" height="50" />
+<img style="margin-left: 0;" src="assets/plastic/type-pet.svg" width="100"/>
+
+Or:
+
+<img style="margin-left: 0;" src="./assets/ppimage.jpg" width="300" />
