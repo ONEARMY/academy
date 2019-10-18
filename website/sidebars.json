@@ -24,14 +24,16 @@
       "business/productiontool",
       "business/startupcalculator"
     ],
-    "7. Workspace": [
+    "7. Spaces": [
       "workspace",
       "workspace/shredder",
       "workspace/injection",
       "workspace/extrusion",
       "workspace/sheetpress",
       "workspace/mix",
-      "workspace/collectionpoint"
+      "workspace/collectionpoint",
+      "workspace/machineshop",
+      "workspace/communitypoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
     "9.Universe": ["universe"],

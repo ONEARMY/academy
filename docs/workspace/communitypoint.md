@@ -1,24 +1,23 @@
 ---
-id: sheetpress
-title: Build a Sheetpress
-sidebar_label: 🚫🚫 Sheetpress
+id: communitypoint
+title: Setup a community point
+sidebar_label: 🚫 Community Point
 ---
-
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
 :root {
-  --highlight: #f29094;
-  --hover: #f29094;
+  --highlight: #37b4a3;
+  --hover: #37b4a3;
 }
 </style>
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Build an sheetpress (jason)
+# Setup an sheetpress workspace (paul)
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
@@ -39,17 +38,9 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 </div>
 </div>
-
-building extrusions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+building shredders
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fingilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 [documentation](https://docusaurus.io)
-
-
-# How to run the sheetpress Pro (jason)
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 
 Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
 
