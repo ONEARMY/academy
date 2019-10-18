@@ -18,7 +18,7 @@ sidebar_label: ✅ Business Plan Template
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Business Plan Template (joseph)
+# Business Plan Template
 
 The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
