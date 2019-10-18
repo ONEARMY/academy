@@ -1,7 +1,7 @@
 ---
 id: collectionpoint
 title: Setup an Collection Point
-sidebar_label: 🚫 Collection point
+sidebar_label:✅ Collection Point
 ---
 
 <div class="videocontainer">
@@ -14,14 +14,17 @@ sidebar_label: 🚫 Collection point
   --hover: #37b4a3;
 }
 </style>
+
+# How to setup a Collection Point
+
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Setup an collection workspace (paul)
+### Let's start from the beginning.
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+In this video we’re going to show you how to set up a Precious Plastic collection point. This is a fundamental step in the Precious Plastic universe - we need a strong global team of collection points to make sure that no plastic is wasted: without anyone collecting it, it's very hard to recycle!
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+`Pro tip: teach your local community to clean their plastic before they bring it into your collection point (no nasty food smells, yay!)`
 
 
 </div>
@@ -29,27 +32,43 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
-
+- 00:10 What you’ll need
+- 00:50 How to organise
+- 01:25 Engaging on/offline 
+- 01.45 Clean plastic
+- 02.01 Passing the plastic on
+- 02.49 Presenting your workspace
 
 </div>
 </div>
 
+### Ready? 
+Let’s dive in. Before you start, there are a few things to consider. 
 
+1. People: assemble your team (it’s more fun with friends!)
+2. Space: do you have enough? We’re working with a 4x6 metre space.
+3. Location: is it easy to find? 
 
+### Let’s build!
 
-building extrusions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+The goal of setting up and operating this workspace is to collect and sort plastic, so you’ll need to be pretty organised. We recommend using large bags or containers to store everything, and it’s important to separate your plastic based on type - so be sure to mark the bags to make sure everything goes in the right place. 
+<< illustration of PP bags with signs >>
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+And if you’re lucky enough to be able to get a consistent source of recycling, say the plastic spoons from your local ice cream store, then you can store these separately as you collect them so you can maintain consistency.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+An important part of being the collection point for your local community is how you engage both online and offline, so in your workspace it’s great to have a workstation where you can organise online with campaigns, social media, partnerships and collaborations. 
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+`A tip from us: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget. `
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+Have a whole bag ready to go? Be sure to label it properly with a label that won’t fall off, so that the workspace you pass it on to know what type of plastic they’re receiving. Before you pass it on to them make sure to weigh the plastic and keep a record of it so you know how much plastic you’re collecting (it would be cool to let your community know as well!) and since you’re there, upload the weight to upload.preciousplastic.com so we can see how much our entire global community is collecting 💪
+
+### What else can you do? 
+
+Seeing plastic as beautiful, valuable objects is a huge motivator for people bringing in their plastic, it’s nice to have a display to show off the Precious Plastic products being made from the plastic you’re collecting. 
+
+There are many different ways you can collect plastic - people can bring it to you, or you can go and get it from them, but will depend on what’s possible in your area. Check out our series of <a href="url">Collection How-To's</a> to get inspired! But whatever approach you take, make sure that everyone that comes to your workspace has a nice, friendly experience. And of course in true Precious Plastic style, we’ve made some posters that you can hang up :) 
+
+So that’s it! Your needs will change depending on your own situation so make sure you adapt to what’s relevant for you and your community - make sure to share your experiences so we can all grow together. What’s next? 
+
+<< collection download button >>
+
