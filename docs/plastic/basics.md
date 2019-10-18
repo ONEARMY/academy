@@ -14,16 +14,16 @@ sidebar_label: ✅ The Basics of Plastic
 }
 </style>
 
-# Intro
+# The Basics of Plastic
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### This is a great title for this section.
+### Let's start from the beginning.
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+What is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? Here we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is.`
 
 
 </div>
@@ -63,7 +63,7 @@ We produce X amount of new plastic every year, which is not very smart, especial
 
 So, how do we solve this? Well, it’s time to get recycling!
 
-# Different plastics types
+# Different plastic types
 
 Firstly, there are two major categories of plastic: Thermoplastics and Thermoset.
 
@@ -178,7 +178,21 @@ This code is used to identify other types of plastic that are not defined by the
 <b>Pros:</b>  <br>
 <b>Cons:</b> <br>
 <b>Safety:</b> <br>
-<b>Warning:</b> <br>
-<b>Common uses:</b>
+<b>Warning:</b>Some of the plastic types included here (like PC) release very toxic fumes. Make sure to inform yourself about the plastic type you want to work with, and test its properties before processing it in masses. <br>
+<b>Common uses:</b>PC (CDs & DVDs…), PLA (bioplastics), ABS (3D-printing filament, toys, electronic products…), PMMA (acrylic glass)
 <br>
 <b>Best ways to use with PP machines: </b>
+
+# Mixing Plastic
+
+Different plastic types should never be mixed together as this will decrease their quality drastically and make it very difficult to recycle them. Moreover, when different types of plastics are melted together they tend to phase-separate, like oil and water, and set in layers resulting in structural weakness and lower quality products.
+
+# Melting temperatures
+
+So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you!
+
+We have created this poster (hi-res in the download kit) to illustrate the melting temperatures of different types of plastic. Dig it, print it and hang it up in your workspace!
+
+![PP Image](assets/melting-temperatures.jpg)
+
+Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.
