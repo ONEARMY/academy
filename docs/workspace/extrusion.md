@@ -1,7 +1,7 @@
 ---
 id: extrusion
 title: Setup an Extrusion Workspace
-sidebar_label: 🚫 Extrusion
+sidebar_label: ✅ Extrusion
 ---
 
 <div class="videocontainer">
@@ -17,11 +17,11 @@ sidebar_label: 🚫 Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Setup an extrusion workspace (paul)
+# Setup an Extrusion Workspace
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+We’re going to show you how to set up a Precious Plastic extrusion workspace. This is another chapter of the Precious Plastic universe, you’ll receive plastic from your local PP collection point or municipality, and you’ll be making beautiful and useful things in no time! 
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+`Pro tip: tip`
 
 
 </div>
@@ -29,23 +29,43 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 00:13 What you need to consider
+- 00:48 The workspace 
+- 01:53 Fumes
+- 02:32 Molds
+- 03:45 Post processing
+- 04:30 What you can make
+- 04:55 Finishing touches
+
 
 
 </div>
 </div>
-building extrusions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+Before you get started there’s a few things to consider:<br> <br>
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+1. People: assemble your team (it’s more fun with friends!)
+2. Space: do you have enough? We’re working with a 4x6 metre space.
+3. Electricity: what do you need? Some machines work on single phase, and some on triple phase. 
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+### Ok, let’s get started! 
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+The first thing you’re going to need for an extrusion workspace, is an extrusion machine (duh) and you can either buy one ready made on the bazar, buy parts and assemble it, or make it yourself using the plans right here on the website. Once you have that, now it’s time to get some plastic - you can use the Precious Plastic map to find a shredder workspace near you.
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+### Be organised
+
+We recommend using clear containers to store your plastic - big ones for the colours you use often, and smaller ones for the special colours you don’t use as much. Don’t forget a scoop! Big containers can be a pain to drag around the workspace, so you can freestyle and come up with some ideas to easily transport the plastic around. While you’re at it, you can also make a mobile workstation to keep your essentials handy while you operate the machine.
+
+### Time to melt! 
+
+As the machine heats up, you’ll notice some fumes - which you don’t want to be breathing in directly. There are a few ways to address this - the first is to make sure you’re in a well ventilated with open windows and doors. You can also use a filter mask and a filter caddy is a good way to extract fumes at the source. Check out the video on Safety and Fumes to learn more about this topic. 
+
+So now it’s melting, how to turn it into something useful? The best way to shape plastic is by using a mold, there’s a huge amount of different molds you can use to make just about anything. It’s important to make sure there’s a support for the mold while the plastic is coming out of the extruder - some molds are quite heavy! Once it’s filled with plastic you’ll need to let it cool (this is when you can attach another mold for efficient production!) 
+
+When you remove the mold you might notice the melted plastic is backing out of the end, this is because of the built up pressure in the mold - you can stop this happening by dunking it in a bucket of water that sits underneath the nozzle to cool it down. As well as this the bucket will also act to catch any excess plastic that continues to extrude from the nozzle while you’re changing molds. Cooling the excess plastic right away prevents excess fumes, as well as allows you to catch this plastic to be shredded and recycled again 🎉
+
+### Ready to sell?
+Once your product is out of the mold, it’s time to check if it’s ready to sell - it’s nice to have a sturdy workbench to examine each product and make any post processing changes necessary. While we try to avoid offcuts and excess plastic as much as possible, make sure you keep a container closeby to capture these bits so they can go back into your production. When you’re done with your molds, make sure to hang or store them well so they aren’t damaged. Once your product is ready, display it somewhere for your visitors to see! There’s heaps of cool things you can make with the extrusion machine. 
+
+### Final touches
+
+One last thing is to make some final touches on your workspace. We of course have made some posters you can hang on your wall. You can find all the information you need in the download kit!

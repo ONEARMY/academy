@@ -1,7 +1,7 @@
 ---
 id: nerdy
 title: Go nerdy on Plastic
-sidebar_label: ✅ Nerdy on Plastic
+sidebar_label:✅ Nerdy on Plastic
 ---
 
 <div class="videocontainer">

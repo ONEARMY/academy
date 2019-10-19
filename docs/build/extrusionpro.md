@@ -1,7 +1,7 @@
 ---
 id: extrusionpro
 title: Build an extrusion Pro
-sidebar_label: 🚫🚫 Extrusion Pro
+sidebar_label:✅ Extrusion Pro
 ---
 
 <div class="videocontainer">
