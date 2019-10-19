@@ -19,7 +19,7 @@
       },
       "build/extrusionpro": {
         "title": "Build an extrusion Pro",
-        "sidebar_label": "🚫🚫 Extrusion Pro"
+        "sidebar_label": "✅ Extrusion Pro"
       },
       "build/injection": {
         "title": "Build an Injection Machine",
@@ -103,7 +103,7 @@
       },
       "research/robotics": {
         "title": "Robotic sorting",
-        "sidebar_label": "🚫 Robotic sorting"
+        "sidebar_label": "✅ Robotic sorting"
       },
       "styles": {
         "title": "Styles",
@@ -123,7 +123,7 @@
       },
       "workspace/extrusion": {
         "title": "Setup an Extrusion Workspace",
-        "sidebar_label": "🚫 Extrusion"
+        "sidebar_label": "✅ Extrusion"
       },
       "workspace/injection": {
         "title": "Setup an Injection Workspace",
