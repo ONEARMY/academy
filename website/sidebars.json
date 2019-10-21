@@ -25,15 +25,15 @@
       "business/startupcalculator"
     ],
     "7. Spaces": [
-      "workspace",
-      "workspace/shredder",
-      "workspace/injection",
-      "workspace/extrusion",
-      "workspace/sheetpress",
-      "workspace/mix",
-      "workspace/collectionpoint",
-      "workspace/machineshop",
-      "workspace/communitypoint"
+      "spaces",
+      "spaces/shredder",
+      "spaces/injection",
+      "spaces/extrusion",
+      "spaces/sheetpress",
+      "spaces/mix",
+      "spaces/collectionpoint",
+      "spaces/machineshop",
+      "spaces/communitypoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
     "9.Universe": ["universe"],

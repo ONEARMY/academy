@@ -375,6 +375,27 @@ header.postHeader {
   margin-bottom: 0 !important;
 }
 
+
+table th, table td {
+  padding: .5rem;
+  vertical-align: top;
+}
+
+table tr, table tr:nth-child(2n) {
+  background-color: white;
+}
+
+table {
+  display: inline-table;
+}
+
+hr {
+    border-color: #000;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 4px;
+}
+
 /*  */
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }

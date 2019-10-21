@@ -1,6 +1,6 @@
 ---
-id: workspace
-title: Workspace
+id: spaces
+title: Spaces
 sidebar_label: Intro
 ---
 
