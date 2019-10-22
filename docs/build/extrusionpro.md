@@ -44,8 +44,44 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 
 </div>
 </div>
-In this video, our friend Peter Bas is going to give you step-by-step instructions on how to build the Extruder Pro, but you can also buy the machine or parts ready made from a machine shop on the bazar. You can find more information on how long it takes, how much it costs, where to source parts and what tools you need right here!
-<br><br>
+
+![CAD](assets/cad.png)
+
+### Machinery needed:
+- Lathe
+- Milling machine
+- Drill press 
+- Welding machine (not specific)
+- Torq spanner
+
+### Skills needed: (beginner, intermediate, expert)
+- welding (intermediate)
+- machining (expert)
+- assembling (expert)
+- electronics (intermediate)
+
+### Machine Specs: (specific to each machine):
+- Motor Power: 2.2kW minimum
+- Motor Torque: 1000N.m
+- Motor Speed: 20 t/min
+- Weight: 150kg
+- Dimension: 1200x600x1500mm
+- Plastic Processing: 200kg/day for bottle caps (5 hours of shredding)
+- Granule Output: 10x10mm
+
+### Input: 
+Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics] 
+
+### Outcomes: 
+Example A : bottle caps - shredded 3 times - 10x10mm granulates = 200kg/day (5 hours of shredding)
+Example B : 
+
+### Pros:
+
+### Cons:
+
+# Instructions
+
 Here’s each chapter of how to make this machine, and Peter Bas goes through it in detail in the video above. The technical drawings are shown below and everything is available in the <a href="url">download kit</a>. <br><br>
 
 Part 1: Bearing body shaft<br>
@@ -58,7 +94,7 @@ Part 7: Frame<br>
 Part 8: Final assembly<br> 
 Part 9: Maintenance and how to run<br>
 
-## Part 1: Bearing body shaft
+### Part 1: Bearing body shaft
 
 ![CAD](assets/cad.png)
 
@@ -71,7 +107,7 @@ This is the part that connects the motor to the extruder, the main function is t
 
 Once all of these parts are ready we can assemble them together.
 
-## Part 2: Barrel inlet 
+### Part 2: Barrel inlet 
 
 ![CAD](assets/cad.png)
 
@@ -79,43 +115,43 @@ Nice work on completing part 1! You’ve done the hardest bit now (from here on,
 - 2 x Barrel flanges - transition piece and the barrel side
 - Barrel inlet tube
 
-## Part 3: The barrel (pak barrel)
+### Part 3: The barrel (pak barrel)
 
 ![CAD](assets/cad.png)
 
 Now the barrel inlet is done, we are going to make another barrel that connects to that. This barrel will be heated and the screw will rotate inside, this creates friction which (in addition to heating) makes sure the plastic will melt with a good output. This machine has a much bigger screw than the smaller extrusion machine and transports more plastic at a higher output. The screw itself is designed for general use, making sure it will work with many different polymers. At the end of the barrel there is the barrel end piece with a one inch pipe thread so you can connect different nozzles.
 
-## Part 4: Motor adapter (pak motor)
+### Part 4: Motor adapter (pak motor)
 
 ![CAD](assets/cad.png)
 
 The motor adaptor is the part that connects the extruder to the motor - we will connect it straight to the reducter so it’s super clean and strong and you don’t need to reinforce your frame. The connection depends a lot on what kind of motor you use, as it’s a laser cut part make sure to measure your motor before to make sure it fits.
 
-## Part 5: Hopper
+### Part 5: Hopper
 
 ![CAD](assets/cad.png)
 
 We are making some progress! Now we can make the hopper. It’s quite basic so you can freestyle a bit. Circular hoppers distribute shredded plastic really well,  the hopper we’ve used is a cone formed from a steel sheet - it’s easy to bend and eliminate the heat. You can find the drawing to cut it out and fold it into the right shape in the download kit, then you connect it to a holder which is clamped around the barrel inlet. If you want to use stronger motor we would recommend using a reinforced hopper. You can find drawings for that in our How-To’s!
 
-## Part 6: Electronics
+### Part 6: Electronics
 
 ![CAD](assets/cad.png)
 
 Now the mechanical side is pretty much done, next up we will install the electronics (a pretty important part!) We will use 3 different controllers to set temperatures - having multiple heating zones will allow you to have more control over the melting process. First we will need to make a box - you can make it yourself or you can use the drawings provided to laser cut one. Check out the diagrams in the download kit to wire it up.
 
-## Part 7: frame
+### Part 7: frame
 
 ![CAD](assets/cad.png)
 
 Time to make the frame, this part is easy and you can probably do it yourself! If not, check out the How-To’s to build a frame.
 
-## Part 8: Final assembly
+### Part 8: Final assembly
 
 ![CAD](assets/cad.png)
 
 This is the exciting part - you have all the parts ready to make your Extrusion Pro. Make sure to paint it!
 
-## Part 9: Maintenance and how to run
+### Part 9: Maintenance and how to run
 
 This is quite a big topic, so we made another video for this!
 
@@ -123,7 +159,8 @@ This is quite a big topic, so we made another video for this!
   <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## So how does the Extrusion Pro work?
+###
+ So how does the Extrusion Pro work?
 
 It has: 
 - 3 heating controllers
