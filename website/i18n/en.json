@@ -74,7 +74,7 @@
         "sidebar_label": "How-to"
       },
       "done": {
-        "title": "Done?sd",
+        "title": "Done?",
         "sidebar_label": "Finished?"
       },
       "download": {
@@ -145,7 +145,19 @@
         "title": "Styles",
         "sidebar_label": "Styles (temp)"
       },
-      "universe": {
+      "support/chat": {
+        "title": "Chat",
+        "sidebar_label": "chat"
+      },
+      "support/faq": {
+        "title": "FAQ",
+        "sidebar_label": "faq"
+      },
+      "universe/branding": {
+        "title": "Branding",
+        "sidebar_label": "Branding & logo"
+      },
+      "universe/universe": {
         "title": "Universe",
         "sidebar_label": "Universe explained"
       }
@@ -163,7 +175,8 @@
       "7. Spaces": "7. Spaces",
       "8. Research": "8. Research",
       "9.Universe": "9.Universe",
-      "10. Download": "10. Download"
+      "📦 Download": "📦 Download",
+      "💬 Support": "💬 Support"
     }
   },
   "pages-strings": {

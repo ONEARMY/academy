@@ -17,11 +17,9 @@ sidebar_label: 🚫 Shredder
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Install a shredder workspace (paul)
+# Setup a shredder workspace
+Hi. Here you will se how the setup a shredder workspaces. Its a place where the plastic is being shredded, a crucial part of the universe. Because without our shredder there is no plastic to melt.
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
-
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
 
 
 </div>
@@ -41,6 +39,13 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 # Get a shredder
 (refer to the extruder page with some text bazar, machine shop, DIY ) Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+| Checklist   |        |
+|----------|-------------|
+| Space | 6 x 4 Meter |
+| People to run | 2 people |
+| Skillsets needed | 2 people |
+| Power supply | 380V |
+
 
 # Make workspace items (technical drawing)
 (talk about the frames and storage stuff and how we you can make it yourself as well from second hand stuff) Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.

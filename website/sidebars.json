@@ -31,12 +31,11 @@
       "spaces/extrusion",
       "spaces/sheetpress",
       "spaces/mix",
-      "spaces/collectionpoint",
-      "spaces/machineshop",
-      "spaces/communitypoint"
+      "spaces/collectionpoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
-    "9.Universe": ["universe"],
-    "10. Download": ["download", "styles"]
+    "9.Universe": ["universe/universe", "universe/branding"],
+    "📦 Download": ["download"],
+    "💬 Support": ["support/faq", "support/chat", "styles"]
   }
 }
