@@ -3,7 +3,12 @@ id: faq
 title: FAQ
 sidebar_label: faq
 ---
-
+<style>
+:root {
+  --highlight: #e1e1e1;
+  --hover: #e1e1e1;
+}
+</style>
 # Frequently asked questions
 
 ## 💬 General

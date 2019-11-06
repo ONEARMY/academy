@@ -8,8 +8,8 @@ sidebar_label: Download Here
 
 <style>
 :root {
-  --highlight: #f2a5c1;
-  --hover: #f2a5c1;
+  --highlight: #e1e1e1;
+  --hover: #e1e1e1;
 }
 </style>
 

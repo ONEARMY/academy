@@ -3,6 +3,15 @@ id: chat
 title: Chat
 sidebar_label: chat
 ---
+
+<style>
+:root {
+  --highlight: #e1e1e1;
+  --hover: #e1e1e1;
+}
+</style>
+
+
 # Chat & Support
 
 We use Discord to learn from eachother and answer questions..

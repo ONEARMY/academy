@@ -6,6 +6,13 @@ sidebar_label: Styles (temp)
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/dP1s7viFZHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<style>
+:root {
+  --highlight: #f2a5c1;
+  --hover: #f2a5c1;
+}
+</style>
+
 # Styles (to delete)
 
 <div class="videoChapters">

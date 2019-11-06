@@ -9,8 +9,8 @@ sidebar_label: Universe explained
 
 <style>
 :root {
-  --highlight: #e1e1e1;
-  --hover: #e1e1e1;
+  --highlight: #f2a5c1;
+  --hover: #f2a5c1;
 }
 </style>
 
