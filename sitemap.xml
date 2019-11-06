@@ -35,5 +35,8 @@
 <url> <loc>https://onearmy.github.io/academy/spaces/sheetpress</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/spaces/sheetpress" /> </url>
 <url> <loc>https://onearmy.github.io/academy/spaces/shredder</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/spaces/shredder" /> </url>
 <url> <loc>https://onearmy.github.io/academy/styles</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/styles" /> </url>
-<url> <loc>https://onearmy.github.io/academy/universe</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/universe" /> </url>
+<url> <loc>https://onearmy.github.io/academy/support/chat</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/support/chat" /> </url>
+<url> <loc>https://onearmy.github.io/academy/support/faq</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/support/faq" /> </url>
+<url> <loc>https://onearmy.github.io/academy/universe/branding</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/universe/branding" /> </url>
+<url> <loc>https://onearmy.github.io/academy/universe/universe</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://onearmy.github.io/academy/universe/universe" /> </url>
 </urlset>
