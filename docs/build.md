@@ -15,15 +15,16 @@ sidebar_label: ✅ Intro
 }
 </style>
 
+# Building Machines 
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Build (video could be improved)
+### Welcome to the fun part.
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+It's time to build machines! In this section we’ll take you through all the machines we have developed at Precious Plastic - the original and beginner-friendly Shredder, Injection, Compression and Extrusion and the more robust machines we’ve developed in Version 4 - the Sheetpress, Shredder Pro and Extrusion Pro 💪 
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+> Tip: focus on one machine, set of skills and output. Master that and become an expert in the Precious Plastic Universe!
 
 
 </div>
@@ -40,17 +41,24 @@ Let’s start from the beginning: what is plastic? Where does it come from, how 
 
 </div>
 </div>
+<br>
+We outline how to build each machine and where to source parts, as well as the machinery and skills needed to get up and running. The videos go in depth about each build, and everything you need is in the download pack for each machine. 
 
+## Why are these machines important? 
 
+We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic. So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable. his inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
 
-building stuff
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Tip: use the map to see which machines are in your local area!
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
-[documentation](https://docusaurus.io)
+### Our machines are modular meaning that each part is independent and can be replaced, improved, changed, repaired and maintained individually without affecting the overall machine. And you can freestyle and build it the way you want it! They are also meant for small scale production. 
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+- Shredder
+- Extrusion
+- Compression
+- Injection
+- Sheet Press
+- Shredder Pro
+- Extrusion Pro
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+The underlying principle behind the machines is the same for all (except the shredder). Each machine applies heat to plastic, plastic melts, gets pressed into a mould or shape and is finally cooled to regain its solid state. That’s all the magic behind recycling. Pretty simple, right? Each machine is unique with its own workflows, outcomes, precautions, behaviours and problems but the fundamental concept is the same. The more you’ll work with them, the more you’ll understand them and get better at recycling. So let’s dive in!
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.

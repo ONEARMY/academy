@@ -23,7 +23,7 @@ sidebar_label:✅ The Basics of Plastic
 
 What is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? Here we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is.`
+> Tip: look under your plastic product and see if you can recognize what type of plastic it is.
 
 
 </div>
@@ -59,7 +59,9 @@ So, you can find it everywhere in the world, and it ends up in places we definit
 
 ![PP Image](assets/ppimage.jpg)
 
-We produce X amount of new plastic every year, which is not very smart, especially when we have so much already existing material that we can use. Virgin plastic is made from oil, a valuable fossil fuel which we’re running out of, and it’s used to make cheap products which are meant to be discarded after a very short time of usage. . This isn’t very smart. And, as less than 10% of plastic is actually recycled, most of all this newly produced plastic ends up in landfills, the ocean, or is burnt. Huh?
+### We produce 300 million metric tonnes of new plastic every year 🤯
+
+Which is not very smart, especially when we have so much already existing material that we can use. Virgin plastic is made from oil, a valuable fossil fuel which we’re running out of, and it’s used to make cheap products which are meant to be discarded after a very short time of usage. . This isn’t very smart. And, as less than 10% of plastic is actually recycled, most of all this newly produced plastic ends up in landfills, the ocean, or is burnt. Huh?
 
 So, how do we solve this? Well, it’s time to get recycling!
 
@@ -85,77 +87,77 @@ The most common ones are:
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-pet.svg" width="80"/>
 
-### PET (1) (polyethylene terephthalate
+### PET (1): Polyethylene terephthalate
 
 PET is a very strong plastic that can be easily recognised for its transparent look - all water and soda bottles are made from PET as well as some jars, combs, bags, tote bags, carpets and ropes, and is recycled more commonly. Recently, PET has been recycled into yarns and made into clothes.  This plastic is a bit more complex to work with, we advise to start with other plastics.
 
-<b> Properties:</b> some properties here<br>
+<b>Properties:</b> lightweight, impact resistant, rigid/semi-rigid<br>
 <b>Pros:</b> strong and stiff, water and oxide barrier, good electrical properties<br>
 <b>Cons:</b> high mold shrinkage, heat degradation, harmful fumes<br>
 <b>Safety:</b> Medium<br>
-<b>Warning:</b> harmful fumes during processing, some research suggesting harmful materials seeping through long term use<br>
+<b>Warning ⚠️</b> harmful fumes during processing, some research suggesting harmful materials seeping through long term use<br>
 <b>Common uses:</b> blow molded bottles (water bottles, soda/juice bottles), wrapping, film, electrical fittings<br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines:</b> we're working on that!
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-hdpe.svg" width="80"/>
 
-### HDPE (2) (high-density polyethylene)
+### HDPE (2): High-density polyethylene
 HDPE is often used for food and drink containers, as well as milk bottles, motor oil, shampoo bottles, soap bottles, detergents, bleaches, toys and bottle caps. Products of this plastic types are often easier to collect sorted and clean. HDPE works very well with Precious Plastic machines and is great to start with!
 
-<b> Properties:</b> some properties here<br>
+<b> Properties:</b> inert, thermally stable, tough and high tensile strength<br>
 <b>Pros:</b> cheap, high chemical resistance, electrical properties, waxy feel, good friction behaviour<br>
 <b>Cons:</b> less stiff than PP, easy to burn, poor UV resistance, high mold shrinkage<br>
 <b>Safety:</b> Good<br>
-<b>Warning:</b> HDPE itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.<br>
+<b>Warning ⚠️</b> HDPE itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.<br>
 <b>Common uses:</b> pipes, toys, bowls, crates, packing film<br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines:</b> HDPE works very similar to PP, low melting temperature and easy to mould. Great material to use!
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-pvc.svg" width="80"/>
 
-### PVC (3) (polyvinyl chloride)
+### PVC (3): Polyvinyl chloride
 PVC is toxic and we do not work with it. It is most commonly found in plumbing pipes and releases chloride when heated up - we do not recommend using with Precious Plastic machines!
 
-<b> Properties:</b> some properties here<br>
+<b> Properties:</b> insulating, chemically inert<br>
 <b>Pros:</b> cheap, acid and alkali resistance, flame retardant, stiff and strong<br>
 <b>Cons:</b> overheating causes degradation, brittle below 0°C, discolour in strong UV light, high density for thermoplastic, HCL and dioxins when burned<br>
 <b>Safety:</b> Not safe - do not use<br>
-<b>Warning:</b> dangerous fillers and release of HCL and dioxins during degradation or burning.<br>
+<b>Warning ⚠️</b> dangerous fillers and release of HCL and dioxins during degradation or burning.<br>
 <b>Common uses:</b> Flexible: fake leather, seals, cable covers, tape. Rigid: pipes, building products, bottes, film, soles, heat-shrinking tubes
 <br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines: don't use it! </b>
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-ldpe.svg" width="80"/>
 
-### LDPE (4) (low-density polyethylene)
+### LDPE (4): Low-density polyethylene
 LDPE is largely used for plastic wrap, sandwich bags, squeezable bottles, and plastic grocery bags.  Usually LDPE is not commonly recycled, as it is often not labeled, it’s too light and tends to be more difficult to clean, but works rather well with Precious Plastic techniques. A popular recycling technique for plastic bags is ironing them into a more durable textile.
 
-<b> Properties:</b> some properties here<br>
+<b> Properties:</b> chemically inert, flexible, insulating<br>
 <b>Pros:</b> cheap, chemical and hydrolysis resistance, high impact strength (low temp), good processability <br>
 <b>Cons:</b> low tensile strength, low stiffness, low max temp, burns easily, poor UV resistance, high mold shrinkage<br>
 <b>Safety:</b> Good<br>
-<b>Warning:</b> LDPE itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.<br>
+<b>Warning ⚠️</b> LDPE itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.<br>
 <b>Common uses:</b> bowls, lids, toys, containers, fim, squeeze bottles, pipes, bags, sheets
 <br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines:</b> LDPE is often a foil and not ideal to shred. But its good to fuse together with [iron](https://www.youtube.com/watch?v=Pp4vmfVlm2k) or used to create [marble.](https://www.youtube.com/watch?v=LV6Zp9i0mOc)
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-pp.svg" width="80"/>
 
-### PP (5) (polypropylene)
-PP is one of the most commonly available plastics on the market, it is strong and can usually withstand higher temperatures. PP has a wide variety of uses but is consistently used for products that get in contact with food and drink - tupperware, yoghurt boxes, syrup bottles etc. PP works very well with Precious Plastic..
+### PP (5): Polypropylene
+PP is one of the most commonly available plastics on the market, it is strong and can usually withstand higher temperatures. PP has a wide variety of uses but is consistently used for products that get in contact with food and drink - tupperware, yoghurt boxes, syrup bottles etc. PP works very well with Precious Plastic.
 
 <b> Properties:</b> some properties here<br>
 <b>Pros:</b> like PE but stronger, stuffer and higher temp and lower density, mechanical, thermal and electrical performance result in a low cost engineering plastic <br>
 <b>Cons:</b> higher cost than PE, brittle below 0°C, high permeability to gases, poor resistance to fuels, poor UV resistance, keeps burning<br>
 <b>Safety:</b> Good<br>
-<b>Warning:</b> PP itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.
+<b>Warning ⚠️</b> PP itself (when not burning) is not dangerous to use, however additives can be dangerous. It’s not possible to see what kind of additives are used in products.
 <br>
 <b>Common uses:</b> structural parts, pipes, toys, chairs, kitchenware, DVD cases, packaging, films, textile, carpets, rope, netting
 <br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines: </b>Works well with all machines! We love polypropylene!
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-ps.svg" width="80"/>
 
-### PS (6) (polystyrene)
+### PS (6): Polystyrene
 
 PS is most commonly known as Styrofoam, but also appears in many more products. PS can be recycled, but not efficiently - recycling it takes a lot of energy which means that few places accept it. Disposable coffee cups, plastic food boxes, plastic cutlery and packing foam are made from PS - it works very well with Precious Plastic. It is one of the more toxic plastic types (so special attention please!), but at the same time offers great aesthetic and haptic properties as it is comparable with glass and can be polished.
 Properties: clear, glossy, hard, stiff
@@ -164,35 +166,36 @@ Properties: clear, glossy, hard, stiff
 <b>Pros:</b> cheap, low mould shrinkage, good insulator, good on low temp <br>
 <b>Cons:</b> Brittle, poor wear resistance, poor chemical resistance<br>
 <b>Safety:</b> Medium<br>
-<b>Warning:</b> While burning PS, styrene can be released (toxic)<br>
+<b>Warning ⚠️</b> While burning PS, styrene can be released (toxic)<br>
 <b>Common uses:</b> Toys, CD cases, light diffusers, electric housings, cutlery
 <br>
-<b>Best ways to use with PP machines: </b>
+<b>Best ways to use with PP machines: </b>extrusion, sheets, polishing (glasslike material)
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-other.svg" width="80"/>
 
 ### MIX (7)
 This code is used to identify other types of plastic that are not defined by the other six plastic types. Plastics such as. ABS, Acrylic or Polycarbonate are included in this category and can be difficult to recycle, however Precious Plastic can work with some of this.
 
-<b> Properties:</b> <br>
-<b>Pros:</b>  <br>
-<b>Cons:</b> <br>
-<b>Safety:</b> <br>
+<b> Properties:</b>As this includes a lot of different plastic types, the properties can vary a lot. So, it depends which type of plastic it is. If you can identify then you can reuse it but if it's mixed, it's chaos
+ <br>
+<b>Pros:</b> There are some good plastics in here to work with. ABS, PLA, Nylon. <br>
+<b>Cons:</b> Hard to identify since they often don’t have their own label. So it gets mixed and is chaotic 🌪️<br>
+<b>Safety:</b> Hard to find the melting temperature, especially if it's mixed. So you can easily end up burning it. So, not that safe.
+<br>
 <b>Warning:</b>Some of the plastic types included here (like PC) release very toxic fumes. Make sure to inform yourself about the plastic type you want to work with, and test its properties before processing it in masses. <br>
 <b>Common uses:</b>PC (CDs & DVDs…), PLA (bioplastics), ABS (3D-printing filament, toys, electronic products…), PMMA (acrylic glass)
 <br>
-<b>Best ways to use with PP machines: </b>
 
 # Mixing Plastic
+
+<i>< illustration: don't mix plastic ></i>
 
 Different plastic types should never be mixed together as this will decrease their quality drastically and make it very difficult to recycle them. Moreover, when different types of plastics are melted together they tend to phase-separate, like oil and water, and set in layers resulting in structural weakness and lower quality products.
 
 # Melting temperatures
 
-So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you!
+So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you! You can find more about specific melting temperatures in the <b>CREATE</b> section (head to <i>Design</i>). But it’s important to remember the different types of plastic, so we’ve made this handy poster for your workspace or studio. <br>
 
-We have created this poster (hi-res in the download kit) to illustrate the melting temperatures of different types of plastic. Dig it, print it and hang it up in your workspace!
-
-![PP Image](assets/melting-temperatures.jpg)
+![PP Image](assets/ppimage.jpg)
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.
