@@ -27,3 +27,6 @@ window.addEventListener("load", function() {
     controlsText: ["<", ">"]
   });
 });
+// On every page load emit the current pathname
+// for use in iframe embeds
+parent.postMessage({ pathname: location.pathname }, "*");
