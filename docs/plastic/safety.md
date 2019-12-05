@@ -24,7 +24,9 @@ sidebar_label: ✅ Safety and Fumes
 
 Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic. 
 
-> Tip: try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/> 
+
+Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
 
 
 </div>

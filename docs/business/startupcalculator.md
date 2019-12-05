@@ -182,6 +182,11 @@ The problem with designing a business tool to be applicable all across the world
 
 ### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
 
+#### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
+
+
+
+
 
 
 

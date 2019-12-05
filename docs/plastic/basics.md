@@ -23,8 +23,8 @@ sidebar_label:✅ The Basics of Plastic
 
 What is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? Here we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-> Tip: look under your plastic product and see if you can recognize what type of plastic it is.
-
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
+Look under your plastic product and see if you can recognize what type of plastic it is.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -41,13 +41,11 @@ What is plastic? Where does it come from, how much do we use, and what is recycl
 </div>
 </div>
 
-# What is plastic?
+## What is plastic?
 
 Plastic is everywhere around us.
 
-![PP Image](assets/ppimage.jpg)
-
-(pics of plastic - jerry cans, flower pots, containers, etc)
+![PP Image](assets/plastic_illustration.jpg)
 
 The word plastic is in our mouth day in and day out, but what does it really mean? The word itself is derived from the Greek plastikos meaning “capable of being shaped or moulded” and refers to their malleability during manufacture that allows plastic to be cast, pressed or extruded into a variety of shapes—like films, fibres, plates, tubes, bottles and much more.
 
