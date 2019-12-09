@@ -4,22 +4,30 @@ title: Setup a Shredder Workspace
 sidebar_label: 🚫 Shredder
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="blank" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
 :root {
-  --highlight: #37b4a3;
-  --hover: #37b4a3;
+  --highlight: #ffe084;
+  --hover: #ffe084;
 }
 </style>
+
+# Shredder Workspace
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Setup a shredder workspace
-Hi. Here you will se how the setup a shredder workspaces. Its a place where the plastic is being shredded, a crucial part of the universe. Because without our shredder there is no plastic to melt.
+### Without it, there’s no plastic to melt. 
 
+Heyo! So, you want to set up a shredder workspace. Awesome. The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps: 
+
+<b>1. SEARCH:</b> what to think about when choosing your space<br>
+<b>2. PLAN:</b>  laying out your space effectively<br>
+<b>3. BUILD:</b>  transforming an empty room into a shredder workspace
+
+Each of these steps is explained in more detail below.
 
 
 </div>
@@ -27,52 +35,73 @@ Hi. Here you will se how the setup a shredder workspaces. Its a place where the 
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 00:00 Introduction 
+- 00:29 Melting Temps 
+- 01:33 Make Moulds 
+- 03:00 Create with Injection 
+- 04:13 Create with Extrusion 
+- 06:02 Create with Compression
+
 
 
 </div>
 </div>
 
-# Get a shredder
-(refer to the extruder page with some text bazar, machine shop, DIY ) Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
-| Checklist   |        |
-|----------|-------------|
-| Space | 6 x 4 Meter |
-| People to run | 2 people |
-| Skillsets needed | 2 people |
-| Power supply | 380V |
+
+## SEARCH
+
+The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
 
-# Make workspace items (technical drawing)
-(talk about the frames and storage stuff and how we you can make it yourself as well from second hand stuff) Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+Size: It’s important to be sure that you have enough space to move around freely with your machines and tools. The shredder space we designed is roughly 4 x 6 meters – you can go larger, but we wouldn’t recommend going much smaller.
+ 
+Electricity: The Shredder Pro runs on three-phase power, so be sure you’ll have access to this in your space.
 
-# Workspace overview
-
-| Checklist   |        |
-|----------|-------------|
-| Step #1 | Find a space |
-| Step #2 | Find a workmate, use our discord   |
-| Step #3 | Get a Shredder. Find on our map, build yourself or buy on the bazar. |
-| Step #4 | Find storage containers|
-| Step #5 | Make items to organise your space |
-| Step #6 | Print labels |
-| Step #7 | Connect with a local collector |
-| Step #8 | Shred Plastic & sell on the bazar |
+Budget: While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. Pro tip: Sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
 
 
-# This is also a starterkit
-We've also designed starterkits to make it easier for people like you to setup a Shredder workspace as a sustainable business. It contains all the information you need, technical drawings, business calculators, floorplans, technical drawings etc. Visit this page to find the complete package for this workspace.
+## PLAN
+
+You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan. 
+
+Every space is different, so this is a chance for you to customize your layout to make it work for you.
+
+To help you begin, we’ve included some starter floor plans, CAD models, and a custom floor planner in the download kit, which you can use to explore different layouts before diving into the real thing.
+
+<i><< image of custom floor planner being used >></i>
+
+Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
 
 
-# 💫 Useful Links
+## BUILD
 
-- For questions go and chat in our Discord (discord #channel)
-- Visit our starterkits to setup a complete shredder workspace (starterkits)
-- Sell or buy machines on our bazar (bazar)
-- Find a local machine shop on our map (map)
-- Compare with our small shredder (small shredder)
-- Visit our how-to's for upgrades and hacks (how to)
+Now that your floor plan is blocked out, it’s time to transform your empty room into a shredder workspace.
+
+Begin with basics
+
+Start with your most essential items - shredder, workbench, basic tools – then build out from there as you start to see what suits your workflow best. 
+
+> Pro Tip: it’s nice to keep your workspace furniture on wheels so that you can easily move it around as needed
+
+When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
+
+If what you need isn’t available secondhand, buy new or build.
+
+Some essential items to get you started:
+
+- Shredder - of course
+- Pre-shredded plastic storage containers - bags work well, might depend on how you collect your plastic
+- Shredded plastic storage containers - make sure they’re sturdy. Nice if they fit under the shredder and can be stored directly after shredding to eliminate the need of pouring shredded plastic from one container to another. Keeps types and colors pure. Clear is nice, but not required.
+- Plastic beam or large rubber - mallet for pushing plastic into shredder when needed
+- Assembly tools for cleaning between shreds - wrenches, allen keys, mallet
+- Stiff-bristled brush - to clean the blades
+
+
+Once you’ve got your basics covered, start working with the shredder to develop your workflow and see what else might help you work more efficiently and comfortably. 
+
+And don’t be afraid to spice the place up with your own unique charm! Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in.
+
+## SHARE
+
+You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space.
+

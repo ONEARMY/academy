@@ -4,23 +4,63 @@ title: Spaces
 sidebar_label: Intro
 ---
 
+<div class="videocontainer">
+  <iframe width="800" height="400" src="blank" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <style>
 :root {
-  --highlight: #37b4a3;
-  --hover: #37b4a3;
+  --highlight: #ffe084;
+  --hover: #ffe084;
 }
 </style>
 
-# Workspaces intro
+# Precious Plastic Spaces 
 
-networking stuff
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+### So, you want to set up a workspace - nice! 
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working. To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind. 
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+In the following chapters you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace. 
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+
+
+</div>
+<div class="videoChaptersSidebar">
+
+### Video Chapters
+
+- 00:00 Introduction 
+- 00:29 Melting Temps 
+- 01:33 Make Moulds 
+- 03:00 Create with Injection 
+- 04:13 Create with Extrusion 
+- 06:02 Create with Compression
+
+
+
+</div>
+</div>
+
+
+Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working. 
+
+To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind.
+x
+In the following chapters (sections, whats proper wording?) you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace. 
+
+As you work, there are a few general things to keep in mind:
+
+<b>1. Work together.</b> Find a teammate. Having someone to share tasks with makes the work more fun and easier to handle. It’s best if you and your teammate have complementary skillsets – engineer + businesswoman, for example.
+
+<b>2. Customize.</b> Your context (space, location, products) will affect the way you set up your workspace. Use the plans here as a starting point, and always be on the lookout for ways that you can adapt them to better suit your needs.
+
+
+<b>3. Keep it simple.</b> We recommend starting with the most basic elements of your workspace (machine, workbench, basic tools) and building out from there as you start to work with your machine. This way, you’ll build and buy only what suits your needs.
+
+<b>4. Welcoming.</b> Your workspace is more than a recycling center - it’s a tool for cultural change. Take care of the little details to make it an enjoyable place to be for you, your team, and visitors who pass by.
+
+Ok, ready to get started? Check out the next chapters to learn about how to set up your workspace.
