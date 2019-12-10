@@ -369,6 +369,7 @@ button.tns-nav-active {
 a.edit-page-link {
   float: none;
   padding: 8px;
+  display: none;
 }
 header.postHeader {
   text-align: right;
