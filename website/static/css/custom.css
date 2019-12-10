@@ -60,6 +60,7 @@ a {
   color: $defaultFontColor;
   margin-left: -4px;
 }
+
 .toc .toggleNav .navGroup ul li.navListItem {
   position: relative;
   z-index: 1;
@@ -273,26 +274,8 @@ article code:before {
   display: flex;
 }
 
-.videoChaptersMain {
-  width: 75%;
-  margin-right: 5%;
-}
-
-.videoChaptersSidebar ul {
-  margin: 0;
-  padding: 0;
-  text-indent: 0;
-  list-style-type: none;
-}
-
-.videoChaptersSidebar li {
-  color: #bababa;
-  font-size: 13px;
-  margin-bottom: 15px;
-}
-
-.videoChaptersSidebar li:last-child {
-  margin-bottom: 0;
+.videoChaptersSidebar {
+  display: none;
 }
 
 .tns-outer {
@@ -404,13 +387,14 @@ header.postHeader {
   margin-bottom: 0 !important;
 }
 
-
-table th, table td {
-  padding: .5rem;
+table th,
+table td {
+  padding: 0.5rem;
   vertical-align: top;
 }
 
-table tr, table tr:nth-child(2n) {
+table tr,
+table tr:nth-child(2n) {
   background-color: white;
 }
 
@@ -419,16 +403,13 @@ table {
 }
 
 hr {
-    border-color: #000;
-    border-style: solid;
-    border-width: 2px;
-    border-radius: 4px;
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 4px;
 }
 
-/*  */
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
-}
-
+/* Desktop and up */
 @media only screen and (min-width: 1024px) {
   .toc {
     padding: 50px 0;
@@ -444,5 +425,34 @@ hr {
 
   .wrapper {
     padding: 0 50px;
+  }
+}
+
+/* Tablet (think iPad) and up */
+@media only screen and (min-device-width: 768px) {
+  .videoChaptersMain {
+    width: 75%;
+    margin-right: 5%;
+  }
+
+  .videoChaptersSidebar {
+    display: block;
+  }
+
+  .videoChaptersSidebar ul {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    list-style-type: none;
+  }
+
+  .videoChaptersSidebar li {
+    color: #bababa;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .videoChaptersSidebar li:last-child {
+    margin-bottom: 0;
   }
 }
