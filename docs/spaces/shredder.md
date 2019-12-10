@@ -19,9 +19,9 @@ sidebar_label: 🚫 Shredder
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Without it, there’s no plastic to melt. 
+### Without it, there’s no plastic to melt.
 
-Heyo! So, you want to set up a shredder workspace. Awesome. The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps: 
+Heyo! So, you want to set up a shredder workspace. Awesome. The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps:
 
 <b>1. SEARCH:</b> what to think about when choosing your space<br>
 <b>2. PLAN:</b>  laying out your space effectively<br>
@@ -35,11 +35,11 @@ Each of these steps is explained in more detail below.
 
 ### Video Chapters
 
-- 00:00 Introduction 
-- 00:29 Melting Temps 
-- 01:33 Make Moulds 
-- 03:00 Create with Injection 
-- 04:13 Create with Extrusion 
+- 00:00 Introduction
+- 00:29 Melting Temps
+- 01:33 Make Moulds
+- 03:00 Create with Injection
+- 04:13 Create with Extrusion
 - 06:02 Create with Compression
 
 
@@ -54,7 +54,7 @@ The first step of setting up a workspace is to find a space (duh). While searchi
 
 
 Size: It’s important to be sure that you have enough space to move around freely with your machines and tools. The shredder space we designed is roughly 4 x 6 meters – you can go larger, but we wouldn’t recommend going much smaller.
- 
+
 Electricity: The Shredder Pro runs on three-phase power, so be sure you’ll have access to this in your space.
 
 Budget: While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. Pro tip: Sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
@@ -62,7 +62,7 @@ Budget: While making sure your space meets your functional needs, it’s also im
 
 ## PLAN
 
-You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan. 
+You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan.
 
 Every space is different, so this is a chance for you to customize your layout to make it work for you.
 
@@ -79,9 +79,9 @@ Now that your floor plan is blocked out, it’s time to transform your empty roo
 
 Begin with basics
 
-Start with your most essential items - shredder, workbench, basic tools – then build out from there as you start to see what suits your workflow best. 
+Start with your most essential items - shredder, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
 
-> Pro Tip: it’s nice to keep your workspace furniture on wheels so that you can easily move it around as needed
+`It’s nice to keep your workspace furniture on wheels so that you can easily move it around as needed`
 
 When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
 
@@ -97,7 +97,7 @@ Some essential items to get you started:
 - Stiff-bristled brush - to clean the blades
 
 
-Once you’ve got your basics covered, start working with the shredder to develop your workflow and see what else might help you work more efficiently and comfortably. 
+Once you’ve got your basics covered, start working with the shredder to develop your workflow and see what else might help you work more efficiently and comfortably.
 
 And don’t be afraid to spice the place up with your own unique charm! Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in.
 
