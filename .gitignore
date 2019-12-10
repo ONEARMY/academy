@@ -1,5 +1,5 @@
 **/node_modules
-**/build
+website/**/build
 .node-version
 .DS_Store
 docs/research.md

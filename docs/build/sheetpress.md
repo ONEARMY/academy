@@ -22,7 +22,7 @@ sidebar_label: 🚫🚫 Sheetpress
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+`Look under your plastic product and see if you can recognize what type of plastic it is`
 
 
 </div>
