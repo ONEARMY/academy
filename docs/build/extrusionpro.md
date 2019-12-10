@@ -20,9 +20,9 @@ sidebar_label:✅ Extrusion Pro
 
 # Build an Extrusion Pro
 
-Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass). 
+Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-`Pro tip: understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
+`Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
 
 
 </div>
@@ -37,7 +37,7 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 - 00.36 5 Hopper
 - 00.36 6 Electronics
 - 00.36 7 Frame
-- 00.36 8 Final assembly 
+- 00.36 8 Final assembly
 - 00.36 9 Maintenance and how to run
 
 
@@ -50,7 +50,7 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 ### Machinery needed:
 - Lathe
 - Milling machine
-- Drill press 
+- Drill press
 - Welding machine (not specific)
 - Torq spanner
 
@@ -69,12 +69,12 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 - Plastic Processing: 200kg/day for bottle caps (5 hours of shredding)
 - Granule Output: 10x10mm
 
-### Input: 
-Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics] 
+### Input:
+Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics]
 
-### Outcomes: 
+### Outcomes:
 Example A : bottle caps - shredded 3 times - 10x10mm granulates = 200kg/day (5 hours of shredding)
-Example B : 
+Example B :
 
 ### Pros:
 
@@ -91,14 +91,14 @@ Part 4: Motor adapter<br>
 Part 5: Hopper<br>
 Part 6: Electronics<br>
 Part 7: Frame<br>
-Part 8: Final assembly<br> 
+Part 8: Final assembly<br>
 Part 9: Maintenance and how to run<br>
 
 ### Part 1: Bearing body shaft
 
 ![CAD](assets/cad.png)
 
-This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.  
+This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.
 
 1. Bearing housing
 2. Transition piece (lassen)
@@ -107,7 +107,7 @@ This is the part that connects the motor to the extruder, the main function is t
 
 Once all of these parts are ready we can assemble them together.
 
-### Part 2: Barrel inlet 
+### Part 2: Barrel inlet
 
 ![CAD](assets/cad.png)
 
@@ -162,7 +162,7 @@ This is quite a big topic, so we made another video for this!
 ###
  So how does the Extrusion Pro work?
 
-It has: 
+It has:
 - 3 heating controllers
 - Main switch
 - Safety switch
