@@ -44,7 +44,7 @@ The injection machine has a quick production output with high precision, while i
 </div>
 </div>
 
-
+![PP Image](assets/injection.jpg)
 
 # 📓 Technical information
 

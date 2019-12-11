@@ -21,9 +21,7 @@ sidebar_label: ✅ Shredder
 
 The shredder is the backbone of Precious Plastic, it allows you to shred plastic into small flakes - you can easily wash and store shredded plastic and transport it to other Precious Plastic workspaces to make into beautiful, valuable products. Of course you can also use the plastic yourself or sell clean, separated plastic within the industry (which buys it at 8-10 times higher than unshredded plastic!)
 
-`if you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material.`
-
-`Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.`
+`If you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material. `
 
 </div>
 <div class="videoChaptersSidebar">
@@ -40,7 +38,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 </div>
 </div>
 
-
+![PP Image](assets/shredder2.jpg)
 
 # 📓 Technical information
 
@@ -57,6 +55,14 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 - Nominal Torque | 1100 Nm minimum - 2000 Nm max
 - Output Speed | ±70 r/min
 - Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
+
+<br>
+
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
+<br>
+Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
+
+<br>
 
 # 🛠 Required machinery & skills
 

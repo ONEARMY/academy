@@ -42,7 +42,7 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 </div>
 </div>
 
-
+![PP Image](assets/compression.jpg)
 
 # 📓 Technical information
 

@@ -47,6 +47,8 @@ Collecting plastic is pretty crucial - no collecting, no recycling! Here we’ll
 
 # Waste Collection
 
+<i> << 23. illustration >> </i>
+
 On a daily basis we buy, use and generate a huge amount of plastic. Once this plastic is used, usually for a very short time, it’s discarded. Depending on where you live, you might drop it off at a local recycling point or they’ll collect it from your home to take it to further processing. This is normally where the problems begin.
 
 But why - it’s being recycled, right? Well, the plastic that people throw in their recycling bin is unsorted, usually dirty and often mixed with other materials (the soda bottle with the film label, for example). As we’ve learnt already, separating plastics is fundamental to proper recycling and well, they aren’t going to do it for us. Industrial sorting is possible, with infrared scanning, water density techniques and hand picking, but it’s no way near efficient enough to sort through the 348 million metric tons that is produced every year. Yup. 
@@ -54,6 +56,8 @@ But why - it’s being recycled, right? Well, the plastic that people throw in t
 ### Ok. That’s grim. So what happens to it?
 
 Sometimes, the plastic is recycled. As you’ve probably read somewhere, it’s around 9%. It needs to go through a very complex, expensive, time-consuming and energy-intensive process and most countries don’t even have this option to do so.
+
+<i> << 24. burnt / landfill / ocean >> </i>
 
 The other, more likely scenario is that plastic is either burnt, sent to a landfill, dumped in the ocean, or sent on a cargo ship to Asia or Africa (where they certainly don’t have the infrastructure to deal with it). These solutions cause huge environmental damage and social oppression. Have you ever caught yourself thinking - I don’t see any rubbish anywhere! Our streets in western countries are clean. But some places in Asia, Africa, it’s often seen as dirty and littered - it’s everywhere in the ocean and they burn it on the streets. That’s because collection systems have to be subsidized by the state through taxpayer money which is just not doable in many places. But don’t get this one mixed up - the west is still the biggest producer of plastic waste on the planet. And on top of this, collection systems worldwide are not standardized. Every country and municipality within that country have different regulations. This leaves people very confused (including us).
 
@@ -72,6 +76,8 @@ There are numerous challenges connected with the way plastic is currently collec
 You probably know by know, but Precious Plastic is focused on citizens: people, just like us, just like you, taking action. We invite you to become more involved in your plastic waste and become part of the solution. By providing the information and infrastructure, community can be a tool for change.
 
 So how does this work for collecting plastic? Great question 😉
+
+![PP Image](assets/collection.jpg)
 
 <i>When we say citizens, we mean everyone in society. When we say people in our community, we mean those that have become part of the Precious Plastic community (and if you haven’t already, join us!)</i>
 
@@ -97,6 +103,9 @@ Are you in? We hope so! We’ve developed a bunch of tools for citizens, as well
 For citizens we have a website that will teach them about the Precious Plastic recycling system, how to clean plastic and how to use the map so they can find their local drop off point. 
 
 For people in our community we’re developed: 
+
+<i> << 25. starterkit/platform/posters/weighing tool >> </i>
+
 - A starter-kit: if you’re interested in becoming a collection point this will give you everything you need to get started
 - A platform to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
 - Posters for your workspace or for your community to help spread the word

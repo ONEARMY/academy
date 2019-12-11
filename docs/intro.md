@@ -37,7 +37,10 @@ We've made this section of videos, tutorials and content to share the most cruci
 </div>
 </div>
 
+
 ### But wait - why did you do this? And why is it all for free?
+
+<i> << 1. open source online for free >> </i>
 
 At Precious Plastic we want to show the world the incredible opportunities of plastic waste in order to eliminate plastic pollution, reducing the demand for new virgin plastic and closing its materials loop while creating better livelihoods for people around the world. Precious Plastic is, above all, a cultural tool to change the way society perceives plastic.
 
