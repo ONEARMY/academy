@@ -5,12 +5,23 @@
     "3. Build": [
       "build",
       "build/shredder",
-      "build/injection",
-      "build/compression",
       "build/extrusion",
       "build/sheetpress",
-      "build/shredderpro",
-      "build/extrusionpro"
+      {
+        "type": "subcategory",
+        "label": "Shredder Pro",
+        "ids": ["build/shredderpro", "build/injection", "build/compression"]
+      },
+      {
+        "type": "subcategory",
+        "label": "Extrusion Pro",
+        "ids": [
+          "build/extrusionpro",
+          "build/extrusionpro/first",
+          "build/extrusionpro/specifications",
+          "build/extrusionpro/runit"
+        ]
+      }
     ],
     "4. Collect": ["collect"],
     "5. Create": [
@@ -34,7 +45,7 @@
       "spaces/collectionpoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
-    "9.Universe": ["universe/universe", "universe/branding"],
+    "9. Universe": ["universe/universe", "universe/branding"],
     "📦 Download": ["download"],
     "💬 Support": ["support/faq", "support/chat", "styles"]
   }
