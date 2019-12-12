@@ -21,6 +21,10 @@
         "title": "Build an extrusion Pro",
         "sidebar_label": "✅ Extrusion Pro"
       },
+      "build/extrusionpro/extrusionpro": {
+        "title": "Build an extrusion Pro",
+        "sidebar_label": "➡️ Extrusion Pro"
+      },
       "build/injection": {
         "title": "Build an Injection Machine",
         "sidebar_label": "✅ Injection"
