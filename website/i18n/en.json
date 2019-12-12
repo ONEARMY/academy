@@ -7,35 +7,59 @@
     "docs": {
       "build": {
         "title": "Build",
-        "sidebar_label": "✅ Intro"
+        "sidebar_label": "Intro"
       },
       "build/compression": {
         "title": "Build an compression Machine",
-        "sidebar_label": "✅ Compression"
+        "sidebar_label": "Compression"
       },
       "build/extrusion": {
         "title": "Build an Extrusion Machine",
-        "sidebar_label": "✅ Extrusion"
+        "sidebar_label": "Extrusion"
       },
       "build/extrusionpro": {
+        "title": "Extrusion Pro Specifications",
+        "sidebar_label": "- Specifications"
+      },
+      "build/extrusionprobuild": {
         "title": "Build an extrusion Pro",
-        "sidebar_label": "✅ Extrusion Pro"
+        "sidebar_label": "- Extrusion Pro"
+      },
+      "build/extrusionprorun": {
+        "title": "Build an extrusion Pro",
+        "sidebar_label": "- Run it"
       },
       "build/injection": {
         "title": "Build an Injection Machine",
-        "sidebar_label": "✅ Injection"
+        "sidebar_label": "Injection"
       },
       "build/sheetpress": {
-        "title": "Build a Sheetpress",
-        "sidebar_label": "🚫🚫 Sheetpress"
+        "title": "Sheetpress Pro Specifications",
+        "sidebar_label": "- Specifications"
+      },
+      "build/sheetpressbuild": {
+        "title": "Build a Sheetpress Pro",
+        "sidebar_label": "- Build it"
+      },
+      "build/sheetpressrun": {
+        "title": "Run a Sheetpress",
+        "sidebar_label": "- Run it"
       },
       "build/shredder": {
         "title": "Build a Shredder Machine",
-        "sidebar_label": "✅ Shredder"
+        "sidebar_label": "Shredder"
       },
       "build/shredderpro": {
+        "title": "Shredder Pro Specifications",
+        "sidebar_label": "- Specifications"
+      },
+      "build/shredderprobuild": {
         "title": "Build a Shredder Pro",
-        "sidebar_label": "🚫🚫 Shredder Pro"
+        "sidebar_label": "- Build"
+      },
+      "build/shredderprorun": {
+        "title": "Run a Shredder Pro",
+        "sidebar_label": "- Run it"
       },
       "business": {
         "title": "Business",
@@ -43,35 +67,43 @@
       },
       "business/actionplan": {
         "title": "Action Plan",
-        "sidebar_label": "✅ Action Plan"
+        "sidebar_label": "Action Plan"
       },
-      "business/productiontool": {
+      "business/businessplan": {
         "title": "Business Plan Template",
-        "sidebar_label": "✅ Business Plan Template"
+        "sidebar_label": "Business Plan Template"
       },
-      "business/startupcalculator": {
+      "business/workspacecalculator": {
         "title": "Workspace calculator",
-        "sidebar_label": "✅ Workspace Calculator"
+        "sidebar_label": "Workspace Calculator"
       },
       "collect": {
         "title": "Collect",
-        "sidebar_label": "✅ Collection Worldwide"
+        "sidebar_label": "Our collection system"
       },
       "create": {
         "title": "Create",
-        "sidebar_label": "✅ Intro"
+        "sidebar_label": "Intro"
       },
       "create/design": {
         "title": "Design for Recycled plastic",
-        "sidebar_label": "🚫 Design"
+        "sidebar_label": "Good design"
       },
       "create/finishing": {
         "title": "Finishing Plastic",
-        "sidebar_label": "✅ Finishing"
+        "sidebar_label": "Finished objects"
       },
       "create/howto": {
         "title": "Browse how-to",
-        "sidebar_label": "How-to"
+        "sidebar_label": "Your own how-to"
+      },
+      "create/injection-moulds": {
+        "title": "Tips on injection mouldmaking",
+        "sidebar_label": "Injection moulds"
+      },
+      "create/moulds-expert": {
+        "title": "Tips on expert mouldmaking",
+        "sidebar_label": "Moulds expert"
       },
       "done": {
         "title": "Done?",
@@ -79,7 +111,7 @@
       },
       "download": {
         "title": "Download",
-        "sidebar_label": "Download Here"
+        "sidebar_label": "Download-Kit"
       },
       "intro": {
         "title": "Intro",
@@ -87,15 +119,15 @@
       },
       "plastic/basics": {
         "title": "The Basics of Plastic",
-        "sidebar_label": "✅ The Basics of Plastic"
+        "sidebar_label": "The Basics of Plastic"
       },
       "plastic/nerdy": {
         "title": "Go nerdy on Plastic",
-        "sidebar_label": "✅ Nerdy on Plastic"
+        "sidebar_label": "Nerdy on Plastic"
       },
       "plastic/safety": {
         "title": "Safety and Fumes",
-        "sidebar_label": "✅ Safety and Fumes"
+        "sidebar_label": "Safety and Fumes"
       },
       "research/beyondplastic": {
         "title": "Beyond Plastic",
@@ -111,35 +143,35 @@
       },
       "spaces/collectionpoint": {
         "title": "Setup an Collection Point",
-        "sidebar_label": "✅ Collection Point"
+        "sidebar_label": "Collection Point"
       },
       "spaces/communitypoint": {
         "title": "Setup a community point",
-        "sidebar_label": "🚫 Community Point"
+        "sidebar_label": "Community Point"
       },
       "spaces/extrusion": {
         "title": "Setup an Extrusion Workspace",
-        "sidebar_label": "✅ Extrusion"
+        "sidebar_label": "Extrusion"
       },
       "spaces/injection": {
         "title": "Setup an Injection Workspace",
-        "sidebar_label": "🚫 Injection"
+        "sidebar_label": "Injection"
       },
       "spaces/machineshop": {
         "title": "Setup a Machine Shop",
-        "sidebar_label": "🚫 Machine shop"
+        "sidebar_label": "Machine shop"
       },
       "spaces/mix": {
         "title": "Setup a mix Workspace",
-        "sidebar_label": "🚫 Mix"
+        "sidebar_label": "Mix"
       },
       "spaces/sheetpress": {
         "title": "Setup a Sheetpress Workspace",
-        "sidebar_label": "🚫 Sheetpress"
+        "sidebar_label": "Sheetpress"
       },
       "spaces/shredder": {
         "title": "Setup a Shredder Workspace",
-        "sidebar_label": "🚫 Shredder"
+        "sidebar_label": "Shredder"
       },
       "styles": {
         "title": "Styles",
@@ -155,7 +187,11 @@
       },
       "universe/branding": {
         "title": "Branding",
-        "sidebar_label": "Branding & logo"
+        "sidebar_label": "Style guides"
+      },
+      "universe/yourlogo": {
+        "title": "Make your own logo",
+        "sidebar_label": "Your own logo"
       },
       "universe/universe": {
         "title": "Universe",
@@ -174,7 +210,7 @@
       "6. Business": "6. Business",
       "7. Spaces": "7. Spaces",
       "8. Research": "8. Research",
-      "9.Universe": "9.Universe",
+      "9. Universe": "9. Universe",
       "📦 Download": "📦 Download",
       "💬 Support": "💬 Support"
     }

@@ -1,11 +1,11 @@
 ---
-id: productiontool
+id: businessplan
 title: Business Plan Template
-sidebar_label: ✅ Business Plan Template
+sidebar_label: Business Plan Template
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/iCCZw_rtrtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -78,10 +78,10 @@ This template is an easy to follow framework for your business plan and consists
 
 # Tips:
 
-- Complete the Action Plan first before writing down all the information in a long business plan. Your business model is more important than a business plan. 
-- Think of your business plan as an opportunity for you to tell the story of your business or project, and why you have a compelling financial proposition. Show that you’ve really thought things through, especially how you’re delivering value to customers. 
-- The legal structure is an important part of your business plan that’s not covered in the previous two tools - make sure to research the structures in your country and for your particular situation, and what the advantages are for each. You may need to consult a business lawyer for this. 
-- Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it. 
-- This is an example outline for a business plan based on Precious Plastic business tools, but there are also other formats out there that may suit you better. 
+- Complete the Action Plan first before writing down all the information in a long business plan. Your business model is more important than a business plan.
+- Think of your business plan as an opportunity for you to tell the story of your business or project, and why you have a compelling financial proposition. Show that you’ve really thought things through, especially how you’re delivering value to customers.
+- The legal structure is an important part of your business plan that’s not covered in the previous two tools - make sure to research the structures in your country and for your particular situation, and what the advantages are for each. You may need to consult a business lawyer for this.
+- Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it.
+- This is an example outline for a business plan based on Precious Plastic business tools, but there are also other formats out there that may suit you better.
 
 So, what are you waiting for! Watch the video above with Joseph and if you have any questions, please check out our community Discord and head to the business channels.

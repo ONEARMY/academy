@@ -1,7 +1,7 @@
 ---
 id: injection
 title: Build an Injection Machine
-sidebar_label: ✅ Injection
+sidebar_label: Injection
 ---
 
 <div class="videocontainer">
@@ -48,8 +48,8 @@ The injection machine has a quick production output with high precision, while i
 
 # 📓 Technical information
 
-📓 Type | Injection 
---- | --- 
+📓 Type | Injection
+--- | ---
 💎 Version | 1.0
 💰 Cost in Netherlands | €300
 💰 Scrap cost in Netherlands | €131
@@ -109,7 +109,7 @@ Explanation of electric component roles
 - When building, the lever is stronger as a circular profile when compared to a square profile. Which will reduce the likelihood of bending it.
 
 
-# ♻️ Input & Output 
+# ♻️ Input & Output
 
 
 <b>Type:</b> HDPE, LDPE, PP, PS<br>
@@ -118,11 +118,11 @@ Explanation of electric component roles
 # ⚙️ Run & maintain
 
 <br>
-You can create beautiful, consistent products with the injection machine very efficiently, but it takes a little work upfront - making moulds, for example. The more precise the mould, the easier and more streamlined your production will be. 
+You can create beautiful, consistent products with the injection machine very efficiently, but it takes a little work upfront - making moulds, for example. The more precise the mould, the easier and more streamlined your production will be.
 
-Some quick tips: 
+Some quick tips:
 
-1. Depending on the plastic type, you’ll need one or sometimes two people to pull down the lever. 
+1. Depending on the plastic type, you’ll need one or sometimes two people to pull down the lever.
 
 2. Before injecting into the mould, make sure the plastic in the barrel is completely melted in order to fill all areas of the mould. To achieve this, run the machine a few degrees higher than usual to ensure the plastic is fully molten.
 
@@ -177,12 +177,12 @@ Some quick tips:
 
 # 🌦 Pros & cons
 
-Pros | Cons 
---- | --- 
-Easy to manufacture     | Process can be tedious 
+Pros | Cons
+--- | ---
+Easy to manufacture     | Process can be tedious
 Runs on 220V | Only a small amount of waste recycled
-Relatively cheap | 
-Batch production | 
+Relatively cheap |
+Batch production |
 
 # 🔧 Most common hacks
 
@@ -210,8 +210,3 @@ Batch production |
 # 🌎 Built by the community
 
 ![PP Image](assets/ppimage.jpg)
-
-
-
-
-
