@@ -44,7 +44,7 @@ Hallward glanced round him with a puzzled expression. The room looked as if it h
 
 `This is a quote.`
 
-This is a link to [another document.](doc3.md)
+This is a link to [another document.](intro.md)
 This is a link to an [external page.](http://www.example.com)
 
 Button
