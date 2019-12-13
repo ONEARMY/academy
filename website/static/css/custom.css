@@ -261,6 +261,8 @@ article code:before {
 
 .upsideDown:after {
   transform: rotate(180deg);
+  -webkit-filter: grayscale(100%) brightness(500%) brightness(25%);
+  filter: grayscale(100%) brightness(500%) brightness(25%);
 }
 
 .navGroup.subNavGroup ul::after {
