@@ -248,10 +248,15 @@ article code:before {
   top: 50%;
   display: block;
   background-image: url("/academy/img/chevron-down.svg");
+  background-repeat: no-repeat;
   width: 24px;
   height: 24px;
   margin-top: -12px;
   transition: transform 200ms ease-in-out;
+}
+
+.toc .toggleNav .navGroup h4.navGroupSubcategoryTitle.upsideDown {
+  color: #404040;
 }
 
 .upsideDown:after {
