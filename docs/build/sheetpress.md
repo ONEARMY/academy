@@ -1,7 +1,7 @@
 ---
 id: sheetpress
-title: Build a Sheetpress
-sidebar_label: 🚫🚫 Sheetpress
+title: Sheetpress Pro Specifications
+sidebar_label: - Specifications
 ---
 
 <div class="videocontainer">
@@ -18,7 +18,7 @@ sidebar_label: 🚫🚫 Sheetpress
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Build an sheetpress (jason)
+# Sheetpress Specs (jason)
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 

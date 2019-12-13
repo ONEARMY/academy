@@ -1,7 +1,7 @@
 ---
 id: finishing
 title: Finishing Plastic
-sidebar_label: ✅ Finishing
+sidebar_label: Finished objects
 ---
 
 <div class="videocontainer">
@@ -25,7 +25,7 @@ sidebar_label: ✅ Finishing
 
 So we’ve gone through how to use plastic, how to build and use the machines, and how to make products - a crucial part of this process is finishing your products off. They might come out of the mould pretty rough, or not what you had in mind, so we’ll go through some techniques to cut, heat and sand it so you (and your customer) will get the most out of your product. And last but not least, we’ve got some Precious Plastic stamps so you can mark your item with the plastic type.
 
-`More accurate moulds will result in less finishing. If you have a very precise CNC milled mould, there will likely be no finishing. If you make your own mould, be sure to polish it thoroughly to get a smooth finish.`
+> Pro tip: more accurate moulds will result in less finishing. If you have a very precise CNC milled mould, there will likely be no finishing. If you make your own mould, be sure to polish it thoroughly to get a smooth finish.
 
 
 </div>

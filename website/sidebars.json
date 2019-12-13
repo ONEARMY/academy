@@ -6,20 +6,32 @@
       "build",
       "build/shredder",
       "build/extrusion",
-      "build/sheetpress",
       {
+        "label": "Sheetpress Pro",
         "type": "subcategory",
-        "label": "Shredder Pro",
-        "ids": ["build/shredderpro", "build/injection", "build/compression"]
+        "ids": [
+          "build/sheetpress",
+          "build/sheetpressbuild",
+          "build/sheetpressrun"
+        ]
       },
       {
-        "type": "subcategory",
         "label": "Extrusion Pro",
+        "type": "subcategory",
         "ids": [
           "build/extrusionpro",
-          "build/extrusionpro/first",
-          "build/extrusionpro/specifications",
-          "build/extrusionpro/runit"
+          "build/extrusionprobuild",
+          "build/extrusionprorun"
+        ]
+      },
+
+      {
+        "label": "Shredder Pro",
+        "type": "subcategory",
+        "ids": [
+          "build/shredderpro",
+          "build/shredderprobuild",
+          "build/shredderprorun"
         ]
       }
     ],
@@ -27,13 +39,14 @@
     "5. Create": [
       "create",
       "create/design",
-      "create/howto",
-      "create/finishing"
+      "create/finishing",
+      "create/injection-moulds",
+      "create/howto"
     ],
     "6. Business": [
       "business/actionplan",
-      "business/productiontool",
-      "business/startupcalculator"
+      "business/workspacecalculator",
+      "business/businessplan"
     ],
     "7. Spaces": [
       "spaces",
@@ -45,7 +58,11 @@
       "spaces/collectionpoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
-    "9. Universe": ["universe/universe", "universe/branding"],
+    "9. Universe": [
+      "universe/universe",
+      "universe/branding",
+      "universe/yourlogo"
+    ],
     "📦 Download": ["download"],
     "💬 Support": ["support/faq", "support/chat", "styles"]
   }

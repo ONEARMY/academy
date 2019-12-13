@@ -1,10 +1,10 @@
 ---
 id: shredder
 title: Setup a Shredder Workspace
-sidebar_label: 🚫 Shredder
+sidebar_label: Shredder
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="blank" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/LoQBlDagJSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -104,4 +104,3 @@ And don’t be afraid to spice the place up with your own unique charm! Plants, 
 ## SHARE
 
 You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space.
-

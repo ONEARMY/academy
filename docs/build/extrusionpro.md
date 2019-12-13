@@ -1,7 +1,7 @@
 ---
 id: extrusionpro
-title: Build an extrusion Pro
-sidebar_label:✅ Extrusion Pro
+title: Extrusion Pro Specifications
+sidebar_label: - Specifications
 ---
 
 <div class="videocontainer">
