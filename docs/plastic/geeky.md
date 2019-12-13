@@ -1,11 +1,11 @@
 ---
 id: nerdy
 title: Go nerdy on Plastic
-sidebar_label:✅ Nerdy on Plastic
+sidebar_label: Nerdy on Plastic
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/n1wh5VJXpKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -15,7 +15,7 @@ sidebar_label:✅ Nerdy on Plastic
 }
 </style>
 
-# The Nerdy on Plastic
+# Going nerdy on Plastic
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
@@ -41,7 +41,7 @@ Ok, it’s time to go deep. When did plastic arrive in our society, how did it g
 
 # General Knowledge on Plastic
 
-When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?) 
+When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?)
 
 ## A little bit of history
 
@@ -51,43 +51,43 @@ The first polymer to be 100% derived synthetically was called polyoxybenzylmethy
 
 ## Some science
 
-As we know, plastic is made up of synthetic polymers. Poly stands for multiple, and mers stands for units. In this diagram a group of monomers create polymers in a process called polymerisation. 
+As we know, plastic is made up of synthetic polymers. Poly stands for multiple, and mers stands for units. In this diagram a group of monomers create polymers in a process called polymerisation.
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry1.png" width="400" />
 
-When it comes to plastic, monomers come from fossil fuels and through a process called cracking, create plastic polymers. With different production methods and/or tweaking of the polymer structure, we have hundreds of different types of plastics, with different properties and characteristics. This versatility is well illustrated by chemist Andrea Sella: 
+When it comes to plastic, monomers come from fossil fuels and through a process called cracking, create plastic polymers. With different production methods and/or tweaking of the polymer structure, we have hundreds of different types of plastics, with different properties and characteristics. This versatility is well illustrated by chemist Andrea Sella:
 
-Polyethylene terephthalate (PET) today it is used to make fizzy drink bottles, because it is strong enough to hold two atmospheres of pressure. But a soft winter glove, as well as a sheet of plastic for wrapping flowers? It's the same material, the only difference is the way in which it has been cast. And that is just one plastic! Another example, a standard milk bottle is made of polyethylene, made from a building block C2H4. If you add just one carbon, and go to polypropylene, what you have is a much more robust material. 
+Polyethylene terephthalate (PET) today it is used to make fizzy drink bottles, because it is strong enough to hold two atmospheres of pressure. But a soft winter glove, as well as a sheet of plastic for wrapping flowers? It's the same material, the only difference is the way in which it has been cast. And that is just one plastic! Another example, a standard milk bottle is made of polyethylene, made from a building block C2H4. If you add just one carbon, and go to polypropylene, what you have is a much more robust material.
 
 ### Plastics replaced hundreds of household and industrial items that were made of pewter, paper, glass ceramic. They were heralded as they seemingly lasted forever and were cheap to produce. But that advantage, as we know now, is it’s biggest disadvantage.
 <br>
 
-Ok, back to science. In total there are hundreds of different types of plastic and as discussed in the previous section they fit into different categories: thermosets, thermoplastics and elastomers. The plastic that we work with are thermoplastics (because they can be heated and reshaped) and will often have a recycling logo with 1-6 (PET,HDPE,PP,PS LDPE and PVC). 
+Ok, back to science. In total there are hundreds of different types of plastic and as discussed in the previous section they fit into different categories: thermosets, thermoplastics and elastomers. The plastic that we work with are thermoplastics (because they can be heated and reshaped) and will often have a recycling logo with 1-6 (PET,HDPE,PP,PS LDPE and PVC).
 
-A quick recap: 
+A quick recap:
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry2.png" width="400" />
- 
+
 <b>Thermoset</b>: these plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled.
 
-<b>Thermoplastic</b>: a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again. 
+<b>Thermoplastic</b>: a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again.
 
 <b>Elastomer</b>: somewhere between thermoset and thermoplastic and examples of these are natural rubber, silicone or for example neoprene (yes, that stuff were wetsuits are made from)
 
 # Industrial Production Methods
 
-The raw material of your plastic products is usually granulate. After the polymerisation process, the plastic is made into small beads or flakes, making it extremely efficient to transport and melt very easily. Recycling plastic has a similar process - you shred the plastic into small pieces (sorted into 
-their different types of course) and it’s ready to be made into new products. 
+The raw material of your plastic products is usually granulate. After the polymerisation process, the plastic is made into small beads or flakes, making it extremely efficient to transport and melt very easily. Recycling plastic has a similar process - you shred the plastic into small pieces (sorted into
+their different types of course) and it’s ready to be made into new products.
 
 ### Extrusion
 
-The simplest production method is <b>extrusion</b>. The plastic enters the feed part where the plastic is pushed through a special screw all the way to the die. The shape of the screw changes diameter from beginning to end exposing it to a lot of heat and pressure resulting in a fully molten plastic when it reaches the end of the screw. From there it enters the die - you can use different shapes dies for different products. 
+The simplest production method is <b>extrusion</b>. The plastic enters the feed part where the plastic is pushed through a special screw all the way to the die. The shape of the screw changes diameter from beginning to end exposing it to a lot of heat and pressure resulting in a fully molten plastic when it reaches the end of the screw. From there it enters the die - you can use different shapes dies for different products.
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry4.png" width="400"/>
 
 ### Blow Moulding
 
-You can also use techniques like [blow-molding](https://www.youtube.com/watch?v=QpVNyCZ3gjw), where you take the output of the extruder when it is still warm and blow it into shape with the help of compressed air and a mould. 
+You can also use techniques like [blow-molding](https://www.youtube.com/watch?v=QpVNyCZ3gjw), where you take the output of the extruder when it is still warm and blow it into shape with the help of compressed air and a mould.
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry5.png" width="400"/>
 
@@ -101,13 +101,13 @@ The second, slightly more complex method is [injection molding](https://www.yout
 
 ### Thermomoulding
 
-Another industrial production process is [thermomolding](https://www.youtube.com/watch?v=hZzTg2M64-g). Sheets are heated to a pliable temperature, formed into a specific shape and then cooled and trimmed. This process is often used to create disposable cups, containers, lids, trays - a lot of thin-walled plastic items that are used in the food, medical and general retail industries. 
+Another industrial production process is [thermomolding](https://www.youtube.com/watch?v=hZzTg2M64-g). Sheets are heated to a pliable temperature, formed into a specific shape and then cooled and trimmed. This process is often used to create disposable cups, containers, lids, trays - a lot of thin-walled plastic items that are used in the food, medical and general retail industries.
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry8.png" width="400"/>
 
 ### Rotation Moulding
 
-This process is used to create low-quantity large plastic items. Plastic pellets are placed in a mould, and is molten with heat while heated evenly. The process is quite flexible as the mold doesn’t have to withstand high pressure. It’s very labour intensive though and take a significant amount of time. 
+This process is used to create low-quantity large plastic items. Plastic pellets are placed in a mould, and is molten with heat while heated evenly. The process is quite flexible as the mold doesn’t have to withstand high pressure. It’s very labour intensive though and take a significant amount of time.
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry9.png" width="400"/>
 
@@ -125,9 +125,9 @@ Lastly, you can also process plastic in a more manual way. You can drill it, mil
 
 # The Afterlife of Plastics
 
-So, we’ve learnt that most plastics on the market are able to be identified, sorted, shredded and made into new products, and ideally, this would work locally and globally. But unfortunately this is not the case - approximately 2% of plastic packaging is recycled in a closed-loop process (this means that only 2% of packaging is recycled to make new packaging) and another 8% is down-cycled, meaning the quality is degraded and a lower quality product is made. 
+So, we’ve learnt that most plastics on the market are able to be identified, sorted, shredded and made into new products, and ideally, this would work locally and globally. But unfortunately this is not the case - approximately 2% of plastic packaging is recycled in a closed-loop process (this means that only 2% of packaging is recycled to make new packaging) and another 8% is down-cycled, meaning the quality is degraded and a lower quality product is made.
 
-Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic. 
+Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic.
 
 ![PP Image](assets/ppimage.jpg)
 
@@ -155,6 +155,4 @@ A few of the different ways to identify the plastic is:
 - PP is very flexible, for example can be used with hinges and it will bend multiple times without breaking
 - If you smash PP with a hammer, it will shatter
 - If you smash PE, it will just bend or deform
-- To easily identify a thermoplastic from a thermoset, when you cut it with a sharp blade, a thermoplastic will be smooth and a thermoset will result in small particles 
-
-
+- To easily identify a thermoplastic from a thermoset, when you cut it with a sharp blade, a thermoplastic will be smooth and a thermoset will result in small particles

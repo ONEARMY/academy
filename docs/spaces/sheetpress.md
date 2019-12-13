@@ -1,10 +1,10 @@
 ---
 id: sheetpress
 title: Setup a Sheetpress Workspace
-sidebar_label: 🚫 Sheetpress
+sidebar_label: Sheetpress
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/GEFrgQ1M2AE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
