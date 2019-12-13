@@ -173,7 +173,6 @@ article code:before {
   background-size: 102.68px 39.91px;
 }
 
-}
 .navGroup:nth-child(2) .collapsible:hover,
 .navGroup:nth-child(2) ul:after {
   background-image: url("/academy/img/highlight_stroke_plastic.svg");
