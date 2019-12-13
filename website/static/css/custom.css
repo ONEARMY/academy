@@ -48,7 +48,7 @@ a {
 }
 
 .subNavGroup .navListItem {
-    margin: 0px !important;
+  margin: 0px !important;
 }
 
 .navGroup ul li.navListItem:hover {
@@ -111,7 +111,7 @@ article div span h1:first-child {
 
 article code {
   background-color: transparent;
-  background-image: url('/academy/img/protip_highlight.svg');
+  background-image: url("/academy/img/protip_highlight.svg");
   background-repeat: no-repeat;
   background-position: 0 40px;
   background-size: 100%;
@@ -127,10 +127,10 @@ article code {
 }
 
 article code:before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
-  background-image: url('/academy/img/protip.svg');
+  background-image: url("/academy/img/protip.svg");
   background-repeat: no-repeat;
   width: 200px;
   height: 40px;
@@ -234,8 +234,8 @@ article code:before {
 }
 
 .toc .toggleNav .navGroup h4.navGroupSubcategoryTitle {
-    padding: 10px 0 20px 15px;
-    cursor: pointer;
+  padding: 10px 0 20px 15px;
+  cursor: pointer;
 }
 
 .navGroup.subNavGroup ul::after {
@@ -254,9 +254,9 @@ article code:before {
 }
 */
 
-.toc .toggleNav .navGroup  {
+.toc .toggleNav .navGroup {
   margin-left: 10px;
-  margin-bottom:5px;
+  margin-bottom: 5px;
 }
 
 .toc .toggleNav .navGroup ul.hide {
