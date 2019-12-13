@@ -2,4 +2,3 @@
 **/build
 .node-version
 .DS_Store
-npm-debug.log
