@@ -1,16 +1,16 @@
 ---
 id: basics
 title: The Basics of Plastic
-sidebar_label:✅ The Basics of Plastic
+sidebar_label: The Basics of Plastic
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/watch?v=fsqLJNyrVss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/fsqLJNyrVss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
 :root {
-  --highlight: #e1e1e1;
-  --hover: #e1e1e1;
+  --highlight: #84cfec;
+  --hover:#84cfec;
 }
 </style>
 

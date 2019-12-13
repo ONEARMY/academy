@@ -47,6 +47,10 @@ a {
   border-color: transparent;
 }
 
+.subNavGroup .navListItem {
+    margin: 0px !important;
+}
+
 .navGroup ul li.navListItem:hover {
   border-left: 4px var(--highlight, $primaryColor) solid;
   transition: border-color 0.3s;
@@ -160,7 +164,7 @@ article code:before {
   left: 0;
   height: 100%;
   width: 100%;
-  z-index: 0;
+  z-index: -5;
 }
 
 .navGroup:nth-child(1) .collapsible:hover,
@@ -169,6 +173,7 @@ article code:before {
   background-size: 102.68px 39.91px;
 }
 
+}
 .navGroup:nth-child(2) .collapsible:hover,
 .navGroup:nth-child(2) ul:after {
   background-image: url("/academy/img/highlight_stroke_plastic.svg");
@@ -223,6 +228,10 @@ article code:before {
   background-size: 201.44px 46.2px;
 }
 
+.navGroup.subNavGroup ul::after {
+  display: none;
+}
+/*
 .toc .toggleNav .navGroup ul {
   border-left: 4px solid #e9e9e9;
   padding: 0;
@@ -231,6 +240,12 @@ article code:before {
   margin-left: 10px;
   height: auto;
   transition: all 0.5s, visibility 0s linear;
+}
+*/
+
+.toc .toggleNav .navGroup  {
+  margin-left: 10px;
+  margin-bottom:5px;
 }
 
 .toc .toggleNav .navGroup ul.hide {
@@ -247,7 +262,7 @@ article code:before {
 .toc .toggleNav .navGroup ul li.navListItem {
   margin-left: -4px;
   padding-left: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .toggleNav h2 i {
