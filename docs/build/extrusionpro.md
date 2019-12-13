@@ -22,7 +22,7 @@ sidebar_label: - Specifications
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-`Pro tip: understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
+`Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
 
 
 </div>
@@ -98,7 +98,7 @@ Part 9: Maintenance and how to run<br>
 
 ![CAD](assets/cad.png)
 
-This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.  
+This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.
 
 1. Bearing housing
 2. Transition piece (lassen)

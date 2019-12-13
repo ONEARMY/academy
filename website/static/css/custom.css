@@ -64,6 +64,7 @@ a {
   color: $defaultFontColor;
   margin-left: -4px;
 }
+
 .toc .toggleNav .navGroup ul li.navListItem {
   position: relative;
   z-index: 1;
@@ -106,6 +107,34 @@ article .videocontainer iframe {
 
 article div span h1:first-child {
   margin-top: 0;
+}
+
+article code {
+  background-color: transparent;
+  background-image: url('/academy/img/protip_highlight.svg');
+  background-repeat: no-repeat;
+  background-position: 0 40px;
+  background-size: 100%;
+  border-radius: 0;
+  color: inherit;
+  font-family: $bodyFont;
+  font-size: 100%;
+  margin: 0 60px 0 -20px;
+  padding: 50px 20px 0 20px;
+  display: block;
+  min-height: 130px;
+  position: relative;
+}
+
+article code:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  background-image: url('/academy/img/protip.svg');
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 40px;
+  display: block;
 }
 
 .navGroup .collapsible {
@@ -260,26 +289,8 @@ article div span h1:first-child {
   display: flex;
 }
 
-.videoChaptersMain {
-  width: 75%;
-  margin-right: 5%;
-}
-
-.videoChaptersSidebar ul {
-  margin: 0;
-  padding: 0;
-  text-indent: 0;
-  list-style-type: none;
-}
-
-.videoChaptersSidebar li {
-  color: #bababa;
-  font-size: 13px;
-  margin-bottom: 15px;
-}
-
-.videoChaptersSidebar li:last-child {
-  margin-bottom: 0;
+.videoChaptersSidebar {
+  display: none;
 }
 
 .tns-outer {
@@ -384,19 +395,21 @@ button.tns-nav-active {
 a.edit-page-link {
   float: none;
   padding: 8px;
+  display: none;
 }
 header.postHeader {
   text-align: right;
   margin-bottom: 0 !important;
 }
 
-
-table th, table td {
-  padding: .5rem;
+table th,
+table td {
+  padding: 0.5rem;
   vertical-align: top;
 }
 
-table tr, table tr:nth-child(2n) {
+table tr,
+table tr:nth-child(2n) {
   background-color: white;
 }
 
@@ -405,16 +418,13 @@ table {
 }
 
 hr {
-    border-color: #000;
-    border-style: solid;
-    border-width: 2px;
-    border-radius: 4px;
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 4px;
 }
 
-/*  */
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
-}
-
+/* Desktop and up */
 @media only screen and (min-width: 1024px) {
   .toc {
     padding: 50px 0;
@@ -430,5 +440,34 @@ hr {
 
   .wrapper {
     padding: 0 50px;
+  }
+}
+
+/* Tablet (think iPad) and up */
+@media only screen and (min-device-width: 768px) {
+  .videoChaptersMain {
+    width: 75%;
+    margin-right: 5%;
+  }
+
+  .videoChaptersSidebar {
+    display: block;
+  }
+
+  .videoChaptersSidebar ul {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    list-style-type: none;
+  }
+
+  .videoChaptersSidebar li {
+    color: #bababa;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .videoChaptersSidebar li:last-child {
+    margin-bottom: 0;
   }
 }

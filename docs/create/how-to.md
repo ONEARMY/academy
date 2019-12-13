@@ -21,7 +21,7 @@ sidebar_label: Your own how-to
 Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
 
 
-> Pro tip: amazing tip
+`Amazing tip`
 
 # Ok first things first.
 

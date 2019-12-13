@@ -186,3 +186,7 @@ Use the img tag instead:
 Or:
 
 <img style="margin-left: 0;" src="./assets/ppimage.jpg" width="300" />
+
+-       Search: what to think about when choosing your space
+-       Plan: how to plan your space effectively
+-       Build: transforming an empty room into a injection workspace

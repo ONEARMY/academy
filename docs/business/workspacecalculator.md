@@ -181,3 +181,24 @@ The problem with designing a business tool to be applicable all across the world
 - “Full time employees needed” assumes a 40 hour work week, but this might be more or less depending on the work culture of your area.
 
 ### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
+<<<<<<< HEAD:docs/business/workspacecalculator.md
+=======
+
+#### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> master:docs/business/startupcalculator.md

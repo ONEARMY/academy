@@ -20,12 +20,15 @@ sidebar_label: Collection Point
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Let's start from the beginning.
+###  Great for transforming plastic waste into batches of objects using moulds.
 
-In this video we’re going to show you how to set up a Precious Plastic collection point. This is a fundamental step in the Precious Plastic universe - we need a strong global team of collection points to make sure that no plastic is wasted: without anyone collecting it, it's very hard to recycle!
+Heyo! So, you want to set up an injection workspace. Awesome! Setting up a workspace can be broken down into three main steps:
 
-`Pro tip: teach your local community to clean their plastic before they bring it into your collection point (no nasty food smells, yay!)`
+- <b>Search:</b> what to think about when choosing your space
+- <b>Plan:</b> how to plan your space effectively
+- <b>Build:</b> transforming an empty room into a injection workspace
 
+Each of these steps is explained in more detail below.
 
 </div>
 <div class="videoChaptersSidebar">

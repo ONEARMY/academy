@@ -21,14 +21,6 @@
         "title": "Extrusion Pro Specifications",
         "sidebar_label": "- Specifications"
       },
-      "build/extrusionprobuild": {
-        "title": "Build an extrusion Pro",
-        "sidebar_label": "- Extrusion Pro"
-      },
-      "build/extrusionprorun": {
-        "title": "Build an extrusion Pro",
-        "sidebar_label": "- Run it"
-      },
       "build/injection": {
         "title": "Build an Injection Machine",
         "sidebar_label": "Injection"
@@ -36,14 +28,6 @@
       "build/sheetpress": {
         "title": "Sheetpress Pro Specifications",
         "sidebar_label": "- Specifications"
-      },
-      "build/sheetpressbuild": {
-        "title": "Build a Sheetpress Pro",
-        "sidebar_label": "- Build it"
-      },
-      "build/sheetpressrun": {
-        "title": "Run a Sheetpress",
-        "sidebar_label": "- Run it"
       },
       "build/shredder": {
         "title": "Build a Shredder Machine",

@@ -21,9 +21,9 @@ sidebar_label: Shredder
 
 The shredder is the backbone of Precious Plastic, it allows you to shred plastic into small flakes - you can easily wash and store shredded plastic and transport it to other Precious Plastic workspaces to make into beautiful, valuable products. Of course you can also use the plastic yourself or sell clean, separated plastic within the industry (which buys it at 8-10 times higher than unshredded plastic!)
 
-> Pro tip: if you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material.
+`if you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material.`
 
-> Pro tip: clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
+`Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.`
 
 </div>
 <div class="videoChaptersSidebar">
@@ -51,7 +51,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 ⚖️ Weight | 90 kg
 📦 Dimension | 280 x 600 x 1142 mm
 ⚙️ Blade width | 5 mm, 6 mm
-🔌 Voltage | 380V  
+🔌 Voltage | 380V
 ⚡️ AMP | 5.8A
 - Nominal Power | 2.2 kW minimum. 3 kW recommended
 - Nominal Torque | 1100 Nm minimum - 2000 Nm max
@@ -109,9 +109,9 @@ Explanation of electric component roles
 
 1. Choose the plastic type - this usually depends on the quantities of plastic piling up in your sorting bags. Make sure you have enough of the same type of plastic, as the shredder has a process between cycles of different plastics (cleaning, for example).
 
-2. Got your plastic type? Great. Now it’s time to break up the bigger plastic objects into smaller chunks that can go in the hopper. This can be done with a hammer, scissors or a saw depending on the plastic. At this point you should also roughly clean the plastic from major dirt (don’t waste too much time on this though as the plastic will be washed shortly after).  
+2. Got your plastic type? Great. Now it’s time to break up the bigger plastic objects into smaller chunks that can go in the hopper. This can be done with a hammer, scissors or a saw depending on the plastic. At this point you should also roughly clean the plastic from major dirt (don’t waste too much time on this though as the plastic will be washed shortly after).
 
-3. Let’s go - feed the plastic into the hopper. While shredding, you should regularly check the blades and push the plastic down towards the blades with the provided tool to make sure the blades are grabbing the plastic. When you finish working with the shredder, make sure to store and label the shredded plastic or the next person using the shredder won’t know what plastic type is in the bucket.      
+3. Let’s go - feed the plastic into the hopper. While shredding, you should regularly check the blades and push the plastic down towards the blades with the provided tool to make sure the blades are grabbing the plastic. When you finish working with the shredder, make sure to store and label the shredded plastic or the next person using the shredder won’t know what plastic type is in the bucket.
 
 <br>
 ## ⚠️⚠️⚠️ Always use extra care when working with the shredder ⚠️⚠️⚠️
