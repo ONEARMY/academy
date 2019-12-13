@@ -42,9 +42,18 @@ window.addEventListener("DOMContentLoaded", function() {
           link.classList.remove("upsideDown");
           addHideClass(link.parentNode.querySelector("ul"));
         });
-      //   that.parentNode.querySelector("ul .navListItem a").click();
+      that.parentNode.querySelector("ul .navListItem a").click();
     });
   });
+
+  function showActiveSubChapterMenu() {
+    var activeLink = document.getElementsByClassName("navListItemActive")[0];
+    if (activeLink) {
+      activeLink.parentNode.classList.remove("hide");
+      activeLink.parentNode.parentNode.firstChild.classList.add("upsideDown");
+    }
+  }
+  showActiveSubChapterMenu();
 
   if (document.getElementsByClassName("j-slideshow").length > 0) {
     tns({
