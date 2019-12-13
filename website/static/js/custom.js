@@ -2,7 +2,7 @@ function addHideClass(item) {
   return item.classList.add("hide");
 }
 
-window.addEventListener("load", function() {
+window.addEventListener("DOMContentLoaded", function() {
   var categoryNodes = document.querySelectorAll(
     ".navGroups .navGroup .collapsible"
   );
@@ -16,7 +16,7 @@ window.addEventListener("load", function() {
           return i !== index;
         })
         .forEach(function(link) {
-          link.parentNode.querySelector("ul").classList.add("hide");
+          link.parentNode.querySelector(" ul").classList.add("hide");
         });
       that.parentNode.querySelector("ul .navListItem a").click();
     });
@@ -25,21 +25,23 @@ window.addEventListener("load", function() {
   var subNodes = document.querySelectorAll(
     ".navGroups .navGroup.subNavGroup .navGroupSubcategoryTitle"
   );
-  //   var subCatLinks = Array.from(subNodes);
+  var subCatLinks = Array.from(subNodes);
   subNodes.forEach(function(category) {
     category.classList.add("collapsible");
     category.parentNode.querySelectorAll("ul").forEach(addHideClass);
     category.addEventListener("click", function() {
       var that = this;
+      that.classList.toggle("upsideDown");
       that.parentNode.querySelector("ul").classList.toggle("hide");
-      //   subCatLinks
-      //     .filter(function(_, i) {
-      //       var index = subCatLinks.indexOf(that);
-      //       return i !== index;
-      //     })
-      //     .forEach(function(link) {
-      //       link.parentNode.querySelector("ul").classList.add("hide");
-      //     });
+      subCatLinks
+        .filter(function(_, i) {
+          var index = subCatLinks.indexOf(that);
+          return i !== index;
+        })
+        .forEach(function(link) {
+          link.classList.remove("upsideDown");
+          addHideClass(link.parentNode.querySelector("ul"));
+        });
       //   that.parentNode.querySelector("ul .navListItem a").click();
     });
   });

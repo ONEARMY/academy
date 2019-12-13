@@ -39,6 +39,7 @@ article .videocontainer iframe {
   left: 0;
   height: 100%;
 }
+
 a {
   color: var(--highlight, $primaryColor);
 }
@@ -234,8 +235,27 @@ article code:before {
 }
 
 .toc .toggleNav .navGroup h4.navGroupSubcategoryTitle {
-  padding: 10px 0 10px 15px;
+  color: #afafaf;
+  padding: 9px 0 9px 1px;
   cursor: pointer;
+  position: relative;
+}
+
+.toc .toggleNav .navGroup h4.navGroupSubcategoryTitle:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  display: block;
+  background-image: url("/academy/img/chevron-down.svg");
+  width: 24px;
+  height: 24px;
+  margin-top: -12px;
+  transition: transform 200ms ease-in-out;
+}
+
+.upsideDown:after {
+  transform: rotate(180deg);
 }
 
 .navGroup.subNavGroup ul::after {
