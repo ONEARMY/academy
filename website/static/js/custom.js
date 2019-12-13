@@ -44,14 +44,16 @@ window.addEventListener("load", function() {
     });
   });
 
-  //   var slideshow = tns({
-  //     container: ".j-slideshow",
-  //     items: 1,
-  //     controlsPosition: "bottom",
-  //     navPosition: "bottom",
-  //     slideBy: "page",
-  //     controlsText: ["<", ">"]
-  //   });
+  if (document.getElementsByClassName("j-slideshow").length > 0) {
+    tns({
+      container: ".j-slideshow",
+      items: 1,
+      controlsPosition: "bottom",
+      navPosition: "bottom",
+      slideBy: "page",
+      controlsText: ["<", ">"]
+    });
+  }
 });
 // On every page load emit the current pathname
 // for use in iframe embeds
