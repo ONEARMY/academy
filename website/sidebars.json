@@ -5,12 +5,10 @@
     "3. Build": [
       "build",
       "build/shredder",
-      "build/injection",
-      "build/compression",
       "build/extrusion",
       {
-        "label":"Sheetpress Pro",
-        "type":"subcategory",
+        "label": "Sheetpress Pro",
+        "type": "subcategory",
         "ids": [
           "build/sheetpress",
           "build/sheetpressbuild",
@@ -18,8 +16,8 @@
         ]
       },
       {
-        "label":"Extrusion Pro",
-        "type":"subcategory",
+        "label": "Extrusion Pro",
+        "type": "subcategory",
         "ids": [
           "build/extrusionpro",
           "build/extrusionprobuild",
@@ -28,8 +26,8 @@
       },
 
       {
-        "label":"Shredder Pro",
-        "type":"subcategory",
+        "label": "Shredder Pro",
+        "type": "subcategory",
         "ids": [
           "build/shredderpro",
           "build/shredderprobuild",
@@ -49,7 +47,6 @@
       "business/actionplan",
       "business/workspacecalculator",
       "business/businessplan"
-
     ],
     "7. Spaces": [
       "spaces",
@@ -61,7 +58,11 @@
       "spaces/collectionpoint"
     ],
     "8. Research": ["research", "research/robotics", "research/beyondplastic"],
-    "9. Universe": ["universe/universe", "universe/branding", "universe/yourlogo"],
+    "9. Universe": [
+      "universe/universe",
+      "universe/branding",
+      "universe/yourlogo"
+    ],
     "📦 Download": ["download"],
     "💬 Support": ["support/faq", "support/chat", "styles"]
   }
