@@ -106,6 +106,10 @@ article .videocontainer iframe {
   height: 100%;
 }
 
+ol {
+    margin-left: 30px;
+}
+
 article div span h1:first-child {
   margin-top: 0;
 }
