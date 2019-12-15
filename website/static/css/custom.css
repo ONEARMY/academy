@@ -44,6 +44,10 @@ a {
   color: var(--highlight, $primaryColor);
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 .navGroup ul li.navListItem {
   border-color: transparent;
 }
@@ -55,6 +59,7 @@ a {
 .navGroup ul li.navListItem:hover {
   border-left: 4px var(--highlight, $primaryColor) solid;
   transition: border-color 0.3s;
+  text-decoration: none;
 }
 
 .navGroup ul li.navListItem:hover a {
@@ -78,6 +83,7 @@ a {
 .toc .toggleNav ul li a:hover,
 .toc .toggleNav ul li a:focus {
   color: $defaultFontColor;
+  text-decoration: none;
 }
 
 a:hover {

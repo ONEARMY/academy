@@ -6,8 +6,8 @@ sidebar_label: chat
 
 <style>
 :root {
-  --highlight: #e1e1e1;
-  --hover: #e1e1e1;
+  --highlight: rgb(131, 206, 235);
+  --hover: rgb(131, 206, 235);
 }
 </style>
 
@@ -56,8 +56,8 @@ Join our main server here: https://discordapp.com/invite/AKuxkpx
 * [#Updates!](http://google.com)  Here you can find news from headquarters
 
 💬 General
- * [#Start here!](http://google.com)         Introduce yourself and choose your role  
- * [#Just chatting!](http://google.com)     or BIG CHAT to talk about a lot of stuff   
+ * [#Start here!](http://google.com)         Introduce yourself and choose your role
+ * [#Just chatting!](http://google.com)     or BIG CHAT to talk about a lot of stuff
  * [#Feedback!](http://google.com)     share tips and suggestions to us
  * [#Patreon Helpdesk 🤙!](http://google.com)   This is support fromt he team. for Patreons only
 
