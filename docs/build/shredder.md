@@ -1,7 +1,7 @@
 ---
 id: shredder
 title: Build a Shredder Machine
-sidebar_label: ✅ Shredder
+sidebar_label: Shredder
 ---
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/VFIPXgrk7u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -165,8 +165,3 @@ Portable |
 # 🌎 Built by the community
 
 ![PP Image](assets/ppimage.jpg)
-
-
-
-
-

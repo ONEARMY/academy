@@ -1,7 +1,7 @@
 ---
 id: howto
 title: Browse how-to
-sidebar_label: How-to
+sidebar_label: Your own how-to
 ---
 
 <style>
@@ -12,7 +12,7 @@ sidebar_label: How-to
 </style>
 
 
-![FHow to](assets/howto_platform.jpg)
+![How to](assets/howto_platform.jpg)
 
 # A How-To on using How-To’s
 
@@ -83,8 +83,3 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 ### All done?
 
 Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community!
-
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 id: extrusion
 title: Build an Extrusion Machine
-sidebar_label: ✅ Extrusion
+sidebar_label: Extrusion
 ---
 
 <div class="videocontainer">
@@ -23,12 +23,12 @@ sidebar_label: ✅ Extrusion
 
 ### Title
 
-When using the Precious Plastic extrusion machine, extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour. 
+When using the Precious Plastic extrusion machine, extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
 
 
 > Tip: Make a stand for your output/mould to stabilize it and make your life easier.
 
-> Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw. 
+> Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -54,15 +54,15 @@ When using the Precious Plastic extrusion machine, extrusion is a continuous pro
 
 # 📓 Technical information
 
-📓 Type | Extrusion Machine 
---- | --- 
+📓 Type | Extrusion Machine
+--- | ---
 💎 Version | 2.0
 💰 Cost in Netherlands | €500 + motor
 💰 Scrap cost in Netherlands | €200
 ⚖️ Weight | 35 kg
 📦 Dimensions | 500 x 1020 x 1120 mm
 ⚙️ Screw size | 26 x 600 mm wood auger
-⏱ Max running time | 4H/Day 
+⏱ Max running time | 4H/Day
 🔌 Voltage | 380V    
 ⚡️ AMP | 5.8A
 - Motor | Hollow shaft, 30mm
@@ -119,7 +119,7 @@ Explanation of electric component roles
 - Installing a VFD with this machine makes using it a dream.
 
 
-# ♻️ Input & Output 
+# ♻️ Input & Output
 
 
 <b>Type:</b> HDPE, LDPE, PP, PS<br>
@@ -130,7 +130,7 @@ Explanation of electric component roles
 # ⚙️ Run & maintain
 
 <br>
-You can set the temperature from the controllers on the electronic box. The heating elements are wired into two groups - nozzle and barrel are marked on top of the controllers. The first three elements (barrel) should be set at a slightly lower temperature than the last one near the nozzle. This is to make sure the plastic gets a last boost of heat right before it comes out. Below you can see a diagram with the best settings for this machine based on our experiments (tip: you could your own to see what works best for you). The optimal temperatures below are drawn using a motor turning at 70rmp. If your motor turns faster you would need higher temperature as the plastic flows faster through the barrel and has less time to melt, vice-versa if the motor is slower. 
+You can set the temperature from the controllers on the electronic box. The heating elements are wired into two groups - nozzle and barrel are marked on top of the controllers. The first three elements (barrel) should be set at a slightly lower temperature than the last one near the nozzle. This is to make sure the plastic gets a last boost of heat right before it comes out. Below you can see a diagram with the best settings for this machine based on our experiments (tip: you could your own to see what works best for you). The optimal temperatures below are drawn using a motor turning at 70rmp. If your motor turns faster you would need higher temperature as the plastic flows faster through the barrel and has less time to melt, vice-versa if the motor is slower.
 
 ### How to operate the extruder                
 
@@ -139,17 +139,17 @@ You can set the temperature from the controllers on the electronic box. The heat
 3. Add desired plastic in the hopper.                            
 4. Turn on the motor.                             
 5. The material that comes out of the machine for the first 2 minutes is to clean the machine from old plastics from previous sessions.               
-6. The machine is now ready for production! 
+6. The machine is now ready for production!
 
 
 # 🌦 Pros & cons
 
-Pros | Cons 
---- | --- 
-Continuous output     | Complex to build 
+Pros | Cons
+--- | ---
+Continuous output     | Complex to build
 Relatively cheap | Not built to run long
 Large products possible |  Output is low
-User Friendly | 
+User Friendly |
 
 # 🔧 Most common hacks
 
@@ -184,6 +184,3 @@ User Friendly |
 # 🌎 Built by the community
 
 ![PP Image](assets/ppimage.jpg)
-
-
-

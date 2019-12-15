@@ -1,11 +1,11 @@
 ---
 id: safety
 title: Safety and Fumes
-sidebar_label: ✅ Safety and Fumes
+sidebar_label: Safety and Fumes
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/ETqEFcT2Wm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -22,7 +22,7 @@ sidebar_label: ✅ Safety and Fumes
 
 ### It's important to take this seriously.
 
-Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic. 
+Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic.
 
 <img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/> 
 
@@ -51,7 +51,7 @@ The first rule is: don’t burn plastic. This one is very important. Why? It is 
 
 When burning PVC, dioxins are released which a highly toxic compound that has been shown to increase cancer, reproductive problems and immune system damage. At Precious Plastic, we don’t work with PVC.
 
-If you do need to burn a small piece of plastic to identify its type, then do so taking the proper precautions: wearing a mask and beside a proper fume filtration system. The most important thing about working with plastic: <b>You can melt it, you just can’t burn it.</b> And that’s an important difference. 
+If you do need to burn a small piece of plastic to identify its type, then do so taking the proper precautions: wearing a mask and beside a proper fume filtration system. The most important thing about working with plastic: <b>You can melt it, you just can’t burn it.</b> And that’s an important difference.
 
 ##  Volatile Organic Compounds (or VOC’s)
 
@@ -71,7 +71,7 @@ For fume testing, we use a PID detector, which stands for photoionization - this
 
 When air enters the PID, a UV light interacts with the molecules in the air - organic compounds release positively charged ions when they pass through the light which are then captured by a negatively charged plate, producing measurable electrical current.
 
-Our results: 
+Our results:
 
 In our workspace we detected fumes 2 cm from the source and it was approximately 14 times higher than the recommended maximum. PS created 5 times more fumes than HDPE and PP: this means that HDPE and PP are very low in cyclic compounds. We also detected where the fumes come from in each machine (more on that below).
 
@@ -84,7 +84,7 @@ For more detail, visit: https://tinyurl.com/y5r2u3u4
 Ok, so where do fumes come out of Precious Plastic machines?
 
 <b>The Injection Machine</b>
- 
+
 1. Fumes come out from the nozzle when you take off the mold
 2. Fumes come out of the hopper when the injector handle is up
 
@@ -92,29 +92,29 @@ Ok, so where do fumes come out of Precious Plastic machines?
 
 
 <b>The Extrusion Machine</b>
- 
+
 1. Most fumes comes out from nozzle
-2. Some fumes from hopper when not blocked by pellets and from the mold openings 
+2. Some fumes from hopper when not blocked by pellets and from the mold openings
 3. For example, when making a beam, fumes come out at the end of beam mold
 
 <img style="margin-left: 0;" src="../assets/extrusion_fumes.jpg" width="300" />
 
 <b>The Sheetpress</b>
- 
+
 1. Most fumes come out from all four sides
-2. If heating is uneven fumes come out from certain overheated areas 
+2. If heating is uneven fumes come out from certain overheated areas
 3. Fumes were still coming out for 7 minutes at the cold press stage
 
 <img style="margin-left: 0;" src="../assets/sheetpress_fumes.jpg" width="300" />
 
 # Tips
 
-- Wash plastic well before melting it. Residues from cleaning products can create harmful fumes. 
-- Never melt unseparated plastic,  because different plastic types have different melting temperatures, meaning some plastic will burn before others are melted. 
-- When working with PS or ABS, make sure you don’t melt it for more than 8 hours per week, and always use a gas mask and ventilation. 
+- Wash plastic well before melting it. Residues from cleaning products can create harmful fumes.
+- Never melt unseparated plastic,  because different plastic types have different melting temperatures, meaning some plastic will burn before others are melted.
+- When working with PS or ABS, make sure you don’t melt it for more than 8 hours per week, and always use a gas mask and ventilation.
 - Don’t use a regular dust mask, that won’t work! Make sure you use an activated carbon filter gas mask. And make sure your gas mask is fitted properly!
 - Try to melt plastic at the lowest possible temperature for the shortest amount of time
-- If you ever feel dizzy, or it’s hard to breathe, move away from the fumes into fresh air. 
+- If you ever feel dizzy, or it’s hard to breathe, move away from the fumes into fresh air.
 - Keep away from the fume source - it’s 14 times higher than the recommended maximum exposure.  If there’s no ventilation, you have to have a mask and stand about 2m away.
 - Fume caddies with an adjustable arm is needed for extrusion and injection. For the sheet press, a fume extraction hood should be included in the machine design.
 - Buy a low-cost VOC detector to check if the air in the workshop area is safe, and to check if the filter is working correctly.
@@ -131,13 +131,13 @@ LEV stands for Local Exhaust Ventilation, which is an industry standard to venti
 
 ## Activated Carbon
 
-Using an activated carbon filter (ACF) is the cleanest and easiest filtering method. It has a large surface area and is treated to have more pores than normal carbon - fumes stick very well to these pores making it a great material to filter out the nasty stuff. ACF will remove the following VOC’s very well: toluene, xylene, styrene, alcohol, benzene, decane, ethylbenzene, heptane and octane, and the following gases: pentane, acetone, hexane [3]. Porosity is the most determining feature of activated carbon. But they don’t last forever, you need to change the filter. While the compounds are invisible to us, they have a distinct smell that is normally filtered out. Once you can smell them, it’s time to change the filter. 
+Using an activated carbon filter (ACF) is the cleanest and easiest filtering method. It has a large surface area and is treated to have more pores than normal carbon - fumes stick very well to these pores making it a great material to filter out the nasty stuff. ACF will remove the following VOC’s very well: toluene, xylene, styrene, alcohol, benzene, decane, ethylbenzene, heptane and octane, and the following gases: pentane, acetone, hexane [3]. Porosity is the most determining feature of activated carbon. But they don’t last forever, you need to change the filter. While the compounds are invisible to us, they have a distinct smell that is normally filtered out. Once you can smell them, it’s time to change the filter.
 
-### Stand Alone Filters 
+### Stand Alone Filters
 
 <img style="margin-left: 0;" src="../assets/standalone_carbon.jpg" width="300"/>
 
-A filter like this costs approximately 40-50 euros and has roughly 2-3 kg of granular activated carbon which needs to be changed each month(you can also get bigger filter which will last longer). These filters can be attached to centrifugal fans for the ventilation. Preferable conditions for using these filters humidity under 70% and ambient temperature lower than 80°C. 
+A filter like this costs approximately 40-50 euros and has roughly 2-3 kg of granular activated carbon which needs to be changed each month(you can also get bigger filter which will last longer). These filters can be attached to centrifugal fans for the ventilation. Preferable conditions for using these filters humidity under 70% and ambient temperature lower than 80°C.
 
 ### Buying carbon granules (for VOC removal)
 
@@ -149,9 +149,9 @@ When the filter needs to be changed, you do not have to buy a new filter. Instea
 
 <img style="margin-left: 0;" src="../assets/gasmask.jpg" width="300"/>
 
-A gas mask is also extremely important, as the filtration is not 100% so this acts as an extra barrier. Even in large industrial recycling and manufacturing they haven’t reached clean air, so gas masks are common practice. The most common masks are 3M masks and have four parts: the mouthpiece, the filter cartridge, a dust filter holder and a dust filter. They can be used for 50 hours before the cartridge and dust filters need to be replaced. 
+A gas mask is also extremely important, as the filtration is not 100% so this acts as an extra barrier. Even in large industrial recycling and manufacturing they haven’t reached clean air, so gas masks are common practice. The most common masks are 3M masks and have four parts: the mouthpiece, the filter cartridge, a dust filter holder and a dust filter. They can be used for 50 hours before the cartridge and dust filters need to be replaced.
 
-# So, that’s it! 
+# So, that’s it!
 
 If you take the proper safety precautions of a proper gas mask and extraction filtration, you are safe. Don’t work with PVC or ABS, and the safest plastic to work with is PP, LDPE and HDPE. Remember though, you can only melt PS for up to 8 hours per week.
 
@@ -160,5 +160,3 @@ If you take the proper safety precautions of a proper gas mask and extraction fi
 1. [Pollution characteristics / health risk assessment of VOCs emitted from different plastic solid waste](http://iehpc.gdut.edu.cn/2015-7.pdf)
 2. [Removal of VOCs from polluted air](http://beta.chem.uw.edu.pl/people/AMyslinski/nowy/zarzadzanie_01/literature_HWW/02.pdf)       
 3. [Evaluation of GAC filters to remove VOCs](https://www.isiaq.org/docs/papers/940.pdf)
-
-

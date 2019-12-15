@@ -1,7 +1,7 @@
 ---
 id: compression
 title: Build an compression Machine
-sidebar_label: ✅ Compression 
+sidebar_label: Compression 
 ---
 
 <div class="videocontainer">
@@ -22,10 +22,10 @@ sidebar_label: ✅ Compression
 
 ### Title
 
-The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mould. The process is slower than the other Precious Plastic machines but it allows for larger moulds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!). 
+The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mould. The process is slower than the other Precious Plastic machines but it allows for larger moulds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!).
 
 
-> Tip: tippy tip 
+> Tip: tippy tip
 
 </div>
 <div class="videoChaptersSidebar">
@@ -46,8 +46,8 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 
 # 📓 Technical information
 
-📓 Type | Compression Machine 
---- | --- 
+📓 Type | Compression Machine
+--- | ---
 💎 Version | 2.0
 💰 Cost in Netherlands | €200
 💰 Scrap cost in Netherlands | €120
@@ -98,11 +98,11 @@ Explanation of electric component roles
 
 # 🛠 Tips & tricks while making
 
-- Look around for second hand or scrap ovens. 
+- Look around for second hand or scrap ovens.
 - Try to make the hole into the oven only as big as it needs to be. This will save on insulation.
-- Have a look at the Compression v2.1 update before diving into these plans. 
+- Have a look at the Compression v2.1 update before diving into these plans.
 
-# ♻️ Input & Output 
+# ♻️ Input & Output
 
 
 <b>Type:</b> HDPE, LDPE, PP, PS<br>
@@ -139,17 +139,17 @@ The compression is simple to understand and very powerful if properly mastered. 
 1. Clean the inside of the oven from molten plastic.
 2. Tips & tricks while using
 3. It is advisable to heat up the plastic rst until melted and then apply pressure.
-4. Don’t be hasty, make sure the plastic is fully melted in the mould. 
+4. Don’t be hasty, make sure the plastic is fully melted in the mould.
 
 
 # 🌦 Pros & cons
 
-Pros | Cons 
---- | --- 
-Easy to manufacture     | Process is slow 
+Pros | Cons
+--- | ---
+Easy to manufacture     | Process is slow
 Can use found oven | Mould size limited to oven
 Runs on 220V |  Not energy efficient
-Bigger products than injection    | 
+Bigger products than injection    |
 Unique patterns |  
 
 # 🔧 Most common hacks
@@ -171,5 +171,3 @@ Unique patterns |
 # 🌎 Built by the community
 
 ![PP Image](assets/ppimage.jpg)
-
-

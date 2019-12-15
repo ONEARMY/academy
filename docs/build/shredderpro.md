@@ -1,7 +1,7 @@
 ---
 id: shredderpro
-title: Build a Shredder Pro
-sidebar_label: 🚫🚫 Shredder Pro
+title: Shredder Pro Specifications
+sidebar_label: - Specifications
 ---
 
 <div class="videocontainer">

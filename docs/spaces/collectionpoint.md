@@ -1,10 +1,21 @@
 ---
 id: collectionpoint
 title: Setup an Collection Point
-sidebar_label:✅ Collection Point
+sidebar_label: Collection Point
 ---
 
-# Injection Workspace 
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/x5Ab7sR6BNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<style>
+:root {
+  --highlight: #37b4a3;
+  --hover: #37b4a3;
+}
+</style>
+
+# How to setup a Collection Point
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
@@ -12,11 +23,11 @@ sidebar_label:✅ Collection Point
 ###  Great for transforming plastic waste into batches of objects using moulds.
 
 Heyo! So, you want to set up an injection workspace. Awesome! Setting up a workspace can be broken down into three main steps:
- 
+
 - <b>Search:</b> what to think about when choosing your space
 - <b>Plan:</b> how to plan your space effectively
 - <b>Build:</b> transforming an empty room into a injection workspace
- 
+
 Each of these steps is explained in more detail below.
 
 </div>
@@ -24,35 +35,42 @@ Each of these steps is explained in more detail below.
 
 ### Video Chapters
 
-- 00:00 Introduction 
-- 00:29 Melting Temps 
-- 01:33 Make Moulds 
-- 03:00 Create with Injection 
-- 04:13 Create with Extrusion 
-- 06:02 Create with Compression
+- 00:10 What you’ll need
+- 00:50 How to organise
+- 01:25 Engaging on/offline
+- 01.45 Clean plastic
+- 02.01 Passing the plastic on
+- 02.49 Presenting your workspace
 
 </div>
 </div>
 
-## SEARCH
- 
-The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
+### Ready?
+Let’s dive in. Before you start, there are a few things to consider.
 
-1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The injection space we designed is roughly 4 x 6 meters – you can go larger, but if you include the shredder (like ours) we wouldn’t recommend going much smaller.
- 
-2. <b>Electricity:</b> The Injection machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
- 
-3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. Pro tip: Sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
- 
- 
-## PLAN
- 
-You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan.
- 
-Every space is different, so this is a chance for you to customize your layout to make it work for you.
- 
-To help you begin, we’ve included some starter floor plans, CAD models, and a custom floor planner in the download kit, which you can use to explore different layouts before diving into the real thing.
- 
-<i><< image of custom floor planner being used >></i>
- 
-Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
+1. People: assemble your team (it’s more fun with friends!)
+2. Space: do you have enough? We’re working with a 4x6 metre space.
+3. Location: is it easy to find?
+
+### Let’s build!
+
+The goal of setting up and operating this workspace is to collect and sort plastic, so you’ll need to be pretty organised. We recommend using large bags or containers to store everything, and it’s important to separate your plastic based on type - so be sure to mark the bags to make sure everything goes in the right place.
+<< illustration of PP bags with signs >>
+
+And if you’re lucky enough to be able to get a consistent source of recycling, say the plastic spoons from your local ice cream store, then you can store these separately as you collect them so you can maintain consistency.
+
+An important part of being the collection point for your local community is how you engage both online and offline, so in your workspace it’s great to have a workstation where you can organise online with campaigns, social media, partnerships and collaborations.
+
+`A tip from us: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget. `
+
+Have a whole bag ready to go? Be sure to label it properly with a label that won’t fall off, so that the workspace you pass it on to know what type of plastic they’re receiving. Before you pass it on to them make sure to weigh the plastic and keep a record of it so you know how much plastic you’re collecting (it would be cool to let your community know as well!) and since you’re there, upload the weight to upload.preciousplastic.com so we can see how much our entire global community is collecting 💪
+
+### What else can you do?
+
+Seeing plastic as beautiful, valuable objects is a huge motivator for people bringing in their plastic, it’s nice to have a display to show off the Precious Plastic products being made from the plastic you’re collecting.
+
+There are many different ways you can collect plastic - people can bring it to you, or you can go and get it from them, but will depend on what’s possible in your area. Check out our series of <a href="url">Collection How-To's</a> to get inspired! But whatever approach you take, make sure that everyone that comes to your workspace has a nice, friendly experience. And of course in true Precious Plastic style, we’ve made some posters that you can hang up :)
+
+So that’s it! Your needs will change depending on your own situation so make sure you adapt to what’s relevant for you and your community - make sure to share your experiences so we can all grow together. What’s next?
+
+<< collection download button >>
