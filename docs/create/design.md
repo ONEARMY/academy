@@ -1,11 +1,11 @@
 ---
 id: design
 title: Design for Recycled plastic
-sidebar_label: 🚫 Design
+sidebar_label: Good design
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/yMXzTunf6gQ " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -21,7 +21,7 @@ sidebar_label: 🚫 Design
 
 Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+`Look under your plastic product and see if you can recognize what type of plastic it is`
 
 
 </div>

@@ -1,7 +1,7 @@
 ---
 id: create
 title: Create
-sidebar_label: ✅ Intro
+sidebar_label: Intro
 ---
 
 <div class="videocontainer">
@@ -32,11 +32,11 @@ So we’ve learnt about plastic, how to collect it and how to build the machines
 
 ### Video Chapters
 
-- 00:00 Introduction 
-- 00:29 Melting Temps 
-- 01:33 Make Moulds 
-- 03:00 Create with Injection 
-- 04:13 Create with Extrusion 
+- 00:00 Introduction
+- 00:29 Melting Temps
+- 01:33 Make Moulds
+- 03:00 Create with Injection
+- 04:13 Create with Extrusion
 - 06:02 Create with Compression
 
 
@@ -46,7 +46,7 @@ So we’ve learnt about plastic, how to collect it and how to build the machines
 
 In the early days of your journey into plastic you should get a feeling of how it melts, how it cools, when it burns and why or how to polish and finish it to make great products. Besides getting experience with plastic it is also important to develop some degree of expertise on different materials and how they work with plastic. This is particularly important when you will try to make new moulds on your own. Knowing what material conducts heat most efficiently, which one releases plastic easily and other key material insights will be crucial to your success.
 
-Here’s everything you need to do before getting started with your new valuable products: 
+Here’s everything you need to do before getting started with your new valuable products:
 
 # Learn your 💩
 
@@ -56,7 +56,7 @@ Go through the previous modules - having the knowledge about plastic types and t
 
 # Safety ❗️
 
-Safety. Safety. Safety. Taking the proper precautions when working with plastic will ensure your safe when doing so. Ventalite the area well and always wear a mask. 
+Safety. Safety. Safety. Taking the proper precautions when working with plastic will ensure your safe when doing so. Ventalite the area well and always wear a mask.
 
 # Choose your plastic and start easy 😎
 
@@ -76,7 +76,7 @@ Moulds are an integral part of the Precious Plastic ecosystem and could almost b
 
 It's worth noting that there are many ways of exploring moulds and new methods, using for example wood, plastic, 3d printed and aluminum casted moulds.  We advise to spend some time thinking, designing and making an accurate mould so you can create better products. It will pay off in the long run!
 
-Want to see some of the best moulds from the community? 
+Want to see some of the best moulds from the community?
 
 - [Link](#)<br>
 - [Link](#)<br>
@@ -90,12 +90,10 @@ We believe that plastic should not be seen as disposable or cheap. We strive to 
 
 # Share back 🤝
 
-Made a cool product? Figured out how to streamline your production? Had a great mould made? Our global community (you!) is the backbone of Precious Plastic and together we are finding new solutions every day to tackle the plastic problem. Don’t forget to publish a How-To, or post in the community Discord. Help fuel the project forward!. 
+Made a cool product? Figured out how to streamline your production? Had a great mould made? Our global community (you!) is the backbone of Precious Plastic and together we are finding new solutions every day to tackle the plastic problem. Don’t forget to publish a How-To, or post in the community Discord. Help fuel the project forward!.
 
-# Be open and collaborative 
+# Be open and collaborative
 
-We’ve been busy designing the tools, resources and framework you need to run a Precious Plastic recycling workspace, and now you have all of the knowledge, it’s up to you to make it work in your local community and take it to the next level. Whether you want to create products, make moulds, hack the machines, collaborate with other designers/engineers, experiment, teach others, host collection parties, whichever you choose, make sure to keep the Precious Plastic spirit with you: be open, be collaborative. 
+We’ve been busy designing the tools, resources and framework you need to run a Precious Plastic recycling workspace, and now you have all of the knowledge, it’s up to you to make it work in your local community and take it to the next level. Whether you want to create products, make moulds, hack the machines, collaborate with other designers/engineers, experiment, teach others, host collection parties, whichever you choose, make sure to keep the Precious Plastic spirit with you: be open, be collaborative.
 
-*go into detail about creating with different machines* - vicente 
-
-
+*go into detail about creating with different machines* - vicente

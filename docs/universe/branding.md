@@ -1,11 +1,8 @@
 ---
 id: branding
 title: Branding
-sidebar_label: Branding & logo
+sidebar_label: Style guides
 ---
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <style>
 :root {
@@ -14,43 +11,42 @@ sidebar_label: Branding & logo
 }
 </style>
 
+# The style and graphics behind Precious Plastic
+# Using the logo correctly
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+# Make posters for Precious Plastic
+- location is for community Points
+- name not to Long
 
-# How the Precious Plastic universe works (mattia or dave)
+# Using our font
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+<img style="margin-left:0px;" src="../assets/universe/font-1.jpg" />
+- customize logo based on roles
+- change 1 variable, color background, illustartion
+- save as eps
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
-
-
-</div>
-<div class="videoChaptersSidebar">
-
-### Video Chapters
-
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
-
-
-</div>
-</div>
+# Using background background strokes
 
 
 
 
-Let us know questions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+# Precious Plastic colors
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+## Academy colors
+| Color   |  Location & Hex code         | Color | Location & Hex code                  |
+|----------|---------------|--|--------|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Intro__ <br> #CDCFD5    | <img src="../assets/universe/F6B67B.jpg" width="100%" height="50px"/> | __Business__ <br> #F6B67B	|
+| <img src="../assets/universe/95D2EF.jpg" width="100%" height="50px" /> | __Plastic__ <br> #95D2EF |  <img src="../assets/universe/2DAE9E.jpg" width="100%" height="50px"/> | __Spaces__ <br> #2DAE9E |  
+| <img src="../assets/universe/F19093.jpg" width="100%" height="50px" /> | __Build__ <br> #F19093 |    <img src="../assets/universe/798BC5.jpg" width="100%" height="50px"/> | __Research__ <br> #798BC5 |
+| <img src="../assets/universe/C0ADD4.jpg" width="100%" height="50px" /> | __Collect__ <br> #C0ADD4 |  <img src="../assets/universe/F18DAF.jpg" width="100%" height="50px"/> | __Universe__ <br> #F18DAF |
+| <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px" /> | __Create__ <br> #FCDE8A |  <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px"/> | __Support & Download__ <br> #CDCFD5 |
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
-
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+## General colors
+|  color | Location & Hex code           | color | Location & Hex code                   |
+|----------|---------------|--|--------|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Primary color__ <br> #B7D6E3    | <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px"/> | __secondary color__ <br> #FCDE8A	|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Workspace__ <br> #B7D6E3    | <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px"/> | __Machine shop__ <br> #FCDE8A	|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Community point__ <br> #B7D6E3    | <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px"/> | __Collection Point__ <br> #FCDE8A	|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Member_ <br> #B7D6E3    | <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px"/> | __Collection Point__ <br> #FCDE8A	|
+| <img src="../assets/universe/CDCFD5.jpg" width="100%" height="50px" /> | __Logo Ring__ <br> #B7D6E3    | <img src="../assets/universe/FCDE8A.jpg" width="100%" height="50px"/> | __Logo background__ <br> #FCDE8A	|
