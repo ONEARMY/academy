@@ -1,7 +1,7 @@
 ---
 id: beyondplastic
 title: Beyond Plastic
-sidebar_label: 🚫 🚫Beyond Plastic
+sidebar_label: Beyond Plastic
 ---
 
 <div class="videocontainer">
