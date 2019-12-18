@@ -41,7 +41,8 @@ article .videocontainer iframe {
 }
 
 a {
-  color: var(--highlight, $primaryColor);
+  color: rgb(131, 206, 235);
+  color: var(--links, var(--highlight, $primaryColor));
 }
 
 a:hover {
@@ -87,7 +88,9 @@ a:hover {
 }
 
 a:hover {
+  color: rgb(131, 206, 235);
   color: var(--hover, $primaryColor);
+  text-decoration: underline;
 }
 
 article .videocontainer {

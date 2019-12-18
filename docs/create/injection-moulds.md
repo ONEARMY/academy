@@ -6,7 +6,8 @@ sidebar_label: Injection moulds
 <style>
 :root {
   --highlight: #ffe084;
-  --hover: #ffe084;
+  --links: rgb(131, 206, 235);
+  --hover: rgb(131, 206, 235);
 }
 </style>
 <img style="margin-left:0px;" src="../assets/create/socket-cnc.jpg" />

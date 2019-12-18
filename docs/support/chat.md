@@ -6,7 +6,8 @@ sidebar_label: chat
 
 <style>
 :root {
-  --highlight: rgb(131, 206, 235);
+  --highlight: #e1e1e1;
+  --links: rgb(131, 206, 235);
   --hover: rgb(131, 206, 235);
 }
 </style>

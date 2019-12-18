@@ -7,7 +7,8 @@ sidebar_label: Your own how-to
 <style>
 :root {
   --highlight: #ffe084;
-  --hover: #ffe084;
+  --links: rgb(131, 206, 235);
+  --hover: rgb(131, 206, 235);
 }
 </style>
 
