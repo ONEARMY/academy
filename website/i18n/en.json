@@ -135,11 +135,11 @@
       },
       "research/beyondplastic": {
         "title": "Beyond Plastic",
-        "sidebar_label": "🚫 🚫Beyond Plastic"
+        "sidebar_label": "Beyond Plastic"
       },
       "research/robotics": {
         "title": "Robotic sorting",
-        "sidebar_label": "✅ Robotic sorting"
+        "sidebar_label": "Robotic sorting"
       },
       "spaces": {
         "title": "Spaces",
