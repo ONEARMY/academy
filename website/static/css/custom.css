@@ -45,8 +45,8 @@ a {
   color: var(--links, var(--highlight, $primaryColor));
 }
 
-a:hover {
-  text-decoration: underline;
+details > summary {
+  cursor: pointer;
 }
 
 .navGroup ul li.navListItem {
