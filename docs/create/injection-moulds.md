@@ -6,7 +6,8 @@ sidebar_label: Injection moulds
 <style>
 :root {
   --highlight: #ffe084;
-  --hover: #ffe084;
+  --links: rgb(131, 206, 235);
+  --hover: rgb(131, 206, 235);
 }
 </style>
 <img style="margin-left:0px;" src="../assets/create/socket-cnc.jpg" />
@@ -58,14 +59,14 @@ Ok. you are still here. good. The most common material for small series is alumi
 The maximum possible part size is defined by multiple variables:
 
 1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The granule has a bigger volume than the molten volume of the plastic. See image below
-<img style="margin-left:0px;" src="../assets/create/volume.jpg" width="500"/>    
+<img style="margin-left:0px;" src="../assets/create/volume.jpg" width="500"/>
 2. Total Size of the mould -> can it be used with my injection machine?
 (v3 Injection: Diameter: 380mm x 170mm) If you use a screw nozzle and a rectangular mould consider the diagonal distance for the maximum width/length! See image below
-<img style="margin-left:0px;" src="../assets/create/sizes.jpg" width="500"/>    
+<img style="margin-left:0px;" src="../assets/create/sizes.jpg" width="500"/>
 3. Depth of part -> Easiest if less than ~40mm, because standard endmills can be used for the machining. Most Endmills are limited to around 100mm length. Can be relevant if hobby style CNC machines with little Z-Travel are used. The mould can be usually machined from a single block if you stay below 80mm. This can be a big cost saver in the process. See image below
-<img style="margin-left:0px;" src="../assets/create/milling.jpg" width="500"/>    
+<img style="margin-left:0px;" src="../assets/create/milling.jpg" width="500"/>
 4. Projected area of all cavities, runners and gates towards the opening direction of the mould. This determines the necessary clamping force. This is not an issue for part designs injected with manual injection machines. If your part is manufactured on a higher pressure injection machine you might need to consider this closer. See image below
-<img style="margin-left:0px;" src="../assets/create/mould.jpg" width="500"/>    
+<img style="margin-left:0px;" src="../assets/create/mould.jpg" width="500"/>
 
 
 ## Mould Design tip

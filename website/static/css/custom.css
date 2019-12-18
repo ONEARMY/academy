@@ -41,7 +41,12 @@ article .videocontainer iframe {
 }
 
 a {
-  color: var(--highlight, $primaryColor);
+  color: rgb(131, 206, 235);
+  color: var(--links, var(--highlight, $primaryColor));
+}
+
+details > summary {
+  cursor: pointer;
 }
 
 .navGroup ul li.navListItem {
@@ -55,6 +60,7 @@ a {
 .navGroup ul li.navListItem:hover {
   border-left: 4px var(--highlight, $primaryColor) solid;
   transition: border-color 0.3s;
+  text-decoration: none;
 }
 
 .navGroup ul li.navListItem:hover a {
@@ -78,10 +84,13 @@ a {
 .toc .toggleNav ul li a:hover,
 .toc .toggleNav ul li a:focus {
   color: $defaultFontColor;
+  text-decoration: none;
 }
 
 a:hover {
+  color: rgb(131, 206, 235);
   color: var(--hover, $primaryColor);
+  text-decoration: underline;
 }
 
 article .videocontainer {

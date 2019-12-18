@@ -8,8 +8,9 @@ sidebar_label: Styles (temp)
 
 <style>
 :root {
-  --highlight: #f2a5c1;
-  --hover: #f2a5c1;
+  --highlight: #e1e1e1;
+  --links: rgb(131, 206, 235);
+  --hover: rgb(131, 206, 235);
 }
 </style>
 
