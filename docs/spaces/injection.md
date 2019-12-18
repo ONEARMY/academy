@@ -10,8 +10,8 @@ sidebar_label: Injection
 
 <style>
 :root {
-  --highlight: #ffe084;
-  --hover: #ffe084;
+  --highlight: #37b4a3;
+  --hover: #37b4a3;
 }
 </style>
 

@@ -1,7 +1,7 @@
 ---
 id: robotics
 title: Robotic sorting
-sidebar_label:✅ Robotic sorting
+sidebar_label: Robotic sorting
 ---
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,7 +19,7 @@ sidebar_label:✅ Robotic sorting
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-Sorting plastic remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots. 
+Sorting plastic remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots.
 
 Using robotics for sorting and scanning is a very experimental project at Precious Plastic. It’s more like an ongoing research project to work on optimizing . There’s two parts to this research: working with a robot to move the products and designing a scanner to identify the type of plastic that we’re moving.
 
@@ -44,7 +44,7 @@ Using robotics for sorting and scanning is a very experimental project at Precio
 
 ## Why Sorting?
 
-68% of the world’s plastic can’t be sorted by automated recycling facilities. While local recycling works differently in every country, typical sorting facilities may identify and separate PET and HDPE plastics, but due to the high cost of sorting, the rest of the plastics will likely be left mixed. These mixed plastics may be sent on to other waste facilities to be burned for energy, they might end up in a landfill, some are shipped overseas, and in the worst cases they are piled up and burned in the open air. 
+68% of the world’s plastic can’t be sorted by automated recycling facilities. While local recycling works differently in every country, typical sorting facilities may identify and separate PET and HDPE plastics, but due to the high cost of sorting, the rest of the plastics will likely be left mixed. These mixed plastics may be sent on to other waste facilities to be burned for energy, they might end up in a landfill, some are shipped overseas, and in the worst cases they are piled up and burned in the open air.
 
 Local recycling works differently in every country, but there are a variety of options to recognize plastic. This can involve high end industrial machines that cost facilities millions, or paying people to sort through waste by hand. Building processes that fit in between will take time and energy, and that’s what we’re working towards.
 
@@ -52,11 +52,11 @@ Local recycling works differently in every country, but there are a variety of o
 
 <img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/gif/robot.gif" width="500"/>
 
-For a robotic system like this one to pick and sort plastic you need three things: 
+For a robotic system like this one to pick and sort plastic you need three things:
 
 - An arm, to pick the plastic up
 - Sensors (or eyes), to know where the plastic is
-- A brain, that’s programmed to make decisions based on chosen parameters 
+- A brain, that’s programmed to make decisions based on chosen parameters
 
 Sounds simple, right? Each component has their own set of unique challenges, including getting them all to work together as a unit. Many robotic systems that are provided by companies come with their own operating systems, but these are closed systems (and we like open-source!) so, we went with a system called Robotic Operating System (or ROS). ROS creates this whole framework that allows each part - arms, sensors, brains - to send messages to each other to function properly. The ROS framework is entirely modular (🎉) so you can swap out different components or algorithms.
 
@@ -68,7 +68,7 @@ Depending on what system you’re using to move the plastic, you might not need 
 
 ## The Brain
 
-Ok, so there’s a lot of data coming in from the 3D camera but the arm doesn’t know what to do with it yet. When we look at the visualization of the points, humans can understand that each group of pixels may be a different object, but we need to walk our computer brain through several steps before it can recognize the same thing. 
+Ok, so there’s a lot of data coming in from the 3D camera but the arm doesn’t know what to do with it yet. When we look at the visualization of the points, humans can understand that each group of pixels may be a different object, but we need to walk our computer brain through several steps before it can recognize the same thing.
 
 Here you can see on the left the full resolution of points coming from the camera. With this many data points it will be difficult for the brain to quickly process everything, so on the right you see how we pull the resolution down to speed up the processing.
 
@@ -83,7 +83,7 @@ With our unique objects identified as clusters of points, our brain finds the ob
 ## The Arm
 
 
-We bought a second-hand industrial robot, which was not exactly cheap (but every year they are getting cheaper and easier to find). Ours has a 1.5 meter reach and a 10 kg payload capacity. It operates on 6 axis to achieve a huge variety of poses. It’s not quite ready to win any awards for speed, but we chose this because they’re easier to develop for. Other robot geometries (like a delta or SCARA) are better suited to achieve high speeds that are ideal for pick and place operations. 
+We bought a second-hand industrial robot, which was not exactly cheap (but every year they are getting cheaper and easier to find). Ours has a 1.5 meter reach and a 10 kg payload capacity. It operates on 6 axis to achieve a huge variety of poses. It’s not quite ready to win any awards for speed, but we chose this because they’re easier to develop for. Other robot geometries (like a delta or SCARA) are better suited to achieve high speeds that are ideal for pick and place operations.
 
 To actually grab the plastic waste, we use a vacuum-gripper. It’s like a mini vacuum cleaner pipe that can suck in and hold objects. We’re using a vacuum generator that uses compressed air to generate the vacuum. Our vacuum generator also allows us to to speed up the dropping process by activating a quick burst of air to blow out the gripped object.
 
@@ -118,21 +118,21 @@ In simple terms it means that if we throw, say, green light, at some material we
 
 <img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/raman.png" width="500"/>
 
-Before we go further, some respects to be paid. At Precious Plastic we’re pretty resourceful, we like making and fixing things, developing machines. But this experimental research into using raman spectroscopy wouldn’t be possible without the work of C.V. Raman (obviously) and to all the scientists and researchers out there who publish their findings online open source. We couldn’t do it without you (please keep going!) 
+Before we go further, some respects to be paid. At Precious Plastic we’re pretty resourceful, we like making and fixing things, developing machines. But this experimental research into using raman spectroscopy wouldn’t be possible without the work of C.V. Raman (obviously) and to all the scientists and researchers out there who publish their findings online open source. We couldn’t do it without you (please keep going!)
 
 So with all of this information out there, we’ve been working on a prototype for a sensor that can be used all around the world to tackle this problem together 💪
 
 First things first. Optical equipment is very sensitive to dust so to work with the components a very clean environment is needed. Need help on building a clean space? Head to the forums to learn how to build one with a box, some 3D printed parts and bits from a vacuum cleaner.
 
-So let’s dive into the scanner! The system is composed of two main stages, the excitation stage and the spectrograph stage. 
+So let’s dive into the scanner! The system is composed of two main stages, the excitation stage and the spectrograph stage.
 
 ![Scanner](assets/scanner.png)
 
 The excitation stage is designed to shine a light source at the material we are trying to identify and direct its response into the spectrograph. In order to measure the energy shift in molecules we need to provide a known wavelength light source, and this is the first component of the spectrograph. Our spectrograph is using a green laser for this.
 
-We use a beam splitter to direct the laser light into a microscope lens where we can concentrate photons onto a tiny spot so they interact with our unknown plastic. The same microscope lens is used to capture the response from the material. Since the molecules inside a material that presents raman effect are low (compared to the ones that remain in the same energy level), we need to filter out the original signal before sending it on to the spectrograph. 
+We use a beam splitter to direct the laser light into a microscope lens where we can concentrate photons onto a tiny spot so they interact with our unknown plastic. The same microscope lens is used to capture the response from the material. Since the molecules inside a material that presents raman effect are low (compared to the ones that remain in the same energy level), we need to filter out the original signal before sending it on to the spectrograph.
 
-For the spectrograph we are using a Czerny Turner configuration, this is where the light will be spread in all of its components for it to be collected and digitized by the sensor, so we can compare it and 
+For the spectrograph we are using a Czerny Turner configuration, this is where the light will be spread in all of its components for it to be collected and digitized by the sensor, so we can compare it and
 
 The light enters the entrance slit that restricts light access so we only get the material response and nothing else. A first mirror is used to collimate the light to a diffraction grating (similar to a prism) so we can record every wavelength of the response. Then a second mirror is used to focus the light spectra into a CCD array where we can capture the signal and transfer it to a computer for further analysis. A CCD array sounds fancy, but it’s the same technology used in your cell phone camera. For the molecular structure signals we’re looking for it need to be extra precise. That’s why the last component of the spectrometer is a thermoelectric cooler that controls the temperature of the CCD array.
 
