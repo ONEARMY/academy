@@ -46,7 +46,11 @@ We outline how to build each machine and where to source parts, as well as the m
 
 ## Why are these machines important?
 
-We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic. So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable. his inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
+We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic. So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable. 
+
+<i> << 21. cheaper, easier to build and much more affordable >> </i>
+
+This inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
 
 > Tip: use the map to see which machines are in your local area!
 

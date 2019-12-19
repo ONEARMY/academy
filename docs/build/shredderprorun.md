@@ -3,11 +3,6 @@ id: shredderprorun
 title: Run a Shredder Pro
 sidebar_label: - Run it
 ---
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <style>
 :root {
   --highlight: #f29094;
@@ -15,157 +10,96 @@ sidebar_label: - Run it
 }
 </style>
 
+![Shredder](assets/ppimage.jpg)
 
+# Run and Maintain the Shredder Pro
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+This is text
 
-# Build a Shredder Pro
+> This is a tip
 
-You want to shred Plastic? cool! So we have 2 different shredder, small and pro. This is the pro, it's more robust, advanced and productive then the small one. But also more complex to build. But once you get familiair its all doable. You can also buy parts on the bazar, the whole machine. or even sell them yourself. The shredder is actually the most requested machine around the world!
+## 🏃‍♀️ Run
 
-</div>
-<div class="videoChaptersSidebar">
+### Start
 
-### Video Chapters
+1. Check the main switch and the emergency stops are off, the direction switch is in the stop position and plug in the shredder (if it was not plugged in) in a 16A three-phase plug.
+2. Check that the hopper and the sieve (if it is needed) are mounted properly.
+3. Check the hopper is empty of parts that could damage the machine.
+4. Turn on the main switch, then the display will turn on.
+5. If the display reads “READY”, turn on the emergency stop. 
+6. Run the shredder in reverse mode for a few seconds to check everything works properly. The display should show “REVERSING”.
+7. Run the shredder in shredding/forward mode. The display should show “SHREDDING”.
+8. The machine is ready to use.
 
-- 00:36 - Intro
-- 00:36 - Frame
-- 00:36 - Hopper
-- 00:36 - Cutting box
-- 00:36 - Motor
-- 00:36 - Electronics
-- 00:36 - Final assembly
-- 00:36 - How to run
+If you hear or see something is not going well, stop the machine immediately and check what the issue is. The machine has enough power to damage the components by itself if they are not assembled properly.
 
+### Pour plastic
 
+The output of the shredder depends on, among other things, the shape of the plastic. CD cases, sheets, bottle caps, extrusion/injection leftovers… are easy to shred. Round shapes or big pieces are hard for the blades to grab. To increase the productivity of the shredder, try to pour the plastic in a way that the shredder can grab it. For example, for most of the bottles, a good way is to pour them upside down, so they can be grabbed from the nozzle.
 
-</div>
-</div>
+For a second shred, just fill the hopper with the shredded plastic.
 
+### Run
 
+Depending on the motor’s power, you may need to check the load of the motor (shown on the display while the machine is shredding). The motor load also depends on the material, shape, and thickness of the pieces to be shred.
 
+For example, PS CD Cases (brittle plastic) don’t require much power to be shredded. Big bottles of HDPE (elastic-plastic) requires much more power.
 
+Depending on your motor, you will have different nominal power / amperage to run at. Makes sure that you always run your motor under this amperage in average. If your motor is under dimensioned for the work, ensure enough break time to let it cool down.
 
-<img src="/academy/assets/build/shredder.jpg"/>
-# 📓 Technical information
-| Name  |  Shredder Pro     |
-|----------|-------------|
-| 📓 Type   |     Double Shaft Shredder   |
-| 💎 Version   |     1.0   |
-| 💰 Prize in Netherlands |  2200€ + motor |
-| ⚖️ Weight |   340 kg   |
-| 📦 Dimension   | 1205 x 550 x 1512 mm|
-| ⚙️ Blade width | 6 mm|
-| 🔌 Voltage | 400V|
-| ⚡️ AMP | 16A|
-| ⏱ Max running time | 5H/Day|
-| ⚙️ Geared Motor   |       |
-|  - Nominal Power |  2.2 kW minimum. 3 kW recommended |
-|  - Nominal Torque |   1100 Nm minimum - 2000 Nm max   |
-|  - Output Speed   | 12-20 r/min|
-|  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
+During the shredding process, it is recommended to check the temperature of the blades, bearings, box, motor… with a temperature gun. The temperature will depend on the load of the motor and the running time. Stop the machine if the temperature of the blades exceeds 90 ºC or you will start melting you plastic. The other component shouldn’t heat too much unless very intense shredding or hot weather. Check manufacturer recommended temperature, but in general don’t go over 55°C.
 
-# 🛠 Required machinery & skills
----
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/982530bc0c9d4f8b9a424a9d35eb7c6a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+### Deep clean
 
-Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+It is recommended to do all the following steps if you are going to change the material. It is not necessary to clean if you change the color but it is the same material (depends of what do you want to get).
 
-### Machines needed
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq spanner
+1. Before start cleaning the machine, push the emergency stop and turn off the main switch.
+2. Remove the sieve (if it is mounted).
+3. Remove the hopper.
+4. Remove the top plate of the box.
+5. Remove the fixed blades.
+6. Clean between the blades. The bottom of the machine has to be clean as well.
+7. Clean the hopper, fixed blades, sieve and the interior of the box.
+8. Mount the fixed blades, top plate, hopper and sieve (if required).
 
+### Change the material or color to shred
 
-### Skills needed
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (intermediate)
+Shredding plastic of the same material and color is recommended. If you want to change the material or color, you will need to clean the machine. Follow the steps about “Deep clean”.
+If you want to change only the color, but you don’t mind if there are some flakes with a different color, you could clean the shredder, lightly, with a brush and a flat screwdriver to remove the plastic between the static blades.
 
+## 🔓 Troubleshooting
 
+Arduino or the display doesn’t works properly
 
-# ♻️ Input & output
+1. Check the wiring.
+2. Connect the arduino board to a computer and upload the code. Set up the code.
 
-There are many things to shred. And its fun to try out. it's the main number people refer to when talking about shredders. "How much KG/H does it shred?" However its not that easy. it highly depends on what you put in, which type of plastic which size, which tickness. And also what do you want as an output large or small flakes. But to give you a bit of reference, below some numbers. Overall there is still way more to test. So we will continue to expand this list :)
+## ⏳ Maintain
 
-<img src="/academy/assets/build/shredderpro_output-input.jpg" />
+### Before starting
 
-| Input & Output  |        |
-|----------|-------------|
-| Size of shredder input |  300 x 250 mm |
-| Max Plastic thickness |   6 mm   |
-| Tested types   |     HDPE, PP, PS, LDPE   |
-| Foils   |   Not tested   |
-| Shredding with small mesh|	0-7 MM flakes|
-| Shredding with medium mesh|	7-10 MM flakes|
-| Shredding with large mesh|	>10 MM flakes|
-| Shredding without mesh| +/- 30MM flakes|
-| KG per hour large flakes (sheetpress)|	50 - 90 kg|
-| KG per hour medium flakes (injector)|	20 - 30 kg|
-| KG per hour small flakes (extruder)|	10 kg|
+Check the oil level of the gearbox of the motor. Usually, the quantity of oil depends on the mount position of the motor. Check the manufacturer's instructions.
 
+Bearing  and gears are as well delivered without grease, be sure to fill them with recommended grease.
 
-### Input
-- Type of plastic Tested:	HDPE, PP, PS, LDPE
-- Foils:	Not tested
-- Size of shredder input:	300 x 250 mm
-- Max Plastic thickness:	6 mm
+### Weekly
 
-### Output
-- Size with small mesh:	0-7 MM
-- Size medium mesh:	7-10 MM
-- Size large mesh:	>10 MM
-- Size without mesh: +/- 30MM
-- KG Hour Large (sheetpress)	50 - 90 kg
-- KG Hour medium (extruder grade)	20 - 30 kg
-- KG Hour small (extruder grade)	10 kg
+- Deep clean the shredder
+- Once you remove all the blade, inspect both fixed and moving blade : they should not have any scratch. If this is the case, dismantle the shredder and sand / sharpen damaged blades.
+- As well check if no plastic went in between blade. If this is the case, disassemble the axis, clean blade and reassemble.
 
+### Monthly
 
-# ⚙️ Run & maintain the Shredder Pro
+- Disassemble gears, clean them and reassemble with new grease.
+- Inspect bearings looking for any cracks and add extra grease if needed.
+- Disassemble the box, sand or sharpen damage part and oil all plates. If teeth are too damaged, replace them. We recommend ordering extra blades to allow this maintenance easily.
+- Depending on the coupling that the machine uses, you may need to replace some rubber components. Check the manufacturer’s instructions.
+- Check the paint, and do some top shop if needed.
 
-<img src="/academy/assets/build/shredder_plastic.jpg" width= "800px"/>
-There are a lot of forces going on inside the shredder, plastic is a tough material to shred. In order to make sure it goes well its crucial to follow the steps in the right order. Besides that maintaince of the machine is key since it can wear out easily.
-Watch out metal objects falling in the shredder.The machine is powerful and could probably shred it.  [here is a nut that fell in](/academy/assets/build/shredder_nut.jpg). We where lucky, but it could easily break your blades
+## Appendix
 
-### How to run
-- Step #1:
-- Step #2:
-- Step #3:
-- Step #4:
-- Step #5:
-- Step #6:
-- Step #7:
-- Step #8:
-
-### How to maintain
-- Daily: check oil, blades gears
-- Monthly: sharpen blades
+Appendix A : Shred size poster
 
 
 
-# 🌦 Pros & cons
 
-Like everything in the world there are pro's and con's. That includes our Shredder Pro. Make sure to have a proper look at all the documentation before you decide to make it. Perhaps you can find one locally on the map to try out first, or buy a second hand unused industrial shredder? It might save you some time and resourced before you decide to build.
-| Pro   |     Cons   |
-|----------|-------------|
-| Robust and reliable |  Granulating is slow |
-| Option to granulate |    Complex to build   |
-| Easy to assemble.   | Specific motor required |
-| Little welding needed | High in maintance|
-| Easy to clean and repair | |
-
-
-# 💫 Useful Links
-
-- For questions go and chat in our Discord (discord #channel)
-- Visit our starterkits to setup a complete shredder workspace (starterkits)
-- Sell or buy machines on our bazar (bazar)
-- Find a local machine shop on our map (map)
-- Compare with our small shredder (small shredder)
-- Visit our how-to's for upgrades and hacks (how to)

@@ -49,6 +49,7 @@ When using the Precious Plastic extrusion machine, extrusion is a continuous pro
 </div>
 </div>
 
+![PP Image](assets/extrusion.jpg)
 
 
 # 📓 Technical information

@@ -44,11 +44,10 @@ Try to melt your plastic at the lowest temperature possible and for the shortest
 
 # Fume Dangers
 
+<i> << 6. don't burn plastic >> </i>
 ![PP Image](assets/ppimage.jpg)
 
-<i>< illustration don’t burn plastic ></i>
-
-The first rule is: don’t burn plastic. This one is very important. Why? It is extremely harmful to you, those around you and the environment.  Very harmful toxins are released when burning plastic and can significantly increase the chances of cancer, respiratory illnesses and birth defects. It can also greatly damage internal organs and the hormonal system.
+The first rule is: don’t burn plastic. This one is very important. Why? It is extremely harmful to you, those around you and the environment.  Very harmful toxins are released when burning plastic and can significantly increase the chances of cancer, respiratory illnesses and birth defects. It can also greatly damage internal organs and the hormonal system. 
 
 When burning PVC, dioxins are released which a highly toxic compound that has been shown to increase cancer, reproductive problems and immune system damage. At Precious Plastic, we don’t work with PVC.
 

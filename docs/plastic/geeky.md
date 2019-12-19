@@ -41,7 +41,11 @@ Ok, it’s time to go deep. When did plastic arrive in our society, how did it g
 
 # General Knowledge on Plastic
 
-When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?)
+When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. 
+
+<i> << 7. monomers/polymers >> </i>
+
+You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?) 
 
 ## A little bit of history
 
@@ -127,9 +131,15 @@ Lastly, you can also process plastic in a more manual way. You can drill it, mil
 
 So, we’ve learnt that most plastics on the market are able to be identified, sorted, shredded and made into new products, and ideally, this would work locally and globally. But unfortunately this is not the case - approximately 2% of plastic packaging is recycled in a closed-loop process (this means that only 2% of packaging is recycled to make new packaging) and another 8% is down-cycled, meaning the quality is degraded and a lower quality product is made.
 
+<<<<<<< HEAD
+<i> << 18. recycling cycle >> </i>
+=======
 Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic.
 
+>>>>>>> 75d1b550c33901153661aaa21466809725fa56da
 ![PP Image](assets/ppimage.jpg)
+
+Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic. 
 
 ### So if you you have plastic and see no number, then what?
 
@@ -143,11 +153,9 @@ A few of the different ways to identify the plastic is:
 
 <b>Burn Testing</b> - this is a simple technique where you cut a small piece of plastic and light it on fire (although this produces toxic fumes, so we don’t recommend doing this one regularly!) You you should cut a piece of the unknown plastic and light it up observing the flame colour, nature and smell.
 
-< identification map of burn testing >
+<i> << 20. identification map of burn testing >> </i>
 
 <b>Hand Sorting</b> - this is a manual process where plastic comes in on a conveyor belt and people identify common plastics or using the SPI codes. The problem with this process is that some items can look and feel the same, but are made from different materials. [Want to see one in the Netherlands? Dave visit in 2013.](https://www.youtube.com/watch?v=Ktkn8TeoTA8)
-
-<img style="margin-left: 0;" src="../assets/jerry/jerry13.png" width="400"/>
 
 ## Something to help you remember is that:
 
