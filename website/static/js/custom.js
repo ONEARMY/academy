@@ -99,7 +99,7 @@ function passLinkClicksToParent() {
       node.addEventListener("click", ev => {
         ev.preventDefault();
         const href = ev.target.href;
-        parent.postMessage({ linkClick: href });
+        parent.postMessage({ linkClick: href }, "*");
       });
     }
   });
