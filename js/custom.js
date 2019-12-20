@@ -66,6 +66,41 @@ window.addEventListener("DOMContentLoaded", function() {
     });
   }
 });
+
+/********************************************************************
+ *  Custom functions to support use as an Iframe within the
+ *  OneArmy community platform
+ *******************************************************************/
+if (isIframe()) {
+  // attach link listeners after page load
+  window.addEventListener("DOMContentLoaded", passLinkClicksToParent);
+  // can safely emit url immediately
+  passPageUrlToParent();
+}
+
+// Detect if in iframe
+function isIframe() {
+  try {
+    return window.self !== window.top;
+  } catch (error) {
+    return true;
+  }
+}
 // On every page load emit the current pathname
-// for use in iframe embeds
-parent.postMessage({ pathname: location.pathname }, "*");
+function passPageUrlToParent() {
+  parent.postMessage({ pathname: location.pathname }, "*");
+}
+
+// Add event listner to all 'a' links that emits to parent postmessage
+function passLinkClicksToParent() {
+  document.querySelectorAll("a").forEach(node => {
+    // external links only
+    if (!node.href.includes(location.host)) {
+      node.addEventListener("click", ev => {
+        ev.preventDefault();
+        const href = ev.target.href;
+        parent.postMessage({ linkClick: href });
+      });
+    }
+  });
+}
