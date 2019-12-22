@@ -469,12 +469,24 @@ hr {
     padding: 50px 0;
   }
 
+  .mainContainer {
+      height: 100%;
+      overflow-y: scroll;
+      margin-right: 9px;
+      padding-right: 15px;
+  }
+
   .docMainWrapper {
     margin: 50px auto;
     width: 80%;
     background: #fff;
     border-radius: 10px;
     border: 2px solid #000;
+    height: calc(100vh - 100px);
+  }
+
+  .docsNavContainer {
+    height: 100%;
   }
 
   .wrapper {
