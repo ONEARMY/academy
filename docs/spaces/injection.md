@@ -22,7 +22,7 @@ sidebar_label: Injection
 
 ###  Great for transforming plastic waste into batches of objects using moulds.
 
-Heyo! So, you want to set up an injection workspace. Awesome! Setting up a workspace can be broken down into three main steps:
+You want to set up an injection workspace. Awesome! Setting up a workspace can be broken down into three main steps:
 
 - <b>Search:</b> what to think about when choosing your space
 - <b>Plan:</b> how to plan your space effectively
@@ -45,7 +45,7 @@ Each of these steps is explained in more detail below.
 </div>
 </div>
 
-## SEARCH
+## 🔍 SEARCH
 
 The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
@@ -56,7 +56,7 @@ The first step of setting up a workspace is to find a space (duh). While searchi
 3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. Pro tip: Sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
 
 
-## PLAN
+## ✍️ PLAN
 
 You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan.
 
@@ -64,12 +64,12 @@ Every space is different, so this is a chance for you to customize your layout t
 
 To help you begin, we’ve included some starter floor plans, CAD models, and a custom floor planner in the download kit, which you can use to explore different layouts before diving into the real thing.
 
-<i><< image of custom floor planner being used >></i>
+![Extrusion Workspace](assets/spaces_injection.jpg)
 
 Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
 
 
-## BUILD
+## 🛠 BUILD
 
 Now that your floor plan is blocked out, it’s time to transform your empty room into an injection workspace.
 
@@ -95,6 +95,6 @@ Once you’ve got your basic workspace set up, start working with the injector t
 
 And don’t be afraid to spice the place up with your own unique charm :) Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in for yourself and anyone who stops by.
 
-## SHARE
+## 👋 SHARE
 
-You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey :)
+You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂

@@ -4,10 +4,6 @@ title: Build an extrusion Pro
 sidebar_label: - Run it
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <style>
 :root {
   --highlight: #f29094;
@@ -15,168 +11,112 @@ sidebar_label: - Run it
 }
 </style>
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+![Shredder](assets/ppimage.jpg)
 
-# Build an Extrusion Pro
+# Run and Maintain the Extrusion Pro
 
-Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
+This is text
 
-`Pro tip: understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
+> This is a tip
 
+## 🏃‍♀️ Using
 
-</div>
-<div class="videoChaptersSidebar">
+### How to Start
 
-### Video Chapters
+1. Turn on the main switch
+2. Select the desired temperature on the 3 PIDs
+3. Pour the plastic inside the hopper
+4. Wait until you reach the desired temperature (around 15/20 min)
+5. Put your mask / put ventilation on
+6. Turn on the motor at slow speed to check for plastic flow
+7. <i>(optional)</i> If you change the material from the previous session, you need to clean the barrel from old plastics by letting it run until the old plastic is replaced by the new one.
+8. The machine is now ready for production.
 
-- 00.36 1 Bearing body shaft
-- 00.36 2 Barrel inlet
-- 00.36 3 Barrel
-- 00.36 4 Motor adapter
-- 00.36 5 Hopper
-- 00.36 6 Electronics
-- 00.36 7 Frame
-- 00.36 8 Final assembly
-- 00.36 9 Maintenance and how to run
+### Production
 
+1. If a mould is required for the desired product, attach it to the nozzle
+2. The flow can be adjusted by increasing or decreasing the speed on the VFD (0 to 50/60HZ)
+3. You can start and press run on the VFD
+4. Keep enough plastic granulates in the hopper while extruding to reduce chances of bubbles in the extruded plastic.
 
+# 👌 Tips & tricks while using
 
-</div>
-</div>
+Before setting up your mold, check the nozzle to see if the plastic looks homogeneous, fluid and check the viscosity and color. 
 
-![CAD](assets/cad.png)
+If you change plastic let the machine run for a minute to make sure the barrel is clean from the previous plastic type.
 
-### Machinery needed:
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq spanner
+Shredded flakes smaller than 7 mm and rounded feed through the hopper very well. Longer and thinner flakes tend to stay stuck in the hopper. You can either granulate them to smaller grains or install a hopper vibrator to improve the feeding. Plastic granules generally allow for better feeding.
 
-### Skills needed: (beginner, intermediate, expert)
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (intermediate)
+No plastic exiting the nozzle and abnormally high temperature readings means that a lot of friction is happening in the barrel and that the pressure is rising. Immediately shut off the machine as there is probably a clog somewhere preventing the plastic to flow out.
 
-### Machine Specs: (specific to each machine):
-- Motor Power: 2.2kW minimum
-- Motor Torque: 1000N.m
-- Motor Speed: 20 t/min
-- Weight: 150kg
-- Dimension: 1200x600x1500mm
-- Plastic Processing: 200kg/day for bottle caps (5 hours of shredding)
-- Granule Output: 10x10mm
+### ⚠️⚠️⚠️ Always be careful and use suitable gloves when handling hot plastic!
 
-### Input:
-Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics]
+Make sure there is always plenty of plastic in the hopper. you can hear a high-pitched squeak noise or metal on metal rubbing sounds if the barrel is empty. In that case, refill the hopper of stop extrusion to prevent excess wear.
 
-### Outcomes:
-Example A : bottle caps - shredded 3 times - 10x10mm granulates = 200kg/day (5 hours of shredding)
-Example B :
+# ⏳ Maintain 
 
-### Pros:
+The extruder is a simple and robust machine. However, if you wish to keep it for a long time, we will now give you a few maintenance tips for your machine:
 
-### Cons:
+### Bearing lubrication
 
-# Instructions
+Make sure there is plenty of grease in the bearing housing. You can add a little grease with the greasing nozzle every month to make sure they are always well lubricated.
 
-Here’s each chapter of how to make this machine, and Peter Bas goes through it in detail in the video above. The technical drawings are shown below and everything is available in the <a href="url">download kit</a>. <br><br>
+### Gear box lubrification
 
-Part 1: Bearing body shaft<br>
-Part 2: Barrel inlet<br>
-Part 3: Barrel<br>
-Part 4: Motor adapter<br>
-Part 5: Hopper<br>
-Part 6: Electronics<br>
-Part 7: Frame<br>
-Part 8: Final assembly<br>
-Part 9: Maintenance and how to run<br>
+Depending on the type, the gear unit can be lubricated with grease or oil. Each gear unit is equipped with a lubrication plate. Check and follow the maintenance instructions from your motor and gearbox supplier.
 
-### Part 1: Bearing body shaft
+### Barrel maintenance
 
-![CAD](assets/cad.png)
+Your barrel is made out of mild steel, and designed to be easy to build. You’ll want to avoid rust from getting on the inner part of the barrel. Letting the plastic cool down inside the barrel will prevent rust in the barrel. If you don’t use it for a long time, you can add a little silicon oil after having emptied plastic from the barrel to avoid rust. The screw is hardened and expected to last longer then the barrel. Make a new barrel if required.
 
-This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.  
+### Check the tightening torque of the screws
 
-1. Bearing housing
-2. Transition piece (lassen)
-3. Coupling shaft
-4. Seal bearing spacer
+Frequently check the tightening torque of the screws (coupler,motor adaptor etc) of the extruder.
 
-Once all of these parts are ready we can assemble them together.
+# 🔓 Troubleshooting
 
-### Part 2: Barrel inlet
+### 2 heating elements stopped working together
 
-![CAD](assets/cad.png)
+If you notice that 2 heating elements wired together are not working anymore, chances are that your Solid State Relay (SSR) is the problem. Open the electronics box and verify that the wires are well connected. If the wiring is good and the LED light doesn’t turn ON on the relay, you probably need to change it. 
 
-Nice work on completing part 1! You’ve done the hardest bit now (from here on, it’s easy 😅) Next up  we’re going to make the barrel inlet, the hopper will be connected to this part. We use this part in between the hopper and straight into the barrel so it’s easier to clean and maintain your screw later on. This exists of 3 parts:
-- 2 x Barrel flanges - transition piece and the barrel side
-- Barrel inlet tube
+If you change it and it still doesn’t work with the new Solid State Relay, you need to change your PID controller.
 
-### Part 3: The barrel (pak barrel)
+### A heating element stopped working
 
-![CAD](assets/cad.png)
+If you notice that a heating element is not working anymore, open the electronics box and verify that the wires are well connected and that the SSR connected to it has his LED working when you start your extruder. If you  checked that, the problem is therefore the heating collar and you need to change it.
 
-Now the barrel inlet is done, we are going to make another barrel that connects to that. This barrel will be heated and the screw will rotate inside, this creates friction which (in addition to heating) makes sure the plastic will melt with a good output. This machine has a much bigger screw than the smaller extrusion machine and transports more plastic at a higher output. The screw itself is designed for general use, making sure it will work with many different polymers. At the end of the barrel there is the barrel end piece with a one inch pipe thread so you can connect different nozzles.
+The heating collars may stop working if you bend them out of shape too much, be careful when putting them in or removing them from the barrel.
+Also don’t go over the maximum temperature of the heating collar.
 
-### Part 4: Motor adapter (pak motor)
+### Engine overheating
 
-![CAD](assets/cad.png)
+If you notice your engine overheating, test your motor in a warm surrounding environment or let it run for a long time on low speed ( <20 Hz). If the motor fan is then not sufficient to cool it an additional fan should be installed at the top of the motor.
 
-The motor adaptor is the part that connects the extruder to the motor - we will connect it straight to the reducter so it’s super clean and strong and you don’t need to reinforce your frame. The connection depends a lot on what kind of motor you use, as it’s a laser cut part make sure to measure your motor before to make sure it fits.
+### Extrusion Screw doesn’t turn
 
-### Part 5: Hopper
+An overload of the motor is often the main cause of a motor malfunction. Checking the error message on the VFD will guide you to the reasons for the shutdown ( In the case of the bosch rexroth efc 5610 and a converter overload there will be the code OL-1)
 
-![CAD](assets/cad.png)
+You can also check the conformity of the connection on the terminal plate, depending on your connection to the mains, you must connect your three-phase motor in Delta or Star mode. It affects the torque that the motor provides. Check the tightening torque of the extrusion screw coupler also if the shaft is turning and not the extrusion screw.
 
-We are making some progress! Now we can make the hopper. It’s quite basic so you can freestyle a bit. Circular hoppers distribute shredded plastic really well,  the hopper we’ve used is a cone formed from a steel sheet - it’s easy to bend and eliminate the heat. You can find the drawing to cut it out and fold it into the right shape in the download kit, then you connect it to a holder which is clamped around the barrel inlet. If you want to use stronger motor we would recommend using a reinforced hopper. You can find drawings for that in our How-To’s!
+It can be also the plastic you put in the hopper that didn’t melt enough and is still solid or has a too low MFI to be used by the machine.
 
-### Part 6: Electronics
+### Foreign object in the hopper
 
-![CAD](assets/cad.png)
+If  something falls in the hopper and blocks the screw, you should try to slowly reverse the motor : You can reverse the direction of the motor by physically swapping any two motor phases. Or by changing the frequency driver parameters.
 
-Now the mechanical side is pretty much done, next up we will install the electronics (a pretty important part!) We will use 3 different controllers to set temperatures - having multiple heating zones will allow you to have more control over the melting process. First we will need to make a box - you can make it yourself or you can use the drawings provided to laser cut one. Check out the diagrams in the download kit to wire it up.
+Be careful not to drop metal parts in the hopper. You can remove magnetic objects from your shredded plastic by probing with a magnet. Remove the barrel to take out any debris is necessary.
 
-### Part 7: frame
+### Output plastic not uniform
 
-![CAD](assets/cad.png)
+The most common problem with the extrusion is having an output that is not uniform. There are a few reasons why this could happen :
 
-Time to make the frame, this part is easy and you can probably do it yourself! If not, check out the How-To’s to build a frame.
-
-### Part 8: Final assembly
-
-![CAD](assets/cad.png)
-
-This is the exciting part - you have all the parts ready to make your Extrusion Pro. Make sure to paint it!
-
-### Part 9: Maintenance and how to run
-
-This is quite a big topic, so we made another video for this!
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-###
- So how does the Extrusion Pro work?
-
-It has:
-- 3 heating controllers
-- Main switch
-- Safety switch
-- Controller
-
-Let’s test it out.
-
-1. Set temperature
-2. Make sure the barrel is hot before switching on the motor
-4. Be careful with heated parts, can insulate the barrel (?)
-5. Turn on the motor
-6. Plastic will come out of the barrel
-7. Examples moulds/products
-8. Maintenance (vetnippel, motor oil) - always check before you start if the heaters work, and empty the hopper to make sure there is no plastic inside
+1. Dirty plastic may have clogged the nozzle making it difficult for the clean plastic to get out.
+2. Two different types of plastic are mixed together, common causes for this can be contamination in the sorting stage or plastic left in the barrel from previous activity. In this case, one plastic type melts while the other doesn’t and obstructs the plastic flowing through the nozzle.
+3. The temperature is not high enough and the plastic in the barrel does not manage to fully melt.
+4. You can solve the above problems by checking the integrity and purity of the raw material or by raising the temperature. Upon adjusting your process make sure to empty the entire barrel before attempting to make a new product.
 
 
-Ok, that’s it - the Extruder Pro! Thanks for watching.  You can get all of the files, blueprints, CAD models, a bill of material,  maintenance list and more in the download-kit. Make sure to watch our How-To’s to see some hacks and improvements, or products you can make with this machine. Good luck!
+
+
+
+
