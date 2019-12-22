@@ -1,12 +1,8 @@
 ---
 id: extrusionprobuild
-title: Build an extrusion Pro
-sidebar_label: - Extrusion Pro
+title: Build an Extrusion Pro
+sidebar_label: - Build
 ---
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <style>
 :root {
@@ -15,168 +11,128 @@ sidebar_label: - Extrusion Pro
 }
 </style>
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+![Shredder](assets/ppimage.jpg)
 
-# Build an Extrusion Pro
+# Build the Extrusion Pro
 
-Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
-
-`Pro tip: understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
+Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
 
 
-</div>
-<div class="videoChaptersSidebar">
+> Amazing tip
 
-### Video Chapters
+## 🔩 Commercial parts
 
-- 00.36 1 Bearing body shaft
-- 00.36 2 Barrel inlet
-- 00.36 3 Barrel
-- 00.36 4 Motor adapter
-- 00.36 5 Hopper
-- 00.36 6 Electronics
-- 00.36 7 Frame
-- 00.36 8 Final assembly
-- 00.36 9 Maintenance and how to run
+- Link to Nederland bills of material
+- Link to BOM or download kit.
 
+## Motor selection & explanation
 
+We recommend to use motor output torque in the range of 80-120 Nm, in which  120 Nm is the recommended Max. output torque value and 80 Nm the minimum value. We recommend to use a motor with a max. power output of 3 kW Which corresponds to a maximum (Output shaft) speed of 220 - 320 RPM (assuming 90% gearbox and motor efficiency). We recommend to avoid worm-type gearboxes due to their low efficiency.
+ 
+Before buying a motor, you need to be aware of the standard voltage and frequency of electricity in your country. These numbers vary worldwide and can make importing a motor complicated:
 
-</div>
-</div>
+![Voltage Map](assets/ex1_map.jpg)
 
-![CAD](assets/cad.png)
-
-### Machinery needed:
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq spanner
-
-### Skills needed: (beginner, intermediate, expert)
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (intermediate)
-
-### Machine Specs: (specific to each machine):
-- Motor Power: 2.2kW minimum
-- Motor Torque: 1000N.m
-- Motor Speed: 20 t/min
-- Weight: 150kg
-- Dimension: 1200x600x1500mm
-- Plastic Processing: 200kg/day for bottle caps (5 hours of shredding)
-- Granule Output: 10x10mm
-
-### Input:
-Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics]
-
-### Outcomes:
-Example A : bottle caps - shredded 3 times - 10x10mm granulates = 200kg/day (5 hours of shredding)
-Example B :
-
-### Pros:
-
-### Cons:
-
-# Instructions
-
-Here’s each chapter of how to make this machine, and Peter Bas goes through it in detail in the video above. The technical drawings are shown below and everything is available in the <a href="url">download kit</a>. <br><br>
-
-Part 1: Bearing body shaft<br>
-Part 2: Barrel inlet<br>
-Part 3: Barrel<br>
-Part 4: Motor adapter<br>
-Part 5: Hopper<br>
-Part 6: Electronics<br>
-Part 7: Frame<br>
-Part 8: Final assembly<br>
-Part 9: Maintenance and how to run<br>
-
-### Part 1: Bearing body shaft
-
-![CAD](assets/cad.png)
-
-This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.  
-
-1. Bearing housing
-2. Transition piece (lassen)
-3. Coupling shaft
-4. Seal bearing spacer
-
-Once all of these parts are ready we can assemble them together.
-
-### Part 2: Barrel inlet
-
-![CAD](assets/cad.png)
-
-Nice work on completing part 1! You’ve done the hardest bit now (from here on, it’s easy 😅) Next up  we’re going to make the barrel inlet, the hopper will be connected to this part. We use this part in between the hopper and straight into the barrel so it’s easier to clean and maintain your screw later on. This exists of 3 parts:
-- 2 x Barrel flanges - transition piece and the barrel side
-- Barrel inlet tube
-
-### Part 3: The barrel (pak barrel)
-
-![CAD](assets/cad.png)
-
-Now the barrel inlet is done, we are going to make another barrel that connects to that. This barrel will be heated and the screw will rotate inside, this creates friction which (in addition to heating) makes sure the plastic will melt with a good output. This machine has a much bigger screw than the smaller extrusion machine and transports more plastic at a higher output. The screw itself is designed for general use, making sure it will work with many different polymers. At the end of the barrel there is the barrel end piece with a one inch pipe thread so you can connect different nozzles.
-
-### Part 4: Motor adapter (pak motor)
-
-![CAD](assets/cad.png)
-
-The motor adaptor is the part that connects the extruder to the motor - we will connect it straight to the reducter so it’s super clean and strong and you don’t need to reinforce your frame. The connection depends a lot on what kind of motor you use, as it’s a laser cut part make sure to measure your motor before to make sure it fits.
-
-### Part 5: Hopper
-
-![CAD](assets/cad.png)
-
-We are making some progress! Now we can make the hopper. It’s quite basic so you can freestyle a bit. Circular hoppers distribute shredded plastic really well,  the hopper we’ve used is a cone formed from a steel sheet - it’s easy to bend and eliminate the heat. You can find the drawing to cut it out and fold it into the right shape in the download kit, then you connect it to a holder which is clamped around the barrel inlet. If you want to use stronger motor we would recommend using a reinforced hopper. You can find drawings for that in our How-To’s!
-
-### Part 6: Electronics
-
-![CAD](assets/cad.png)
-
-Now the mechanical side is pretty much done, next up we will install the electronics (a pretty important part!) We will use 3 different controllers to set temperatures - having multiple heating zones will allow you to have more control over the melting process. First we will need to make a box - you can make it yourself or you can use the drawings provided to laser cut one. Check out the diagrams in the download kit to wire it up.
-
-### Part 7: frame
-
-![CAD](assets/cad.png)
-
-Time to make the frame, this part is easy and you can probably do it yourself! If not, check out the How-To’s to build a frame.
-
-### Part 8: Final assembly
-
-![CAD](assets/cad.png)
-
-This is the exciting part - you have all the parts ready to make your Extrusion Pro. Make sure to paint it!
-
-### Part 9: Maintenance and how to run
-
-This is quite a big topic, so we made another video for this!
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-###
- So how does the Extrusion Pro work?
-
-It has:
-- 3 heating controllers
-- Main switch
-- Safety switch
-- Controller
-
-Let’s test it out.
-
-1. Set temperature
-2. Make sure the barrel is hot before switching on the motor
-4. Be careful with heated parts, can insulate the barrel (?)
-5. Turn on the motor
-6. Plastic will come out of the barrel
-7. Examples moulds/products
-8. Maintenance (vetnippel, motor oil) - always check before you start if the heaters work, and empty the hopper to make sure there is no plastic inside
+The coupling of your asynchronous motor (delta or star) depends on the mains voltage of your installation and the rated voltage of the motor. If your configuration is wrong the motor may run but with low torque, it may trip your building’s circuit breaker, or it could burn out your motor.
 
 
-Ok, that’s it - the Extruder Pro! Thanks for watching.  You can get all of the files, blueprints, CAD models, a bill of material,  maintenance list and more in the download-kit. Make sure to watch our How-To’s to see some hacks and improvements, or products you can make with this machine. Good luck!
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex2.jpg" width="500"/>
+
+Most Variable Frequency Drives (VFD’s) ore required to work with the motor connected in a Delta configuration, but check your VFD manual for more information. 
+
+![Star Delta Connectiion](assets/ex3.jpg)
+
+## Coupling option & explanation
+
+A Shaft Lock Cone Clamping method was chosen to clamp the extrusion screw because it can handle large torques in a small amount of space. It is also designed for easy maintenance of the extruder’s components. It is easy to install and remove the coupling from the gearbox. Be sure to use a clamp that can support a minimum 250 Nm torque.
+
+## Hopper shape
+
+Square feed hoppers work well, except when there is a large variation in plastic particle size and shape. The choice of hopper bottom shape is influenced by many factors. Pyramid hoppers are typically used with relatively free flowing products that are stable with time and with bulk materials with uniform pellet size. Conical vessels are relatively simple to construct and have an excellent shape to sustain internal pressures.
+
+# ⚡ Electronic box
+
+## Explanation of electric component roles
+
+![PID](assets/ex4_PID.jpg)
+(redo image)
+
+### PID controllers:
+
+The three PIDs control the temperature of the heating collars. Each is paired with a thermocouple that measures the temperature at a designated point in the process. These temperature sensors are extremely rugged, low-cost, and self-powered. You do need to be careful because there are many types of temperature sensors. The most common thermocouple models are J, T and K type thermocouples, which are available in pre-made forms.
+
+### Ensure your thermocouple sensor as the same type as your PID (J,T Or K).
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex5.jpg" width="400"/>
+
+The majority of PIDs are type K by default, but it is sometimes possible to use other types by changing the initial setting through the initialization mode:  
+
+- PID REX C100 Page 7 Chapter  7.1 https://www.mpja.com/download/rex-c100.pdf
+
+### Frequency Driver:
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex6.jpg" width="250"/>
+
+A VFD (Variable Frequency Drive) is a precision electronic device specifically designed and used to control the speed of AC induction motors without affecting the electric consumption, torque, impedance, etc. of the motor.    
+
+### Schematic link
+
+Link to the schematic or to the download kit
+
+# 👌 Tips & tricks while making
+
+### Mould
+
+At the nozzle of the machine, you can use different types of connections to attach your mold. Cam lock & dovetail are good for quick release applications, and a screw nozzle is great for products requiring high pressure output.
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex7.jpg" width="500"/>
+
+You will obtain different surface finishes depending on the temperature of your mold. Preheated molds give you a very smooth finish and cold molds will be wavier. 
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex8.jpg" width="500"/>
+
+When using the machine to make beams, it is easy to see when the mold is full, but for other objects things get tricky. Here are a few tricks that we found:
+
+- Set a timer if you know the material flow rate and volume of mold, 
+- Tiny exit holes (1 mm)
+- For the brick, we have been using vise grips on the dovetail connection. When the pressure gets high enough, the vise grips start to open and indicate completion.
+
+If you want to make bigger object, a technique that works well is to create back pressure in the mold so that the plastic fills the whole section. A plunger with a high temperature silicone seal is the cheapest and most simple solution we found up to now. If you want to augment the pressure, you can add weight to the plunger.
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex9.jpg" width="500"/>
+
+When you want to make beams with a complex profile or with a plastic with a small shrink rate (such as PS) two part molds can be a good solution to facilitate the unmolding process. The photo below shows a screwed flat bar that will create a groove in the beam, and minimize additional machining for its designed purpose. This kind of design reduces post processing time and prevents the creation of microplastics.
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex10.jpg" width="500"/>
+
+## Options
+
+### Barrel support
+
+If you frequently use your machine with heavy moulds attached to it, you may need a barrel support to avoid bending the extruder from the repeated stresses.
+
+You can find the technical drawings in the download kit.
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex11.jpg" width="500"/>
+
+### Heating protection option
+
+We recommend to cover the barrel of the extruder to prevent burning and minimize the thermal diffusion in the air of the heating collars. To build this protection, simply cut and fold a thin steel plate manually (a cylindrical object can be used to make the bending pattern). 
+
+You can find the technical drawings in the download kit.
+
+It remains to use an insulating material to be inserted between the barrel and the steel plate. Different types of insulation can be used:
+- Ceramic wool (best option)
+- Mineral wool
+- Rockwool
+- Glass wool
+
+<img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex12.jpg" width="500"/>
+
+
+
+
+
+
+
+

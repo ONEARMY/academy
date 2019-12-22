@@ -45,138 +45,137 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 </div>
 </div>
 
-![CAD](assets/cad.png)
+<img src="/academy/assets/build/shredder.jpg"/>
 
-### Machinery needed:
-- Lathe
-- Milling machine
+# ♻️ General specifications
+
+## 📓 Technical information
+| Name  |  Extrusion Pro     |
+|----------|-------------|
+| 📓 Type   |     Single Screw   |
+| 💎 Version   |     1.0   |
+| 💰 Raw material costs in NL |  +/- 2000€ |
+| ⚖️ Weight (inc frame) |   110 kg   |
+| 📦 Dimension   | 1500 x 600 x 1550 mm|
+| ⚙️ Power (W) | 5 kW|
+| 🔌 Voltage | 400V|
+| ⚡️ AMP | 16A|
+| 🔩 Screw diameter | 30mm|
+| 🔩 Length of screw (mm) | 790 mm |
+| 🔩 Effective screw length | 600 mm |
+| 🔩 Rated Motor Power | 3 kW |
+| ⚙️ Motor Type   |       |
+| - Rated Motor output Torque |  109 Nm |
+| - Rated Motor output speed |   263 RPM   |
+| - Max. Motor and Inverter power   | 3 kW|
+| - Recommended motor shaft   | 30 mm)|
+| - Heating zones   | 3 |
+| - Heating power: max.   | 2 kW)|
+
+## ♻️ Input & output
+
+### Input
+
+* Types of plastic Tested: HDPE, PP, PS, LDPE
+* MFI > 10
+* Max size granulate input: 7mm
+
+### Output
+
+* Output max. PP 22 kg/hr
+* Output max. PE 22 kg/hr
+* Output max. PS 22 kg/hr
+
+
+### Electricity consumption
+
+Tested with 40x40x200 mm beam
+
+* Average consumption: 1.5 kWh
+* Yearly consumption: (10 Hours / week) 780 kWh
+
+# 🌦 Pros & cons
+
+### Upgrades
+
+Compare to smaller version of extruder, this machine will provide :
+- A larger insulated hopper allowing better fluidity,
+- An improved bearing design to support axial and radial extrusion forces
+- Easier assembly and servicing 
+- Overall stronger and tested components
+- A larger screw with an improved screw geometry allowing a bigger output and an homogeneous melt for a better quality plastic,
+- A safer and easier to build electronic box.
+
+### Pros
+
+The extruder is one of the fastest and most efficient to melt plastic among Precious Plastic machines. It is a safe and reliable machine amongst our machine’s family!
+
+The Extruder Pro screw is designed to be work with multiple types of plastics. Which  will make you capable of working with different kind of plastic in small batches. Also this machine is conceived to be much more polyvalent than other industrial machines, allowing you to extrude into moulds, shapes, differents nozzles…
+
+### Cons
+
+This machine requires the higher skill set of machining amongs Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other precious plastic machines.
+
+# ♻️ Input & Output
+
+A variety of plastic types will be effective in this extruder. Each plastic type has its own properties and behaviours (flexible, hard, liquid etc.). Materials with a wide melting temperature range are easiest to work with. We suggest starting with PP, HDPE, LDPE or PS since they require less temperature precision. We do not recommend trying polymers with smaller melting temperature windows (such as PET), but if you decide to do so, please take safety precautions. 
+
+You can set the temperature using the controllers on the electronic box. The heating elements are labeled and wired into three groups (nozzle, barrel and feeding). We recommend to use the temperatures from the table below as a general rule of thumb.  This is to help make sure the plastic is fully melted right before it comes out.
+
+### ⚠️ Make sure the extruder is up to temperature before starting the motor! 
+<br>
+
+| Plastic Type | Feeding Zone (C°) | Barrel Zone (C°) | Nozzle Zone (C°) |
+|--------------|-------------------|------------------|------------------|
+| PP           | 190               | 200              | 200              |
+| PS           | 200               | 210              | 210              |
+| HDPE         | 190               | 200              | 200              |
+| LDPE         | 190               | 200              | 200              |
+
+<br>
+<b>Important:</b> This extruder is recommended to be used for plastics with a low Melt Flow Index (MFI) A lower MFI “fluid” is thicker or more viscous. Lower MFIs (~3-5) are typically called “extrusion grades”, and higher (>10) are “injection grades.” If you directly buy / recover shredded plastic leftover from a plastic recycling company use the <b>INJECTION GRADE</b> shredded plastic. If you really need to extrude lower MFI, you might need to increase the temperatures of the heaters.
+
+⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity. 
+
+Some examples of extrusion times for some moulds:
+
+- Beam Mould (2000  mm x40 mm x40 mm): 8 Min
+- Little Lego Brick Mould: 4 Min
+- Big Lego Brick Mould: 6 Min
+- Skateboard Mould: 20 Min
+
+# 🛠 Required machinery & skills
+
+### Tools / Machines needed
+
+- Conventional Lathe
+- Conventional Milling machine
 - Drill press
-- Welding machine (not specific)
-- Torq spanner
+- Welding machine (TIG or MIG/MAG recommended)
+- Set of allen keys
+- General purpose wrenches, sockets etc. for assembly
+- Hammer (preferably plastic)
 
-### Skills needed: (beginner, intermediate, expert)
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (intermediate)
+### Skills needed
 
-### Machine Specs: (specific to each machine):
-- Motor Power: 2.2kW minimum
-- Motor Torque: 1000N.m
-- Motor Speed: 20 t/min
-- Weight: 150kg
-- Dimension: 1200x600x1500mm
-- Plastic Processing: 200kg/day for bottle caps (5 hours of shredding)
-- Granule Output: 10x10mm
+- Welding (advanced)
+- Machining (advanced)
+- Assembling (intermediate)
+- Electronics (intermediate)
 
-### Input:
-Up to 10mm thickness for PP and HDPE / up to 6mm for PS [not tested for others plastics]
+# 🔧 Most common hacks
+Link to How-to
 
-### Outcomes:
-Example A : bottle caps - shredded 3 times - 10x10mm granulates = 200kg/day (5 hours of shredding)
-Example B :
+# 🙌 Useful Links
 
-### Pros:
+http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf
+https://www.hanserpublications.com/SampleChapters/9781569904596_9781569904596_Extrusion%20of%20Polymers%202E_Chung.pdf
+http://www.polydynamics.com/Rheology.pdf
+https://beckassets.blob.core.windows.net/product/readingsample/10070898/9783446422780_excerpt_001.pdf
+https://core.ac.uk/download/pdf/82417410.pdf
+http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf
+http://craig-russell.co.uk/demos/cone_calculator/
 
-### Cons:
+# 🌎 Built by the community
 
-# Instructions
-
-Here’s each chapter of how to make this machine, and Peter Bas goes through it in detail in the video above. The technical drawings are shown below and everything is available in the <a href="url">download kit</a>. <br><br>
-
-Part 1: Bearing body shaft<br>
-Part 2: Barrel inlet<br>
-Part 3: Barrel<br>
-Part 4: Motor adapter<br>
-Part 5: Hopper<br>
-Part 6: Electronics<br>
-Part 7: Frame<br>
-Part 8: Final assembly<br>
-Part 9: Maintenance and how to run<br>
-
-### Part 1: Bearing body shaft
-
-![CAD](assets/cad.png)
-
-This is the part that connects the motor to the extruder, the main function is to support the force from the screw - which can be several tons (so it needs to be strong!) This part is very crucial and is the most complex - so it’s good to get it out of the way! It consists of 4 parts that you need to make, in combination with purchasing some parts.
-
-1. Bearing housing
-2. Transition piece (lassen)
-3. Coupling shaft
-4. Seal bearing spacer
-
-Once all of these parts are ready we can assemble them together.
-
-### Part 2: Barrel inlet
-
-![CAD](assets/cad.png)
-
-Nice work on completing part 1! You’ve done the hardest bit now (from here on, it’s easy 😅) Next up  we’re going to make the barrel inlet, the hopper will be connected to this part. We use this part in between the hopper and straight into the barrel so it’s easier to clean and maintain your screw later on. This exists of 3 parts:
-- 2 x Barrel flanges - transition piece and the barrel side
-- Barrel inlet tube
-
-### Part 3: The barrel (pak barrel)
-
-![CAD](assets/cad.png)
-
-Now the barrel inlet is done, we are going to make another barrel that connects to that. This barrel will be heated and the screw will rotate inside, this creates friction which (in addition to heating) makes sure the plastic will melt with a good output. This machine has a much bigger screw than the smaller extrusion machine and transports more plastic at a higher output. The screw itself is designed for general use, making sure it will work with many different polymers. At the end of the barrel there is the barrel end piece with a one inch pipe thread so you can connect different nozzles.
-
-### Part 4: Motor adapter (pak motor)
-
-![CAD](assets/cad.png)
-
-The motor adaptor is the part that connects the extruder to the motor - we will connect it straight to the reducter so it’s super clean and strong and you don’t need to reinforce your frame. The connection depends a lot on what kind of motor you use, as it’s a laser cut part make sure to measure your motor before to make sure it fits.
-
-### Part 5: Hopper
-
-![CAD](assets/cad.png)
-
-We are making some progress! Now we can make the hopper. It’s quite basic so you can freestyle a bit. Circular hoppers distribute shredded plastic really well,  the hopper we’ve used is a cone formed from a steel sheet - it’s easy to bend and eliminate the heat. You can find the drawing to cut it out and fold it into the right shape in the download kit, then you connect it to a holder which is clamped around the barrel inlet. If you want to use stronger motor we would recommend using a reinforced hopper. You can find drawings for that in our How-To’s!
-
-### Part 6: Electronics
-
-![CAD](assets/cad.png)
-
-Now the mechanical side is pretty much done, next up we will install the electronics (a pretty important part!) We will use 3 different controllers to set temperatures - having multiple heating zones will allow you to have more control over the melting process. First we will need to make a box - you can make it yourself or you can use the drawings provided to laser cut one. Check out the diagrams in the download kit to wire it up.
-
-### Part 7: frame
-
-![CAD](assets/cad.png)
-
-Time to make the frame, this part is easy and you can probably do it yourself! If not, check out the How-To’s to build a frame.
-
-### Part 8: Final assembly
-
-![CAD](assets/cad.png)
-
-This is the exciting part - you have all the parts ready to make your Extrusion Pro. Make sure to paint it!
-
-### Part 9: Maintenance and how to run
-
-This is quite a big topic, so we made another video for this!
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-###
- So how does the Extrusion Pro work?
-
-It has:
-- 3 heating controllers
-- Main switch
-- Safety switch
-- Controller
-
-Let’s test it out.
-
-1. Set temperature
-2. Make sure the barrel is hot before switching on the motor
-4. Be careful with heated parts, can insulate the barrel (?)
-5. Turn on the motor
-6. Plastic will come out of the barrel
-7. Examples moulds/products
-8. Maintenance (vetnippel, motor oil) - always check before you start if the heaters work, and empty the hopper to make sure there is no plastic inside
-
-
-Ok, that’s it - the Extruder Pro! Thanks for watching.  You can get all of the files, blueprints, CAD models, a bill of material,  maintenance list and more in the download-kit. Make sure to watch our How-To’s to see some hacks and improvements, or products you can make with this machine. Good luck!
+Will be updated

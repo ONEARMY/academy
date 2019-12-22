@@ -44,6 +44,7 @@
       "create/howto"
     ],
     "6. Business": [
+      "business",
       "business/actionplan",
       "business/workspacecalculator",
       "business/businessplan"
