@@ -77,6 +77,10 @@
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
       },
+      "business/businessintro": {
+        "title": "Intro",
+        "sidebar_label": "Intro"
+      },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
         "sidebar_label": "Workspace Calculator"
