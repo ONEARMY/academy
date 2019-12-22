@@ -2,6 +2,8 @@ function addHideClass(item) {
   return item.classList.add("hide");
 }
 
+var mql = window.matchMedia("(min-width: 1024px)");
+
 window.addEventListener("DOMContentLoaded", function() {
   var categoryNodes = document.querySelectorAll(
     ".navGroups .navGroup .collapsible"
@@ -18,7 +20,10 @@ window.addEventListener("DOMContentLoaded", function() {
         .forEach(function(link) {
           link.parentNode.querySelector(" ul").classList.add("hide");
         });
-      that.parentNode.querySelector("ul .navListItem a").click();
+
+      if (mql.matches) {
+        that.parentNode.querySelector("ul .navListItem a").click();
+      }
     });
   });
 
@@ -42,7 +47,9 @@ window.addEventListener("DOMContentLoaded", function() {
           link.classList.remove("upsideDown");
           addHideClass(link.parentNode.querySelector("ul"));
         });
-      that.parentNode.querySelector("ul .navListItem a").click();
+      if (mql.matches) {
+        that.parentNode.querySelector("ul .navListItem a").click();
+      }
     });
   });
 
