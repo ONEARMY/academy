@@ -22,7 +22,7 @@ sidebar_label: - Specifications
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-`Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. `
+> Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. 
 
 
 </div>
@@ -40,16 +40,15 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 - 00.36 8 Final assembly
 - 00.36 9 Maintenance and how to run
 
-
-
 </div>
 </div>
 
-<img src="/academy/assets/build/shredder.jpg"/>
+![Extruder Pro](assets/extruderpro.jpg)
 
 # ♻️ General specifications
+---
 
-## 📓 Technical information
+### 📓 Technical information
 | Name  |  Extrusion Pro     |
 |----------|-------------|
 | 📓 Type   |     Single Screw   |
@@ -72,29 +71,8 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 | - Heating zones   | 3 |
 | - Heating power: max.   | 2 kW)|
 
-## ♻️ Input & output
-
-### Input
-
-* Types of plastic Tested: HDPE, PP, PS, LDPE
-* MFI > 10
-* Max size granulate input: 7mm
-
-### Output
-
-* Output max. PP 22 kg/hr
-* Output max. PE 22 kg/hr
-* Output max. PS 22 kg/hr
-
-
-### Electricity consumption
-
-Tested with 40x40x200 mm beam
-
-* Average consumption: 1.5 kWh
-* Yearly consumption: (10 Hours / week) 780 kWh
-
 # 🌦 Pros & cons
+---
 
 ### Upgrades
 
@@ -116,7 +94,8 @@ The Extruder Pro screw is designed to be work with multiple types of plastics. W
 
 This machine requires the higher skill set of machining amongs Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other precious plastic machines.
 
-# ♻️ Input & Output
+# ♻️ Input & output
+---
 
 A variety of plastic types will be effective in this extruder. Each plastic type has its own properties and behaviours (flexible, hard, liquid etc.). Materials with a wide melting temperature range are easiest to work with. We suggest starting with PP, HDPE, LDPE or PS since they require less temperature precision. We do not recommend trying polymers with smaller melting temperature windows (such as PET), but if you decide to do so, please take safety precautions. 
 
@@ -124,7 +103,6 @@ You can set the temperature using the controllers on the electronic box. The hea
 
 ### ⚠️ Make sure the extruder is up to temperature before starting the motor! 
 <br>
-
 | Plastic Type | Feeding Zone (C°) | Barrel Zone (C°) | Nozzle Zone (C°) |
 |--------------|-------------------|------------------|------------------|
 | PP           | 190               | 200              | 200              |
@@ -135,7 +113,7 @@ You can set the temperature using the controllers on the electronic box. The hea
 <br>
 <b>Important:</b> This extruder is recommended to be used for plastics with a low Melt Flow Index (MFI) A lower MFI “fluid” is thicker or more viscous. Lower MFIs (~3-5) are typically called “extrusion grades”, and higher (>10) are “injection grades.” If you directly buy / recover shredded plastic leftover from a plastic recycling company use the <b>INJECTION GRADE</b> shredded plastic. If you really need to extrude lower MFI, you might need to increase the temperatures of the heaters.
 
-⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity. 
+> ⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity. 
 
 Some examples of extrusion times for some moulds:
 
@@ -145,6 +123,7 @@ Some examples of extrusion times for some moulds:
 - Skateboard Mould: 20 Min
 
 # 🛠 Required machinery & skills
+---
 
 ### Tools / Machines needed
 
@@ -163,7 +142,10 @@ Some examples of extrusion times for some moulds:
 - Assembling (intermediate)
 - Electronics (intermediate)
 
+![Image](assets/ppimage.jpg)
+
 # 🔧 Most common hacks
+
 Link to How-to
 
 # 🙌 Useful Links
