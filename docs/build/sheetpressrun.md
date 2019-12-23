@@ -4,10 +4,6 @@ title: Run a Sheetpress
 sidebar_label: - Run it
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <style>
 :root {
   --highlight: #f29094;
@@ -15,46 +11,155 @@ sidebar_label: - Run it
 }
 </style>
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+![Shredder](assets/ppimage.jpg)
 
-# Run an sheetpress (jason)
+# Run and Maintain the Sheetpress Pro
 
-Let’s start from the beginning: what is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? In this video we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
+Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. 
 
-`Pro tip: look under your plastic product and see if you can recognize what type of plastic it is`
+> Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
 
+# 🏃‍♀️ Run
 
-</div>
-<div class="videoChaptersSidebar">
+## Run Standalone Sheetpress
 
-### Video Chapters
+### How to start
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+1. Plug in the Sheetpress, check the emergency stop is released and switch on the main power switch.
 
+2. Check the required temperature to melt your type of plastic and set the PID controller to this temperature.
 
-</div>
-</div>
+3. Close the pressing plates using the bottle jack and wait for them to heat up.
 
-building extrusions
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-[documentation](https://docusaurus.io)
+### Whilst waiting for the heating plates to warm up
 
+4. Weigh the plastic. See the Datasheet (Appendix A) for weights. 
 
-# How to run the sheetpress Pro (jason)
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+### When the Sheetpress is at the required temperature
 
+5. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+6. Place the bottom sheet of the mould on the bottom pressing plate and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+7. Place the mould frame in the centre of the sheet and apply a layer of silicone oil to the top of the frame.
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+8. Load the plastic it into the mould.
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+9. Spread the plastic evenly across the area inside the mould frame with slightly less around a 100mm border offset on the inside of the edges. 
+
+10. Oil the top sheet of the mould and place the oiled side face down on the bottom two sections of the mould. 
+
+11. Close the pressing plates using the bottle jack until the spring is fully compressed.
+
+### Whilst waiting for the plastic to melt
+
+12. 2 mins before the recommended melting time close the pressing plates using the bottle jack until the jacks starts to give strong resistance. See the Datasheet (Appendix A) for melting temperatures and times. 
+
+### When the mould has been in the sheetpres for required melting time
+
+13. Switch off the sheetpress.
+
+Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
+
+## Run Full System
+
+### How to start
+
+1. Plug in the Sheetpress, check the emergency stop is released and switch on the main power switch.
+
+2. Check the required temperature to melt your type of plastic and set the PID controller to this temperature.
+
+3. Close the pressing plates using the bottle jack and wait for them to heat up.
+
+### Whilst waiting for the heating plates to warm up
+
+4. Place the bottom sheet of the mould on the prep table and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
+
+5. Place the mould frame in the centre of the sheet and apply a layer of silicone oil to the top of the frame.
+
+6. Weigh the plastic and load it into the mould. See the Datasheet (Appendix A) for melting temperatures and times. See the Sheet Colour Examples poster (Appendix B).
+
+7. Spread the plastic evenly across the area inside the mould frame with slightly less around a 100mm border offset on the inside of the edges. 
+
+8. Oil the top sheet of the mould and place the oiled side face down on the bottom two sections of the mould. 
+
+### When the Sheetpress is at the required temperature
+
+9. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
+
+10. Position the prep table next to the open side of the Sheetpress.
+
+11. Use the sliding tool, push the mould from the prep table to the Sheetpress.
+
+12. Close the pressing plates using the bottle jack until the spring is fully compressed.
+
+### Whilst waiting for the plastic to melt
+
+13. Prepare the next mould and sheet on the prep table. (Steps 4-8).
+
+14. 2 mins before the recommended melting time. See the Datasheet (Appendix A) for melting temperatures and times. close the pressing plates using the bottle jack until the jacks starts to give strong resistance.
+
+### When the mould has been in the sheetpres for required melting time
+
+15. Open the  pressing plates of the Cooling Press by releasing pressure from the bottle jack.
+
+16. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
+
+17. Use the sliding tool, push the mould from the Sheetpress to the Cooling Press. 
+
+18. Close the pressing plates of the Cooling Press using the bottle jack.
+
+19. Load and press the next sheet in to the Sheetpress (Steps 10-13). This time stack it on top of the previous sheet.
+
+Repeat steps 13-20 until you workcycle is complete.  
+
+### Once finished
+
+20. Switch off and close the sheetpress.
+
+21. Clean and apply a layer of silicone oil to the mould sheets to protect them for moisture between use. 
+
+# ⏳ Maintain
+
+## 🥚 Weekly
+
+<b>Clean the heating plates</b><br>
+Use a trowel to scrape any remiant material from the heating plates. You may need to use a  high volume alcohol if there is heavy corrosion
+
+<b>Grease rails</b><br>
+Use a wooden spatula to apply a liberal amount of grease to all the rails, we used engine grease.
+
+## 🐣 Monthly
+
+<b>Inspect and place mould sheets</b><br>
+Inspect your mould sheets, if any of them are damaged beyond repair then they may need replacing.
+
+<b>Grease spring mechanism</b><br>
+Detach the spring mechanism and Use a wooden spatula to apply a liberal amount of grease to the touching faces. We used engine grease.
+
+<b>Inspect and replace plywood sheets</b><br>
+Inspect your plywood sheets, if they are damaged or significantly warped then they may need replacing.
+
+<b>Check website for hacks/updates</b><br>
+The community are continuously developing hacks, modifications and techniques which get shared on the internet, take a look to see what is there that can help or inspire you!
+
+## 🐥 Yearly
+
+<b>Deep clean heating plates</b><br>
+Use a trowel to scrape any remiant material from the heating plates. You may need to use a  high volume alcohol if there is heavy corrosion. You may also need to use a rotary sander to remove tough burnt on material but be gentle, use a high grit sandpaper (>220) to preserve the flatness of the sheet.
+
+<b>Check oil in jacks</b><br>
+Bleed and replace the oil in the jacks.
+
+Check out this how to video! (need link)
+
+<b>Check electronics</b><br>
+Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check.
+Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged.
+Re paint worn areas
+Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion. 
+
+## Appendix
+
+Appendix A: Sheetpress Datasheet
+

@@ -45,12 +45,13 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 </div>
 </div>
 
+![Shredder Pro](assets/shredderpro.jpg)
 
+# ♻️ General specifications
+---
 
+### 📓 Technical information
 
-
-<img src="/academy/assets/build/shredder.jpg"/>
-# 📓 Technical information
 | Name  |  Shredder Pro     |
 |----------|-------------|
 | 📓 Type   |     Double Shaft Shredder   |
@@ -68,32 +69,29 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 |  - Output Speed   | 15-25 r/min|
 |  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
 
-# 🛠 Required machinery & skills
+# 🌦 Pros & cons
 ---
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/982530bc0c9d4f8b9a424a9d35eb7c6a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
 
-Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+### Pros    
 
-### Machines needed
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq wrench
-- M16 hand tap
+Compare to previous Precious Plastic machines, this shredder is very robust and reliable. Elements have been calculated and dimension to handle stress induced by shredding plastic.
 
+Most of industrial shredding system necessitate a shredding phase and a granulating phase, thanks to his adjustable meshes this machines is capable of carrying out both task.
 
-### Skills needed
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (expert)
+This machine have been conceive for his relative easiness to built, the main part of it, the shredding box doesn’t require any welding, only welds remaining are straightforward built.
 
+This shredder have also been conceive as a very easy machine to clean. In less than 30 minutes the shredder will be ready for another batch of plastic, allowing community to produce small batch of plastic which are generally not accessible industrially.
 
+### Cons
+
+If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price. 
+
+Compared to other Precious Plastic machines this machine is one of the hardest built even if we try to simplify as much as possible. You’ll need proper machines and skills.
+
+This machines also require specific equipments and motor, it will be harder to built from scrap than other precious plastic machine. If you do, be sure to fully read comercial part chapter to procure your components, your machine reliability depends of it.
 
 # ♻️ Input & output
+---
 
 The machine can shred any kind of material and thickness. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power).
 
@@ -133,6 +131,33 @@ To obtain these sizes, install a 7mm sieve or 10mm sieve on the shredder, for sm
 | PP | Bottle caps | 1st time  | 76.7 | No  | Large  |
 |   |   |  2nd time | 92  | 10 mm sieve  |  Medium |
 |   |   |  **Total** |  **41.8** |   | **Medium**  |
+
+
+# 🛠 Required machinery & skills
+---
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/982530bc0c9d4f8b9a424a9d35eb7c6a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+
+### Machines needed
+- Lathe
+- Milling machine
+- Drill press
+- Welding machine (not specific)
+- Torq wrench
+- M16 hand tap
+
+
+### Skills needed
+- welding (intermediate)
+- machining (expert)
+- assembling (expert)
+- electronics (expert)
+
+![Shredder](assets/ppimage.jpg)
 
 # 🔧 Most common hacks
 
