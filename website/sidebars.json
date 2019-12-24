@@ -6,6 +6,8 @@
       "build",
       "build/shredder",
       "build/extrusion",
+      "build/injection",
+      "build/compression",
       {
         "label": "Sheetpress Pro",
         "type": "subcategory",

@@ -13,6 +13,7 @@ const siteConfig = {
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
   baseUrl: "/academy/",
+  onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -28,6 +29,9 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [{ doc: "intro", label: "Academy" }],
+
+
+
 
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
