@@ -21,7 +21,11 @@ sidebar_label: Hello! 🤙
 <div class="videoChaptersMain">
 
 ### Awesome to see you are interested in recycling plastic.
-We've made this section of videos, tutorials and content to share the most crucial things we've learned over the last years about transforming plastic waste into valuable products. We will teach you about the basics of plastic - what types there are and how to identify them, to collecting and separating plastic, to building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more. We’ve created download packs and templates and once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world!
+We've made this section of videos, tutorials and content to share the most crucial things we've learned over the last years about transforming plastic waste into valuable products. 
+
+We will teach you about the basics of plastic - what types there are and how to identify them, to collecting and separating plastic, to building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more. 
+
+We’ve created download packs and templates and once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world!
 
 </div>
 <div class="videoChaptersSidebar">
@@ -38,9 +42,9 @@ We've made this section of videos, tutorials and content to share the most cruci
 </div>
 
 
-### But wait - why did you do this? And why is it all for free?
+![PP Image](assets/opensource.svg)
 
-<i> << 1. open source online for free >> </i>
+## But wait - why did you do this? And why is it all for free?
 
 At Precious Plastic we want to show the world the incredible opportunities of plastic waste in order to eliminate plastic pollution, reducing the demand for new virgin plastic and closing its materials loop while creating better livelihoods for people around the world. Precious Plastic is, above all, a cultural tool to change the way society perceives plastic.
 
