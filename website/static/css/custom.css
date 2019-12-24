@@ -1,7 +1,7 @@
 /* your custom css */
 
 body {
-  background-color: #f4f6f7;
+  background-color: #fff;
   overflow-x: hidden;
   font-family: $bodyFont;
 }
