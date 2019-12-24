@@ -19,13 +19,11 @@ sidebar_label: Workspace Calculator
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Title
+### Helping you to understand the feasibility of starting a workspace
 
-The Workspace Calculator is a financial forecasting tool for you to understand the financial feasibility of starting a workspace. This tool isn’t an exact science, but gives you a starting point for how much money you need to start, how many products and services you need to sell per month in order to be profitable, and how long it’s going to take to pay back your initial investment.
+This financial forecasting tool isn’t an exact science, but gives you a starting point for how much money you need to start, how many products and services you need to sell per month in order to be profitable, and how long it’s going to take to pay back your initial investment.
 
-> Tip: this is a great tip
-
-Let's jump in!
+This tool is applicable to any type of business you hope to start within Precious Plastic, whether you’re a machine builder, you’re working in production,hosting workshops - it doesn’t matter! The idea of this tool is that you’re going to list your sources of income, subtract the costs and then look at the summary results.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -38,19 +36,12 @@ Let's jump in!
 - 04.48 Costs
 - 07.53 Dashboard
 - 13.03 Extras
-
-
 </div>
 </div
 
-`Note: this calculator doesn’t include taxes, so be sure to consider your country’s applicable taxes when you’re working with this calculator.`
+~
 
-This tool is applicable to any type of business you hope to start within Precious Plastic, whether you’re a machine builder, you’re working in production,hosting workshops - it doesn’t matter! The idea of this tool is that you’re going to list your sources of income, subtract the costs and then look at the summary results.
-
-<i>(gif mousing around the calculator)</i>
-![PP Image](assets/ppimage.jpg)
-
-### To get the best out of this tool:
+### 👌 To get the best out of this tool:
 
 - Start on the “Read Me” page and then move from left to right. This will provide the best workflow and results
 - Don’t worry about having the exact numbers - even a ballpark will give you a good idea
@@ -58,7 +49,9 @@ This tool is applicable to any type of business you hope to start within Preciou
 - The numbers you input can be less than 1 - simply use a decimal place (Example - 0.57)
 - Reach out to existing workspaces that are doing something similar (either by using the map or Discord), they might be able to share some of the numbers you need
 
-### Key Terms
+> This calculator doesn’t include taxes, so be sure to consider your country’s applicable taxes when you’re working with this calculator.
+
+### 🗝️ Key Terms
 
 <b>Revenue:</b> Money you bring in from selling a product or service<br>
 
@@ -76,7 +69,10 @@ This tool is applicable to any type of business you hope to start within Preciou
 
 <b>Profit and Loss Statement:</b> An overview of how much money you made or lost
 
+<img style="margin-left: 0; margin-top: 0px" src="../assets/wscalc.gif" width="600"/>
 
+# 📚 Sections
+--- 
 ## 0. READ ME
 
 The Read Me sheet tells you all you need to know about using the workspace calculator. The two most important things to know are that you only fill in the cells that are in blue, and that if hover over cells with an arrow in the top right corner, you can find more information about what we’re asking you about.
@@ -157,7 +153,7 @@ The total monthly profit per month shows you how each product and service contri
 
 Total revenue versus costs shows a final overview of how your revenue stacks up against the total costs of the business.
 
-## Extras
+## 💅 Extras
 
 The extra’s page provides you with some basic financial statements (like cashflow and profit & loss) and shows you the calculations from the previous pages. The information could be especially useful for people applying for a bank loan or grant to show a final overview of financial health.
 
@@ -169,7 +165,7 @@ The <b>monthly sales figure</b> shows the full breakdown of the costs for each o
 
 The <b>payback table</b> shows how the money that you need to start gets “paid back” over time as you start to earn a profit.
 
-## Big Assumptions
+# 🎪 Big Assumptions
 
 The problem with designing a business tool to be applicable all across the world is that you need to make assumptions to simplify things. Some things to consider:
 
@@ -179,10 +175,6 @@ The problem with designing a business tool to be applicable all across the world
 - This calculator doesn’t include taxes, so be sure to keep that in mind when you are analyzing the results, especially your total profit earned per month and year. You might also have to pay taxes on paying wages, which can significantly increase the cost of the “hourly wage” you pay employees.
 - The “money needed to start” also includes one month of operational costs, but if you want to be conservative, you might want something more like 3-6 months of operational costs available when you start.
 - “Full time employees needed” assumes a 40 hour work week, but this might be more or less depending on the work culture of your area.
-
-### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
-<<<<<<< HEAD:docs/business/workspacecalculator.md
-=======
 
 #### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
 
@@ -201,4 +193,3 @@ The problem with designing a business tool to be applicable all across the world
 
 
 
->>>>>>> master:docs/business/startupcalculator.md

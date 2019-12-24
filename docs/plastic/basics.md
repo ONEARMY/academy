@@ -67,24 +67,25 @@ So, how do we solve this? Well, it’s time to get recycling!
 
 Firstly, there are two major categories of plastic: Thermoplastics and Thermoset.
 
-<i> << 2. thermoplastic/thermoset >> </i>
 ![PP Image](assets/ppimage.jpg)
+
+### Thermoset
+
+![Thermoset Examples](assets/thermosetex.svg)
 
 Thermoset plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled. Some examples of thermoset plastics are ….
 
-<i> << 3. thermoset >> </i>
-![PP Image](assets/ppimage.jpg)
+### Thermoplastic
+
+![Thermoset Examples](assets/thermoplasticex.svg)
 
 Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again.
-
-<i> << 4. thermoplastic >> </i>
-![PP Image](assets/ppimage.jpg)
 
 Thankfully, 80% of plastics in the world are thermoplastics (🎉) meaning they can be recycled and transformed. Thermoplastics (which we will just refer to as plastic) are divided into further subcategories depending on their structure and properties, and can be recognized by their name or number that should be usually printed or embossed somewhere on your products.
 
 The most common ones are:
 
-![PP Image](assets/plastic-types.jpg)
+<img style="margin-left: 0; margin-top: 50px" src="../assets/plastictypesoverview.svg" width="80%"/>
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-pet.svg" width="80"/>
 
@@ -197,7 +198,6 @@ Different plastic types should never be mixed together as this will decrease the
 
 So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you! You can find more about specific melting temperatures in the <b>CREATE</b> section (head to <i>Design</i>). But it’s important to remember the different types of plastic, so we’ve made this handy poster for your workspace or studio. <br>
 
-<i> << 5. melting plastic >> </i>
-![PP Image](assets/ppimage.jpg)
+![Melting Temperatures](assets/melting-temperatures.jpg)
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.

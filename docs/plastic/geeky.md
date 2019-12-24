@@ -43,7 +43,7 @@ Ok, it’s time to go deep. When did plastic arrive in our society, how did it g
 
 When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. 
 
-<i> << 7. monomers/polymers >> </i>
+![Polymerization](assets/polymerization.svg)
 
 You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?) 
 
@@ -57,7 +57,7 @@ The first polymer to be 100% derived synthetically was called polyoxybenzylmethy
 
 As we know, plastic is made up of synthetic polymers. Poly stands for multiple, and mers stands for units. In this diagram a group of monomers create polymers in a process called polymerisation.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry1.png" width="400" />
+<img style="margin-left: 0;" src="../assets/jerry/jerry1.svg" width="100%" />
 
 When it comes to plastic, monomers come from fossil fuels and through a process called cracking, create plastic polymers. With different production methods and/or tweaking of the polymer structure, we have hundreds of different types of plastics, with different properties and characteristics. This versatility is well illustrated by chemist Andrea Sella:
 
@@ -70,7 +70,7 @@ Ok, back to science. In total there are hundreds of different types of plastic a
 
 A quick recap:
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry2.png" width="400" />
+<img style="margin-left: 0;" src="../assets/jerry/jerry2.svg" width="100%" />
 
 <b>Thermoset</b>: these plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled.
 
@@ -87,56 +87,50 @@ their different types of course) and it’s ready to be made into new products.
 
 The simplest production method is <b>extrusion</b>. The plastic enters the feed part where the plastic is pushed through a special screw all the way to the die. The shape of the screw changes diameter from beginning to end exposing it to a lot of heat and pressure resulting in a fully molten plastic when it reaches the end of the screw. From there it enters the die - you can use different shapes dies for different products.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry4.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry3.svg" width="600px"/>
 
 ### Blow Moulding
 
 You can also use techniques like [blow-molding](https://www.youtube.com/watch?v=QpVNyCZ3gjw), where you take the output of the extruder when it is still warm and blow it into shape with the help of compressed air and a mould.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry5.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry4.svg" width="600px"/>
 
 ### Injection Moulding
 
 The second, slightly more complex method is [injection molding](https://www.youtube.com/watch?v=KYqpR50ES5o). For this process, plastic is injected into a mould, solidified and then cooled down. When it’s cooled, it keeps the shape of the mould. You can make a lot of products with injection molding, for example lego pieces, toothbrushes, CD cases, or cutlery. Want to learn more about molds? (link)
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry6.png" width="400"/>
-
-<img style="margin-left: 0;" src="../assets/jerry/jerry7.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry5.svg" width="600px"/>
 
 ### Thermomoulding
 
 Another industrial production process is [thermomolding](https://www.youtube.com/watch?v=hZzTg2M64-g). Sheets are heated to a pliable temperature, formed into a specific shape and then cooled and trimmed. This process is often used to create disposable cups, containers, lids, trays - a lot of thin-walled plastic items that are used in the food, medical and general retail industries.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry8.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry6.svg" width="600px"/>
 
 ### Rotation Moulding
 
 This process is used to create low-quantity large plastic items. Plastic pellets are placed in a mould, and is molten with heat while heated evenly. The process is quite flexible as the mold doesn’t have to withstand high pressure. It’s very labour intensive though and take a significant amount of time.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry9.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry7.svg" width="100%"/>
 
 ### Additive manufacturing (or 3D printing)
 
 This is a relatively new production process. Here, multiple 2D layers make up a 3D shape and the benefit is that you don’t need a mold so you can change the design as much as you want. However this process is slow and currently it is rather difficult to make 3D printing filament from household waste.
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry10.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry8.svg" width="600px"/>
 
 ### The Manual Way
 
 Lastly, you can also process plastic in a more manual way. You can drill it, mill it, turn it on a lathe, sand it. It feels more like a craft and there are some beautiful results. Interested to learn more about these techniques? Check out our How-To’s!
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry11.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerry9.svg" width="600px"/>
 
 # The Afterlife of Plastics
 
 So, we’ve learnt that most plastics on the market are able to be identified, sorted, shredded and made into new products, and ideally, this would work locally and globally. But unfortunately this is not the case - approximately 2% of plastic packaging is recycled in a closed-loop process (this means that only 2% of packaging is recycled to make new packaging) and another 8% is down-cycled, meaning the quality is degraded and a lower quality product is made.
 
-<<<<<<< HEAD
-<i> << 18. recycling cycle >> </i>
-=======
 Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic.
 
->>>>>>> 75d1b550c33901153661aaa21466809725fa56da
 ![PP Image](assets/ppimage.jpg)
 
 Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic. 
@@ -149,7 +143,7 @@ A few of the different ways to identify the plastic is:
 
 <b>Infrared Testing</b> - this process is very efficient and it works by shining an infrared light (usually on a conveyor belt) to different plastics. Because each plastic has a different molecular structure, the response back can be easily identified. Unfortunately where the technology is at now, darker pigments in plastic can mix the signal, so there is often misreads of plastic.  We dive into this in the Research section of the Academy, under “Robotic Sorting”
 
-<img style="margin-left: 0;" src="../assets/jerry/jerry12.png" width="400"/>
+<img style="margin-left: 0;" src="../assets/jerry/jerryinfrared.svg" width="600px"/>
 
 <b>Burn Testing</b> - this is a simple technique where you cut a small piece of plastic and light it on fire (although this produces toxic fumes, so we don’t recommend doing this one regularly!) You you should cut a piece of the unknown plastic and light it up observing the flame colour, nature and smell.
 
