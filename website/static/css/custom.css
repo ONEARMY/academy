@@ -249,7 +249,7 @@ article code:before {
 
 .toc .toggleNav .navGroup h4.navGroupSubcategoryTitle {
   color: #afafaf;
-  padding: 9px 0 9px 1px;
+  padding: 5px 0 5px 1px;
   cursor: pointer;
   position: relative;
 }
@@ -301,7 +301,7 @@ article code:before {
 .toc .toggleNav .navGroup ul li.navListItem {
   margin-left: -4px;
   padding-left: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .toggleNav h2 i {
@@ -468,7 +468,7 @@ hr {
   .toc {
     padding: 50px 0;
   }
-
+/*
   .mainContainer {
       height: 100%;
       overflow-y: scroll;
@@ -488,10 +488,24 @@ hr {
   .docsNavContainer {
     height: 100%;
   }
-
+*/
   .wrapper {
     padding: 0 50px;
   }
+
+  .docsNavContainer {
+    top: 0px;
+    height: calc(100vh - 0px);
+  }
+
+.separateOnPageNav.sideNavVisible .navPusher .mainContainer {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+
+
+
 }
 
 /* Tablet (think iPad) and up */
