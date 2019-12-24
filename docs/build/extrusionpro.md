@@ -1,7 +1,7 @@
 ---
 id: extrusionpro
 title: Extrusion Pro Specifications
-sidebar_label: - Specifications
+sidebar_label: - Overview
 ---
 
 <div class="videocontainer">
@@ -22,7 +22,7 @@ sidebar_label: - Specifications
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-> Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build. 
+> Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build.
 
 
 </div>
@@ -79,7 +79,7 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 Compare to smaller version of extruder, this machine will provide :
 - A larger insulated hopper allowing better fluidity,
 - An improved bearing design to support axial and radial extrusion forces
-- Easier assembly and servicing 
+- Easier assembly and servicing
 - Overall stronger and tested components
 - A larger screw with an improved screw geometry allowing a bigger output and an homogeneous melt for a better quality plastic,
 - A safer and easier to build electronic box.
@@ -97,11 +97,11 @@ This machine requires the higher skill set of machining amongs Precious Plastic 
 # ♻️ Input & output
 ---
 
-A variety of plastic types will be effective in this extruder. Each plastic type has its own properties and behaviours (flexible, hard, liquid etc.). Materials with a wide melting temperature range are easiest to work with. We suggest starting with PP, HDPE, LDPE or PS since they require less temperature precision. We do not recommend trying polymers with smaller melting temperature windows (such as PET), but if you decide to do so, please take safety precautions. 
+A variety of plastic types will be effective in this extruder. Each plastic type has its own properties and behaviours (flexible, hard, liquid etc.). Materials with a wide melting temperature range are easiest to work with. We suggest starting with PP, HDPE, LDPE or PS since they require less temperature precision. We do not recommend trying polymers with smaller melting temperature windows (such as PET), but if you decide to do so, please take safety precautions.
 
 You can set the temperature using the controllers on the electronic box. The heating elements are labeled and wired into three groups (nozzle, barrel and feeding). We recommend to use the temperatures from the table below as a general rule of thumb.  This is to help make sure the plastic is fully melted right before it comes out.
 
-### ⚠️ Make sure the extruder is up to temperature before starting the motor! 
+### ⚠️ Make sure the extruder is up to temperature before starting the motor!
 <br>
 | Plastic Type | Feeding Zone (C°) | Barrel Zone (C°) | Nozzle Zone (C°) |
 |--------------|-------------------|------------------|------------------|
@@ -113,7 +113,7 @@ You can set the temperature using the controllers on the electronic box. The hea
 <br>
 <b>Important:</b> This extruder is recommended to be used for plastics with a low Melt Flow Index (MFI) A lower MFI “fluid” is thicker or more viscous. Lower MFIs (~3-5) are typically called “extrusion grades”, and higher (>10) are “injection grades.” If you directly buy / recover shredded plastic leftover from a plastic recycling company use the <b>INJECTION GRADE</b> shredded plastic. If you really need to extrude lower MFI, you might need to increase the temperatures of the heaters.
 
-> ⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity. 
+> ⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity.
 
 Some examples of extrusion times for some moulds:
 

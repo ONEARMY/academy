@@ -4,6 +4,9 @@ title: Build a Sheetpress Pro
 sidebar_label: - Build it
 ---
 
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/zw3TBYTu_Kc " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
@@ -12,23 +15,50 @@ sidebar_label: - Build it
 }
 </style>
 
-![Shredder](assets/ppimage.jpg)
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
-# Build the Sheetpress Pro
+# Build a Sheetpress Pro
 
-Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
+Hi looks like you might want to build a sheetpress? that is great! It's a very exciting machine that can recycle big amounts of plastic on a daily base. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
 
-> Amazing tip
+> Pro tip: Before you build, make sure you to read all documentation. Its a big project so make sure you know where you're getting into.
 
-## 🔩 Commercial parts
 
-- Link to Nederland bill of material
-- Link to Sheetpress 
-- Link to Cooling Press
-- Link Prep Table
-Or link or reference to Download KIT
+</div>
+<div class="videoChaptersSidebar">
 
-Note: the sliding tool is not included in the BOM as you can use off cuts from the rest of the build. 
+### Video Chapters
+
+- 00.36 1 todo Bearing
+- 00.36 2 todo Barrel
+- 00.36 3 todo Barrel
+- 00.36 4 todo Motor
+- 00.36 5 todo Hopper
+
+</div>
+</div>
+
+
+# 🛠 Required machinery & skills
+
+### Machines needed
+- Drill press
+- Welding machine
+- Lifting system. Or use some friends to help lift :)
+
+### Skills needed
+- Welding (expert)
+- Machining (intermediate)
+- Assembling (intermediate)
+- Electronics (expert)
+
+![Shredder](assets/Build/sheetpress-making.jpg)
+
+
+# 🔩 Materials and parts
+
+You need to make and buy parts. In the download-kit you can find the complete Bill of Materials. It's a list for the entire Sheetpress system. So it includes the Sheetpress, Cooling press and preparation table. Below you can find the commercial parts you need to buy and we go more in depth on where to look out for.
 
 ### Jacks option & explanation
 
@@ -62,11 +92,11 @@ We recommend using either 2mm stainless steel sheet or 2mm galvanised steel shee
 
 ### Laser cut or not?
 
-If possible we recommend you laser cut all the sheet steel components, especially the support structure for the pressing plates. The advantages of laser cutting are both level of precision and dramatically reduced build time. If you are unable to get your parts laser cut you can cut the majority of them by hand from 100x6mm steel strip although some require a larger sheet such as the electronics box and the parts of the bottom support structure. 
+If possible we recommend you laser cut all the sheet steel components, especially the support structure for the pressing plates. The advantages of laser cutting are both level of precision and dramatically reduced build time. If you are unable to get your parts laser cut you can cut the majority of them by hand from 100x6mm steel strip although some require a larger sheet such as the electronics box and the parts of the bottom support structure.
 
 ### Laser Cut Steel Choice
 
-- For the 6mm laser cut components we chose to use hot rolled (HRS 75F70) structural steel for its high tensile strength. This type of steel is hot rolled which also makes it less prone to warping when welding during construction and heating plastic during usage. 
+- For the 6mm laser cut components we chose to use hot rolled (HRS 75F70) structural steel for its high tensile strength. This type of steel is hot rolled which also makes it less prone to warping when welding during construction and heating plastic during usage.
 - For the 2mm laser cut components we used 2mm Cold Rolled steel (CRS CR4) as high strength is not required
 
 ### Mould release
@@ -75,30 +105,32 @@ We found silicone oil to be the best performing mould release. There are many al
 
 ### Cooling insulation interest and choice
 
-For the insulation material we chose mineral wool. Mineral wool is widely available, soft so it can be cut easily and packed into irregular shaped cavities. It could be substituted for similar types of soft insulation as long as the temperature resistance is enough to. Glass wool is the next closest substitute, it is commonly made from partly recycled material but it is more expensive, less widely available and more  susceptible to damp and hence its life expectancy is shorter. 
+For the insulation material we chose mineral wool. Mineral wool is widely available, soft so it can be cut easily and packed into irregular shaped cavities. It could be substituted for similar types of soft insulation as long as the temperature resistance is enough to. Glass wool is the next closest substitute, it is commonly made from partly recycled material but it is more expensive, less widely available and more  susceptible to damp and hence its life expectancy is shorter.
 
 # ⚡ Electronic box
 
+![Sheetpress electronics](assets/Build/sheetpress-electronics.jpg)
+
 ### Explanation of electric component roles
 
-The core of the system runs on the typical PID-SSR-Thermocouple-Heatsync combination which features in all of our machines. 
+The core of the system runs on the typical PID-SSR-Thermocouple-Heatsync combination which features in all of our machines.
 
-The main difference is the addition of a mechanical relay, between the main power line in and the heating elements, triggered by the SSRs. This was added so that the current required to power the heating elements does not pass through the SSRs as during prototyping we have experienced them burning out despite being below the rated current. 
+The main difference is the addition of a mechanical relay, between the main power line in and the heating elements, triggered by the SSRs. This was added so that the current required to power the heating elements does not pass through the SSRs as during prototyping we have experienced them burning out despite being below the rated current.
 
-This is expected to be from the combination of current and heat conducting back down the cables. The mechanical relay provides a physical break and is larger preventing heat from building up inside the relays. 
+This is expected to be from the combination of current and heat conducting back down the cables. The mechanical relay provides a physical break and is larger preventing heat from building up inside the relays.
 
-There are two PID controllers, one for the top plate and one for the bottom plate. 
-The k-type thermocouples we used are 3M in length in order to reach the right position on the heating plates. 
+There are two PID controllers, one for the top plate and one for the bottom plate.
+The k-type thermocouples we used are 3M in length in order to reach the right position on the heating plates.
 
-Between the main power line and the PIDs there is a rotary switch to turn them on and off and an emergency stop. 
+Between the main power line and the PIDs there is a rotary switch to turn them on and off and an emergency stop.
 
-The heating elements are distributed evenly between each of the three phases. Each plates has one entire phase plus half of another which is shared by the two plates. E.g On the bottom plate ⅔ of the elements are on phase ⅓ of the elements are on phase two and on the top plate ⅓ of the elements are on phase 2 and ⅔ of the elements are on phase 3. The power supply from the control box enters the pressing plates and reaches a ceramic terminal, the ceramic terminal is used as it is capable of withstanding high temperatures. 
+The heating elements are distributed evenly between each of the three phases. Each plates has one entire phase plus half of another which is shared by the two plates. E.g On the bottom plate ⅔ of the elements are on phase ⅓ of the elements are on phase two and on the top plate ⅓ of the elements are on phase 2 and ⅔ of the elements are on phase 3. The power supply from the control box enters the pressing plates and reaches a ceramic terminal, the ceramic terminal is used as it is capable of withstanding high temperatures.
 
-The heating elements are arranged in a 45°support structure array which is offset on the top and the bottom so that each the heating elements on one plate sit in the centre of the other plate. 
+The heating elements are arranged in a 45°support structure array which is offset on the top and the bottom so that each the heating elements on one plate sit in the centre of the other plate.
 
 They are mounted inside an aluminium block which is mounted to the bottom of the aluminum plate to allow the heat to conduct easily.
 
-For the wiring inside the pressing plates we used ceramic insulated cable. Both when joining cables and attaching them to the terminals we used PTFE base heat shrink as it is capable of withstanding high temperatures. 
+For the wiring inside the pressing plates we used ceramic insulated cable. Both when joining cables and attaching them to the terminals we used PTFE base heat shrink as it is capable of withstanding high temperatures.
 
 For any soldering we recommend using high temperature solder with a melting temperature >300°C.   
 
@@ -106,38 +138,35 @@ It is mandatory to ground every individual metal component, both pressing plates
 
 Cable glands are used whenever a cable passes between the inside and the outside of the body to prevent moisture entering the system and to protect the cable from physical damage. They should be face down on the enclosure to prevent liquid pooling inside the glands.
 
-When wiring the control box, when each wire is screwed to a terminal a crimp is used to secure the wires properly in place. 
+When wiring the control box, when each wire is screwed to a terminal a crimp is used to secure the wires properly in place.
 
-### Schematic
-
-- Schematic Link or link to download kit
 
 # 👌 Tips & tricks while making
 
 ### Parallel build
 
-If you are building the Sheetpress and the Cooling press the process is almost identical so you can build them in parallel to simplify the process.
+If you are building the Sheetpress and the Cooling Press the process is almost identical so you can build them in parallel to simplify the process.
 
 ### Drilling jigs
 
-The purpose of the drilling Jigs is to both ensure that the two holes used to mount the aluminium blocks to the aluminium plate are spaced evenly so that they align properly and to ensure that the drill remains straight when drilling. 
+The purpose of the drilling Jigs is to both ensure that the two holes used to mount the aluminium blocks to the aluminium plate are spaced evenly so that they align properly and to ensure that the drill remains straight when drilling.
 
-### Welding Frame Sequence 
+### Welding Frame Sequence
 
 1. First weld the outside frames, then the bottom frame. (When mounting the jack mount plates to the bottom frame, weld the middle plate first as it is not possible to reach it once the outside plates are in place. Use the bolt to align all three plates.)
 
-2. Bolt the outside frames to the top pressing plate with the entire structure upside down. (Once welded turn over the structure) 
+2. Bolt the outside frames to the top pressing plate with the entire structure upside down. (Once welded turn over the structure)
 
 3. Take some offcuts from the beams to to position the bottom frame between the side frames. It should be 100mm from the ground to allow a pallet/pump truck to fit underneath when weld the bottom frame in place.
 
 ### Welding Pressing Plate Sequence
 
-1. Tack weld the square frame that surrounds the support structure, It’s important these are the correct dimension and that holes are drilled and cable glands are attached before welding. 
+1. Tack weld the square frame that surrounds the support structure, It’s important these are the correct dimension and that holes are drilled and cable glands are attached before welding.
 
 2. Separate the parts for the top support structure and the bottom support structure. The pieces for the top support structure have a small notch in the laser cutting files.
 
 3. For each part:
-   * Slot the pieces together. 
+   * Slot the pieces together.
    * Raise them on blocks so they can be clamped from underneath.
    * Clamp each intersection as you tack weld it to ensure a flat surface. It is best to weld opposite points of the support structure to avoid warping from uneven tension.  Tack all the intersections before fully welding them.
 
@@ -147,18 +176,42 @@ The purpose of the drilling Jigs is to both ensure that the two holes used to mo
 
 6. Tack weld several points where the support structure joins with the frame then fully weld them and finally the corners of the frame.
 
-```Note: The most important part of the steel structure is that both sets of laser cut support structures are perfectly flat. Fortunately they’re slotted precisely to depth, so this can be done by clamping the two sections together.```
+>Note: The most important part of the steel structure is that both sets of laser cut support structures are perfectly flat. Fortunately they’re slotted precisely to depth, so this can be done by clamping the two sections together.```
 
-If you are building both the Sheetpress and Cooling Press make sure to weld the support structure for the Cooling Press before you install the aluminium plate in the sheetpress pressing plates. 
+If you are building both the Sheetpress and Cooling Press make sure to weld the support structure for the Cooling Press before you install the aluminium plate in the sheetpress pressing plates.
 
-# Options 
+# Additional Options
 
 ### Integrated ventilation
 
-It is possible to run the system without the ventilation but for the safety of you and the people around you we recommend to only turn the machine on when the extraction hood is attached and the ventilation system is turned on. As well as using the ventilation hood we also recommend ventilating the ambient space around the press. The ideal environment to operate the press would be an industrial spray painting room. 
+It is possible to run the system without the ventilation but for the safety of you and the people around you we recommend to only turn the machine on when the extraction hood is attached and the ventilation system is turned on. As well as using the ventilation hood we also recommend ventilating the ambient space around the press. The ideal environment to operate the press would be an industrial spray painting room.
 
 ### Only sheetpress or complete system
 
-You can make sheets with the sheet press alone but the process is slow. You have to wait for the sheet press to heat up and cool down for each sheet you make which means you can produce one or two sheets per day. For some people (e.g. craftsmen and artisans) this is acceptable but for many others a faster rate of production is desirable. 
+You can make sheets with the sheet press alone but the process is slow. You have to wait for the sheet press to heat up and cool down for each sheet you make which means you can produce one or two sheets per day. For some people (e.g. craftsmen and artisans) this is acceptable but for many others a faster rate of production is desirable.
 
-To improve ease of use and efficiency we designed three tools to turn the sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. You can see the number of sheets achievable in the Technical Information section above.
+To improve ease of use and efficiency we designed three tools to turn the sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. So if you are looking to setup an efficient production, build the whole system. If you don't have a lot of space or just want to make a few sheets, make the Sheetpress.
+
+![Sheetpress run](assets/build/sheetpress-system.jpg)
+<br><br><br><br><br><br><br><br><br><br>
+---
+# NOT SURE IF WE SHOULD INCLUDE BUT I LIKE THE LOOKS OF IT
+
+
+
+| Component   |  Description |
+|----------|----------------------|
+| <img src="../assets/build/electronics/cable-gland.png" width="150"/>           | __Cable Glands__ <br> Precious Plastic Members are the beginning and the end of the plastic cycle. They provide the initial plastic waste and buy Precious Plastic recycled products.    |
+| <img src="../assets/build/electronics/cartridge-heater.png" width="150"/>        |  __Cartridge heaters__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
+| <img src="../assets/build/electronics/ceramic-terminal.png" width="150"/>     |  __Ceramic terminal__ <br> Machine Shops produce and build parts, moulds and entire machines for other workspaces and projects in the local recycling network.   |
+| <img src="../assets/build/electronics/emergency-stop.png" width="150"/>  |  __Emergency stop__ <br> Community Points connect and grow the network locally. Strengthening the existing local community while bringing in more & more people.  |
+| <img src="../assets/build/electronics/fork.png" width="150"/> |  __Fork__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/heatsink.png" width="150"/>        |  __Heatsink__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
+| <img src="../assets/build/electronics/multicore-cable.png" width="150"/>     |  __Multicore cable__ <br> Machine Shops produce and build parts, moulds and entire machines for other workspaces and projects in the local recycling network.   |
+| <img src="../assets/build/electronics/ring-terminal.png" width="150"/>  |  __Ring Terminal__ <br> Community Points connect and grow the network locally. Strengthening the existing local community while bringing in more & more people.  |
+| <img src="../assets/build/electronics/rotary-switch.png" width="150"/> |  __Rotary Switch__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/pid.png" width="150"/> |  __PID controller__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/plug-32.png" width="150"/> |  __32 AMP Plug__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/relais.png" width="150"/> |  __Relais__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/ssr.png" width="150"/> |  __Solid State Relais (SSSR)__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+| <img src="../assets/build/electronics/thermocouple.png" width="150"/> |  __Thermocouple__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |

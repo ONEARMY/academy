@@ -1,7 +1,7 @@
 ---
 id: shredderpro
 title: Shredder Pro Specifications
-sidebar_label: - Specifications
+sidebar_label: - Overview
 ---
 
 <div class="videocontainer">
@@ -84,7 +84,7 @@ This shredder have also been conceive as a very easy machine to clean. In less t
 
 ### Cons
 
-If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price. 
+If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price.
 
 Compared to other Precious Plastic machines this machine is one of the hardest built even if we try to simplify as much as possible. You’ll need proper machines and skills.
 
