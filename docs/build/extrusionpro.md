@@ -4,9 +4,7 @@ title: Extrusion Pro Specifications
 sidebar_label: - Overview
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
 
 <style>
 :root {
@@ -15,41 +13,10 @@ sidebar_label: - Overview
 }
 </style>
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+![Extruder Pro](assets/build/extruderpro.jpg)
 
-# Build an Extrusion Pro
-
-Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
-
-> Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build.
-
-
-</div>
-<div class="videoChaptersSidebar">
-
-### Video Chapters
-
-- 00.36 1 Bearing body shaft
-- 00.36 2 Barrel inlet
-- 00.36 3 Barrel
-- 00.36 4 Motor adapter
-- 00.36 5 Hopper
-- 00.36 6 Electronics
-- 00.36 7 Frame
-- 00.36 8 Final assembly
-- 00.36 9 Maintenance and how to run
-
-</div>
-</div>
-
-![Extruder Pro](assets/extruderpro.jpg)
-
-# ♻️ General specifications
----
-
-### 📓 Technical information
-| Name  |  Extrusion Pro     |
+# 📓 Extrusion Pro information
+| Specification    |     |
 |----------|-------------|
 | 📓 Type   |     Single Screw   |
 | 💎 Version   |     1.0   |
@@ -72,17 +39,6 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 | - Heating power: max.   | 2 kW)|
 
 # 🌦 Pros & cons
----
-
-### Upgrades
-
-Compare to smaller version of extruder, this machine will provide :
-- A larger insulated hopper allowing better fluidity,
-- An improved bearing design to support axial and radial extrusion forces
-- Easier assembly and servicing
-- Overall stronger and tested components
-- A larger screw with an improved screw geometry allowing a bigger output and an homogeneous melt for a better quality plastic,
-- A safer and easier to build electronic box.
 
 ### Pros
 
@@ -94,8 +50,21 @@ The Extruder Pro screw is designed to be work with multiple types of plastics. W
 
 This machine requires the higher skill set of machining amongs Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other precious plastic machines.
 
+### Normal VS Pro
+
+Compare to smaller version of extruder, this machine:
+- Has a larger screw which gives a higher output
+- Optimized screw design brings an homogeneous melt for a better quality plastic
+- An improved bearing design to support axial and radial extrusion forces
+- Is made to run full days
+- Easier assembly and servicing
+- Overall stronger and tested components
+- A safer and easier to build electronic box.
+- Has a larger insulated hopper allowing better fluidity,
+
+
+
 # ♻️ Input & output
----
 
 A variety of plastic types will be effective in this extruder. Each plastic type has its own properties and behaviours (flexible, hard, liquid etc.). Materials with a wide melting temperature range are easiest to work with. We suggest starting with PP, HDPE, LDPE or PS since they require less temperature precision. We do not recommend trying polymers with smaller melting temperature windows (such as PET), but if you decide to do so, please take safety precautions.
 
@@ -110,10 +79,6 @@ You can set the temperature using the controllers on the electronic box. The hea
 | HDPE         | 190               | 200              | 200              |
 | LDPE         | 190               | 200              | 200              |
 
-<br>
-<b>Important:</b> This extruder is recommended to be used for plastics with a low Melt Flow Index (MFI) A lower MFI “fluid” is thicker or more viscous. Lower MFIs (~3-5) are typically called “extrusion grades”, and higher (>10) are “injection grades.” If you directly buy / recover shredded plastic leftover from a plastic recycling company use the <b>INJECTION GRADE</b> shredded plastic. If you really need to extrude lower MFI, you might need to increase the temperatures of the heaters.
-
-> ⚠️ Some <b>EXTRUSION GRADE</b> shredded plastic with low MFI is not compatible with this extruder design due to its high viscosity.
 
 Some examples of extrusion times for some moulds:
 
@@ -122,31 +87,10 @@ Some examples of extrusion times for some moulds:
 - Big Lego Brick Mould: 6 Min
 - Skateboard Mould: 20 Min
 
-# 🛠 Required machinery & skills
----
 
-### Tools / Machines needed
 
-- Conventional Lathe
-- Conventional Milling machine
-- Drill press
-- Welding machine (TIG or MIG/MAG recommended)
-- Set of allen keys
-- General purpose wrenches, sockets etc. for assembly
-- Hammer (preferably plastic)
+![Image](assets/build/extruderpro-output.jpg)
 
-### Skills needed
-
-- Welding (advanced)
-- Machining (advanced)
-- Assembling (intermediate)
-- Electronics (intermediate)
-
-![Image](assets/ppimage.jpg)
-
-# 🔧 Most common hacks
-
-Link to How-to
 
 # 🙌 Useful Links
 
@@ -157,7 +101,3 @@ https://beckassets.blob.core.windows.net/product/readingsample/10070898/97834464
 https://core.ac.uk/download/pdf/82417410.pdf
 http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf
 http://craig-russell.co.uk/demos/cone_calculator/
-
-# 🌎 Built by the community
-
-Will be updated
