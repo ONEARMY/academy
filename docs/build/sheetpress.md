@@ -12,7 +12,7 @@ sidebar_label: - Overview
 }
 </style>
 
-![Sheetpress](assets/build/sheetpress.jpg)
+![Sheetpress](assets/sheetpress.jpg)
 
 
 # 📓 Sheetpress Pro information
@@ -66,7 +66,7 @@ sidebar_label: - Overview
 
 We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of granule/shreds (small, medium large). We recommend using the large granules produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from un shredded bottle caps, the melting time just increases slightly with a larger size of input material.
 
- ⚠️ Important You cannot press dirty plastic as it will leave burnt residue on the mould which is very difficult to remove.
+ > ⚠️ Important ⚠️ You cannot press dirty plastic as it will leave burnt residue on the mould which is very difficult to remove.
 
 ### How many sheets at a time?
 
