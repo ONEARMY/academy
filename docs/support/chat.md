@@ -12,7 +12,6 @@ sidebar_label: chat
 }
 </style>
 
-
 # Chat & Support
 
 We use Discord to learn from each other and answer questions..
@@ -48,7 +47,7 @@ Join our main server here: https://discordapp.com/invite/fGZQRm
 | [#plastic scanner](https://discordapp.com/invite/Khxfgg7) |  Find ways to scan which type of plastic it is.|
 | [#community-platform!](https://discordapp.com/invite/)    |Coding and improvements for our online community platform|
 
-
+![Discord](assets/support/discord.jpg)
 # Go straight to your local group
 
 | Countries  |        |  |

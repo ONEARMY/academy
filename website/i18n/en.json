@@ -19,11 +19,7 @@
       },
       "build/extrusionpro": {
         "title": "Extrusion Pro Specifications",
-        "sidebar_label": "- Specifications"
-      },
-      "build/extrusionpro/extrusionpro": {
-        "title": "Build an extrusion Pro",
-        "sidebar_label": "➡️ Extrusion Pro"
+        "sidebar_label": "- Overview"
       },
       "build/extrusionprobuild": {
         "title": "Build an Extrusion Pro",
@@ -39,7 +35,7 @@
       },
       "build/sheetpress": {
         "title": "Sheetpress Pro Specifications",
-        "sidebar_label": "- Specifications"
+        "sidebar_label": "- Overview"
       },
       "build/sheetpressbuild": {
         "title": "Build a Sheetpress Pro",
@@ -55,7 +51,7 @@
       },
       "build/shredderpro": {
         "title": "Shredder Pro Specifications",
-        "sidebar_label": "- Specifications"
+        "sidebar_label": "- Overview"
       },
       "build/shredderprobuild": {
         "title": "Build a Shredder Pro",
@@ -220,7 +216,7 @@
       "8. Research": "8. Research",
       "9. Universe": "9. Universe",
       "📦 Download": "📦 Download",
-      "💬 Support": "💬 Support"
+      "💬 Questions?": "💬 Questions?"
     }
   },
   "pages-strings": {

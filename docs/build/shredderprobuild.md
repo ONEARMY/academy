@@ -4,6 +4,10 @@ title: Build a Shredder Pro
 sidebar_label: - Build
 ---
 
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <style>
 :root {
   --highlight: #f29094;
@@ -11,14 +15,56 @@ sidebar_label: - Build
 }
 </style>
 
-![Shredder](assets/ppimage.jpg)
-
-# Build the Shredder Pro
-
-Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
 
 
-> Amazing tip
+<div class="videoChapters">
+<div class="videoChaptersMain">
+
+# Build a Shredder Pro
+
+So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
+
+> Pro tip: this is a pro tip
+
+</div>
+<div class="videoChaptersSidebar">
+
+### Video Chapters
+
+- 00:36 - Intro
+- 00:36 - Frame
+- 00:36 - Hopper
+- 00:36 - Cutting box
+- 00:36 - Motor
+- 00:36 - Electronics
+- 00:36 - Final assembly
+- 00:36 - How to run
+
+
+
+</div>
+</div>
+
+
+
+# 🛠 Required machinery & skills
+
+Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+
+### Machines needed
+- Lathe
+- Milling machine
+- Drill press
+- Welding machine (not specific)
+- Torq wrench
+- M16 hand tap
+
+
+### Skills needed
+- welding (intermediate)
+- machining (expert)
+- assembling (expert)
+- electronics (expert)
 
 ## 🔩 Commercial parts
 
@@ -40,7 +86,7 @@ Service factor
 
 Nominal power is a value directly linked to nominal current. On most motors, you will be able to run at this power continuously (depending on your safety factor, ambient temperature, humidity, etc).
 
-However, for a short amount of time, your motor will be able to deliver a higher power by having a higher current. This can be typically observed at the start of the rotation or when you encounter harder pieces to shred. 
+However, for a short amount of time, your motor will be able to deliver a higher power by having a higher current. This can be typically observed at the start of the rotation or when you encounter harder pieces to shred.
 
 But if the motor is capable of running at a higher power, this will damage it.
 We found that no motor should be run at more than 1,6 times their nominal current/power, and this will be controlled by the electronics box. See the recommendation paragraph for which power will work for your needs.
@@ -119,19 +165,19 @@ The gears transmit the power between the two shafts. Double shaft shredders work
 | Spur gear | 6      | 18          | 60         | 45              | 14 x 9      |
 | Spur gear | 6      | 20          | 60         | 45              | 14 x 9      |
 
-We recommend to use gears with hardened teeth. 
+We recommend to use gears with hardened teeth.
 
-The distance between them has to be 114mm. Many components, like the blades or the box, depend on that distance. If the gear specs change, the distance shall be kept fixed or a redesign of the blades and box will be required. 
+The distance between them has to be 114mm. Many components, like the blades or the box, depend on that distance. If the gear specs change, the distance shall be kept fixed or a redesign of the blades and box will be required.
 
 ### Shaft specifications
-The shaft is made by a 50mm hexagon bar milled to a 45mm diameter. We recommend using mid-high quality steel with a minimum yield strength of 350 Mpa (we used C45 steel). 
+The shaft is made by a 50mm hexagon bar milled to a 45mm diameter. We recommend using mid-high quality steel with a minimum yield strength of 350 Mpa (we used C45 steel).
 
 ### Bearing specifications
 
-We used UCFL209: 
+We used UCFL209:
 
-- Shaft size 45 mm 
-- Fixing Spacing 148 mm 
+- Shaft size 45 mm
+- Fixing Spacing 148 mm
 - Fixing hole diameter 19mm
 
 We use an M16 bolt to fix them: an adaptor is required
@@ -197,4 +243,4 @@ We designed a safety version of the hopper fully closed, to prevent the plastic 
 
 ### Different sieves
 
-Potentially, you could use the shredder with no sieve. But in order to achieve different flake size standards - see input & output chapter - we provided different sieves size to sent to cut. You can as well get a drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding. 
+Potentially, you could use the shredder with no sieve. But in order to achieve different flake size standards - see input & output chapter - we provided different sieves size to sent to cut. You can as well get a drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.
