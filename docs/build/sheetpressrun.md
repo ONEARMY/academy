@@ -10,9 +10,11 @@ sidebar_label: - Run it
   --hover: #f29094;
 }
 </style>
+<div class="videocontainer">
 
 ![Sheetpress run](assets/build/sheetpress-run.jpg)
 
+</div>
 
 # Run and Maintain the Sheetpress Pro
 
@@ -22,21 +24,15 @@ Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. .B
 
 ## Run Standalone Sheetpress
 
-### How to start
-
 1. Plug in the Sheetpress, check the emergency stop is released and switch on the main power switch.
 
 2. Check the required temperature to melt your type of plastic and set the PID controller to this temperature.
 
 3. Close the pressing plates using the bottle jack and wait for them to heat up.
 
-### Whilst waiting for the heating plates to warm up
+4.  Whilst waiting for the heating plates to warm up weigh the plastic. See the Datasheet for weights.
 
-4. Weigh the plastic. See the Datasheet (Appendix A) for weights.
-
-### When the Sheetpress is at the required temperature
-
-5. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
+5. When the Sheetpress is at the required temperature. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 
 6. Place the bottom sheet of the mould on the bottom pressing plate and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
 
@@ -50,19 +46,13 @@ Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. .B
 
 11. Close the pressing plates using the bottle jack until the spring is fully compressed.
 
-### Whilst waiting for the plastic to melt
+12. Whilst waiting for the plastic to melt. 2 mins before the recommended melting time close the pressing plates using the bottle jack until the jacks starts to give strong resistance. See the Datasheet (Appendix A) for melting temperatures and times.
 
-12. 2 mins before the recommended melting time close the pressing plates using the bottle jack until the jacks starts to give strong resistance. See the Datasheet (Appendix A) for melting temperatures and times.
+13. When the mould has been in the sheetpres for required melting time. Switch off the sheetpress.
 
-### When the mould has been in the sheetpres for required melting time
+14. Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
 
-13. Switch off the sheetpress.
-
-Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
-
-## Run Full System
-
-### How to start
+## Run The Full Sheetpress System
 
 1. Plug in the Sheetpress, check the emergency stop is released and switch on the main power switch.
 
@@ -70,9 +60,7 @@ Alternatively you can take out the mould and either weight it down or clamp it t
 
 3. Close the pressing plates using the bottle jack and wait for them to heat up.
 
-### Whilst waiting for the heating plates to warm up
-
-4. Place the bottom sheet of the mould on the prep table and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
+4. Whilst waiting for the heating plates to warm up. Place the bottom sheet of the mould on the prep table and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
 
 5. Place the mould frame in the centre of the sheet and apply a layer of silicone oil to the top of the frame.
 
@@ -82,9 +70,7 @@ Alternatively you can take out the mould and either weight it down or clamp it t
 
 8. Oil the top sheet of the mould and place the oiled side face down on the bottom two sections of the mould.
 
-### When the Sheetpress is at the required temperature
-
-9. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
+9. When the Sheetpress is at the required temperature. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 
 10. Position the prep table next to the open side of the Sheetpress.
 
@@ -92,15 +78,11 @@ Alternatively you can take out the mould and either weight it down or clamp it t
 
 12. Close the pressing plates using the bottle jack until the spring is fully compressed.
 
-### Whilst waiting for the plastic to melt
-
-13. Prepare the next mould and sheet on the prep table. (Steps 4-8).
+13. Whilst waiting for the plastic to melt. Prepare the next mould and sheet on the prep table. (Steps 4-8).
 
 14. 2 mins before the recommended melting time. See the Datasheet (Appendix A) for melting temperatures and times. close the pressing plates using the bottle jack until the jacks starts to give strong resistance.
 
-### When the mould has been in the sheetpres for required melting time
-
-15. Open the  pressing plates of the Cooling Press by releasing pressure from the bottle jack.
+15. When the mould has been in the sheetpres for required melting time. Open the  pressing plates of the Cooling Press by releasing pressure from the bottle jack.
 
 16. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 
@@ -110,17 +92,13 @@ Alternatively you can take out the mould and either weight it down or clamp it t
 
 19. Load and press the next sheet in to the Sheetpress (Steps 10-13). This time stack it on top of the previous sheet.
 
-Repeat steps 13-20 until you workcycle is complete.  
-
-### Once finished
-
-20. Switch off and close the sheetpress.
+20. Repeat steps 13-20 until you workcycle is complete.  .Once finished. Switch off and close the sheetpress.
 
 21. Clean and apply a layer of silicone oil to the mould sheets to protect them for moisture between use.
 
 # ⏳ Maintain
 
-## 🥚 Weekly
+## Weekly
 
 <b>Clean the heating plates</b><br>
 Use a trowel to scrape any remiant material from the heating plates. You may need to use a  high volume alcohol if there is heavy corrosion
@@ -128,7 +106,7 @@ Use a trowel to scrape any remiant material from the heating plates. You may nee
 <b>Grease rails</b><br>
 Use a wooden spatula to apply a liberal amount of grease to all the rails, we used engine grease.
 
-## 🐣 Monthly
+## Monthly
 
 <b>Inspect and place mould sheets</b><br>
 Inspect your mould sheets, if any of them are damaged beyond repair then they may need replacing.
@@ -142,7 +120,7 @@ Inspect your plywood sheets, if they are damaged or significantly warped then th
 <b>Check website for hacks/updates</b><br>
 The community are continuously developing hacks, modifications and techniques which get shared on the internet, take a look to see what is there that can help or inspire you!
 
-## 🐥 Yearly
+## Yearly
 
 <b>Deep clean heating plates</b><br>
 Use a trowel to scrape any remiant material from the heating plates. You may need to use a  high volume alcohol if there is heavy corrosion. You may also need to use a rotary sander to remove tough burnt on material but be gentle, use a high grit sandpaper (>220) to preserve the flatness of the sheet.
