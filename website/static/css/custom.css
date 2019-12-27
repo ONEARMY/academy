@@ -122,6 +122,12 @@ ol {
 article div span h1:first-child {
   margin-top: 0;
 }
+
+h1, h2, h3{
+ font-family: 'Varela Round', 'sans-serif';
+}
+
+
 /* Remove pro-tip formatting
 article code {
   background-color: transparent;
