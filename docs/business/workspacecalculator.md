@@ -4,7 +4,7 @@ title: Workspace calculator
 sidebar_label: Workspace Calculator
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/ytHOVALgvao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/mcoN76xG9Is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -72,7 +72,7 @@ This tool is applicable to any type of business you hope to start within Preciou
 <img style="margin-left: 0; margin-top: 0px" src="../assets/wscalc.gif" width="600"/>
 
 # 📚 Sections
---- 
+---
 ## 0. READ ME
 
 The Read Me sheet tells you all you need to know about using the workspace calculator. The two most important things to know are that you only fill in the cells that are in blue, and that if hover over cells with an arrow in the top right corner, you can find more information about what we’re asking you about.
@@ -177,19 +177,3 @@ The problem with designing a business tool to be applicable all across the world
 - “Full time employees needed” assumes a 40 hour work week, but this might be more or less depending on the work culture of your area.
 
 #### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

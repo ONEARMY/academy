@@ -5,7 +5,7 @@ sidebar_label: Beyond Plastic
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/LUaoyNMKD_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/b2aRrWCxaX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -19,7 +19,7 @@ sidebar_label: Beyond Plastic
 
 # Beyond Plastic
 
-Making stuff from recycled plastic is pretty cool, but we know we need to break up with plastic in the long run. That’s why we’ve created Beyond Plastic, a project researching biodegradable alternatives to plastic as well as different methods to produce products. 
+Making stuff from recycled plastic is pretty cool, but we know we need to break up with plastic in the long run. That’s why we’ve created Beyond Plastic, a project researching biodegradable alternatives to plastic as well as different methods to produce products.
 
 In this section we introduce the Beyond Plastic Bio Press - a strong heat press that allows you to turn a lot of different organic materials (like food waste) into biodegradable products like plates, bowls or cups. We set out to make single-use objects as we want to get rid of single-use plastics first. Woohoo! 🎉
 
@@ -74,14 +74,14 @@ Building the Bio Press is not as complicated as other machines, but if you have 
 - Allen keys
 - Electronic assembly equipment (crimping tool, screwdriver for electronics)
 
-### Skills: 
+### Skills:
 
 - Cutting/grinding (intermediate)
 - Welding (intermediate)
 - Assembling (intermediate)
 - Electronics (intermediate)
 
-### Machine hacks not included in the video: 
+### Machine hacks not included in the video:
 
 This is the first version of the Bio Press and we’ve already figured out some hacks that will make working with it even easier:
 
@@ -93,9 +93,9 @@ This is the first version of the Bio Press and we’ve already figured out some 
 
 In the download kit you can find three different moulds:
 
-1. A “tile” mould, which is basically a small sheet and pretty useful for testing materials and nice for creating your own visual library. 
-2. A cup mould 
-3. A bowl mould 
+1. A “tile” mould, which is basically a small sheet and pretty useful for testing materials and nice for creating your own visual library.
+2. A cup mould
+3. A bowl mould
 
 The cup and bowl moulds are a little more complex to make, but we did try to make them applicable for most situations out there. That’s why we developed one mould that you can simply order to be CNC-cut and another that can be made on a lathe. You might actually be able to make both on the lathe, but for the bowl mould you probably need a pretty big lathe. The one we have at the PP workshop in Eindhoven is not big enough for it 😉
 
@@ -103,7 +103,7 @@ You can find all of the files and drawings for the moulds in our download kit. F
 
 > Pro tip: if you want a more durable object, make the walls thicker. If you want a lighter object, make the walls thinner 🤓
 
-Mould Specs: 
+Mould Specs:
 
 | Type         | Dimensions       | Price Aluminium in the Netherlands | How it's made |
 |--------------|------------------|------------------------------------|---------------|
@@ -111,7 +111,7 @@ Mould Specs:
 | Bowl Mould   | Ø 220 x 90 mm    | 116 €                              | CNC-cut       |
 | Cup Mould    | Ø 100 x 125 mm   | 40 €                               | Lathed        |
 
-Machines used for Moulds: 
+Machines used for Moulds:
 
 - CNC / Lathe
 - Drill press
@@ -119,14 +119,14 @@ Machines used for Moulds:
 - Tap set
 - Allen keys
 
-Materials tested: 
+Materials tested:
 
 - Flat surface (tile mould)
 - 3D mould CUP
 - 3D mould Bowl
 - 3D mould Bowl small
 
-# 🍊 Materials 
+# 🍊 Materials
 
 We already tested a few materials in the press and so far we feel like anything that has cellulose should work in principle. However, when it comes to the bigger products, they definitely get stronger if you add a natural binder to the mix. These can for example be starch, agar agar, xanthan gum or gelatine. If you don’t want to use fresh materials, be creative: there is starch in basically any root vegetable and it’s peel. You can also find binding agents in stale bread or some kinds of algae! Even dead insects can be a source for natural binders (you can find a way for this at plasticula.com).
 
@@ -152,11 +152,11 @@ Here are the materials we have tested so far:
 - Onion Peels (experimental)
 - Hair (experimental)
 
-## How it works: 
+## How it works:
 
 More specific (chemically, but for dummies)
 
-This is for anyone who is interested in the chemistry behind the process we are using. But please correct me if I’m wrong! I’m not a chemist, but a designer, and this is only what I understood so far. 
+This is for anyone who is interested in the chemistry behind the process we are using. But please correct me if I’m wrong! I’m not a chemist, but a designer, and this is only what I understood so far.
 
 If you heat and press a material that includes cellulose in a closed mould, the energy of the water molecules inside the material, which would usually go into creating steam, goes into creating new bonds between the cellulose. That’s why a material like coffee grounds, which is high in cellulose, starts binding without the help of any other natural binding agents and we get something that actually looks pretty stone-like.
 
@@ -169,7 +169,7 @@ For all of the other natural binders mentioned above: all of them bind at a pret
 > Pro-Tip: Mix fine grain materials with materials with longer fibers to get a smooth but rigid material!☕️🍵
 
 
-## What we're thinking about next: 
+## What we're thinking about next:
 
 - Biodegradable glazings / coatings
 - Natural colorings and dyes
@@ -179,4 +179,4 @@ For all of the other natural binders mentioned above: all of them bind at a pret
 
 # How to make a bowl
 
-<iframe width="560" height="515" src="https://www.youtube.com/embed/2kpnAE-keOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/UD57zOGqAPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

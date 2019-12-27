@@ -5,7 +5,7 @@ sidebar_label: Safety and Fumes
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/ETqEFcT2Wm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/bsj6qHHLynk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -24,7 +24,7 @@ sidebar_label: Safety and Fumes
 
 Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic.
 
-<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/> 
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
 
 Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
 
@@ -47,7 +47,7 @@ Try to melt your plastic at the lowest temperature possible and for the shortest
 <i> << 6. don't burn plastic >> </i>
 ![PP Image](assets/ppimage.jpg)
 
-The first rule is: don’t burn plastic. This one is very important. Why? It is extremely harmful to you, those around you and the environment.  Very harmful toxins are released when burning plastic and can significantly increase the chances of cancer, respiratory illnesses and birth defects. It can also greatly damage internal organs and the hormonal system. 
+The first rule is: don’t burn plastic. This one is very important. Why? It is extremely harmful to you, those around you and the environment.  Very harmful toxins are released when burning plastic and can significantly increase the chances of cancer, respiratory illnesses and birth defects. It can also greatly damage internal organs and the hormonal system.
 
 When burning PVC, dioxins are released which a highly toxic compound that has been shown to increase cancer, reproductive problems and immune system damage. At Precious Plastic, we don’t work with PVC.
 

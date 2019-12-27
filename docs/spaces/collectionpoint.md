@@ -5,7 +5,7 @@ sidebar_label: Collection Point
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/x5Ab7sR6BNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/i2h3DWEJl84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -65,7 +65,7 @@ And if you’re lucky enough to be able to get a consistent source of recycling,
 
 An important part of being the collection point for your local community is how you engage both online and offline, so in your workspace it’s great to have a workstation where you can organise online with campaigns, social media, partnerships and collaborations.
 
-> Tip: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget. 
+> Tip: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget.
 
 Have a whole bag ready to go? Be sure to label it properly with a label that won’t fall off, so that the workspace you pass it on to know what type of plastic they’re receiving. Before you pass it on to them make sure to weigh the plastic and keep a record of it so you know how much plastic you’re collecting (it would be cool to let your community know as well!) and since you’re there, upload the weight to upload.preciousplastic.com so we can see how much our entire global community is collecting 💪
 
