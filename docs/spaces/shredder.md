@@ -101,6 +101,11 @@ Once you’ve got your basics covered, start working with the shredder to develo
 
 And don’t be afraid to spice the place up with your own unique charm! Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in.
 
+### Your role in the universe
+| Your icon  |  Your task |
+|----------|----------------------|
+| <img src="../assets/universe/badge-workspace.png" width="150"/>        |  __Workspace__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
+
 ## 👋 SHARE
 
 You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space 🙂
