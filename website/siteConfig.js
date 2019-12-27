@@ -62,7 +62,8 @@ const siteConfig = {
   },
   */
   fonts: {
-    bodyFont: ["Varela Round", "sans-serif"]
+    bodyFont: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Helvetica", "Arial",
+    "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"]
   },
 
   highlight: {
