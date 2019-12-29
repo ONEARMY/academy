@@ -43,9 +43,9 @@ The Action Plan is about boiling down your business idea into the most important
 
 The Action Plan is a tool that you print out and write on, you can stick it on your wall to stay focused and help you run smoothly once you get started. Joseph will take you through everything you need to know in this video, and you can download the Action Plan in the Download Kit, or below!
 
-The Action Plan is divided into 4 main areas: Mission (center) 2),  Market Analysis (right side), Operations (left side), and Impact measures (bottom).
+The Action Plan is divided into 4 main areas: Mission, Market Analysis, Operations and Impact Measures.
 
-![PP Image](assets/actionplan-fill.jpg)
+![Action Plan](assets/business/actionplan.jpg)
 
 
 ### Mission

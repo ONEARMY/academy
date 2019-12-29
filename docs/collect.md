@@ -20,9 +20,9 @@ sidebar_label: Our collection system
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Title
+### No collecting, no recycling!
 
-Collecting plastic is pretty crucial - no collecting, no recycling! Here we’ll show you what it means to collect plastic, how it works around the world and how we envision a collection system within the Precious Plastic Universe.!
+Collecting plastic is pretty crucial - here we’ll show you what it means to collect plastic, how it works around the world and how we envision a collection system within the Precious Plastic Universe!
 
 > Tip: ask shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
 
@@ -47,7 +47,7 @@ Collecting plastic is pretty crucial - no collecting, no recycling! Here we’ll
 
 # Waste Collection
 
-<i> << 23. illustration >> </i>
+![Daily Plastic Use](assets/collect/dailyplastic.svg)
 
 On a daily basis we buy, use and generate a huge amount of plastic. Once this plastic is used, usually for a very short time, it’s discarded. Depending on where you live, you might drop it off at a local recycling point or they’ll collect it from your home to take it to further processing. This is normally where the problems begin.
 
@@ -77,7 +77,7 @@ You probably know by know, but Precious Plastic is focused on citizens: people, 
 
 So how does this work for collecting plastic? Great question 😉
 
-![PP Image](assets/collection.jpg)
+![Collection Network](assets/collect/collectionnetwork.svg)
 
 <i>When we say citizens, we mean everyone in society. When we say people in our community, we mean those that have become part of the Precious Plastic community (and if you haven’t already, join us!)</i>
 
@@ -101,6 +101,8 @@ Forth, it’s powered by people, not by the government or companies. So it’s r
 Are you in? We hope so! We’ve developed a bunch of tools for citizens, as well as people in our community.
 
 For citizens we have a website that will teach them about the Precious Plastic recycling system, how to clean plastic and how to use the map so they can find their local drop off point.
+
+![All Tools](assets/collect/alltools.svg)
 
 For people in our community we’re developed:
 - A starter-kit: if you’re interested in becoming a collection point this will give you everything you need to get started

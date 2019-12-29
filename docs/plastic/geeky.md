@@ -15,17 +15,16 @@ sidebar_label: Nerdy on Plastic
 }
 </style>
 
-# Going nerdy on Plastic
+# Going nerdy on plastic
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### This is a great title for this section.
+### Let's get some in-depth knowledge about this abundant material. 
 
-Ok, it’s time to go deep. When did plastic arrive in our society, how did it grow from a small niche material to being available in every corner of the world? We’ll cover some history, and them some science, and why we work with thermoplastics only. We’ll go over the industrial production methods as well as what happens after it’s discarded. After reading this you’ll be the geeky plastic guy or gal (just like Jerry) 🤓
+When did plastic arrive in our society, how did it grow from a small niche material to being available in every corner of the world? We’ll cover some history, and them some science, and why we work with thermoplastics only. We’ll go over the industrial production methods as well as what happens after it’s discarded. After reading this you’ll be the geeky plastic guy or gal (just like Jerry) 🤓
 
-> Tip: great plastic tip
-
+> Pro Tip: Being a plastic pro in your community will help you and those around you make better choices about plastic. Knowlege is power!
 
 </div>
 <div class="videoChaptersSidebar">
@@ -43,7 +42,7 @@ Ok, it’s time to go deep. When did plastic arrive in our society, how did it g
 
 When you think of plastic, what comes to mind? A shopping bag, a yoghurt container, a credit card, a pink bucket, right? Well, what do these plastic objects have to do with an eraser, a wooly hat, or a chair? They are all from the same class of materials: polymers. Polymers are very long repetitive molecules made up of monomers: poly meaning many, mers meaning parts, and mono meaning one. So polymers are many parts of one, you can imagine them to be long repetitive chains and the difference is not how they are formed, but where the polymers are derived from. 
 
-![Polymerization](assets/polymerization.svg)
+![Polymerization](assets/plastic/polymerization.svg)
 
 You can have materials from natural polymers that have existed forever like wool, rubber, hair, cellulose, starch, as well as materials from synthetic polymers like the many different types of plastic we have today. And in the case of plastic, the polymers are derived from carbon (it’s all making sense now, right?) 
 
@@ -51,7 +50,7 @@ You can have materials from natural polymers that have existed forever like wool
 
 The first polymer to be 100% derived synthetically was called polyoxybenzylmethylenglycolanhydride (yikes). It was created in 1907 by chemist Leo Baekeland and publically called Bakelite - phew, much easier. It was a thermoset plastic (more on that later) that was celebrated for its properties: it was resistant to heat and would not conduct electricity, so it was a really good insulator. In 1924 Time Magazine called it a “material of a thousand uses”. They were partially right, it’s more like a hundred thousand uses.
 
-<img style="margin-left: 0;" src="../assets/time_magazine.jpg" width="500" />
+<img style="margin-left: 0;" src="../assets/plastic/time_magazine.jpg" width="800" />
 
 ## Some science
 
@@ -63,7 +62,7 @@ When it comes to plastic, monomers come from fossil fuels and through a process 
 
 Polyethylene terephthalate (PET) today it is used to make fizzy drink bottles, because it is strong enough to hold two atmospheres of pressure. But a soft winter glove, as well as a sheet of plastic for wrapping flowers? It's the same material, the only difference is the way in which it has been cast. And that is just one plastic! Another example, a standard milk bottle is made of polyethylene, made from a building block C2H4. If you add just one carbon, and go to polypropylene, what you have is a much more robust material.
 
-### Plastics replaced hundreds of household and industrial items that were made of pewter, paper, glass ceramic. They were heralded as they seemingly lasted forever and were cheap to produce. But that advantage, as we know now, is it’s biggest disadvantage.
+> (note) Plastics replaced hundreds of household and industrial items that were made of pewter, paper, glass ceramic. They were heralded as they seemingly lasted forever and were cheap to produce. But that advantage, as we know now, is it’s biggest disadvantage.
 <br>
 
 Ok, back to science. In total there are hundreds of different types of plastic and as discussed in the previous section they fit into different categories: thermosets, thermoplastics and elastomers. The plastic that we work with are thermoplastics (because they can be heated and reshaped) and will often have a recycling logo with 1-6 (PET,HDPE,PP,PS LDPE and PVC).
@@ -131,7 +130,7 @@ So, we’ve learnt that most plastics on the market are able to be identified, s
 
 Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic.
 
-![PP Image](assets/ppimage.jpg)
+![Recycling Cycle](assets/plastic/recyclingcycle.svg)
 
 Plastic recycling is difficult because our products are often mixed with other materials, which is difficult to disassemble because multiple plastics are fused together, or because many additives are added to the plastic. 
 
