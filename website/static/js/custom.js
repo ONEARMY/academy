@@ -55,15 +55,19 @@ window.addEventListener("DOMContentLoaded", function() {
   }
   showActiveSubChapterMenu();
 
-  if (document.getElementsByClassName("j-slideshow").length > 0) {
+  function initiateSlideshows() {
     tns({
       container: ".j-slideshow",
       items: 1,
       controlsPosition: "bottom",
       navPosition: "bottom",
       slideBy: "page",
-      controlsText: ["<", ">"]
+      controlsText: ["<", ">"],
+      autoHeight: true
     });
+  }
+  if (document.getElementsByClassName("j-slideshow").length > 0) {
+    initiateSlideshows();
   }
 });
 

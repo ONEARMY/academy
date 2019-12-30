@@ -73,10 +73,6 @@
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
       },
-      "business/businessintro": {
-        "title": "Intro",
-        "sidebar_label": "Intro"
-      },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
         "sidebar_label": "Workspace Calculator"
@@ -104,10 +100,6 @@
       "create/injection-moulds": {
         "title": "Tips on injection mouldmaking",
         "sidebar_label": "Injection moulds"
-      },
-      "create/moulds-expert": {
-        "title": "Tips on expert mouldmaking",
-        "sidebar_label": "Moulds expert"
       },
       "done": {
         "title": "Done?",
@@ -149,10 +141,6 @@
         "title": "Setup an Collection Point",
         "sidebar_label": "Collection Point"
       },
-      "spaces/communitypoint": {
-        "title": "Setup a community point",
-        "sidebar_label": "Community Point"
-      },
       "spaces/extrusion": {
         "title": "Setup an Extrusion Workspace",
         "sidebar_label": "Extrusion"
@@ -160,10 +148,6 @@
       "spaces/injection": {
         "title": "Setup an Injection Workspace",
         "sidebar_label": "Injection"
-      },
-      "spaces/machineshop": {
-        "title": "Setup a Machine Shop",
-        "sidebar_label": "Machine shop"
       },
       "spaces/mix": {
         "title": "Setup a mix Workspace",
