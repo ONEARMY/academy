@@ -123,10 +123,11 @@ article div span h1:first-child {
   margin-top: 0;
 }
 
-h1, h2, h3{
- font-family: 'Varela Round', 'sans-serif';
+h1,
+h2,
+h3 {
+  font-family: "Varela Round", "sans-serif";
 }
-
 
 /* Remove pro-tip formatting
 article code {
@@ -343,17 +344,34 @@ article code:before {
 }
 
 .tns-controls {
-  position: absolute;
-  top: 50%;
-  transform: translate3d(0, -50%, 0);
+  margin-top: -32px;
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
 
+.tns-controls button:hover {
+  color: #000 !important;
+}
+
+.tns-controls button:first-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
+.tns-controls button:last-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
 .tns-nav {
   display: flex;
   justify-content: center;
+  margin-top: 22px;
 }
 
 .tns-nav button {
@@ -474,7 +492,7 @@ hr {
   .toc {
     padding: 50px 0;
   }
-/*
+  /*
   .mainContainer {
       height: 100%;
       overflow-y: scroll;
@@ -504,14 +522,10 @@ hr {
     height: calc(100vh - 0px);
   }
 
-.separateOnPageNav.sideNavVisible .navPusher .mainContainer {
+  .separateOnPageNav.sideNavVisible .navPusher .mainContainer {
     max-width: 900px;
     margin: 0 auto;
   }
-
-
-
-
 }
 
 /* Tablet (think iPad) and up */
