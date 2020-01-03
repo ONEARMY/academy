@@ -24,9 +24,7 @@ sidebar_label: Safety and Fumes
 
 Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic.
 
-<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
-
-Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
+> Pro Tip: Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
 
 
 </div>
@@ -44,8 +42,7 @@ Try to melt your plastic at the lowest temperature possible and for the shortest
 
 # Fume Dangers
 
-<i> << 6. don't burn plastic >> </i>
-![PP Image](assets/ppimage.jpg)
+![Don't Burn Plastic](assets/plastic/dontburnplastic.svg)
 
 The first rule is: don’t burn plastic. This one is very important. Why? It is extremely harmful to you, those around you and the environment.  Very harmful toxins are released when burning plastic and can significantly increase the chances of cancer, respiratory illnesses and birth defects. It can also greatly damage internal organs and the hormonal system.
 
@@ -59,7 +56,7 @@ All plastics are made up of large molecules and when melted they make smaller mo
 
 As seen in the graph below, fume contents of common plastics were studied by the Air and Waste Management Association, Chinese Academy of Sciences and The University of Tokyo. The studies concluded that <b>ABS and PS created the most fumes: approximately 5 to 7 times more than the other plastics.</b>
 
-![PP Image](assets/fume-graph.png)
+![PP Image](assets/plastic/fume-graph.png)
 
 Fumes from ABS and PS contain styrene, benzene and ethylbenzene - these compounds are called cyclic compounds which create a lot of fumes and may cause cancer. Benzene is a human carcinogen, and styrene and ethyl benzene are probable carcinogens (probable carcinogen means that the compounds have not yet proven to cause cancer). Luckily, all of these cyclic compounds can be easily filtered with activated carbon, but more on that later!
 
@@ -88,7 +85,7 @@ Ok, so where do fumes come out of Precious Plastic machines?
 1. Fumes come out from the nozzle when you take off the mold
 2. Fumes come out of the hopper when the injector handle is up
 
-<img style="margin-left: 0;" src="../assets/injection_fumes.jpg" width="300" />
+<img style="margin-left: 0;" src="../assets/plastic/injection_fumes.jpg" width="300" />
 
 
 <b>The Extrusion Machine</b>
@@ -97,7 +94,7 @@ Ok, so where do fumes come out of Precious Plastic machines?
 2. Some fumes from hopper when not blocked by pellets and from the mold openings
 3. For example, when making a beam, fumes come out at the end of beam mold
 
-<img style="margin-left: 0;" src="../assets/extrusion_fumes.jpg" width="300" />
+<img style="margin-left: 0;" src="../assets/plastic/extrusion_fumes.jpg" width="300" />
 
 <b>The Sheetpress</b>
 
@@ -105,7 +102,7 @@ Ok, so where do fumes come out of Precious Plastic machines?
 2. If heating is uneven fumes come out from certain overheated areas
 3. Fumes were still coming out for 7 minutes at the cold press stage
 
-<img style="margin-left: 0;" src="../assets/sheetpress_fumes.jpg" width="300" />
+<img style="margin-left: 0;" src="../assets/plastic/sheetpress_fumes.jpg" width="300" />
 
 # Tips
 
@@ -125,7 +122,7 @@ When working with plastic, you should have an activated carbon filter gas mask, 
 
 ## Ventilation (LEV)
 
-<img style="margin-left: 0;" src="../assets/ventilation_three.jpg" width="600"/>
+<img style="margin-left: 0;" src="../assets/plastic/ventilation_three.jpg" width="600"/>
 
 LEV stands for Local Exhaust Ventilation, which is an industry standard to ventilate toxic air efficiently. This system is made of three parts: a hood for allowing contaminant clouds to enter the LEV, ducting which transfers air and the contaminant from the hood to the discharge point, and attached to a centrifugal fan with 780-1000 cubic meter (of what?) per hour.
 
@@ -135,19 +132,19 @@ Using an activated carbon filter (ACF) is the cleanest and easiest filtering met
 
 ### Stand Alone Filters
 
-<img style="margin-left: 0;" src="../assets/standalone_carbon.jpg" width="300"/>
+<img style="margin-left: 0;" src="../assets/plastic/standalone_carbon.jpg" width="300"/>
 
 A filter like this costs approximately 40-50 euros and has roughly 2-3 kg of granular activated carbon which needs to be changed each month(you can also get bigger filter which will last longer). These filters can be attached to centrifugal fans for the ventilation. Preferable conditions for using these filters humidity under 70% and ambient temperature lower than 80°C.
 
 ### Buying carbon granules (for VOC removal)
 
-<img style="margin-left: 0;" src="../assets/carbon_granules.jpg" width="400"/>
+<img style="margin-left: 0;" src="../assets/plastic/carbon_granules.jpg" width="400"/>
 
 When the filter needs to be changed, you do not have to buy a new filter. Instead, you can buy activated carbon granules to change the spent activated carbon - this spent carbon can be placed in a municipal landfill. It is best to buy activated carbon with Iodine number bigger than 1050mg/g - Iodine number is an indication of active surface area (the bigger the iodine number the better the filtration).
 
 ### Gas Mask
 
-<img style="margin-left: 0;" src="../assets/gasmask.jpg" width="300"/>
+<img style="margin-left: 0;" src="../assets/plastic/gasmask.jpg" width="300"/>
 
 A gas mask is also extremely important, as the filtration is not 100% so this acts as an extra barrier. Even in large industrial recycling and manufacturing they haven’t reached clean air, so gas masks are common practice. The most common masks are 3M masks and have four parts: the mouthpiece, the filter cartridge, a dust filter holder and a dust filter. They can be used for 50 hours before the cartridge and dust filters need to be replaced.
 

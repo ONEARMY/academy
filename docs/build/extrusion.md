@@ -21,9 +21,9 @@ sidebar_label: Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-When using the Precious Plastic extrusion machine, extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉
+### You could be recycling 24/7
 
-With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
+Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 
 
 > Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
@@ -45,6 +45,12 @@ With this machine you can create filament (challenging but doable), granulate or
 
 </div>
 </div>
+
+![Extrusion v3](assets/build/extrusionv3.jpg)
+
+With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
+
+> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
 
 # 📓 Technical information
 📓 Type | Extrusion Machine
@@ -83,6 +89,34 @@ Explanation of the electric components inside this machine. More information and
 * <b>Power cable:</b> common household power cable.
 
 > Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+
+## Skills needed
+
+- Welding  🍊<font color="LightGray"> intermediate</font>
+- Assembling  🍎<font color="LightGray"> difficult</font>
+- Electronics  🍊<font color="LightGray"> intermediate</font>
+
+# 🛠 Electronic box
+
+Explanation of electric component roles
+
+<b>PID Controller:</b> the brains of the machine where you can set your desired temperatures. It will send power to the heaters until PV (point variable) matches the SV (set value). It does this using readings from the thermocouple and the SSR.
+
+<b>SSR:</b> the Solid State Relay is an electronic ‘switch’ that opens and closes depending on the signal it receives (from the PID).
+
+<b>Thermocouple:</b> basically a thermometer.
+
+<b>Band heater:</b> heating element that fits around a pipe.
+
+<b>Power switch:</b> mechanical switch.
+
+<b>LED indicator:</b> LED that will shine with power (often found with Power switch).
+
+<b>Power cable:</b> common household power cable.
+
+<i>< Schematic link > </i>
+
+[Jerry’s BIG ELECTRONICS topic](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 - Alignment of the motor and couplings is key, any misalignment could cause future wear and tear. To do this we recommend drilling holes into the plates and attaching them to the motor. Align and then weld the plate in position to the frame.
@@ -151,3 +185,19 @@ User Friendly |
 - [V4 Extrusion Products](https://davehakkens.nl/community/forums/topic/extrusion-machine-products-v4/)<br>
 - [V4 Tubes & Profiles](https://davehakkens.nl/community/forums/topic/v4-extrusion-tubes-and-profiles/)<br>
 - [V4 Extrusion Moulds](https://davehakkens.nl/community/forums/topic/extrusion-moulds-v4/)<br>
+
+# 🌎 Built by the community
+
+<div class="j-slideshow">
+
+![Community Shredder](assets/build/community/community_extrusion.jpg)
+
+![Community Shredder](assets/build/community/deskfactory.jpg)
+
+![Community Shredder](assets/build/community/machinehack-ppukraine.jpg)
+
+![Community Shredder](assets/build/community/machines-inajason.jpg)
+
+![Community Shredder](assets/build/community/tableextrusion.jpg)
+
+</div>
