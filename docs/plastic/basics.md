@@ -23,7 +23,8 @@ sidebar_label: The Basics of Plastic
 
 What is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? Here we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-> Pro Tip: Look under your plastic product and see if you can recognize what type of plastic it is.
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
+Look under your plastic product and see if you can recognize what type of plastic it is.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -44,7 +45,7 @@ What is plastic? Where does it come from, how much do we use, and what is recycl
 
 Plastic is everywhere around us.
 
-![Plastic Pile](assets/plastic/plasticpile.svg)
+![PP Image](assets/plastic_illustration.jpg)
 
 The word plastic is in our mouth day in and day out, but what does it really mean? The word itself is derived from the Greek plastikos meaning “capable of being shaped or moulded” and refers to their malleability during manufacture that allows plastic to be cast, pressed or extruded into a variety of shapes—like films, fibres, plates, tubes, bottles and much more.
 
@@ -54,7 +55,7 @@ Most plastics contain other organic or inorganic compounds blended in called add
 
 So, you can find it everywhere in the world, and it ends up in places we definitely don’t want it to be.
 
-![PP Image](assets/plastic/beachplastic.jpg)
+![PP Image](assets/beachplastic.jpg)
 
 ### We produce 300 million metric tonnes of new plastic every year 🤯
 
@@ -66,19 +67,19 @@ So, how do we solve this? Well, it’s time to get recycling!
 
 Firstly, there are two major categories of plastic: Thermoplastics and Thermoset.
 
-![Thermoplastic - Thermoset](assets/plastic/thermoplasticthermoset.svg)
+![PP Image](assets/ppimage.jpg)
 
 ### Thermoset
 
-Thermoset plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled. Some examples of thermoset plastics are:
+![Thermoset Examples](assets/thermosetex.svg)
 
-![Thermoset Examples](assets/plastic/thermosetex.svg)
+Thermoset plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled. Some examples of thermoset plastics are ….
 
 ### Thermoplastic
 
-Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again. Examples of thermoplastics: 
+![Thermoset Examples](assets/thermoplasticex.svg)
 
-![Thermoset Examples](assets/plastic/thermoplasticex.svg)
+Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again.
 
 Thankfully, 80% of plastics in the world are thermoplastics (🎉) meaning they can be recycled and transformed. Thermoplastics (which we will just refer to as plastic) are divided into further subcategories depending on their structure and properties, and can be recognized by their name or number that should be usually printed or embossed somewhere on your products.
 
@@ -187,9 +188,9 @@ This code is used to identify other types of plastic that are not defined by the
 <b>Common uses:</b>PC (CDs & DVDs…), PLA (bioplastics), ABS (3D-printing filament, toys, electronic products…), PMMA (acrylic glass)
 <br>
 
-## And always remember: 
+# Mixing Plastic
 
-![Dont' Mix Plastic](assets/plastic/dontmixplastic.svg)
+<i>< illustration: don't mix plastic ></i>
 
 Different plastic types should never be mixed together as this will decrease their quality drastically and make it very difficult to recycle them. Moreover, when different types of plastics are melted together they tend to phase-separate, like oil and water, and set in layers resulting in structural weakness and lower quality products.
 

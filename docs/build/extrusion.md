@@ -21,9 +21,12 @@ sidebar_label: Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### You could be recycling 24/7
+### Title
 
-Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 
+When using the Precious Plastic extrusion machine, extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
+
+
+> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
 
 > Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
@@ -46,11 +49,8 @@ Extrusion is a continuous process where shredded plastic enters the hopper, heat
 </div>
 </div>
 
-![Extrusion v3](assets/build/extrusionv3.jpg)
+![PP Image](assets/extrusion.jpg)
 
-With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
-
-> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
 
 # 📓 Technical information
 
@@ -84,9 +84,9 @@ With this machine you can create filament (challenging but doable), granulate or
 
 ## Skills needed
 
-- Welding  🍊<font color="LightGray"> intermediate</font>
-- Assembling  🍎<font color="LightGray"> difficult</font>
-- Electronics  🍊<font color="LightGray"> intermediate</font>
+- Welding (intermediate) <i>icon/illustrations needed for levels</i>
+- Assembling (intermediate)
+- Electronics (intermediate)
 
 # 🛠 Electronic box
 
@@ -183,16 +183,4 @@ User Friendly |
 
 # 🌎 Built by the community
 
-<div class="j-slideshow">
-
-![Community Shredder](assets/build/community/community_extrusion.jpg)
-
-![Community Shredder](assets/build/community/deskfactory.jpg)
-
-![Community Shredder](assets/build/community/machinehack-ppukraine.jpg)
-
-![Community Shredder](assets/build/community/machines-inajason.jpg)
-
-![Community Shredder](assets/build/community/tableextrusion.jpg)
-
-</div>
+![PP Image](assets/ppimage.jpg)

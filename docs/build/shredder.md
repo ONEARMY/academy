@@ -21,7 +21,7 @@ sidebar_label: Shredder
 
 The shredder is the backbone of Precious Plastic, it allows you to shred plastic into small flakes - you can easily wash and store shredded plastic and transport it to other Precious Plastic workspaces to make into beautiful, valuable products. Of course you can also use the plastic yourself or sell clean, separated plastic within the industry (which buys it at 8-10 times higher than unshredded plastic!)
 
-> Pro Tip: If you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material. `
+`If you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material. `
 
 </div>
 <div class="videoChaptersSidebar">
@@ -38,7 +38,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 </div>
 </div>
 
-![Shredder V3](assets/build/shredderv3.jpg)
+![PP Image](assets/shredder2.jpg)
 
 # 📓 Technical information
 
@@ -58,7 +58,9 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 
 <br>
 
-> Pro Tip: Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
+<img style="margin-left: 0; margin-top: 50px margin-bottom: 40px;" src="../assets/protip_blue.jpg" width="100"/>
+<br>
+Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
 
 <br>
 
@@ -162,16 +164,4 @@ Portable |
 
 # 🌎 Built by the community
 
-<div class="j-slideshow">
-
-![Community Shredder](assets/build/community/machinehack-shredder-2.jpg)
-
-![Community Shredder](assets/build/community/machinehack-shredder-4.jpg)
-
-![Community Shredder](assets/build/community/shredder_community3.jpg)
-
-![Community Shredder](assets/build/community/shredder_opo.jpg)
-
-![Community Shredder](assets/build/community/shrednmould.jpg)
-
-</div>
+![PP Image](assets/ppimage.jpg)
