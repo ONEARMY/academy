@@ -44,15 +44,19 @@ It's time to build machines! In this section we’ll take you through all the ma
 <br>
 We outline how to build each machine and where to source parts, as well as the machinery and skills needed to get up and running. The videos go in depth about each build, and everything you need is in the download pack for each machine.
 
+![V3 and V4 Machines](assets/build/v3v4machine.jpg)
+
 ## Why are these machines important?
 
-We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic. So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable. 
+We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic. 
 
-<i> << 21. cheaper, easier to build and much more affordable >> </i>
+So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable: 
+
+![Industry Vs Precious Plastic](assets/build/industry_vs_pp.svg)
 
 This inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
 
-> Tip: use the map to see which machines are in your local area!
+> Pro Tip: Use the map to see which machines are in your local area!
 
 ### Our machines are modular meaning that each part is independent and can be replaced, improved, changed, repaired and maintained individually without affecting the overall machine. And you can freestyle and build it the way you want it! They are also meant for small scale production.
 
