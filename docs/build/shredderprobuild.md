@@ -5,7 +5,7 @@ sidebar_label: - Build
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/4GWYJhAd-R0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -24,7 +24,8 @@ sidebar_label: - Build
 
 So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
 
-> Pro tip: this is a pro tip
+>Tip: Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+
 
 </div>
 <div class="videoChaptersSidebar">
@@ -48,29 +49,14 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 
 
 # 🛠 Required machinery & skills
-
-Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
-
-### Machines needed
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq wrench
-- M16 hand tap
+Build Shredder Pro  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
 
 
-### Skills needed
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (expert)
+# 🔩 Materials and parts
 
-## 🔩 Commercial parts
-
-- Link to Nederland bills of material
-- Link BOM
-- Or link or reference to Download KIT
+You need to make and buy parts. In the download-kit you can find the complete Bill of Materials. It's a list for the entire Shredder Pro. Below you can find the commercial parts you need to buy and we go more in depth on where to look out for.
 
 ### Motor option & explanation
 
@@ -186,7 +172,7 @@ We use an M16 bolt to fix them: an adaptor is required
 
 All the laser cut parts are made with mild steel. They don’t require a specific material. However, we used wear-resistant steel (Hardox 400) for the blades and fixed blades (not the spacers), to make them more durable.
 
-## 🔌 Electronic box
+# ⚡ Electronic box
 
 ### Electric components
 - 1 x 3 phase general switch
@@ -213,7 +199,7 @@ https://github.com/davehakkens/shredder-reverse/blob/master/Schematic.pdf
 ### Arduino code link
 https://github.com/davehakkens/shredder-reverse
 
-## 👌 Tips & tricks while making
+# 👌 Tips & tricks while making
 
 There are two different types of blades. 13 teeth blades require more motor power but they produce smaller flakes, whereas, 6 teeth blades require less power but produce longer flakes. The grip should be slightly better with 6 teeth blades, but it depends on the shape and material.
 
@@ -235,7 +221,7 @@ Order multiple spacers for assembly adjustment.
 
 - Have the motor fixed: You probably use a different motor than the one in the 3D model. So you will need to modify the frame.
 
-## 🛠 Options
+# Additional Options
 
 ### Safety Hopper
 

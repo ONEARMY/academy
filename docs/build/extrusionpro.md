@@ -26,6 +26,7 @@ sidebar_label: - Overview
 | ⚙️ Power (W) | 5 kW|
 | 🔌 Voltage | 400V|
 | ⚡️ AMP | 16A|
+| ♻️ Input Flake Size  | Small  |
 | 🔩 Screw diameter | 30mm|
 | 🔩 Length of screw (mm) | 790 mm |
 | 🔩 Effective screw length | 600 mm |
@@ -94,10 +95,12 @@ Some examples of extrusion times for some moulds:
 
 # 🙌 Useful Links
 
-http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf
-https://www.hanserpublications.com/SampleChapters/9781569904596_9781569904596_Extrusion%20of%20Polymers%202E_Chung.pdf
-http://www.polydynamics.com/Rheology.pdf
-https://beckassets.blob.core.windows.net/product/readingsample/10070898/9783446422780_excerpt_001.pdf
-https://core.ac.uk/download/pdf/82417410.pdf
-http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf
-http://craig-russell.co.uk/demos/cone_calculator/
+* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
+* [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
+* [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
+* [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [Documentation of screw](http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf)
+* [Documentation of screw](https://www.hanserpublications.com/SampleChapters/9781569904596_9781569904596_Extrusion%20of%20Polymers%202E_Chung.pdf)
+* [Documentation](http://www.polydynamics.com/Rheology.pdf)
+* [Documentation of hopper cones](http://craig-russell.co.uk/demos/cone_calculator/)
+* [Documentation](http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf)

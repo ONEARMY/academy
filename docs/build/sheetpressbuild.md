@@ -5,7 +5,7 @@ sidebar_label: - Build it
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/zw3TBYTu_Kc " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/j3OctDe3xVk " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -41,19 +41,10 @@ Hi looks like you might want to build a sheetpress? that is great! It's a very e
 
 
 # 🛠 Required machinery & skills
+Build Sheetpress  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-sheetpress.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br>  - Lifting system. (or some strong friends) | - Welding (expert) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (expert)
 
-### Machines needed
-- Drill press
-- Welding machine
-- Lifting system. Or use some friends to help lift :)
-
-### Skills needed
-- Welding (expert)
-- Machining (intermediate)
-- Assembling (intermediate)
-- Electronics (expert)
-
-![Shredder](assets/Build/sheetpress-making.jpg)
 
 
 # 🔩 Materials and parts
@@ -96,8 +87,9 @@ If possible we recommend you laser cut all the sheet steel components, especiall
 
 ### Laser Cut Steel Choice
 
-- For the 6mm laser cut components we chose to use hot rolled (HRS 75F70) structural steel for its high tensile strength. This type of steel is hot rolled which also makes it less prone to warping when welding during construction and heating plastic during usage.
-- For the 2mm laser cut components we used 2mm Cold Rolled steel (CRS CR4) as high strength is not required
+For the 6mm laser cut components we chose to use hot rolled (HRS 75F70) structural steel for its high tensile strength. This type of steel is hot rolled which also makes it less prone to warping when welding during construction and heating plastic during usage.
+
+For the 2mm laser cut components we used 2mm Cold Rolled steel (CRS CR4) as high strength is not required
 
 ### Mould release
 
@@ -176,7 +168,7 @@ The purpose of the drilling Jigs is to both ensure that the two holes used to mo
 
 6. Tack weld several points where the support structure joins with the frame then fully weld them and finally the corners of the frame.
 
->Note: The most important part of the steel structure is that both sets of laser cut support structures are perfectly flat. Fortunately they’re slotted precisely to depth, so this can be done by clamping the two sections together.```
+>Tip: The most important part of the steel structure is that both sets of laser cut support structures are perfectly flat. Fortunately they’re slotted precisely to depth, so this can be done by clamping the two sections together.
 
 If you are building both the Sheetpress and Cooling Press make sure to weld the support structure for the Cooling Press before you install the aluminium plate in the sheetpress pressing plates.
 

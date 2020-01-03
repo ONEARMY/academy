@@ -18,7 +18,7 @@ sidebar_label: - Run it
 
 # Run and Maintain the Sheetpress Pro
 
-Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. .Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
+Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
 
 # 🏃‍♀️ Make a sheet!
 
@@ -135,7 +135,3 @@ Check the resistance of your elements on each of the three phases is equal to th
 Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged.
 Re paint worn areas
 Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.
-
-## Appendix
-
-Appendix A: Sheetpress Datasheet

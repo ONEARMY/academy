@@ -48,33 +48,23 @@ This machines also require specific equipments and motor, it will be harder to b
 
 # ♻️ Input & output
 
-The machine can shred any kind of material and thickness. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power).
+The machine can shred any kind of material and thickness. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power). PP, HDPE, PS from 0.7mm to 12mm have been tested successfully. Films are too thin and will slide in between the blades.  Rubber, tires, thermoset plastics have not been tested
 
-| Plastics you can use  | Plastics you can not use       |
-|----------|-------------|
-| PP, HDPE, PS from 0.7mm to 12mm have been tested successfully |  Films are too thin and will slide in between the blades |
-|  |   Rubber, tires, thermoset plastics have not been tested   |
-
-### One time shred with different input
-
-See appendix A for examples
-
-### Output with different sieves / with granulator
-
-See appendix A for examples
-
+![Shredder Pro](assets/build/shredder_output.jpg)
 ### Definition of our flakes sizes
+The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
 
-The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine:
+Name: | Large | Medium | Small |
+--- | ---| ---| ---|
+Visual: | <img style="margin-left: 0;" src="../assets/build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/build/shredder_output_04.jpg" />
+Size: | 0-30 MM| 0-10 MM | 0-7 MM|
+Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpress <br> Injection <br> Compression <br> Extrusion|
 
-* Small size (Extrusion machine): 0-7mm
-* Medium size (Injection machine): 0-10mm
-* Large size (Sheetpress): 0-30mm
 
-<img src="/academy/assets/build/shredderpro_output-input.jpg" />
+To obtain these sizes, you need to use the right mesh. Install a 7mm sieve on the shredder to get small flakes or a 10mm sieve to get medium size. You can get the larger size without the use of a sieve. Depending on the size of the input material, you might need to shred several times to get the desired size.
 
-To obtain these sizes, install a 7mm sieve or 10mm sieve on the shredder, for small and medium sizings, respectively. You can get the larger size without the use of a sieve. Depending on the material, you might need to shred several times to get the desired size.
 
+### Output and speed
 | Material | Description | Times shredded | Output (Kg/h) | Sieve | Size |
 |---|---|---|---|---|---|
 | HDPE | Shampoo bottles | 1st time  | 36,7 | No  | Too big  |
@@ -92,12 +82,8 @@ To obtain these sizes, install a 7mm sieve or 10mm sieve on the shredder, for sm
 
 
 # 🙌 Useful Links
-
-- Shredder efficiency (update link Yann)
-- Shredder & Extruder (update link Yann)
-- For questions go and chat in our Discord (discord #channel)
-- Visit our starterkits to setup a complete shredder workspace (starterkits)
-- Sell or buy machines on our bazar (bazar)
-- Find a local machine shop on our map (map)
-- Compare with our small shredder (small shredder)
-- Visit our how-to's for upgrades and hacks (how to)
+* [⭐️ How to setup a full Shredder workspace](spaces/extrusion.md)
+* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
+* [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
+* [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
+* [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)

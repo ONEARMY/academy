@@ -4,7 +4,7 @@ title: Build an Extrusion Pro
 sidebar_label: - Build
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/3-JFVo6BDA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -21,8 +21,7 @@ sidebar_label: - Build
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-> Understand what type of production you're after and the level of skill you have to operate machinery. You can also check out ready made machines and parts on the bazar, as well as products, so you can decide if the Extruder Pro is the right machine to build.
-
+> Tip: Making the extruder requires fine precision and eye for tolerances, if you are not precise enough try to find complex parts on the bazar. They are small and easy to ship.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -42,40 +41,16 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 </div>
 </div>
 
+
 # 🛠 Required machinery & skills
-
-### Tools / Machines needed
-
-- Conventional Lathe
-- Conventional Milling machine
-- Drill press
-- Welding machine (TIG or MIG/MAG recommended)
-- Set of allen keys
-- General purpose wrenches, sockets etc. for assembly
-- Hammer (preferably plastic)
-
-### Skills needed
-
-- Welding (advanced)
-- Machining (advanced)
-- Assembling (intermediate)
-- Electronics (intermediate)
+Build Extrusion Pro  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-extrusion-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (TIG or MIG/MAG recommended) <br> - Torq wrench <br> - M16 hand tap | - Welding (advanced) <br> - Machining (advanced) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 
+# 🔩 Materials and parts
 
-# Build the Extrusion Pro
-
-Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
-
-
-> Amazing tip
-
-## 🔩 Commercial parts
-
-- Link to Nederland bills of material
-- Link to BOM or download kit.
-
-## Motor selection & explanation
+### Motor selection & explanation
 
 We recommend to use motor output torque in the range of 80-120 Nm, in which  120 Nm is the recommended Max. output torque value and 80 Nm the minimum value. We recommend to use a motor with a max. power output of 3 kW Which corresponds to a maximum (Output shaft) speed of 220 - 320 RPM (assuming 90% gearbox and motor efficiency). We recommend to avoid worm-type gearboxes due to their low efficiency.
 
@@ -92,17 +67,17 @@ Most Variable Frequency Drives (VFD’s) ore required to work with the motor con
 
 ![Star Delta Connectiion](assets/ex3.jpg)
 
-## Coupling option & explanation
+### Coupling option & explanation
 
 A Shaft Lock Cone Clamping method was chosen to clamp the extrusion screw because it can handle large torques in a small amount of space. It is also designed for easy maintenance of the extruder’s components. It is easy to install and remove the coupling from the gearbox. Be sure to use a clamp that can support a minimum 250 Nm torque.
 
-## Hopper shape
+### Hopper shape
 
 Square feed hoppers work well, except when there is a large variation in plastic particle size and shape. The choice of hopper bottom shape is influenced by many factors. Pyramid hoppers are typically used with relatively free flowing products that are stable with time and with bulk materials with uniform pellet size. Conical vessels are relatively simple to construct and have an excellent shape to sustain internal pressures.
 
 # ⚡ Electronic box
 
-## Explanation of electric component roles
+### Explanation of electric component roles
 
 ![PID](assets/ex4_PID.jpg)
 (redo image)
@@ -155,7 +130,7 @@ When you want to make beams with a complex profile or with a plastic with a smal
 
 <img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex10.jpg" width="500"/>
 
-## Options
+# Additional Options
 
 ### Barrel support
 

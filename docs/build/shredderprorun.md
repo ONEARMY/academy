@@ -13,8 +13,9 @@ sidebar_label: - Run it
 ![Shredder](assets/build/shredderpro-run1.jpg)
 
 # Run and Maintain the Shredder Pro
+Great you build yourself a Shredder Pro. Time to chop some plastic. Below we explain how to do this, which settings to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
 
-## 🏃‍♀️ Shred some plastic!
+## 🏃‍♀️ Time to shred some plastic!
 
 ### How to Start
 
@@ -63,14 +64,13 @@ It is recommended to do all the following steps if you are going to change the m
 Shredding plastic of the same material and color is recommended. If you want to change the material or color, you will need to clean the machine. Follow the steps about “Deep clean”.
 If you want to change only the color, but you don’t mind if there are some flakes with a different color, you could clean the shredder, lightly, with a brush and a flat screwdriver to remove the plastic between the static blades.
 
-## 🔓 Troubleshooting
-
+# 🔓 Troubleshooting
 Arduino or the display doesn’t works properly
 
 1. Check the wiring.
 2. Connect the arduino board to a computer and upload the code. Set up the code.
 
-## ⏳ Maintain
+# ⏳ Maintain
 
 ### Before starting
 
