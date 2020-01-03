@@ -42,7 +42,7 @@ We’ve created download packs and templates and once you’ve gone through ever
 </div>
 
 
-![Opn Source](assets/intro/opensource.svg)
+![PP Image](assets/opensource.svg)
 
 ## But wait - why did you do this? And why is it all for free?
 
@@ -50,7 +50,7 @@ At Precious Plastic we want to show the world the incredible opportunities of pl
 
 All plastic laying around you is a resource, not waste. It is a material with great potential, left intact all around the world and if processed correctly, can become something new and valuable. This resource can become a source of income or an educational tool for your community, at the same time making sure it doesn’t enter our environment.
 
-![PP Universe](assets/intro/PP_universe.jpg)
+![PP Image](assets/PP_universe.jpg)
 
 We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a workspace.
 
