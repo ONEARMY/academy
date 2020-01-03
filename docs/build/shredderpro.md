@@ -1,56 +1,13 @@
 ---
 id: shredderpro
 title: Shredder Pro Specifications
-sidebar_label: - Specifications
+sidebar_label: - Overview
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-<style>
-:root {
-  --highlight: #f29094;
-  --hover: #f29094;
-}
-</style>
+![Shredder Pro](assets/build/shredderpro.jpg)
 
-
-
-<div class="videoChapters">
-<div class="videoChaptersMain">
-
-# Build a Shredder Pro
-
-So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
-
-> Pro tip: this is a pro tip
-
-</div>
-<div class="videoChaptersSidebar">
-
-### Video Chapters
-
-- 00:36 - Intro
-- 00:36 - Frame
-- 00:36 - Hopper
-- 00:36 - Cutting box
-- 00:36 - Motor
-- 00:36 - Electronics
-- 00:36 - Final assembly
-- 00:36 - How to run
-
-
-
-</div>
-</div>
-
-![Shredder Pro](assets/shredderpro.jpg)
-
-# ♻️ General specifications
----
-
-### 📓 Technical information
+# 📓 Shredder Pro information
 
 | Name  |  Shredder Pro     |
 |----------|-------------|
@@ -70,7 +27,6 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 |  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
 
 # 🌦 Pros & cons
----
 
 ### Pros    
 
@@ -84,14 +40,13 @@ This shredder have also been conceive as a very easy machine to clean. In less t
 
 ### Cons
 
-If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price. 
+If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price.
 
 Compared to other Precious Plastic machines this machine is one of the hardest built even if we try to simplify as much as possible. You’ll need proper machines and skills.
 
 This machines also require specific equipments and motor, it will be harder to built from scrap than other precious plastic machine. If you do, be sure to fully read comercial part chapter to procure your components, your machine reliability depends of it.
 
 # ♻️ Input & output
----
 
 The machine can shred any kind of material and thickness. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power).
 
@@ -133,39 +88,8 @@ To obtain these sizes, install a 7mm sieve or 10mm sieve on the shredder, for sm
 |   |   |  **Total** |  **41.8** |   | **Medium**  |
 
 
-# 🛠 Required machinery & skills
----
+![Shredder Pro](assets/build/shredderpro-output.jpg)
 
-<div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/982530bc0c9d4f8b9a424a9d35eb7c6a/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-
-Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
-
-### Machines needed
-- Lathe
-- Milling machine
-- Drill press
-- Welding machine (not specific)
-- Torq wrench
-- M16 hand tap
-
-
-### Skills needed
-- welding (intermediate)
-- machining (expert)
-- assembling (expert)
-- electronics (expert)
-
-![Shredder](assets/ppimage.jpg)
-
-# 🔧 Most common hacks
-
-To be updated
-
-# 🔓 Troubleshooting
-
-To be updated
 
 # 🙌 Useful Links
 
@@ -177,7 +101,3 @@ To be updated
 - Find a local machine shop on our map (map)
 - Compare with our small shredder (small shredder)
 - Visit our how-to's for upgrades and hacks (how to)
-
-# 🌎 Built by the community
-
-To be updated

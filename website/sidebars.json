@@ -6,6 +6,8 @@
       "build",
       "build/shredder",
       "build/extrusion",
+      "build/injection",
+      "build/compression",
       {
         "label": "Sheetpress Pro",
         "type": "subcategory",
@@ -65,6 +67,6 @@
       "universe/yourlogo"
     ],
     "📦 Download": ["download"],
-    "💬 Support": ["support/faq", "support/chat", "styles"]
+    "💬 Questions?": ["support/faq", "support/chat", "styles"]
   }
 }

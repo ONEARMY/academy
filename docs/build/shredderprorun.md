@@ -10,28 +10,24 @@ sidebar_label: - Run it
 }
 </style>
 
-![Shredder](assets/ppimage.jpg)
+![Shredder](assets/build/shredderpro-run1.jpg)
 
 # Run and Maintain the Shredder Pro
 
-This is text
+## 🏃‍♀️ Shred some plastic!
 
-> This is a tip
-
-## 🏃‍♀️ Run
-
-### Start
+### How to Start
 
 1. Check the main switch and the emergency stops are off, the direction switch is in the stop position and plug in the shredder (if it was not plugged in) in a 16A three-phase plug.
 2. Check that the hopper and the sieve (if it is needed) are mounted properly.
 3. Check the hopper is empty of parts that could damage the machine.
 4. Turn on the main switch, then the display will turn on.
-5. If the display reads “READY”, turn on the emergency stop. 
+5. If the display reads “READY”, turn on the emergency stop.
 6. Run the shredder in reverse mode for a few seconds to check everything works properly. The display should show “REVERSING”.
 7. Run the shredder in shredding/forward mode. The display should show “SHREDDING”.
 8. The machine is ready to use.
 
-If you hear or see something is not going well, stop the machine immediately and check what the issue is. The machine has enough power to damage the components by itself if they are not assembled properly.
+>If you hear or see something is not going well, stop the machine immediately and check what the issue is. The machine has enough power to damage the components by itself if they are not assembled properly.
 
 ### Pour plastic
 
@@ -82,6 +78,8 @@ Check the oil level of the gearbox of the motor. Usually, the quantity of oil de
 
 Bearing  and gears are as well delivered without grease, be sure to fill them with recommended grease.
 
+![Shredder](assets/build/shredderpro-maintain.jpg)
+
 ### Weekly
 
 - Deep clean the shredder
@@ -95,11 +93,3 @@ Bearing  and gears are as well delivered without grease, be sure to fill them wi
 - Disassemble the box, sand or sharpen damage part and oil all plates. If teeth are too damaged, replace them. We recommend ordering extra blades to allow this maintenance easily.
 - Depending on the coupling that the machine uses, you may need to replace some rubber components. Check the manufacturer’s instructions.
 - Check the paint, and do some top shop if needed.
-
-## Appendix
-
-Appendix A : Shred size poster
-
-
-
-

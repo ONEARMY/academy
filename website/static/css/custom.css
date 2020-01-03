@@ -122,6 +122,13 @@ ol {
 article div span h1:first-child {
   margin-top: 0;
 }
+
+h1,
+h2,
+h3 {
+  font-family: "Varela Round", "sans-serif";
+}
+
 /* Remove pro-tip formatting
 article code {
   background-color: transparent;
@@ -249,7 +256,7 @@ article code:before {
 
 .toc .toggleNav .navGroup h4.navGroupSubcategoryTitle {
   color: #afafaf;
-  padding: 9px 0 9px 1px;
+  padding: 5px 0 5px 1px;
   cursor: pointer;
   position: relative;
 }
@@ -301,7 +308,7 @@ article code:before {
 .toc .toggleNav .navGroup ul li.navListItem {
   margin-left: -4px;
   padding-left: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .toggleNav h2 i {
@@ -337,17 +344,34 @@ article code:before {
 }
 
 .tns-controls {
-  position: absolute;
-  top: 50%;
-  transform: translate3d(0, -50%, 0);
+  margin-top: -32px;
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
 
+.tns-controls button:hover {
+  color: #000 !important;
+}
+
+.tns-controls button:first-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
+.tns-controls button:last-child {
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  color: #66737f;
+}
+
 .tns-nav {
   display: flex;
   justify-content: center;
+  margin-top: 22px;
 }
 
 .tns-nav button {
@@ -463,12 +487,19 @@ hr {
   border-radius: 4px;
 }
 
+.note {
+    background-color: #caeff8;
+    color: #66737f;
+    border-left: 8px solid #29bbe3;
+    padding: 15px 30px 15px 15px;
+}
+
 /* Desktop and up */
 @media only screen and (min-width: 1024px) {
   .toc {
     padding: 50px 0;
   }
-
+  /*
   .mainContainer {
       height: 100%;
       overflow-y: scroll;
@@ -488,9 +519,19 @@ hr {
   .docsNavContainer {
     height: 100%;
   }
-
+*/
   .wrapper {
     padding: 0 50px;
+  }
+
+  .docsNavContainer {
+    top: 0px;
+    height: calc(100vh - 0px);
+  }
+
+  .separateOnPageNav.sideNavVisible .navPusher .mainContainer {
+    max-width: 900px;
+    margin: 0 auto;
   }
 }
 

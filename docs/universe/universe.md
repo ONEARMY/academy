@@ -28,3 +28,6 @@ Hmm yes.. this is a bit of a tough question. Maybe its better to start with our 
 | <img src="../assets/universe/badge-machine-shop.png" width="150"/>     |  __Machine shops__ <br> Machine Shops produce and build parts, moulds and entire machines for other workspaces and projects in the local recycling network.   |
 | <img src="../assets/universe/badge-community-point.png" width="150"/>  |  __Community Point__ <br> Community Points connect and grow the network locally. Strengthening the existing local community while bringing in more & more people.  |
 | <img src="../assets/universe/badge-collection-point.png" width="150"/> |  __Collection Point__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
+
+
+# Community points are the heroes 

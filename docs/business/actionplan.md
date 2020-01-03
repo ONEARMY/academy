@@ -5,7 +5,7 @@ sidebar_label: Action Plan
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/Cm4YK87j3NI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/w6Hyd9c5QMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -20,7 +20,7 @@ sidebar_label: Action Plan
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### A key component to a successful recycling business. 
+### A key component to a successful recycling business.
 
 The Action Plan is about boiling down your business idea into the most important components, so you can see all of the moving parts interacting together. A common issue we see within our community are people trying to do too many things at once - this tool will help you prioritize!
 
@@ -87,7 +87,7 @@ This focuses on all the processes and needs on the inside of your business.
 
 ### Impact Measures
 
-This is how you’ll be able to measure your success. 
+This is how you’ll be able to measure your success.
 
 <b>Community</b> - how is your business impacting your local community? Will it create green jobs, education, awareness, new attraction for tourism? You can also think about the impact you will have to the Precious Plastic Community. Are you going to open-source your ideas, information, and products? Who will that benefit?
 

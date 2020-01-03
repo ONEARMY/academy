@@ -6,12 +6,13 @@ sidebar_label: Intro
 
 <style>
 :root {
-  --highlight: #f090b1;
-  --hover: #f090b1;
+  --highlight: #f7b77b;
+  --hover: #f7b77b;
 }
 </style>
 
 ![Business Tools](assets/business/businesspresentation.jpg)
+![Business](assets/business/intro.jpg)
 
 # The Business Tools
 
@@ -30,5 +31,3 @@ We are excited to take you through some crucial tools to help you not only have 
 - The Business Plan Template is where you roll everything together and create a more long form business plan
 
 Let's get started!
-
-
