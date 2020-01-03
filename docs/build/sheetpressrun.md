@@ -48,7 +48,7 @@ Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Be
 
 12. Whilst waiting for the plastic to melt. 2 mins before the recommended melting time close the pressing plates using the bottle jack until the jacks starts to give strong resistance. See the Datasheet (Appendix A) for melting temperatures and times.
 
-13. When the mould has been in the sheetpres for required melting time. Switch off the sheetpress.
+13. When the mould has been in the sheetpres for required melting time. Switch off the Sheetpress.
 
 14. Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
 
@@ -92,7 +92,7 @@ Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Be
 
 19. Load and press the next sheet in to the Sheetpress (Steps 10-13). This time stack it on top of the previous sheet.
 
-20. Repeat steps 13-20 until you workcycle is complete.  .Once finished. Switch off and close the sheetpress.
+20. Repeat steps 13-20 until you workcycle is complete. Finished? Switch off and close the Sheetpress.
 
 21. Clean and apply a layer of silicone oil to the mould sheets to protect them for moisture between use.
 

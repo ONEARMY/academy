@@ -14,14 +14,14 @@ sidebar_label: Mix
 }
 </style>
 
-# Sheetpress Workspace
+# Mix Workspace
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
 ###  A key role in transforming shredded plastic into beautiful sheets.
 
-Ok, you want to set up an sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
+Ok, you want to set up an Sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
 
 Setting up a workspace can be broken down into three main steps:
 

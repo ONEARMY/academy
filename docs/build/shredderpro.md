@@ -52,7 +52,7 @@ The machine can shred any kind of material and thickness. We have tested it with
 
 ![Shredder Pro](assets/build/shredder_output.jpg)
 ### Definition of our flakes sizes
-The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
+The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and Sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
 
 Name: | Large | Medium | Small |
 --- | ---| ---| ---|
