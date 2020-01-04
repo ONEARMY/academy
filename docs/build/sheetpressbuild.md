@@ -1,6 +1,6 @@
 ---
-id: Sheetpressbuild
-title: Build a Sheetpress Pro
+id: sheetpressbuild
+title: Build a Sheetpress
 sidebar_label: - Build it
 ---
 
@@ -18,7 +18,7 @@ sidebar_label: - Build it
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Build a Sheetpress Pro
+# Build a Sheetpress 
 
 Hi looks like you might want to build a Sheetpress? that is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
 
