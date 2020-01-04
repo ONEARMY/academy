@@ -15,7 +15,7 @@ sidebar_label: Collection Point
 }
 </style>
 
-# How to setup a Collection Point
+# Collection Point
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
