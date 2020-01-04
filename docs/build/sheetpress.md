@@ -1,6 +1,6 @@
 ---
 id: sheetpress
-title: Sheetpress Pro Specifications
+title: Sheetpress Specifications
 sidebar_label: - Overview
 ---
 
@@ -15,7 +15,7 @@ sidebar_label: - Overview
 ![Sheetpress](assets/build/sheetpress.jpg)
 
 
-# 📓 Sheetpress Pro information
+# 📓 Sheetpress information
 | Specification                                 |             |
 |--------------------------------------|-----------------------|
 | 📓 Type                               | Sheetpress              |
@@ -37,6 +37,12 @@ sidebar_label: - Overview
 | Range of Sheet Thickness             | 4 - 35mm              |
 | Sheets Per Day (12mm)                | 3                    |
 | Sheets Per Day with full system (12mm)  | 10                    |
+
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Hot+Press+v1&model_id=96613&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96613" allowfullscreen></iframe>
+
+
 
 # 🌦 Pros & cons
 

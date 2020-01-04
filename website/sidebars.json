@@ -9,7 +9,7 @@
       "build/injection",
       "build/compression",
       {
-        "label": "Sheetpress Pro",
+        "label": "Sheetpress",
         "type": "subcategory",
         "ids": [
           "build/sheetpress",

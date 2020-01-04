@@ -16,7 +16,7 @@ sidebar_label: - Run it
 
 </div>
 
-# Run and Maintain the Sheetpress Pro
+# Run and Maintain the Sheetpress
 
 Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
 

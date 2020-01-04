@@ -39,6 +39,12 @@ sidebar_label: - Overview
 | - Heating zones   | 3 |
 | - Heating power: max.   | 2 kW)|
 
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extruder+Pro+v1&model_id=96617&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96617" allowfullscreen></iframe>
+
+
+
 # 🌦 Pros & cons
 
 ### Pros

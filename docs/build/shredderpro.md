@@ -26,6 +26,13 @@ sidebar_label: - Overview
 |  - Output Speed   | 15-25 r/min|
 |  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
 
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Pro+v1&model_id=96615&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96615" allowfullscreen></iframe>
+
+
+
+
 # 🌦 Pros & cons
 
 ### Pros    
@@ -62,11 +69,6 @@ Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpres
 
 
 To obtain these sizes, you need to use the right mesh. Install a 7mm sieve on the shredder to get small flakes or a 10mm sieve to get medium size. You can get the larger size without the use of a sieve. Depending on the size of the input material, you might need to shred several times to get the desired size.
-
-<iframe width="510" height="540" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded&name=Shredder+Pro+v1.0&model_id=96575&portal=b2b&showDescription=true&showLicense=false&showDownloadButton=false&showHotspots=false&noAutoload=true&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96575" allowfullscreen></iframe>
-
-
-https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded&name=Shredder+Pro+v1.0&model_id=96575&portal=b2b&showDescription=true&showLicense=false&showDownloadButton=false&showHotspots=false&noAutoload=true&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=
 
 
 ### Output and speed
