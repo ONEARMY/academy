@@ -1,7 +1,7 @@
 ---
 id: shredderprobuild
 title: Build a Shredder Pro
-sidebar_label: - Build
+sidebar_label: - Build it
 ---
 
 <div class="videocontainer">

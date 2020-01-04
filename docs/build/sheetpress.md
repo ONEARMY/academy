@@ -26,7 +26,7 @@ sidebar_label: - Overview
 | 📦 Sheetpress Dimension               | 1620 X 1620 X 1780 mm |
 | 🔌 Voltage                            | 400V                  |
 | ⚡️ AMP                                | 32A                   |
-| ⚡️ Power                              | 1.5kW                 |
+| ⚡️ Power                              | 15kW                 |
 | ♻️ Input Flake Size                   | Large, Medium, Small  |
 | Max Running Time                     | 8 hours per day       |
 | Max temp                             | 300°C                 |
@@ -57,7 +57,7 @@ Ease of build and diversity of molds, the molds we have developed are comparativ
 Sheet size 1mx1m, many manufacturing processes have been designed to work with 1220x1220mm and there are sheet pressing systems available on the market that can produce sheets larger than this system.
 
 Most mid-small workspace machinery only requires 16A but the Sheetpress requires 32A.
-In comparison with other precious plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
+In comparison with other Precious Plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
 
 The machine does not have wheels and is not moveable by human power so requires a pallet/pump truck to move. Some other sheet pressing systems come with wheels but we opted not to for stability.
 

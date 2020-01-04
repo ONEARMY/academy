@@ -1,7 +1,7 @@
 ---
 id: extrusionprobuild
 title: Build an Extrusion Pro
-sidebar_label: - Build
+sidebar_label: - Build it
 ---
 <div class="videocontainer">
   <iframe width="800" height="400" src="https://www.youtube.com/embed/3-JFVo6BDA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,7 +45,7 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 # 🛠 Required machinery & skills
 Build Extrusion Pro  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-extrusion-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (TIG or MIG/MAG recommended) <br> - Torq wrench <br> - M16 hand tap | - Welding (advanced) <br> - Machining (advanced) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/build/thumb-extrusion-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (TIG or MIG/MAG recommended) <br> - Torq wrench| - Welding (advanced) <br> - Machining (advanced) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 
 # 🔩 Materials and parts

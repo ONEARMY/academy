@@ -45,11 +45,11 @@ sidebar_label: - Overview
 
 The extruder is one of the fastest and most efficient to melt plastic among Precious Plastic machines. It is a safe and reliable machine amongst our machine’s family!
 
-The Extruder Pro screw is designed to be work with multiple types of plastics. Which  will make you capable of working with different kind of plastic in small batches. Also this machine is conceived to be much more polyvalent than other industrial machines, allowing you to extrude into moulds, shapes, differents nozzles…
+The Extruder Pro screw is designed to work with multiple types of plastics. Which  will make you capable of working with different kind of plastic in small batches. Also this machine is conceived to be much more polyvalent than other industrial machines, allowing you to extrude into moulds, shapes, different nozzles…
 
 ### Cons
 
-This machine requires the higher skill set of machining amongs Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other precious plastic machines.
+This machine requires a higher skill set of machining amongst Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other Precious Plastic machines.
 
 ### Normal VS Pro
 
