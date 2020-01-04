@@ -24,7 +24,7 @@ sidebar_label: - Build it
 
 So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
 
->Tip: Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerance are a tighter. So you need to make sure your tools and skills are up for the job
+>Tip: Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerances are definitely tighter. So you need to make sure your tools and skills are up for the job
 
 
 </div>
@@ -95,8 +95,8 @@ Motor Synchronous Speeds (RPM)
 Speed can be then reduced through a gearbox, which is defined by a gearbox ratio. Ratio = input speed / output speed. The higher the speed will be, the higher the productivity will be.
 A double axis shredder is a shredder that runs at a low speed. We recommend looking for a gearbox that will bring the output speed between 15 and 25 revolutions per minute.
 
-Torque is a relation between the output speed obtained and the motor’s power. The higher the torque will be, the tougher the shredder will be. To get a high torque you can increase the power of the motor, or increase the gearbox ratio but this will lower the speed and productivity.
-For this shredder, we recommend a nominal torque of 1100N.m as a minimum and 2000N.m as a good compromise.
+Torque is a relation between the output speed obtained and the motor’s power. The higher the torque will be, the tougher the shredder will be. To get a high torque you can increase the power of the motor or increase the gearbox ratio. Know that increasing gearbox ratio will lower the speed and productivity.
+For this shredder, we recommend a nominal torque of 1100N.m as a minimum and 2000N.m as a solid goal.
 
 ### Service Factor
 
@@ -127,11 +127,11 @@ The higher the safety factor, the higher the lifetime. You might as well compens
 
 **4kW - 18rpm - 2000N.m**: you will be able to operate the shredder to its full capacity
 
-**5,5kW - 22rpm - 2300N.m**: very long life motor as you will have to run the motor under its capacity, might be worth it for a high productivity shredder (higher speed to limitate the torque)
+**5,5kW - 22rpm - 2300N.m**: very long life motor as you will be running the motor under its capacity; might be worth it for a high productivity shredder (higher speed to limit the torque)
 
 ### Coupling option & explanation
 
-Couplings usually have a nominal torque and a maximum torque they can manage. Nominal torque is the torque value that the coupling can work for without damage. The coupling could work over the nominal torque for a short period, but always under the maximum torque. The component life will be reduced if the coupling operates frequently over the nominal torque.
+Couplings usually have a nominal torque and a maximum torque they can manage. Nominal torque is the torque value that the coupling can handle without damage. The coupling may handle a higher torque for a short period, but always keep things under the maximum torque. The component life will be reduced if the coupling operates frequently over the nominal torque.
 
 If our motor has around 2000 Nm of nominal torque, an HRC 230 Coupling will work properly. Even if you choose a motor with lower torque, we recommend to slightly oversize the coupling for increased durability.
 
@@ -219,14 +219,14 @@ Order multiple spacers for assembly adjustment.
 
 - Weld the tubes of the box, for faster cleaning (non structural weld)
 
-- Have the motor fixed: You probably use a different motor than the one in the 3D model. So you will need to modify the frame.
+- Attach the moter: You will probably use a different motor than the one in the 3D model. So you will need to modify the frame.
 
 # Additional Options
 
 ### Safety Hopper
 
-We designed a safety version of the hopper fully closed, to prevent the plastic from jumping out and make it safer for people to use. The drawings are accessible in the download kit to laser cut. Make sure to choose the hopper you want before sending to laser cut.
+We designed a fully closed version of the hopper to prevent the plastic from jumping out and make it safer for people to use. The drawings are accessible in the download kit to laser cut. Make sure to choose the hopper you want before sending the files to laser cut.
 
 ### Different sieves
 
-Potentially, you could use the shredder with no sieve. But in order to achieve different flake size standards - see input & output chapter - we provided different sieves size to sent to cut. You can as well get a drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.
+You could use the shredder with no sieve, but in order to achieve different flake size standards - see input & output chapter - we provided different sieve designs to be cut. You can get your own drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.
