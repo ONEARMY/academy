@@ -84,9 +84,8 @@ window.addEventListener("DOMContentLoaded", function() {
             return (obj || {})[path];
           }, data);
           writeToDomNodes(".downloadCount", downloadCount);
-        } catch (error) {
-          console.error(error);
-        }
+          removeLoadingClass(".downloadCount");
+        } catch (error) {}
       }
     };
 
@@ -94,6 +93,13 @@ window.addEventListener("DOMContentLoaded", function() {
   })();
 });
 
+function removeLoadingClass(selector) {
+  Array.from(document.querySelectorAll(selector + ".loading")).forEach(function(
+    domNode
+  ) {
+    domNode.classList.remove("loading");
+  });
+}
 function writeToDomNodes(selector, value) {
   var nodes = Array.from(document.querySelectorAll(selector));
   if (nodes.length > 0) {

@@ -21,6 +21,6 @@ We've created one .zip file packed with everything you need to get started: blue
 
 # [ ↳ DOWNLOAD HERE](https://cutt.ly/precious-plastic-kit)
 
-<span class="downloadCount"></span>
+<span class="downloadCount loading">0</span>
 
 *Make sure to send us a picture when you are done :)

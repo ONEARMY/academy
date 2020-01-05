@@ -570,6 +570,10 @@ hr {
   }
 }
 
+.loading.downloadCount {
+  opacity: 0;
+}
+
 .downloadCount {
   color: rgb(131, 206, 235);
   color: var(--hover, rgb(131, 206, 235));
@@ -578,6 +582,8 @@ hr {
   font-size: 1.3em;
   text-align: center;
   font-family: "Varela Round", sans-serif;
+  opacity: 1;
+  transition: opacity 300ms;
 }
 
 .downloadCount:after {
