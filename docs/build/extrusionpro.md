@@ -31,13 +31,13 @@ sidebar_label: - Overview
 | 🔩 Length of screw (mm) | 790 mm |
 | 🔩 Effective screw length | 600 mm |
 | 🔩 Rated Motor Power | 3 kW |
-| ⚙️ Motor Type   |       |
+| ⚙️ Motor Type   |    (check the build section for more details)   |
 | - Rated Motor output Torque |  109 Nm |
 | - Rated Motor output speed |   263 RPM   |
 | - Max. Motor and Inverter power   | 3 kW|
-| - Recommended motor shaft   | 30 mm)|
+| - Recommended motor shaft   | 30 mm|
 | - Heating zones   | 3 |
-| - Heating power: max.   | 2 kW)|
+| - Heating power: max.   | 2 kW|
 
 
 # 🌐 3D Model
