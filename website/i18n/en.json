@@ -23,7 +23,7 @@
       },
       "build/extrusionprobuild": {
         "title": "Build an Extrusion Pro",
-        "sidebar_label": "- Build"
+        "sidebar_label": "- Build it"
       },
       "build/extrusionprorun": {
         "title": "Build an extrusion Pro",
@@ -34,11 +34,11 @@
         "sidebar_label": "Injection"
       },
       "build/sheetpress": {
-        "title": "Sheetpress Pro Specifications",
+        "title": "Sheetpress Specifications",
         "sidebar_label": "- Overview"
       },
       "build/sheetpressbuild": {
-        "title": "Build a Sheetpress Pro",
+        "title": "Build a Sheetpress",
         "sidebar_label": "- Build it"
       },
       "build/sheetpressrun": {
@@ -55,7 +55,7 @@
       },
       "build/shredderprobuild": {
         "title": "Build a Shredder Pro",
-        "sidebar_label": "- Build"
+        "sidebar_label": "- Build it"
       },
       "build/shredderprorun": {
         "title": "Run a Shredder Pro",
@@ -99,7 +99,7 @@
       },
       "create/howto": {
         "title": "Browse how-to",
-        "sidebar_label": "Your own how-to"
+        "sidebar_label": "How to's"
       },
       "create/injection-moulds": {
         "title": "Tips on injection mouldmaking",

@@ -475,6 +475,7 @@ button.tns-nav-active {
 .navPusher {
   padding-top: 0;
 }
+
 /* Edit page button */
 a.edit-page-link {
   float: none;
@@ -483,7 +484,9 @@ a.edit-page-link {
   border: none;
   position: absolute;
   bottom: -100px;
+  display: none;
 }
+
 header.postHeader {
   text-align: center;
   margin-bottom: 0 !important;
@@ -586,4 +589,24 @@ hr {
   .videoChaptersSidebar li:last-child {
     margin-bottom: 0;
   }
+}
+
+.loading.downloadCount {
+  opacity: 0;
+}
+
+.downloadCount {
+  color: rgb(131, 206, 235);
+  color: var(--hover, rgb(131, 206, 235));
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 1.3em;
+  text-align: center;
+  font-family: "Varela Round", sans-serif;
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.downloadCount:after {
+  content: " downloads";
 }
