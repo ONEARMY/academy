@@ -18,6 +18,27 @@ body {
   padding: 20px;
 }
 
+.downloadButton {
+  background-color: rgb(131, 206, 235);
+  padding: 20px;
+  color: #fff;
+  text-shadow: 0 2px 2px rgb(110, 173, 198);
+  border: 2px solid rgb(110, 173, 198);
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: all 180ms;
+  text-decoration: none;
+}
+
+.downloadButton:hover {
+  background-color: rgb(112, 197, 230);
+  border-color: rgb(101, 173, 201);
+  color: #fff;
+  text-decoration: none;
+}
+
 article .videocontainer {
   position: relative;
   width: 100%;

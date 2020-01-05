@@ -205,3 +205,12 @@ Or:
 `<p class="note">Note: will show up in blue</p>` will show up like this:
 
 <p class="note">Note: will show up in blue</p>
+
+## Download Button
+
+`<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip">↳ DOWNLOAD HERE</a>`
+
+Will produce:
+
+<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip">↳ DOWNLOAD HERE</a>
+
