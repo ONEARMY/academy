@@ -454,6 +454,7 @@ button.tns-nav-active {
 .navPusher {
   padding-top: 0;
 }
+
 /* Edit page button */
 a.edit-page-link {
   float: none;
@@ -462,7 +463,9 @@ a.edit-page-link {
   border: none;
   position: absolute;
   bottom: -100px;
+  display: none;
 }
+
 header.postHeader {
   text-align: center;
   margin-bottom: 0 !important;
@@ -491,10 +494,10 @@ hr {
 }
 
 .note {
-    background-color: #caeff8;
-    color: #66737f;
-    border-left: 8px solid #29bbe3;
-    padding: 15px 30px 15px 15px;
+  background-color: #caeff8;
+  color: #66737f;
+  border-left: 8px solid #29bbe3;
+  padding: 15px 30px 15px 15px;
 }
 
 /* Desktop and up */
