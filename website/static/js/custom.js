@@ -72,7 +72,7 @@ window.addEventListener("DOMContentLoaded", function() {
 
   (function getKitDownloadCount() {
     var kitUrl =
-      "https://api.github.com/repos/ONEARMY/precious-plastic-kit/releases/latest";
+      "https://cors-anywhere.herokuapp.com/https://cutt.ly/api/api.php?key=19f84938273aa758d86cc1f73a0e5b236ca06&stats=precious-plastic-kit";
     var request = new XMLHttpRequest();
     request.open("GET", kitUrl, true);
 
@@ -80,14 +80,9 @@ window.addEventListener("DOMContentLoaded", function() {
       if (this.status >= 200 && this.status < 400) {
         try {
           var data = JSON.parse(this.response);
-          var downloadCount = ["assets", 0, "download_count"].reduce(function(
-            obj,
-            path
-          ) {
+          var downloadCount = ["stats", "clicks"].reduce(function(obj, path) {
             return (obj || {})[path];
-          },
-          data);
-          console.log(downloadCount);
+          }, data);
           writeToDomNodes(".downloadCount", downloadCount);
         } catch (error) {
           console.error(error);
