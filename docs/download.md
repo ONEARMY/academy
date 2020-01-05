@@ -19,6 +19,6 @@ sidebar_label: Download-Kit
 Alright! Lets do this!
 We've created one .zip file packed with everything you need to get started: blueprints, posters, labels, information, etc..
 
-# [ ↳ DOWNLOAD HERE](https://github.com/hakkens/precious-plastic-kit/archive/master.zip)
+<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip">↳ DOWNLOAD HERE</a>
 
 *Make sure to send us a picture when you are done :)
