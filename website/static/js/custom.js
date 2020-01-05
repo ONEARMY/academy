@@ -69,7 +69,44 @@ window.addEventListener("DOMContentLoaded", function() {
   if (document.getElementsByClassName("j-slideshow").length > 0) {
     initiateSlideshows();
   }
+
+  (function getKitDownloadCount() {
+    var kitUrl =
+      "https://api.github.com/repos/ONEARMY/precious-plastic-kit/releases/latest";
+    var request = new XMLHttpRequest();
+    request.open("GET", kitUrl, true);
+
+    request.onload = function() {
+      if (this.status >= 200 && this.status < 400) {
+        try {
+          var data = JSON.parse(this.response);
+          var downloadCount = ["assets", 0, "download_count"].reduce(function(
+            obj,
+            path
+          ) {
+            return (obj || {})[path];
+          },
+          data);
+          console.log(downloadCount);
+          writeToDomNodes(".downloadCount", downloadCount);
+        } catch (error) {
+          console.error(error);
+        }
+      }
+    };
+
+    request.send();
+  })();
 });
+
+function writeToDomNodes(selector, value) {
+  var nodes = Array.from(document.querySelectorAll(selector));
+  if (nodes.length > 0) {
+    nodes.forEach(function(n) {
+      n.innerHTML = value;
+    });
+  }
+}
 
 /********************************************************************
  *  Custom functions to support use as an Iframe within the

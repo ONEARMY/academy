@@ -569,3 +569,17 @@ hr {
     margin-bottom: 0;
   }
 }
+
+.downloadCount {
+  color: rgb(131, 206, 235);
+  color: var(--hover, rgb(131, 206, 235));
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 1.3em;
+  text-align: center;
+  font-family: "Varela Round", sans-serif;
+}
+
+.downloadCount:after {
+  content: " downloads";
+}

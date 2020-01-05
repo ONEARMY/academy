@@ -21,4 +21,6 @@ We've created one .zip file packed with everything you need to get started: blue
 
 # [ ↳ DOWNLOAD HERE](https://github.com/hakkens/precious-plastic-kit/archive/master.zip)
 
+<span class="downloadCount"></span>
+
 *Make sure to send us a picture when you are done :)
