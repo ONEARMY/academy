@@ -9,12 +9,12 @@
       "build/injection",
       "build/compression",
       {
-        "label": "Sheetpress",
-        "type": "subcategory",
-        "ids": [
-          "build/sheetpress",
-          "build/sheetpressbuild",
-          "build/sheetpressrun"
+      "label": "Shredder Pro",
+      "type": "subcategory",
+      "ids": [
+        "build/shredderpro",
+        "build/shredderprobuild",
+        "build/shredderprorun"
         ]
       },
       {
@@ -26,14 +26,14 @@
           "build/extrusionprorun"
         ]
       },
-
       {
-        "label": "Shredder Pro",
+        "label": "Sheetpress",
         "type": "subcategory",
         "ids": [
-          "build/shredderpro",
-          "build/shredderprobuild",
-          "build/shredderprorun"
+          "build/sheetpress",
+          "build/sheetpressbuild",
+          "build/sheetpressrun"
+
         ]
       }
     ],
