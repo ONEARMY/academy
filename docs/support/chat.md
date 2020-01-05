@@ -12,7 +12,6 @@ sidebar_label: chat
 }
 </style>
 
-
 # Chat & Support
 
 We use Discord to learn from each other and answer questions..
@@ -48,17 +47,28 @@ Join our main server here: https://discordapp.com/invite/fGZQRm
 | [#plastic scanner](https://discordapp.com/invite/Khxfgg7) |  Find ways to scan which type of plastic it is.|
 | [#community-platform!](https://discordapp.com/invite/)    |Coding and improvements for our online community platform|
 
-
+![Discord](assets/support/discord.jpg)
 # Go straight to your local group
 
-| Countries  |        |  |
+| Countries   |        |  |
 |----------|-------------|-------------|
-| [🇧🇯 Benin](http://google.com)  | [🇧🇧Barbaros](http://google.com)|[🇧🇹Bhutan](http://google.com)|
-| [🇧🇾 Belarus](http://google.com)  | [🇨🇺Cuba](http://google.com)|[🇭🇺 Hungary](http://google.com)|
-| [🇳🇱 Netherlands](http://google.com)  | [🇧🇪 Belgium](http://google.com)|[🇮🇹 Italy](http://google.com)|
-| [🇧🇯 Benin](http://google.com)  | [🇧🇧Barbaros](http://google.com)|[🇧🇹Bhutan](http://google.com)|
-| [🇧🇾 Belarus](http://google.com)  | [🇨🇺Cuba](http://google.com)|[🇭🇺 Hungary](http://google.com)|
-| [🇳🇱 Netherlands](http://google.com)  | [🇧🇪 Belgium](http://google.com)|[🇮🇹 Italy](http://google.com)|
-| [🇧🇯 Benin](http://google.com)  | [🇧🇧Barbaros](http://google.com)|[🇧🇹Bhutan](http://google.com)|
-| [🇧🇾 Belarus](http://google.com)  | [🇨🇺Cuba](http://google.com)|[🇭🇺 Hungary](http://google.com)|
-| [🇳🇱 Netherlands](http://google.com)  | [🇧🇪 Belgium](http://google.com)|[🇮🇹 Italy](http://google.com)|
+| Africa  |        |  |
+| [🇨🇲 Cameroon](https://discord.gg/rWz7T2d)  | [🇨🇮 Côte d'Ivoire ](https://discord.gg/aGvqQt7)|[🇪🇬 Egypt](https://discord.gg/ehyT6QX)|
+| [🇰🇪 Keyna](https://discord.gg/rzbQvqU)  | [🇲🇦 Morocco](https://discord.gg/ub6kQ6G)|[🇲🇺 Mauritius](https://discord.gg/RfhpFMy)|
+| [🇲🇿 Mozambique](https://discord.gg/RzB4bqK)  | [🇸🇳 Senegal](https://discord.gg/WdbFwGT)|[🇿🇦 South Africa](https://discord.gg/eFvQA5r)|
+| [🇹🇿 Tanzania](https://discord.gg/j7GJNcq)  | [🇺🇬 Uganda](https://discord.gg/gEQvwR4)||
+| Asia  |        |  |
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| Europe  |        |  |
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| South America  |        |  |
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| North America  |        |  |
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| Oceania  |        |  |
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|
+| [To do](http://google.com)  | [To do](http://google.com)|[To do](http://google.com)|

@@ -1,8 +1,12 @@
 ---
 id: shredderprobuild
 title: Build a Shredder Pro
-sidebar_label: - Build
+sidebar_label: - Build it
 ---
+
+<div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/4GWYJhAd-R0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <style>
 :root {
@@ -11,20 +15,48 @@ sidebar_label: - Build
 }
 </style>
 
-![Shredder](assets/ppimage.jpg)
-
-# Build the Shredder Pro
-
-Welcome to the How-To’s, this tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
 
 
-> Amazing tip
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
-## 🔩 Commercial parts
+# Build a Shredder Pro
 
-- Link to Nederland bills of material
-- Link BOM
-- Or link or reference to Download KIT
+So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
+
+>Tip: Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerances are definitely tighter. So you need to make sure your tools and skills are up for the job
+
+
+</div>
+<div class="videoChaptersSidebar">
+
+### Video Chapters
+
+- 00:36 - Intro
+- 00:36 - Frame
+- 00:36 - Hopper
+- 00:36 - Cutting box
+- 00:36 - Motor
+- 00:36 - Electronics
+- 00:36 - Final assembly
+- 00:36 - How to run
+
+
+
+</div>
+</div>
+
+
+
+# 🛠 Required machinery & skills
+Build Shredder Pro  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
+
+
+# 🔩 Materials and parts
+
+You need to make and buy parts. In the download-kit you can find the complete Bill of Materials. It's a list for the entire Shredder Pro. Below you can find the commercial parts you need to buy and we go more in depth on where to look out for.
 
 ### Motor option & explanation
 
@@ -40,7 +72,7 @@ Service factor
 
 Nominal power is a value directly linked to nominal current. On most motors, you will be able to run at this power continuously (depending on your safety factor, ambient temperature, humidity, etc).
 
-However, for a short amount of time, your motor will be able to deliver a higher power by having a higher current. This can be typically observed at the start of the rotation or when you encounter harder pieces to shred. 
+However, for a short amount of time, your motor will be able to deliver a higher power by having a higher current. This can be typically observed at the start of the rotation or when you encounter harder pieces to shred.
 
 But if the motor is capable of running at a higher power, this will damage it.
 We found that no motor should be run at more than 1,6 times their nominal current/power, and this will be controlled by the electronics box. See the recommendation paragraph for which power will work for your needs.
@@ -63,8 +95,8 @@ Motor Synchronous Speeds (RPM)
 Speed can be then reduced through a gearbox, which is defined by a gearbox ratio. Ratio = input speed / output speed. The higher the speed will be, the higher the productivity will be.
 A double axis shredder is a shredder that runs at a low speed. We recommend looking for a gearbox that will bring the output speed between 15 and 25 revolutions per minute.
 
-Torque is a relation between the output speed obtained and the motor’s power. The higher the torque will be, the tougher the shredder will be. To get a high torque you can increase the power of the motor, or increase the gearbox ratio but this will lower the speed and productivity.
-For this shredder, we recommend a nominal torque of 1100N.m as a minimum and 2000N.m as a good compromise.
+Torque is a relation between the output speed obtained and the motor’s power. The higher the torque will be, the tougher the shredder will be. To get a high torque you can increase the power of the motor or increase the gearbox ratio. Know that increasing gearbox ratio will lower the speed and productivity.
+For this shredder, we recommend a nominal torque of 1100N.m as a minimum and 2000N.m as a solid goal.
 
 ### Service Factor
 
@@ -95,11 +127,11 @@ The higher the safety factor, the higher the lifetime. You might as well compens
 
 **4kW - 18rpm - 2000N.m**: you will be able to operate the shredder to its full capacity
 
-**5,5kW - 22rpm - 2300N.m**: very long life motor as you will have to run the motor under its capacity, might be worth it for a high productivity shredder (higher speed to limitate the torque)
+**5,5kW - 22rpm - 2300N.m**: very long life motor as you will be running the motor under its capacity; might be worth it for a high productivity shredder (higher speed to limit the torque)
 
 ### Coupling option & explanation
 
-Couplings usually have a nominal torque and a maximum torque they can manage. Nominal torque is the torque value that the coupling can work for without damage. The coupling could work over the nominal torque for a short period, but always under the maximum torque. The component life will be reduced if the coupling operates frequently over the nominal torque.
+Couplings usually have a nominal torque and a maximum torque they can manage. Nominal torque is the torque value that the coupling can handle without damage. The coupling may handle a higher torque for a short period, but always keep things under the maximum torque. The component life will be reduced if the coupling operates frequently over the nominal torque.
 
 If our motor has around 2000 Nm of nominal torque, an HRC 230 Coupling will work properly. Even if you choose a motor with lower torque, we recommend to slightly oversize the coupling for increased durability.
 
@@ -119,19 +151,19 @@ The gears transmit the power between the two shafts. Double shaft shredders work
 | Spur gear | 6      | 18          | 60         | 45              | 14 x 9      |
 | Spur gear | 6      | 20          | 60         | 45              | 14 x 9      |
 
-We recommend to use gears with hardened teeth. 
+We recommend to use gears with hardened teeth.
 
-The distance between them has to be 114mm. Many components, like the blades or the box, depend on that distance. If the gear specs change, the distance shall be kept fixed or a redesign of the blades and box will be required. 
+The distance between them has to be 114mm. Many components, like the blades or the box, depend on that distance. If the gear specs change, the distance shall be kept fixed or a redesign of the blades and box will be required.
 
 ### Shaft specifications
-The shaft is made by a 50mm hexagon bar milled to a 45mm diameter. We recommend using mid-high quality steel with a minimum yield strength of 350 Mpa (we used C45 steel). 
+The shaft is made by a 50mm hexagon bar milled to a 45mm diameter. We recommend using mid-high quality steel with a minimum yield strength of 350 Mpa (we used C45 steel).
 
 ### Bearing specifications
 
-We used UCFL209: 
+We used UCFL209:
 
-- Shaft size 45 mm 
-- Fixing Spacing 148 mm 
+- Shaft size 45 mm
+- Fixing Spacing 148 mm
 - Fixing hole diameter 19mm
 
 We use an M16 bolt to fix them: an adaptor is required
@@ -140,7 +172,7 @@ We use an M16 bolt to fix them: an adaptor is required
 
 All the laser cut parts are made with mild steel. They don’t require a specific material. However, we used wear-resistant steel (Hardox 400) for the blades and fixed blades (not the spacers), to make them more durable.
 
-## 🔌 Electronic box
+# ⚡ Electronic box
 
 ### Electric components
 - 1 x 3 phase general switch
@@ -167,7 +199,7 @@ https://github.com/davehakkens/shredder-reverse/blob/master/Schematic.pdf
 ### Arduino code link
 https://github.com/davehakkens/shredder-reverse
 
-## 👌 Tips & tricks while making
+# 👌 Tips & tricks while making
 
 There are two different types of blades. 13 teeth blades require more motor power but they produce smaller flakes, whereas, 6 teeth blades require less power but produce longer flakes. The grip should be slightly better with 6 teeth blades, but it depends on the shape and material.
 
@@ -187,14 +219,14 @@ Order multiple spacers for assembly adjustment.
 
 - Weld the tubes of the box, for faster cleaning (non structural weld)
 
-- Have the motor fixed: You probably use a different motor than the one in the 3D model. So you will need to modify the frame.
+- Attach the moter: You will probably use a different motor than the one in the 3D model. So you will need to modify the frame.
 
-## 🛠 Options
+# Additional Options
 
 ### Safety Hopper
 
-We designed a safety version of the hopper fully closed, to prevent the plastic from jumping out and make it safer for people to use. The drawings are accessible in the download kit to laser cut. Make sure to choose the hopper you want before sending to laser cut.
+We designed a fully closed version of the hopper to prevent the plastic from jumping out and make it safer for people to use. The drawings are accessible in the download kit to laser cut. Make sure to choose the hopper you want before sending the files to laser cut.
 
 ### Different sieves
 
-Potentially, you could use the shredder with no sieve. But in order to achieve different flake size standards - see input & output chapter - we provided different sieves size to sent to cut. You can as well get a drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding. 
+You could use the shredder with no sieve, but in order to achieve different flake size standards - see input & output chapter - we provided different sieve designs to be cut. You can get your own drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.

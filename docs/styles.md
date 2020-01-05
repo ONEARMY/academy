@@ -195,3 +195,13 @@ Or:
 1. **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
 1. **Lorem** ipsum dolor sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
 1. **Lorem ipsum dolor** sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
+
+## Tips and notes
+
+`> Tip: will show up in yellow` will show up like this:
+
+> Tip: will show up in yellow
+
+`<p class="note">Note: will show up in blue</p>` will show up like this:
+
+<p class="note">Note: will show up in blue</p>

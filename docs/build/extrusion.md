@@ -21,12 +21,7 @@ sidebar_label: Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Title
-
-When using the Precious Plastic extrusion machine, extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
-
-
-> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
+Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 
 
 > Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
@@ -49,11 +44,13 @@ When using the Precious Plastic extrusion machine, extrusion is a continuous pro
 </div>
 </div>
 
-![PP Image](assets/extrusion.jpg)
+![Extrusion v3](assets/build/extrusionv3.jpg)
 
+With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
+
+> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
 
 # 📓 Technical information
-
 📓 Type | Extrusion Machine
 --- | ---
 💎 Version | 2.0
@@ -65,6 +62,7 @@ When using the Precious Plastic extrusion machine, extrusion is a continuous pro
 ⏱ Max running time | 4H/Day
 🔌 Voltage | 380V    
 ⚡️ AMP | 5.8A
+♻️ Input Flake Size | Medium, Small  
 - Motor | Hollow shaft, 30mm
 - Nominal Power | 2.2 kW minimum. 3 kW recommended
 - Nominal Torque | 109 Nm
@@ -72,21 +70,29 @@ When using the Precious Plastic extrusion machine, extrusion is a continuous pro
 - Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
 
 # 🛠 Required machinery & skills
+Build Extrusion  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
-<img style="margin-left: 0;" src="../assets/extrusion_cad.jpg" width="300"/>
 
-## Machines needed
+# ⚡️ Electronic box
+Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
 
-- Drill press
-- Welding machine (not specific)
-- Angle grinder
+* <b>PID Controller:</b> the brains of the machine where you can set your desired temperatures. It will send power to the heaters until PV (point variable) matches the SV (set value). It does this using readings from the thermocouple and the SSR.
+*  <b>SSR:</b> the Solid State Relay is an electronic ‘switch’ that opens and closes depending on the signal it receives (from the PID).
+* <b>Thermocouple:</b> basically a thermometer.
+* <b>Band heater:</b> heating element that fits around a pipe.
+* <b>Power switch:</b> mechanical switch.
+* <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
+* <b>Power cable:</b> common household power cable.
 
+> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 ## Skills needed
 
-- Welding (intermediate) <i>icon/illustrations needed for levels</i>
-- Assembling (intermediate)
-- Electronics (intermediate)
+- Welding  🍊<font color="LightGray"> intermediate</font>
+- Assembling  🍎<font color="LightGray"> difficult</font>
+- Electronics  🍊<font color="LightGray"> intermediate</font>
 
 # 🛠 Electronic box
 
@@ -111,7 +117,6 @@ Explanation of electric component roles
 [Jerry’s BIG ELECTRONICS topic](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
-
 - Alignment of the motor and couplings is key, any misalignment could cause future wear and tear. To do this we recommend drilling holes into the plates and attaching them to the motor. Align and then weld the plate in position to the frame.
 - Any bolts used should be used in tandem with locking nuts to prevent them from loosening over time.
 - When choosing a gearing system bear in mind that the extrusion screw applies lateral pressure into the gearbox. Avoid using linear systems that don't have a back plate such as motors found in garden mulchers.  
@@ -120,20 +125,17 @@ Explanation of electric component roles
 
 
 # ♻️ Input & Output
-
-
 <b>Type:</b> HDPE, LDPE, PP, PS<br>
 <b>Flake size:</b> <5mm
 <b>Output:</b> Depends on nozzle, ±5 kg/h<br>
 
 
 # ⚙️ Run & maintain
-
-<br>
 You can set the temperature from the controllers on the electronic box. The heating elements are wired into two groups - nozzle and barrel are marked on top of the controllers. The first three elements (barrel) should be set at a slightly lower temperature than the last one near the nozzle. This is to make sure the plastic gets a last boost of heat right before it comes out. Below you can see a diagram with the best settings for this machine based on our experiments (tip: you could your own to see what works best for you). The optimal temperatures below are drawn using a motor turning at 70rmp. If your motor turns faster you would need higher temperature as the plastic flows faster through the barrel and has less time to melt, vice-versa if the motor is slower.
+> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
+
 
 ### How to operate the extruder                
-
 1. Heat the machine to the desired temperature.                    
 2. Wait 20 minutes.                            
 3. Add desired plastic in the hopper.                            
@@ -142,27 +144,8 @@ You can set the temperature from the controllers on the electronic box. The heat
 6. The machine is now ready for production!
 
 
-# 🌦 Pros & cons
-
-Pros | Cons
---- | ---
-Continuous output     | Complex to build
-Relatively cheap | Not built to run long
-Large products possible |  Output is low
-User Friendly |
-
-# 🔧 Most common hacks
-
-- [How-to: Beam Mould](https://community.preciousplastic.com/how-to/make-a-mould-to-extrude-beams)<br>
-- [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
-- [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
-- [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: SHelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
-- [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
-- (more to come)
 
 # 🔓 Troubleshooting
-
 - PID settings for K-Type - Change to J-Type (Ask vincent)
 - Machine Jams? Change the poles in motor wiring to reverse.
 
@@ -172,6 +155,26 @@ User Friendly |
 3. The temperature is not high enough and the plastic in the barrel does not manage to fully melt.                            
 4. You can solve the above problems by checking the integrity and purity of the raw material or by raising the temperature. Upon adjusting your process make sure to empty the entire barrel before attempting to make a new product
 
+# 🌦 Pros & cons
+Pros | Cons
+--- | ---
+Continuous output     | Complex to build
+Relatively cheap | Not built to run long
+Large products possible |  Output is low
+User Friendly |
+
+# 🌎 Built by the community
+![PP Image](assets/ppimage.jpg)
+
+
+# 🔧 Most common hacks
+- [How-to: Beam Mould](https://community.preciousplastic.com/how-to/make-a-mould-to-extrude-beams)<br>
+- [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
+- [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
+- [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
+- [How-to: SHelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
+- [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
+- (more to come)
 
 # 🙌 Useful Links
 - [Shredder & Extruder - Industrial Electronics ](https://davehakkens.nl/community/forums/topic/shredder-and-extrusion-industrial-electronics-2/)<br>
@@ -183,4 +186,16 @@ User Friendly |
 
 # 🌎 Built by the community
 
-![PP Image](assets/ppimage.jpg)
+<div class="j-slideshow">
+
+![Community Shredder](assets/build/community/community_extrusion.jpg)
+
+![Community Shredder](assets/build/community/deskfactory.jpg)
+
+![Community Shredder](assets/build/community/machinehack-ppukraine.jpg)
+
+![Community Shredder](assets/build/community/machines-inajason.jpg)
+
+![Community Shredder](assets/build/community/tableextrusion.jpg)
+
+</div>

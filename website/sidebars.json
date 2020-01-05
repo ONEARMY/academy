@@ -6,13 +6,15 @@
       "build",
       "build/shredder",
       "build/extrusion",
+      "build/injection",
+      "build/compression",
       {
-        "label": "Sheetpress Pro",
-        "type": "subcategory",
-        "ids": [
-          "build/sheetpress",
-          "build/sheetpressbuild",
-          "build/sheetpressrun"
+      "label": "Shredder Pro",
+      "type": "subcategory",
+      "ids": [
+        "build/shredderpro",
+        "build/shredderprobuild",
+        "build/shredderprorun"
         ]
       },
       {
@@ -24,14 +26,14 @@
           "build/extrusionprorun"
         ]
       },
-
       {
-        "label": "Shredder Pro",
+        "label": "Sheetpress",
         "type": "subcategory",
         "ids": [
-          "build/shredderpro",
-          "build/shredderprobuild",
-          "build/shredderprorun"
+          "build/sheetpress",
+          "build/sheetpressbuild",
+          "build/sheetpressrun"
+
         ]
       }
     ],
@@ -65,6 +67,6 @@
       "universe/yourlogo"
     ],
     "📦 Download": ["download"],
-    "💬 Support": ["support/faq", "support/chat", "styles"]
+    "💬 Questions?": ["support/faq", "support/chat", "styles"]
   }
 }

@@ -58,13 +58,16 @@ Ok. you are still here. good. The most common material for small series is alumi
 
 The maximum possible part size is defined by multiple variables:
 
-1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The granule has a bigger volume than the molten volume of the plastic. See image below
+1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The flakes have a bigger volume than the molten volume of the plastic. See image below
 <img style="margin-left:0px;" src="../assets/create/volume.jpg" width="500"/>
+
 2. Total Size of the mould -> can it be used with my injection machine?
 (v3 Injection: Diameter: 380mm x 170mm) If you use a screw nozzle and a rectangular mould consider the diagonal distance for the maximum width/length! See image below
 <img style="margin-left:0px;" src="../assets/create/sizes.jpg" width="500"/>
+
 3. Depth of part -> Easiest if less than ~40mm, because standard endmills can be used for the machining. Most Endmills are limited to around 100mm length. Can be relevant if hobby style CNC machines with little Z-Travel are used. The mould can be usually machined from a single block if you stay below 80mm. This can be a big cost saver in the process. See image below
 <img style="margin-left:0px;" src="../assets/create/milling.jpg" width="500"/>
+
 4. Projected area of all cavities, runners and gates towards the opening direction of the mould. This determines the necessary clamping force. This is not an issue for part designs injected with manual injection machines. If your part is manufactured on a higher pressure injection machine you might need to consider this closer. See image below
 <img style="margin-left:0px;" src="../assets/create/mould.jpg" width="500"/>
 
@@ -86,6 +89,7 @@ Especially for fine features where tolerances to match other parts are relevant 
 | PP |     2,6%   |
 | ABS, PC, PMMA   |   0,6%   |
 | PS | 0,5%	|
+
 <img style="margin-left:0px;" src="../assets/create/shrinkage.jpg" width="500"/>
 
 
@@ -145,12 +149,15 @@ Reasons to decrease the wall thickness:
 
 ## Fillets
 All plastic parts around you have fillets on their edges. The only exception are the edges which are formed at the intersection of the mould halfs or those formed by sliders and inserts in combination with other parts. This enables on the on hand an easy release of the part and on the other a uniform material flow within the mould. Additionally it reduces the costs of mould making in the manufacturing process. Try to keep the minimum inside fillets bigger than 0,5mm to make sure standard tools can be used for manufacturing.
+
 <img style="margin-left:0px;" src="../assets/create/fillets.jpg" width="500"/>
 
 Keep in mind that the wall thickness should be maintained on the fillet as well.
+
 <img style="margin-left:0px;" src="../assets/create/fillets-1.jpg" width="500"/>
 
 To ensure an easy material flow, try to avoid hard breaks in the part design.
+
 <img style="margin-left:0px;" src="../assets/create/fillets-2.jpg" width="500"/>
 
 
@@ -160,6 +167,7 @@ With engraving you can add text and graphics to your product in a very economic 
 Text and graphic can be integrated in two ways, either embossed or debossed
 Debossed text is the more economic option because the material around the text does not need to be removed by a small endmill.
 Although embossed is easier to read, because the area gets darker from the shadows which cast inside.
+
 <img style="margin-left:0px;" src="../assets/create/text-engrave.jpg" width="500"/>
 
 The most relevant value is the ratio of minimal line width to depth. You see in figure X how the shape of an engraving bit looks like. Due the geometric shape the line with gets wider as deeper the cut becomes. There are engraving bits in a range of 10° up to 90°. The advantage is that you already get a draft angle by default. On smaller font heights the draft angle is barely visible.
@@ -185,6 +193,7 @@ If the applied forces to this area are critical you can also consider post proce
 
 ## Ribs
 To increase the structural strength, while maintaining the same wall thickness ribs can be added to increase the rigidity of a part. This can be a time consuming design process, but prevents (opposed to increasing the wall thickness) sink marks in a better way and reduces the used material.
+
 <img style="margin-left:0px;" src="../assets/create/socket-rib.jpg" width="500"/>
 
 The thickness of the ribs should be around factor 0,4-0,6x wall thickness of the part. Stay on the lower end to prevent sink marks.
@@ -193,6 +202,7 @@ The height of the surface ribs should be less than factor 3x wall thickness.
 <img style="margin-left:0px;" src="../assets/create/socket-rib-1.jpg" width="500"/>
 
 If you design the ribs, make sure to consider the direction of the applied forces - especially for long parts.
+
 <img style="margin-left:0px;" src="../assets/create/ribbon.jpg" width="500"/>
 
 To prevent sink marks on aesthetic relevant surfaces, the ribbon structure can be offset at the intersection points, where more material is present. Take care that draft angle and fillets have to be applied to all ribbons as well to ensure a easy ejection of the part. The bottom fillet for the ribs is a difficult choice. You try to reduce the stress in the part while preventing material accumulation and sink marks.
@@ -205,6 +215,7 @@ To prevent sink marks on aesthetic relevant surfaces, the ribbon structure can b
 You can add a surface texture to parts. Larger details can be implemented into your CAD model and can be engraved during the production. For finer surface structure post processing methods like sand blasting can be used to achieve rough surface texture.
 
 If you add Texture to your surfaces take care to increase the draft angle to 3-5°.Below an example of a aluminum mould with a sandblasted finish inside.
+
 <img style="margin-left:0px;" src="../assets/create/texture-sandblast.jpg" width="500"/>
 
 

@@ -19,11 +19,7 @@
       },
       "build/extrusionpro": {
         "title": "Extrusion Pro Specifications",
-        "sidebar_label": "- Specifications"
-      },
-      "build/extrusionpro/extrusionpro": {
-        "title": "Build an extrusion Pro",
-        "sidebar_label": "➡️ Extrusion Pro"
+        "sidebar_label": "- Overview"
       },
       "build/extrusionprobuild": {
         "title": "Build an Extrusion Pro",
@@ -39,7 +35,7 @@
       },
       "build/sheetpress": {
         "title": "Sheetpress Pro Specifications",
-        "sidebar_label": "- Specifications"
+        "sidebar_label": "- Overview"
       },
       "build/sheetpressbuild": {
         "title": "Build a Sheetpress Pro",
@@ -55,7 +51,7 @@
       },
       "build/shredderpro": {
         "title": "Shredder Pro Specifications",
-        "sidebar_label": "- Specifications"
+        "sidebar_label": "- Overview"
       },
       "build/shredderprobuild": {
         "title": "Build a Shredder Pro",
@@ -109,10 +105,6 @@
         "title": "Tips on injection mouldmaking",
         "sidebar_label": "Injection moulds"
       },
-      "create/moulds-expert": {
-        "title": "Tips on expert mouldmaking",
-        "sidebar_label": "Moulds expert"
-      },
       "done": {
         "title": "Done?",
         "sidebar_label": "Finished?"
@@ -153,10 +145,6 @@
         "title": "Setup an Collection Point",
         "sidebar_label": "Collection Point"
       },
-      "spaces/communitypoint": {
-        "title": "Setup a community point",
-        "sidebar_label": "Community Point"
-      },
       "spaces/extrusion": {
         "title": "Setup an Extrusion Workspace",
         "sidebar_label": "Extrusion"
@@ -164,10 +152,6 @@
       "spaces/injection": {
         "title": "Setup an Injection Workspace",
         "sidebar_label": "Injection"
-      },
-      "spaces/machineshop": {
-        "title": "Setup a Machine Shop",
-        "sidebar_label": "Machine shop"
       },
       "spaces/mix": {
         "title": "Setup a mix Workspace",
@@ -220,7 +204,7 @@
       "8. Research": "8. Research",
       "9. Universe": "9. Universe",
       "📦 Download": "📦 Download",
-      "💬 Support": "💬 Support"
+      "💬 Questions?": "💬 Questions?"
     }
   },
   "pages-strings": {

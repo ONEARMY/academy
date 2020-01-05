@@ -5,7 +5,7 @@ sidebar_label: Action Plan
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/Cm4YK87j3NI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/w6Hyd9c5QMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -15,17 +15,16 @@ sidebar_label: Action Plan
 }
 </style>
 
-# Action Plan
-
+# The Action Plan
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Subtitle
+### A key component to a successful recycling business.
 
-So, how can you make money out of recycling plastic? We are excited to take you through some crucial tools to help you not only have an impact in your local community, but to become financially sustainable so you can do it for a long time. Joseph (our Business Guy) is going to take you through the following three tools to go from nothing, to having a business!
+The Action Plan is about boiling down your business idea into the most important components, so you can see all of the moving parts interacting together. A common issue we see within our community are people trying to do too many things at once - this tool will help you prioritize!
 
-`The most successful businesses are the ones that really focus on what they want to deliver to their customers or audience`
+> business tip
 
 </div>
 <div class="videoChaptersSidebar">
@@ -40,28 +39,13 @@ So, how can you make money out of recycling plastic? We are excited to take you 
 </div>
 </div>
 
-## The Business Tools
-
-*(does this need it's own intro?)*
-
-The Business Tools is a three part series consisting of:
-
-- The Action Plan is a quick and dirty business plan for you to plan your business model
-- The Workspace Calculator is a financial forecasting tool for you to understand the financial viability of your workspace
-- The Business Plan Template is where you roll everything together and create a more long form business plan
-
-
-## Action Plan Explained
-
-The Action Plan is about boiling down your business idea into the most important components, so you can see all of the moving parts interacting together. A common issue we see within our community are people trying to do too many things at once - this tool will help you prioritize!
+# The Action Plan Explained
 
 The Action Plan is a tool that you print out and write on, you can stick it on your wall to stay focused and help you run smoothly once you get started. Joseph will take you through everything you need to know in this video, and you can download the Action Plan in the Download Kit, or below!
 
-The Action Plan is divided into 4 main areas: Mission (center) 2),  Market Analysis (right side), Operations (left side), and Impact measures (bottom).
+The Action Plan is divided into 4 main areas: Mission, Market Analysis, Operations and Impact Measures.
 
-![PP Image](assets/ppimage.jpg)
-
-*<< action plan template >>*
+![Action Plan](assets/business/actionplan.jpg)
 
 
 ### Mission
@@ -103,7 +87,7 @@ This focuses on all the processes and needs on the inside of your business.
 
 ### Impact Measures
 
-This is how you’ll be able to measure your success. *(edit this)*
+This is how you’ll be able to measure your success.
 
 <b>Community</b> - how is your business impacting your local community? Will it create green jobs, education, awareness, new attraction for tourism? You can also think about the impact you will have to the Precious Plastic Community. Are you going to open-source your ideas, information, and products? Who will that benefit?
 
@@ -111,7 +95,9 @@ This is how you’ll be able to measure your success. *(edit this)*
 
 <b>Income Streams</b> are all the ways you can create income out of your business. It’s not the initial investment you need to start your business, but all the money that you will receive monthly from your operations. Are you selling products? Giving workshops? Charging fees for maintenance of the machines you build? Be realistic, and take a look around the Precious Plastic community at how other workspaces are making money.
 
-# Tips:
+![PP Image](assets/actionplan-fill.jpg)
+
+# 👌 Tips:
 
 - Revise the Action Plan tool several times before you get started - things will likely reveal themselves at different points so it will need to be edited and refined. This tool is a living and breathing document that can grow and evolve with your business.
 - Colour code your target groups

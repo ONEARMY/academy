@@ -5,7 +5,7 @@ sidebar_label: Business Plan Template
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/iCCZw_rtrtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/IXzcRQNe-hc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -20,13 +20,13 @@ sidebar_label: Business Plan Template
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Subtitle
+### Telling the story of your business or project.
 
 The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
 This template is an easy to follow framework for your business plan and consists of different sections to work through everything you need to get started, and to build your case as to why someone should be contributing to your business. The outline is below, but don’t worry if you don’t know what some of these are, Joseph is here to take you through bit by bit.
 
-> Tip: tippity tip
+> Pro Tip: Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it!
 
 
 </div>
@@ -52,7 +52,7 @@ This template is an easy to follow framework for your business plan and consists
 </div>
 </div>
 
-![PP Image](assets/ppimage.jpg)
+![Business Plan](assets/ppimage.jpg)
 *business plan template*
 
 1. Executive summary
@@ -76,7 +76,9 @@ This template is an easy to follow framework for your business plan and consists
 8. Legal Structure
 9. Appendix
 
-# Tips:
+![Business Plan](assets/businessplan.jpg)
+
+# 👌 Tips:
 
 - Complete the Action Plan first before writing down all the information in a long business plan. Your business model is more important than a business plan.
 - Think of your business plan as an opportunity for you to tell the story of your business or project, and why you have a compelling financial proposition. Show that you’ve really thought things through, especially how you’re delivering value to customers.

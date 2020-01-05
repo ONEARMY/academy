@@ -1,7 +1,7 @@
 ---
 id: compression
 title: Build an compression Machine
-sidebar_label: Compression 
+sidebar_label: Compression
 ---
 
 <div class="videocontainer">
@@ -20,12 +20,10 @@ sidebar_label: Compression
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Title
-
 The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mould. The process is slower than the other Precious Plastic machines but it allows for larger moulds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!).
 
 
-> Tip: tippy tip
+> Tip: The compression machine is good for testing and trying. But for steady production we advise an extrusion or injection machine
 
 </div>
 <div class="videoChaptersSidebar">
@@ -42,8 +40,6 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 </div>
 </div>
 
-![PP Image](assets/compression.jpg)
-
 # 📓 Technical information
 
 📓 Type | Compression Machine
@@ -56,45 +52,25 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 ⚙️ Compression | 2t car jack
 🔌 Voltage | 220V
 ⚡️ AMP | 2.6A
+♻️ Input Flake Size  | Medium, Small  |
 
 # 🛠 Required machinery & skills
+Build Compression  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-compression.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
-<img style="margin-left: 0;" src="../assets/compression_cad.jpg" width="300"/>
+# ⚡️ Electronic box
+Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
 
-## Machines needed
+* <b>PID Controller:</b> the brains of the machine where you can set your desired temperatures. It will send power to the heaters until PV (point variable) matches the SV (set value). It does this using readings from the thermocouple and the SSR.
+* <b>SSR:</b> the Solid State Relay is an electronic ‘switch’ that opens and closes depending on the signal it receives (from the PID).
+* <b>Thermocouple:</b> basically a thermometer.
+* <b>Band heater:</b> heating element that fits around a pipe.
+* <b>Power switch:</b> mechanical switch.
+* <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
+* <b>Power cable:</b> common household power cable.
 
-- Drill press
-- Welding machine (not specific)
-- Angle grinder
-
-
-## Skills needed
-
-- Welding (intermediate) <i>icon/illustrations needed for levels</i>
-- Assembling (intermediate)
-- Electronics (intermediate)
-
-# 🛠 Electronic box
-
-Explanation of electric component roles
-
-<b>PID Controller:</b> the brains of the machine where you can set your desired temperatures. It will send power to the heaters until PV (point variable) matches the SV (set value). It does this using readings from the thermocouple and the SSR.
-
-<b>SSR:</b> the Solid State Relay is an electronic ‘switch’ that opens and closes depending on the signal it receives (from the PID).
-
-<b>Thermocouple:</b> basically a thermometer.
-
-<b>Band heater:</b> heating element that fits around a pipe.
-
-<b>Power switch:</b> mechanical switch.
-
-<b>LED indicator:</b> LED that will shine with power (often found with Power switch).
-
-<b>Power cable:</b> common household power cable.
-
-<i>< Schematic link > </i>
-
-[Jerry’s BIG ELECTRONICS topic](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 
@@ -111,7 +87,6 @@ Explanation of electric component roles
 
 # ⚙️ Run & maintain
 
-<br>
 The compression is simple to understand and very powerful if properly mastered. It can be operated by one person alone most of the time. Once again, the creation process is very connected with moulds and mould making. If you have a precise mould you can create beautiful products. The mould we provide is very basic so everyone can understand the pro- cess but we highly encourage you and the team to look into making new moulds that can be useful in your area.
 
 ### How to operate the compression               
@@ -141,9 +116,11 @@ The compression is simple to understand and very powerful if properly mastered. 
 3. It is advisable to heat up the plastic rst until melted and then apply pressure.
 4. Don’t be hasty, make sure the plastic is fully melted in the mould.
 
+# 🔓 Troubleshooting
+- Plastic over-flows from one side of the mould. This is often the result of misalignment between the mould, pressing plate or the oven itself. Make sure everything is as much as possible parallel to the ground.
+- Product gets stuck to the mould. Try softly heating the mould to ease the release or try to apply a layer of mould-release to the mould.
 
 # 🌦 Pros & cons
-
 Pros | Cons
 --- | ---
 Easy to manufacture     | Process is slow
@@ -152,22 +129,14 @@ Runs on 220V |  Not energy efficient
 Bigger products than injection    |
 Unique patterns |  
 
-# 🔧 Most common hacks
+# 🌎 Built by the community
+![PP Image](assets/ppimage.jpg)
 
+# 🔧 Most common hacks
 - [Compression V2.1](https://preciousplastic.com/en/videos/build/upgrades/compression2-1.html)<br>
 - (more to come)
-
-# 🔓 Troubleshooting
-
-- Plastic over-flows from one side of the mould. This is often the result of misalignment between the mould, pressing plate or the oven itself. Make sure everything is as much as possible parallel to the ground.
-- Product gets stuck to the mould. Try softly heating the mould to ease the release or try to apply a layer of mould-release to the mould.
-
 
 # 🙌 Useful Links
 - [Machine Development: Compression](https://davehakkens.nl/community/forums/topic/machine-development-compression-oven/)<br>
 - [Solar Powered Melting Machine](https://davehakkens.nl/community/forums/topic/solar-powered-melting-machine/)<br>
 - [How-to: Wall Clock](https://www.youtube.com/watch?v=e_jqIvSFfI4)<br>
-
-# 🌎 Built by the community
-
-![PP Image](assets/ppimage.jpg)

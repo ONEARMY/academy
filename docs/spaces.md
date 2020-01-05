@@ -4,55 +4,25 @@ title: Spaces
 sidebar_label: Intro
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="blank" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <style>
 :root {
-  --highlight: #ffe084;
-  --hover: #ffe084;
+  --highlight: #37b4a3;
+  --hover: #37b4a3;
 }
 </style>
 
-# Precious Plastic Spaces 
+![Community Badges](assets/comm_badges.jpg)
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+# Precious Plastic Spaces
 
-### So, you want to set up a workspace - nice! 
+> Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working.
 
-Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working. To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind. 
-
-In the following chapters you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace. 
+To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind. In the following section you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace.
 
 
 
-</div>
-<div class="videoChaptersSidebar">
-
-### Video Chapters
-
-- 00:00 Introduction 
-- 00:29 Melting Temps 
-- 01:33 Make Moulds 
-- 03:00 Create with Injection 
-- 04:13 Create with Extrusion 
-- 06:02 Create with Compression
-
-
-
-</div>
-</div>
-
-
-Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working. 
-
-To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind.
-x
-In the following chapters (sections, whats proper wording?) you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace. 
-
-As you work, there are a few general things to keep in mind:
+### As you work, there are a few general things to keep in mind:
 
 <b>1. Work together.</b> Find a teammate. Having someone to share tasks with makes the work more fun and easier to handle. It’s best if you and your teammate have complementary skillsets – engineer + businesswoman, for example.
 

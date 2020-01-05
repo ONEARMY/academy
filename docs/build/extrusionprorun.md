@@ -11,15 +11,12 @@ sidebar_label: - Run it
 }
 </style>
 
-![Shredder](assets/ppimage.jpg)
+![Shredder](assets/build/extruderpro-run.jpg)
 
 # Run and Maintain the Extrusion Pro
+Hooray! You build yourself an Extruder Pro! Let's have some fun and make some beams and bricks. .Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
 
-This is text
-
-> This is a tip
-
-## 🏃‍♀️ Using
+## 🏃‍♀️ Extruder some Plastic
 
 ### How to Start
 
@@ -37,11 +34,11 @@ This is text
 1. If a mould is required for the desired product, attach it to the nozzle
 2. The flow can be adjusted by increasing or decreasing the speed on the VFD (0 to 50/60HZ)
 3. You can start and press run on the VFD
-4. Keep enough plastic granulates in the hopper while extruding to reduce chances of bubbles in the extruded plastic.
+4. Keep enough plastic flakes in the hopper while extruding to reduce chances of bubbles in the extruded plastic.
 
 # 👌 Tips & tricks while using
 
-Before setting up your mold, check the nozzle to see if the plastic looks homogeneous, fluid and check the viscosity and color. 
+Before setting up your mold, check the nozzle to see if the plastic looks homogeneous, fluid and check the viscosity and color.
 
 If you change plastic let the machine run for a minute to make sure the barrel is clean from the previous plastic type.
 
@@ -49,11 +46,11 @@ Shredded flakes smaller than 7 mm and rounded feed through the hopper very well.
 
 No plastic exiting the nozzle and abnormally high temperature readings means that a lot of friction is happening in the barrel and that the pressure is rising. Immediately shut off the machine as there is probably a clog somewhere preventing the plastic to flow out.
 
-### ⚠️⚠️⚠️ Always be careful and use suitable gloves when handling hot plastic!
+### ⚠️ Always be careful and use suitable gloves when handling hot plastic!
 
 Make sure there is always plenty of plastic in the hopper. you can hear a high-pitched squeak noise or metal on metal rubbing sounds if the barrel is empty. In that case, refill the hopper of stop extrusion to prevent excess wear.
 
-# ⏳ Maintain 
+# ⏳ Maintain
 
 The extruder is a simple and robust machine. However, if you wish to keep it for a long time, we will now give you a few maintenance tips for your machine:
 
@@ -77,7 +74,7 @@ Frequently check the tightening torque of the screws (coupler,motor adaptor etc)
 
 ### 2 heating elements stopped working together
 
-If you notice that 2 heating elements wired together are not working anymore, chances are that your Solid State Relay (SSR) is the problem. Open the electronics box and verify that the wires are well connected. If the wiring is good and the LED light doesn’t turn ON on the relay, you probably need to change it. 
+If you notice that 2 heating elements wired together are not working anymore, chances are that your Solid State Relay (SSR) is the problem. Open the electronics box and verify that the wires are well connected. If the wiring is good and the LED light doesn’t turn ON on the relay, you probably need to change it.
 
 If you change it and it still doesn’t work with the new Solid State Relay, you need to change your PID controller.
 
@@ -114,9 +111,3 @@ The most common problem with the extrusion is having an output that is not unifo
 2. Two different types of plastic are mixed together, common causes for this can be contamination in the sorting stage or plastic left in the barrel from previous activity. In this case, one plastic type melts while the other doesn’t and obstructs the plastic flowing through the nozzle.
 3. The temperature is not high enough and the plastic in the barrel does not manage to fully melt.
 4. You can solve the above problems by checking the integrity and purity of the raw material or by raising the temperature. Upon adjusting your process make sure to empty the entire barrel before attempting to make a new product.
-
-
-
-
-
-
