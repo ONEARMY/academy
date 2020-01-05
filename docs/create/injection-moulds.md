@@ -58,7 +58,7 @@ Ok. you are still here. good. The most common material for small series is alumi
 
 The maximum possible part size is defined by multiple variables:
 
-1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The granule has a bigger volume than the molten volume of the plastic. See image below
+1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The flakes have a bigger volume than the molten volume of the plastic. See image below
 <img style="margin-left:0px;" src="../assets/create/volume.jpg" width="500"/>
 
 2. Total Size of the mould -> can it be used with my injection machine?

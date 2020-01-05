@@ -34,7 +34,7 @@ Hooray! You build yourself an Extruder Pro! Let's have some fun and make some be
 1. If a mould is required for the desired product, attach it to the nozzle
 2. The flow can be adjusted by increasing or decreasing the speed on the VFD (0 to 50/60HZ)
 3. You can start and press run on the VFD
-4. Keep enough plastic granulates in the hopper while extruding to reduce chances of bubbles in the extruded plastic.
+4. Keep enough plastic flakes in the hopper while extruding to reduce chances of bubbles in the extruded plastic.
 
 # 👌 Tips & tricks while using
 

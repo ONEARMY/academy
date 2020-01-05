@@ -129,7 +129,7 @@ Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpres
 Pros | Cons
 --- | ---
 Small and lightweight | Processing load is small
-Option to granulate | Granulating is slow
+Option to granulate small flakes | Granulating is slow
 Relatively cheap | High in maintenance
 Portable |
 

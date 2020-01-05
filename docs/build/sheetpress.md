@@ -71,7 +71,7 @@ The machine does not have wheels and is not moveable by human power so requires 
 
 ### Plastic Input
 
-We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of flakes (small, medium large). We recommend using the large granules produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from non-shredded bottle caps, the melting time just increases slightly with a larger size of input material. Here is a chart to give an overview in different thicknesses, times and temperatures.
+We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of flakes (small, medium large). We recommend using the large flakes produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from non-shredded bottle caps, the melting time just increases slightly with a larger size of input material. Here is a chart to give an overview in different thicknesses, times and temperatures.
 
  ⚠️ Important you cannot press dirty plastic as it will leave burned residue on the mould which is very difficult to remove.
 
