@@ -21,7 +21,7 @@ sidebar_label: Sheetpress
 
 ###  A key role in transforming shredded plastic into beautiful sheets.
 
-So you want to set up an sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
+So you want to set up an Sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
 
 Setting up a workspace can be broken down into three main steps:
 
@@ -73,11 +73,11 @@ Once you’ve made a floor plan that seems promising, test it out in real life b
 
 ## 🛠 BUILD
 
-Now that your floor plan is blocked out, it’s time to transform your empty room into a sheetpress workspace.
+Now that your floor plan is blocked out, it’s time to transform your empty room into a Sheetpress workspace.
 
 ### Begin with basics
 
-Start with your most essential items - sheetpress, prep table, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
+Start with your most essential items - Sheetpress, prep table, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
 
 When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
 
@@ -94,7 +94,7 @@ Some essential items to get you started:
 - Offcut container
 
 
-Once you’ve got your basic workspace set up, start working with the sheetpress to develop your workflow and see what else might help you work more efficiently and comfortably.
+Once you’ve got your basic workspace set up, start working with the Sheetpress to develop your workflow and see what else might help you work more efficiently and comfortably.
 
 And don’t be afraid to spice the place up with your own unique charm :) Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in for yourself and anyone who stops by.
 

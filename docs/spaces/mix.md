@@ -14,14 +14,14 @@ sidebar_label: Mix
 }
 </style>
 
-# Sheetpress Workspace
+# Mix Workspace
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
 ###  A key role in transforming shredded plastic into beautiful sheets.
 
-Ok, you want to set up an sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
+Ok, you want to set up an Sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
 
 Setting up a workspace can be broken down into three main steps:
 
@@ -96,6 +96,15 @@ Some essential items to get you started:
 Once you’ve got your basic workspace set up, start working with the extruder to develop your workflow and see what else might help you work more efficiently and comfortably.
 
 And don’t be afraid to spice the place up with your own unique charm :) Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in for yourself and anyone who stops by.
+## Inside a shipping container
+Optionally we've also created a series of 4 videos where you can see how we build an entire Mix Workspace inside a 40 feet shipping container. It might give you some tips or inspiration on how to arrange your space. :)
+
+1. Get a container https://youtu.be/IhYHzKHH0CQ
+2. Build the interior: https://youtu.be/KQgzhtyaiHs
+3. Paint it: https://youtu.be/noQWukX7lTI
+4. How to run it:  https://youtu.be/ME-eiYvbgCg
+<iframe width="800" height="400" src="https://www.youtube.com/embed/IhYHzKHH0CQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Your role in the universe
 | Your icon  |  Your task |

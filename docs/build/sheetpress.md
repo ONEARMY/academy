@@ -1,6 +1,6 @@
 ---
 id: sheetpress
-title: Sheetpress Pro Specifications
+title: Sheetpress Specifications
 sidebar_label: - Overview
 ---
 
@@ -15,7 +15,7 @@ sidebar_label: - Overview
 ![Sheetpress](assets/build/sheetpress.jpg)
 
 
-# 📓 Sheetpress Pro information
+# 📓 Sheetpress information
 | Specification                                 |             |
 |--------------------------------------|-----------------------|
 | 📓 Type                               | Sheetpress              |
@@ -26,7 +26,7 @@ sidebar_label: - Overview
 | 📦 Sheetpress Dimension               | 1620 X 1620 X 1780 mm |
 | 🔌 Voltage                            | 400V                  |
 | ⚡️ AMP                                | 32A                   |
-| ⚡️ Power                              | 1.5kW                 |
+| ⚡️ Power                              | 15kW                 |
 | ♻️ Input Flake Size                   | Large, Medium, Small  |
 | Max Running Time                     | 8 hours per day       |
 | Max temp                             | 300°C                 |
@@ -35,8 +35,14 @@ sidebar_label: - Overview
 | Input Between Plates                 | 300mm                 |
 | Size of Sheet                        | 1000 x 1000 mm        |
 | Range of Sheet Thickness             | 4 - 35mm              |
-| Sheets Per Day (12mm)                | 10                    |
-| Sheets Per Day with full system (12mm)  | 3                    |
+| Sheets Per Day (12mm)                | 3                    |
+| Sheets Per Day with full system (12mm)  | 10                    |
+
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Hot+Press+v1&model_id=96613&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96613" allowfullscreen></iframe>
+
+
 
 # 🌦 Pros & cons
 
@@ -44,11 +50,11 @@ sidebar_label: - Overview
 
 Low material cost in comparison with market machines, typically 10,000+ for systems that produce sheets greater or equal to  1mx1m.
 
-This is the first press we have seen that transfers heat through conduction alone, not convection or conduction and convection with is the typical heating technique. This makes the heating process faster and more energy efficient than the alternatives on the market.
+This is the first press we have seen that transfers heat through conduction alone, not convection or conduction and convection which is the typical heating technique. This makes the heating process faster and more energy efficient than the alternatives on the market.
 
 Can be run by one person, most other systems require two people to operate.  No other systems on the market include usability tools meaning multiple people are needed at various steps of the sheet making process for sheets of this size.
 
-With the full system you can heat and press sheets simultaneously which allows you to produce sheets much faster than a standalone sheetpress which is typically the type of system available on the market.
+With the full system you can heat and press sheets simultaneously which allows you to produce sheets much faster than a standalone Sheetpress which is typically the type of system available on the market.
 
 Ease of build and diversity of molds, the molds we have developed are comparatively simpler and cheaper to make than molds from other systems.
 
@@ -56,8 +62,8 @@ Ease of build and diversity of molds, the molds we have developed are comparativ
 
 Sheet size 1mx1m, many manufacturing processes have been designed to work with 1220x1220mm and there are sheet pressing systems available on the market that can produce sheets larger than this system.
 
-Most mid-small workspace machinery only requires 16A but the sheetpress requires 32A.
-In comparison with other precious plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
+Most mid-small workspace machinery only requires 16A but the Sheetpress requires 32A.
+In comparison with other Precious Plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
 
 The machine does not have wheels and is not moveable by human power so requires a pallet/pump truck to move. Some other sheet pressing systems come with wheels but we opted not to for stability.
 
@@ -65,9 +71,9 @@ The machine does not have wheels and is not moveable by human power so requires 
 
 ### Plastic Input
 
-We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of Flakes (small, medium large). We recommend using the large granules produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from un shredded bottle caps, the melting time just increases slightly with a larger size of input material. Here is a chart to give an overview in different thicknesses, times and temperatures.
+We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of flakes (small, medium large). We recommend using the large flakes produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from non-shredded bottle caps, the melting time just increases slightly with a larger size of input material. Here is a chart to give an overview in different thicknesses, times and temperatures.
 
- ⚠️ Important You cannot press dirty plastic as it will leave burnt residue on the mould which is very difficult to remove.
+ ⚠️ Important you cannot press dirty plastic as it will leave burned residue on the mould which is very difficult to remove.
 
  |  Sheet thickness    | HDPE  <br> 220°    | PP <br>  230°   | PS <br> 240°  |
  |------|----------------|------------|--------|
@@ -80,7 +86,7 @@ We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press 
 
 
 ### Playing with colors
-This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredder plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples in the poster in the downloadkit
+This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredded plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples in the poster in the downloadkit
 
 ![Sheetpress colors](assets/build/sheetpress-colors.jpg)
 ### How many sheets at a time?
@@ -103,7 +109,7 @@ The aluminum pressing plates are 1220x1220mm but there is often an overflow from
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
 * [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
 * [⭐️ How to make a chair with sheets](https://community.preciousplastic.com/how-to/make-a-chair-with-bent-sheets)
-* [Forum post about building the sheetpress system](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
+* [Forum post about building the Sheetpress system](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
 * [Forum post about building a big oven](https://davehakkens.nl/community/forums/topic/sheet-press-mould-oven/)
 * [Forum post about an alternative version](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
 * [interesting results](https://davehakkens.nl/community/forums/topic/v4-sheets-interesting-results/)

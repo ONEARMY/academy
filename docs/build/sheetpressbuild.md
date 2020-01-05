@@ -1,6 +1,6 @@
 ---
 id: sheetpressbuild
-title: Build a Sheetpress Pro
+title: Build a Sheetpress
 sidebar_label: - Build it
 ---
 
@@ -18,9 +18,9 @@ sidebar_label: - Build it
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Build a Sheetpress Pro
+# Build a Sheetpress 
 
-Hi looks like you might want to build a sheetpress? that is great! It's a very exciting machine that can recycle big amounts of plastic on a daily base. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
+Hi looks like you might want to build a Sheetpress? that is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
 
 > Pro tip: Before you build, make sure you to read all documentation. Its a big project so make sure you know where you're getting into.
 
@@ -53,7 +53,7 @@ You need to make and buy parts. In the download-kit you can find the complete Bi
 
 ### Jacks option & explanation
 
-The type of jack used for both presses is a long-ram hydraulic bottle jack with an eye connection (round, not plate) at the bottom that allows it to be mounted with a bolt. For the sheetpress we recommend using a minimum 8 tons of pressure and for the cooling press we recommend using a minimum of 3 tons of pressure. Our CAD models and technical drawings are designed to fit a jack with a 28mm diameter ram which we found to be the most common. Note the tip of the ram is smaller than the rest, it is typical to list the diameter of the tip.
+The type of jack used for both presses is a long-ram hydraulic bottle jack with an eye connection (round, not plate) at the bottom that allows it to be mounted with a bolt. For the Sheetpress we recommend using a minimum 8 tons of pressure and for the cooling press we recommend using a minimum of 3 tons of pressure. Our CAD models and technical drawings are designed to fit a jack with a 28mm diameter ram which we found to be the most common. Note the tip of the ram is smaller than the rest, it is typical to list the diameter of the tip.
 
 ### Slider and Spring Mechanism tube diameter
 
@@ -65,9 +65,9 @@ We used a die spring but you could also use a racing motorbike spring or any oth
 
 ### Heating element option & explanation
 
-We chose 300W cartridge heaters as our heat source. Cartridge heaters allow the heat to be transferred through conduction, as opposed to radiation,which is much more energy efficient than the alternative. Using many small heat sources spread across the heating plates as opposed to a few large heat sources allows the heat to be distributed evenly. Despite being small, 300w in the quantity that we used is more than a sufficient amount of heat to efficiently melt the common types of plastic we are processing.
+We chose 300W cartridge heaters as our heat source. Cartridge heaters allow the heat to be transferred through conduction, as opposed to radiation, which is much more energy efficient than the alternative. Using many small heat sources spread across the heating plates as opposed to a few large heat sources allows the heat to be distributed evenly. Despite being small, 300w in the quantity that we used is more than a sufficient amount of heat to efficiently melt the common types of plastic we are processing.
 
-If you are going to modify the size of the sheetpress, we found that one 300W element can sufficiently heat a 240x240mm 10mm thick plate of aluminium. Just adjust the number of these heating elements accordingly. Also note, that we offset the heating elements on the upper and lower heating plates to achieve more even heating.
+If you are going to modify the size of the Sheetpress, we found that one 300W element can sufficiently heat a 240x240mm 10mm thick plate of aluminium. Just adjust the number of these heating elements accordingly. Also note, that we offset the heating elements on the upper and lower heating plates to achieve more even heating.
 
 ### Aluminium sheet option & explanation
 
@@ -118,7 +118,7 @@ Between the main power line and the PIDs there is a rotary switch to turn them o
 
 The heating elements are distributed evenly between each of the three phases. Each plates has one entire phase plus half of another which is shared by the two plates. E.g On the bottom plate ⅔ of the elements are on phase ⅓ of the elements are on phase two and on the top plate ⅓ of the elements are on phase 2 and ⅔ of the elements are on phase 3. The power supply from the control box enters the pressing plates and reaches a ceramic terminal, the ceramic terminal is used as it is capable of withstanding high temperatures.
 
-The heating elements are arranged in a 45°support structure array which is offset on the top and the bottom so that each the heating elements on one plate sit in the centre of the other plate.
+The heating elements are arranged in a 45° support structure array which is offset on the top and the bottom so that each the heating elements on one plate sit in the centre of the other plate.
 
 They are mounted inside an aluminium block which is mounted to the bottom of the aluminum plate to allow the heat to conduct easily.
 
@@ -170,7 +170,7 @@ The purpose of the drilling Jigs is to both ensure that the two holes used to mo
 
 >Tip: The most important part of the steel structure is that both sets of laser cut support structures are perfectly flat. Fortunately they’re slotted precisely to depth, so this can be done by clamping the two sections together.
 
-If you are building both the Sheetpress and Cooling Press make sure to weld the support structure for the Cooling Press before you install the aluminium plate in the sheetpress pressing plates.
+If you are building both the Sheetpress and Cooling Press make sure to weld the support structure for the Cooling Press before you install the aluminium plate in the Sheetpress pressing plates.
 
 # Additional Options
 
@@ -178,11 +178,11 @@ If you are building both the Sheetpress and Cooling Press make sure to weld the 
 
 It is possible to run the system without the ventilation but for the safety of you and the people around you we recommend to only turn the machine on when the extraction hood is attached and the ventilation system is turned on. As well as using the ventilation hood we also recommend ventilating the ambient space around the press. The ideal environment to operate the press would be an industrial spray painting room.
 
-### Only sheetpress or complete system
+### Only Sheetpress or complete system
 
-You can make sheets with the sheet press alone but the process is slow. You have to wait for the sheet press to heat up and cool down for each sheet you make which means you can produce one or two sheets per day. For some people (e.g. craftsmen and artisans) this is acceptable but for many others a faster rate of production is desirable.
+You can make sheets with the Sheetpress alone but the process is slow. You have to wait for the Sheetpress to heat up and cool down for each sheet you make which means you can produce one or two sheets per day. For some people (e.g. craftsmen and artisans) this is acceptable but for many others a faster rate of production is desirable.
 
-To improve ease of use and efficiency we designed three tools to turn the sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. So if you are looking to setup an efficient production, build the whole system. If you don't have a lot of space or just want to make a few sheets, make the Sheetpress.
+To improve ease of use and efficiency we designed three tools to turn the Sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. So if you are looking to setup an efficient production, build the whole system. If you don't have a lot of space or just want to make a few sheets, make the Sheetpress.
 
 ![Sheetpress run](assets/build/sheetpress-system.jpg)
 <br><br><br><br><br><br><br><br><br><br>

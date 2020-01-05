@@ -26,33 +26,40 @@ sidebar_label: - Overview
 |  - Output Speed   | 15-25 r/min|
 |  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
 
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Pro+v1&model_id=96615&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96615" allowfullscreen></iframe>
+
+
+
+
 # 🌦 Pros & cons
 
 ### Pros    
 
-Compare to previous Precious Plastic machines, this shredder is very robust and reliable. Elements have been calculated and dimension to handle stress induced by shredding plastic.
+Compared to previous Precious Plastic machines, this shredder is very robust and reliable. Everything has been calculated and dimensioned to handle the high stresses required to shred plastic.
 
-Most of industrial shredding system necessitate a shredding phase and a granulating phase, thanks to his adjustable meshes this machines is capable of carrying out both task.
+Most industrial shredding systems require a shredding phase and a granulating phase. Thanks to the adjustable meshes, this machines is capable of carrying out both tasks!
 
-This machine have been conceive for his relative easiness to built, the main part of it, the shredding box doesn’t require any welding, only welds remaining are straightforward built.
+This machine is designed for relatively easy assembly. No welding is required for the core shredding box, and all further welds are straightforward.
 
-This shredder have also been conceive as a very easy machine to clean. In less than 30 minutes the shredder will be ready for another batch of plastic, allowing community to produce small batch of plastic which are generally not accessible industrially.
+This shredder has also been designed to be easy to clean. In less than 30 minutes the shredder can be cleaned and ready for a different type of plastic, allowing community members to produce small batches of plastic.
 
 ### Cons
 
-If granulating is possible with only this shredder, this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price.
+Granulating is possible with only this shredder, but this step will still be slightly slower than with a dedicated industrial granulator. This machine is mainly for shredding, polyvalence came with a price.
 
-Compared to other Precious Plastic machines this machine is one of the hardest built even if we try to simplify as much as possible. You’ll need proper machines and skills.
+Compared to original V3 Precious Plastic machines, this machine is harder to build even though we tried to keep things simple. You’ll need proper machines and skills.
 
-This machines also require specific equipments and motor, it will be harder to built from scrap than other precious plastic machine. If you do, be sure to fully read comercial part chapter to procure your components, your machine reliability depends of it.
+This machine also requires specific equipment and a high powered motor making it a little harder to build from scrap. Be sure to fully read the bill of material to procure your components as your machine reliability depends of it.
 
 # ♻️ Input & output
 
-The machine can shred any kind of material and thickness. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power). PP, HDPE, PS from 0.7mm to 12mm have been tested successfully. Films are too thin and will slide in between the blades.  Rubber, tires, thermoset plastics have not been tested
+The machine can shred any plastic in any shape that fits between the blades. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power). PP, HDPE, PS from 0.7mm to 12mm have been tested successfully. Films are too thin and will slide in between the blades.  Rubber, tires, and thermoset plastics have not been tested.
 
 ![Shredder Pro](assets/build/shredder_output.jpg)
 ### Definition of our flakes sizes
-The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
+The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and Sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
 
 Name: | Large | Medium | Small |
 --- | ---| ---| ---|
@@ -62,11 +69,6 @@ Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpres
 
 
 To obtain these sizes, you need to use the right mesh. Install a 7mm sieve on the shredder to get small flakes or a 10mm sieve to get medium size. You can get the larger size without the use of a sieve. Depending on the size of the input material, you might need to shred several times to get the desired size.
-
-<iframe width="510" height="540" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded&name=Shredder+Pro+v1.0&model_id=96575&portal=b2b&showDescription=true&showLicense=false&showDownloadButton=false&showHotspots=false&noAutoload=true&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96575" allowfullscreen></iframe>
-
-
-https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded&name=Shredder+Pro+v1.0&model_id=96575&portal=b2b&showDescription=true&showLicense=false&showDownloadButton=false&showHotspots=false&noAutoload=true&autoRotate=false&hideMenu=false&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=
 
 
 ### Output and speed

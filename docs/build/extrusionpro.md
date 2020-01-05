@@ -31,13 +31,19 @@ sidebar_label: - Overview
 | 🔩 Length of screw (mm) | 790 mm |
 | 🔩 Effective screw length | 600 mm |
 | 🔩 Rated Motor Power | 3 kW |
-| ⚙️ Motor Type   |       |
+| ⚙️ Motor Type   |    (check the build section for more details)   |
 | - Rated Motor output Torque |  109 Nm |
 | - Rated Motor output speed |   263 RPM   |
 | - Max. Motor and Inverter power   | 3 kW|
-| - Recommended motor shaft   | 30 mm)|
+| - Recommended motor shaft   | 30 mm|
 | - Heating zones   | 3 |
-| - Heating power: max.   | 2 kW)|
+| - Heating power: max.   | 2 kW|
+
+
+# 🌐 3D Model
+<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extruder+Pro+v1&model_id=96617&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96617" allowfullscreen></iframe>
+
+
 
 # 🌦 Pros & cons
 
@@ -45,11 +51,11 @@ sidebar_label: - Overview
 
 The extruder is one of the fastest and most efficient to melt plastic among Precious Plastic machines. It is a safe and reliable machine amongst our machine’s family!
 
-The Extruder Pro screw is designed to be work with multiple types of plastics. Which  will make you capable of working with different kind of plastic in small batches. Also this machine is conceived to be much more polyvalent than other industrial machines, allowing you to extrude into moulds, shapes, differents nozzles…
+The Extruder Pro screw is designed to work with multiple types of plastics. Which  will make you capable of working with different kind of plastic in small batches. Also this machine is conceived to be much more polyvalent than other industrial machines, allowing you to extrude into moulds, shapes, different nozzles…
 
 ### Cons
 
-This machine requires the higher skill set of machining amongs Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other precious plastic machines.
+This machine requires a higher skill set of machining amongst Precious Plastic machines. It also requires a large motor and a specialized screw that make it a relatively expensive machine compare to other Precious Plastic machines.
 
 ### Normal VS Pro
 

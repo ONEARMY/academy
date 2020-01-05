@@ -479,10 +479,13 @@ button.tns-nav-active {
 a.edit-page-link {
   float: none;
   padding: 8px;
-  display: none;
+  background: none;
+  border: none;
+  position: absolute;
+  bottom: -100px;
 }
 header.postHeader {
-  text-align: right;
+  text-align: center;
   margin-bottom: 0 !important;
 }
 
