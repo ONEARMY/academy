@@ -38,6 +38,8 @@ In this section we introduce the Beyond Plastic Bio Press - a strong heat press 
 </div>
 </div>
 
+![Beyond Plastic Bowl](assets/research/BP_bowl.jpg)
+
 ## Let's get started
 
 There are three parts to making amazing things with the Beyond Plastic Bio Press. First the heat press itself (of course), second the moulds, and third the materials. We’ll go through each one in this text and everything is available in the download kit.
@@ -46,6 +48,8 @@ There are three parts to making amazing things with the Beyond Plastic Bio Press
 
 
 # The Heat Press
+
+![Beyond Plastic Heat Presss](assets/research/BP_press.jpg)
 
 Building the Bio Press is not as complicated as other machines, but if you have never built a machine before it’s definitely not simple. It really helps to have people around you that can help if you get stuck. So make sure to ask your friends or find someone on the map!
 
@@ -62,24 +66,11 @@ Building the Bio Press is not as complicated as other machines, but if you have 
 | Maximum Pressing Area | Width 240mm; D 400mm (space between legs)                                                      |
 | Energy used           | 2 x 400W heating elements                                                                      |
 
-## 🛠 Required machinery & skills
 
-### Machinery:
-
-- Angle grinder
-- Welding machine
-- Drill press
-- Drill bits
-- Tap set
-- Allen keys
-- Electronic assembly equipment (crimping tool, screwdriver for electronics)
-
-### Skills:
-
-- Cutting/grinding (intermediate)
-- Welding (intermediate)
-- Assembling (intermediate)
-- Electronics (intermediate)
+# 🛠 Required machinery & skills
+Bio Press  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/research/thumb_biopress.jpg" width="100"/>  | - Angle grinder <br> - Welding machine <br> - Drill press <br> - Drill bits <br> - Tap set <br> - Allen keys <br> - Electronic assembly kit (crimping tool, screwdriver for electronics | - Cutting/grinding (intermediate) <br> - Welding (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 ### Machine hacks not included in the video:
 
@@ -91,9 +82,11 @@ This is the first version of the Bio Press and we’ve already figured out some 
 
 # 🎈 Moulds
 
+![Beyond Plastic Mould](assets/research/BP_mould.jpg)
+
 In the download kit you can find three different moulds:
 
-1. A “tile” mould, which is basically a small sheet and pretty useful for testing materials and nice for creating your own visual library.
+1. A small sheet mould, which is useful for testing materials and nice for creating your own visual library
 2. A cup mould
 3. A bowl mould
 
@@ -119,14 +112,9 @@ Machines used for Moulds:
 - Tap set
 - Allen keys
 
-Materials tested:
-
-- Flat surface (tile mould)
-- 3D mould CUP
-- 3D mould Bowl
-- 3D mould Bowl small
-
 # 🍊 Materials
+
+![Beyond Plastic Materials](assets/research/BP_material.jpg)
 
 We already tested a few materials in the press and so far we feel like anything that has cellulose should work in principle. However, when it comes to the bigger products, they definitely get stronger if you add a natural binder to the mix. These can for example be starch, agar agar, xanthan gum or gelatine. If you don’t want to use fresh materials, be creative: there is starch in basically any root vegetable and it’s peel. You can also find binding agents in stale bread or some kinds of algae! Even dead insects can be a source for natural binders (you can find a way for this at plasticula.com).
 
@@ -158,9 +146,9 @@ More specific (chemically, but for dummies)
 
 This is for anyone who is interested in the chemistry behind the process we are using. But please correct me if I’m wrong! I’m not a chemist, but a designer, and this is only what I understood so far.
 
-If you heat and press a material that includes cellulose in a closed mould, the energy of the water molecules inside the material, which would usually go into creating steam, goes into creating new bonds between the cellulose. That’s why a material like coffee grounds, which is high in cellulose, starts binding without the help of any other natural binding agents and we get something that actually looks pretty stone-like.
+If you heat and press a material that includes cellulose in a closed mould, the energy of the water molecules inside the material, which would usually go into creating steam, goes into creating new bonds between the cellulose. That’s why a material like coffee grounds, which is high in cellulose, starts binding without the help of any other natural binding agents and we get something that actually looks pretty stone-like:
 
-Gif of moving the cut coffee ground sample
+![Beyond Plastic Materials](assets/research/BP_sample.jpg)
 
 However for this to work, it’s important to have a closed mould, as the energy might wander off with the steam otherwise and leave you with unbound material. That’s why all of our moulds have a pretty tight fit and a straight part in which the mould is already closed, but leaves space for compression.
 
