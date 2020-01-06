@@ -56,7 +56,7 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 
 
 # 🌐 3D Model
-<iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Compression+Basic+V2.0&model_id=96647&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96647" allowfullscreen></iframe>
+<iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Compression+Basic+V2.0&model_id=96647&portal=b2b&noAutoload=false&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96647" allowfullscreen></iframe>
 
 
 
