@@ -11,7 +11,7 @@ sidebar_label: Universe explained
 }
 </style>
 
-<img src="../assets/universe/universe.png" width="800"/>    
+<img src="../assets/universe/universe.gif"/>    
 
 # How the Universe works
 
