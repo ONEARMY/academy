@@ -32,6 +32,17 @@ body {
   text-decoration: none;
 }
 
+.smalldownloadButton{
+  background-color: rgb(131, 206, 235);
+  padding: 5px 8px;
+  color: #fff;
+  border: 2px solid rgb(110, 173, 198);
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 12px;
+}
+
 .downloadButton:hover {
   background-color: rgb(112, 197, 230);
   border-color: rgb(101, 173, 201);
@@ -596,15 +607,15 @@ hr {
 }
 
 .downloadCount {
-  color: rgb(131, 206, 235);
-  color: var(--hover, rgb(131, 206, 235));
+  color:
+  gray !important;
   display: inline-block;
   padding: 0 10px;
-  font-size: 1.3em;
+  font-size: 0.6em;
   text-align: center;
-  font-family: "Varela Round", sans-serif;
   opacity: 1;
-  transition: opacity 300ms;
+  transition: opacity 00ms;
+  text-transform: uppercase;
 }
 
 .downloadCount:after {

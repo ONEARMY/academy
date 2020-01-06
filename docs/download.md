@@ -14,12 +14,28 @@ sidebar_label: Download-Kit
 }
 </style>
 
-# Download kit
+# Precious Plastic - Download-Kit
 
-Alright! Lets do this!
-We've created one .zip file packed with everything you need to get started: blueprints, posters, labels, information, etc..
+We've created one MASSIVE .zip file. It's around 2GB and contains everything you need to get started: blueprints, posters, labels, CAD models etc..
+It's fun. But probably you don't need all this information. So we've also created Starterkits, smaller packages with specific information and examples. Much easier to digest and understand. Have a look on our website which Starterkit fits you. Make sure to send us a picture when you are done :)
 
-<a class="downloadButton" href="https://cutt.ly/precious-plastic-kit">↳ DOWNLOAD HERE</a>
-<span class="downloadCount loading">0</span>
 
-*Make sure to send us a picture when you are done :)
+<br><br>
+<center>
+<a class="downloadButton" href="https://cutt.ly/precious-plastic-kit">DOWNLOAD-KIT V4 🤙</a><br>
+<span align="center" class="downloadCount loading">0</span>
+</center>
+<img src="assets/download/arrow.png"/>
+<br>
+## Starterkits
+
+|  Space  | Name       | Filesize  ||
+|---|----------------|--------|--------|
+| <img src="assets/universe/badge-workspace.png" width="30"/>| Shredder Workspace |  400MB  | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-shredder">DOWNLOAD</a> |
+| <img src="assets/universe/badge-workspace.png" width="30"/>| Injection Workspace  | -MB        | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-injection">DOWNLOAD</a>   |
+| <img src="assets/universe/badge-workspace.png" width="30"/>| Extrusion Workspace  | -MB       | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-extrusion">DOWNLOAD</a>   |
+| <img src="assets/universe/badge-workspace.png" width="30"/>| Sheetpress Workspace | -MB        | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-sheetpress">DOWNLOAD</a>    |
+| <img src="assets/universe/badge-workspace.png" width="30"/>| Mix Workspace | 90MB       | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-mix">DOWNLOAD</a>    |
+| <img src="assets/universe/badge-community-point.png" width="30"/>| Community Point | -MB         | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-community">DOWNLOAD</a>    |
+| <img src="assets/universe/badge-collection-point.png" width="30"/>| Collection Point | -MB       | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-collection">DOWNLOAD</a>     |
+| <img src="assets/universe/badge-machine-shop.png" width="30"/>| Machine Shop | 400MB           | <a class="smalldownloadButton" href="https://cutt.ly/starterkit-machine">DOWNLOAD</a>     |
