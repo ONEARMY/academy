@@ -41,6 +41,12 @@ This tool is applicable to any type of business you hope to start within Preciou
 
 ~
 
+### 👇The link to the online Workspace Calculator
+
+Click on the link below to open the sheets document, and click File > Make a copy and you're ready to go! 
+
+[Open the Workspace Calculator](http://tiny.cc/ws-calculator-template)
+
 ### 👌 To get the best out of this tool:
 
 - Start on the “Read Me” page and then move from left to right. This will provide the best workflow and results

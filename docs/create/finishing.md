@@ -80,6 +80,22 @@ Right on! OK now you have a pile of your products, it’s time to mark them. It�
 
 # 🌎 Some products by the community
 
-![PP Image](assets/ppimage.jpg)
+<div class="j-slideshow">
+
+![Community Shredder](assets/Create/product1.jpg)
+
+![Community Shredder](assets/Create/product2.jpg)
+
+![Community Shredder](assets/Create/product5.jpg)
+
+![Community Shredder](assets/Create/product3.jpg)
+
+![Community Shredder](assets/Create/product6.jpg)
+
+![Community Shredder](assets/Create/product4.jpg)
+
+![Community Shredder](assets/Create/product7.jpg)
+
+</div>
 
 <b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>
