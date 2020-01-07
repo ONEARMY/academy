@@ -198,5 +198,10 @@ Different plastic types should never be mixed together as this will decrease the
 So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you! You can find more about specific melting temperatures in the <b>CREATE</b> section (head to <i>Design</i>). But it’s important to remember the different types of plastic, so we’ve made this handy poster for your workspace or studio. <br>
 
 ![Melting Temperatures](assets/plastic/melting-temperatures.jpg)
+<br>
+
+<b>Want to share feedback, chat about plastic or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.
+
+

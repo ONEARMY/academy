@@ -157,3 +157,5 @@ If you take the proper safety precautions of a proper gas mask and extraction fi
 1. [Pollution characteristics / health risk assessment of VOCs emitted from different plastic solid waste](http://iehpc.gdut.edu.cn/2015-7.pdf)
 2. [Removal of VOCs from polluted air](http://beta.chem.uw.edu.pl/people/AMyslinski/nowy/zarzadzanie_01/literature_HWW/02.pdf)       
 3. [Evaluation of GAC filters to remove VOCs](https://www.isiaq.org/docs/papers/940.pdf)
+
+<b>Want to share feedback, chat about safety or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>

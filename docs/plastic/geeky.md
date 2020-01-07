@@ -155,3 +155,5 @@ A few of the different ways to identify the plastic is:
 - If you smash PP with a hammer, it will shatter
 - If you smash PE, it will just bend or deform
 - To easily identify a thermoplastic from a thermoset, when you cut it with a sharp blade, a thermoplastic will be smooth and a thermoset will result in small particles
+
+<b>Want to share feedback, chat about plastic or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>

@@ -55,3 +55,7 @@ All plastic laying around you is a resource, not waste. It is a material with gr
 We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a workspace.
 
 We share everything open source for anyone to benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Precious Plastic and shapes most decisions within our team. We believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively.
+
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a Discord to discuss all the things we're doing here. Check out the Questions section in the sidebar to see where you can chat with people locally and globally.</p>
+
+Ok, let's dive in!

@@ -109,3 +109,5 @@ For people in our community we’re developed:
 - A <b>platform</b> to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
 - <b>Posters</b> for your workspace or for your community to help spread the word
 - A <b>tool to weigh</b> how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
+
+<b>Want to share feedback, chat about collecting plastic or learn more from the community? Head to the [#Collect](https://discordapp.com/invite/kpnYaEr) channel on Discord. Here we talk about the Collection system, Pickup points and how to sort plastic.</b>
