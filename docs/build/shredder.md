@@ -153,6 +153,8 @@ Portable |
 
 <div class="j-slideshow">
 
+![Community Shredder](assets/Build/community/communityshredder1.jpg)
+
 ![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
 
 ![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)

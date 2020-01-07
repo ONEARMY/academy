@@ -137,7 +137,17 @@ Bigger products than injection    |
 Unique patterns |  
 
 # 🌎 Built by the community
-![PP Image](assets/ppimage.jpg)
+
+<div class="j-slideshow">
+
+![Community Compression](assets/Build/community/compression1.jpg)
+
+![Community Compression](assets/Build/community/compression2.jpg)
+
+![Community Compression](assets/Build/community/compression3.jpg)
+
+</div>
+
 
 # 🔧 Most common hacks
 - [Compression V2.1](https://preciousplastic.com/en/videos/build/upgrades/compression2-1.html)<br>

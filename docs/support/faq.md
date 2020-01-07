@@ -73,14 +73,14 @@ If you make them properly according to our drawings it should be ok. Overall the
 </p>
 </details>
 
-<details><summary><b>What are the requirements? (Space, tools/equipment, money, time, people)<b></summary>
+<details><summary><b>What are the requirements? (Space, tools/equipment, money, time, people)</b></summary>
 <p>
 
 It's different for every machine, the best place to find this information is in the [Build](https://community.preciousplastic.com/academy/build) section of the Academy. Good luck!
 </p>
 </details>
 
-<details><summary><b>What’s the output? (kg per hour/ min or max size)<b></summary>
+<details><summary><b>What’s the output? (kg per hour/ min or max size)</b></summary>
 <p>
 
 text
@@ -239,7 +239,7 @@ text
 <details><summary><b>What is plastic?</b></summary>
 <p>
 
-See the "Plastic" section in the Academy.
+See the [Plastic](http://localhost:3000/academy/plastic/basics) section in the Academy.
 </p>
 </details>
 
