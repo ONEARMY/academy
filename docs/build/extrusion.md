@@ -21,7 +21,7 @@ sidebar_label: Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉 
+Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉
 
 > Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
@@ -69,6 +69,11 @@ With this machine you can create filament (challenging but doable), granulate or
 - Output Speed | 40-140 r/min
 - Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
 
+
+# 🌐 3D Model
+<iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Extrusion+Basic+V2.0&model_id=96651&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96651" allowfullscreen></iframe>
+
+
 # 🛠 Required machinery & skills
 Build Extrusion  | Machines needed | Skills needed
 --- | ---| ---
@@ -111,8 +116,6 @@ Explanation of electric component roles
 <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 
 <b>Power cable:</b> common household power cable.
-
-<i>< Schematic link > </i>
 
 [Jerry’s BIG ELECTRONICS topic](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
@@ -172,7 +175,7 @@ User Friendly |
 - [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
 - [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
 - [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: SHelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
+- [How-to: Shelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
 - [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
 - (more to come)
 

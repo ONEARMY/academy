@@ -73,10 +73,6 @@
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
       },
-      "business/businessintro": {
-        "title": "Intro",
-        "sidebar_label": "Intro"
-      },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
         "sidebar_label": "Workspace Calculator"
@@ -175,7 +171,7 @@
       },
       "support/faq": {
         "title": "FAQ",
-        "sidebar_label": "faq"
+        "sidebar_label": "FAQ"
       },
       "universe/branding": {
         "title": "Branding",
@@ -183,7 +179,7 @@
       },
       "universe/yourlogo": {
         "title": "Make your own logo",
-        "sidebar_label": "Your own logo"
+        "sidebar_label": "Make your logo"
       },
       "universe/universe": {
         "title": "Universe",

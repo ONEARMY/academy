@@ -2,6 +2,8 @@ function addHideClass(item) {
   return item.classList.add("hide");
 }
 
+var mql = window.matchMedia("(min-width: 1024px)");
+
 window.addEventListener("DOMContentLoaded", function() {
   var categoryNodes = document.querySelectorAll(
     ".navGroups .navGroup .collapsible"
@@ -18,7 +20,10 @@ window.addEventListener("DOMContentLoaded", function() {
         .forEach(function(link) {
           link.parentNode.querySelector(" ul").classList.add("hide");
         });
-      that.parentNode.querySelector("ul .navListItem a").click();
+
+      if (mql.matches) {
+        that.parentNode.querySelector("ul .navListItem a").click();
+      }
     });
   });
 
@@ -42,7 +47,9 @@ window.addEventListener("DOMContentLoaded", function() {
           link.classList.remove("upsideDown");
           addHideClass(link.parentNode.querySelector("ul"));
         });
-      that.parentNode.querySelector("ul .navListItem a").click();
+      if (mql.matches) {
+        that.parentNode.querySelector("ul .navListItem a").click();
+      }
     });
   });
 
@@ -69,7 +76,45 @@ window.addEventListener("DOMContentLoaded", function() {
   if (document.getElementsByClassName("j-slideshow").length > 0) {
     initiateSlideshows();
   }
+
+  (function getKitDownloadCount() {
+    var kitUrl =
+      "https://cors-anywhere.herokuapp.com/https://cutt.ly/api/api.php?key=19f84938273aa758d86cc1f73a0e5b236ca06&stats=precious-plastic-kit";
+    var request = new XMLHttpRequest();
+    request.open("GET", kitUrl, true);
+
+    request.onload = function() {
+      if (this.status >= 200 && this.status < 400) {
+        try {
+          var data = JSON.parse(this.response);
+          var downloadCount = ["stats", "clicks"].reduce(function(obj, path) {
+            return (obj || {})[path];
+          }, data);
+          writeToDomNodes(".downloadCount", downloadCount);
+          removeLoadingClass(".downloadCount");
+        } catch (error) {}
+      }
+    };
+
+    request.send();
+  })();
 });
+
+function removeLoadingClass(selector) {
+  Array.from(document.querySelectorAll(selector + ".loading")).forEach(function(
+    domNode
+  ) {
+    domNode.classList.remove("loading");
+  });
+}
+function writeToDomNodes(selector, value) {
+  var nodes = Array.from(document.querySelectorAll(selector));
+  if (nodes.length > 0) {
+    nodes.forEach(function(n) {
+      n.innerHTML = value;
+    });
+  }
+}
 
 /********************************************************************
  *  Custom functions to support use as an Iframe within the

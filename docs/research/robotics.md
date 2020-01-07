@@ -23,19 +23,12 @@ sidebar_label: Robotic sorting
 
 In fact it remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots 🤖
 
-Using robotics for sorting and scanning is a very experimental project at Precious Plastic. It’s more like an ongoing research project to work on optimizing . There’s two parts to this research: working with a robot to move the products and designing a scanner to identify the type of plastic that we’re moving
-
-
 </div>
 <div class="videoChaptersSidebar">
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 0:00 Video coming soon
 
 
 </div>
@@ -47,7 +40,7 @@ Using robotics for sorting and scanning is a very experimental project at Precio
 
 Local recycling works differently in every country, but there are a variety of options to recognize plastic. This can involve high end industrial machines that cost facilities millions, or paying people to sort through waste by hand. Building processes that fit in between will take time and energy, and that’s what we’re working towards.
 
-## Now, let's welcome Bradford and One Arm!
+## Now, let's welcome One Arm!
 
 <img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/gif/robot.gif" width="500"/>
 
@@ -58,6 +51,8 @@ For a robotic system like this one to pick and sort plastic you need three thing
 - A brain, that’s programmed to make decisions based on chosen parameters
 
 Sounds simple, right? Each component has their own set of unique challenges, including getting them all to work together as a unit. Many robotic systems that are provided by companies come with their own operating systems, but these are closed systems (and we like open-source!) so, we went with a system called Robotic Operating System (or ROS). ROS creates this whole framework that allows each part - arms, sensors, brains - to send messages to each other to function properly. The ROS framework is entirely modular (🎉) so you can swap out different components or algorithms.
+
+![Robotic Belt](assets/robotic_ros.png)
 
 ## The Eyes
 
@@ -81,22 +76,33 @@ With our unique objects identified as clusters of points, our brain finds the ob
 
 ## The Arm
 
-
 We bought a second-hand industrial robot, which was not exactly cheap (but every year they are getting cheaper and easier to find). Ours has a 1.5 meter reach and a 10 kg payload capacity. It operates on 6 axis to achieve a huge variety of poses. It’s not quite ready to win any awards for speed, but we chose this because they’re easier to develop for. Other robot geometries (like a delta or SCARA) are better suited to achieve high speeds that are ideal for pick and place operations.
 
 To actually grab the plastic waste, we use a vacuum-gripper. It’s like a mini vacuum cleaner pipe that can suck in and hold objects. We’re using a vacuum generator that uses compressed air to generate the vacuum. Our vacuum generator also allows us to to speed up the dropping process by activating a quick burst of air to blow out the gripped object.
 
-<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/gif/suck_small.gif" width="500"/>
+<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/gif/suck_sort.gif" width="500"/>
 
 Another key part of this stage is how the plastic is delivered to the system. Implementing a conveyor belt would make this an entirely autonomous loop of plastic recycling 🎉🎉🎉
 
-So what’s next? One Arm is picking up and dropping off plastic, it knows where to go - a great result! From here we’ll be improving the suck and blow gripper and thinking about installing a conveyer belt. If you want to learn more about this research project, <a href="url">visit the forums</a> and discuss plastic sorting. We’ve also posted our segmenting code on Github to see if anyone wants to improve on it.
+So what’s next? One Arm is picking up and dropping off plastic, it knows where to go - a great result! From here we’ll be improving the suck and blow gripper and thinking about installing a conveyer belt. If you want to learn more about this research project, <a href="https://davehakkens.nl/community/forums/topic/sorting-plastic-with-robotics-v4/">visit the forums</a> and discuss plastic sorting. We’ve also posted our segmenting code on Github to see if anyone wants to improve on it. <a href="https://github.com/HbirdJ/plastic_picker">Check it out here!</a>
 
 # Ok, but how does it know what is HDPE and what is PS?
 
 That's a great question! Another very important part to making this work is to actually identify what type of plastic it is. A robot is smart, but unfortunately it's not smart enough own it's own (probably a good thing) to identify different materials. This is where our research into plastic identification techniques comes into play.
 
-As we have learned already, we use the numbers 1-7 to label different plastic types, but there is still a lot of plastic that is unmarked, degraded or shredded, so we can’t always rely on seeing this number. An alternative approach is to use spectroscopy, observing the interaction between matter and electromagnetic radiation. True spectroscopy rather complex and expensive, so we can use it’s simpler sibling: optical spectroscopy.
+As we have learned already, we use the numbers 1-7 to label different plastic types, but there is still a lot of plastic that is unmarked, degraded or shredded, so we can’t always rely on seeing this number. 
+
+## Machine Learning
+
+Ok, so machines aren't smart enough on their own, but they can be trained to recognize different objects using techniques known as machine learning. Basically this means you create a big dataset of objects that have been labeled with a type of plastic, and then feed that into an algorithm that starts to recognize patterns in the raw data and can then apply these patterns to new unknown datapoints.
+
+We did implement a basic version of this in our research with One Arm, and it worked perfectly on our small unknown data set! We showed the 3D camera known objects and told it to record their shape, size, and color in a variety of orientations. We also told it what kind of plastic it was beforehand. Then we fed all that raw info into a training algorithm the produced a <a href="https://en.wikipedia.org/wiki/Support-vector_machine">support vector machine (SVM)</a> model. This SVM model was able to recognize all 15 known objects we trained it on 100% of the time!
+
+That's great, but unfortunately there are more than 15 different plastic objects in the world. It's very possible to use larger data sets and improved models to sort all sorts of plastic in the future, and there are plastic sorting facilities out there using this method. There are still major issues recognizing the type of plastic in an object that hasn't been seen before.
+
+## Spectroscopy
+
+An alternative approach is to use spectroscopy, observing the interaction between matter and electromagnetic radiation. True spectroscopy rather complex and expensive, so we can use it’s simpler sibling: optical spectroscopy.
 
 ![Spectroscopy](assets/Research/spectroscopy.png)
 

@@ -28,15 +28,16 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 
 ### Video Chapters
 
-- 00.36 1 Bearing body shaft
-- 00.36 2 Barrel inlet
-- 00.36 3 Barrel
-- 00.36 4 Motor adapter
-- 00.36 5 Hopper
-- 00.36 6 Electronics
-- 00.36 7 Frame
-- 00.36 8 Final assembly
-- 00.36 9 Maintenance and how to run
+- 00:07 Introduction
+- 01:30 Bearing body and shaft
+- 08:49 Barrel inlet
+- 12:17 Barrel
+- 15:13 Motor adapter
+- 16:35 Hopper
+- 17:39 Electronics
+- 19:45 Frame
+- 20:19 Final assembly
+- 24:11 Maintenance and how to run
 
 </div>
 </div>
@@ -80,7 +81,6 @@ Square feed hoppers work well, except when there is a large variation in plastic
 ### Explanation of electric component roles
 
 ![PID](assets/ex4_PID.jpg)
-(redo image)
 
 ### PID controllers:
 
@@ -99,10 +99,6 @@ The majority of PIDs are type K by default, but it is sometimes possible to use 
 <img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex6.jpg" width="250"/>
 
 A VFD (Variable Frequency Drive) is a precision electronic device specifically designed and used to control the speed of AC induction motors without affecting the electric consumption, torque, impedance, etc. of the motor.    
-
-### Schematic link
-
-Link to the schematic or to the download kit
 
 # 👌 Tips & tricks while making
 
