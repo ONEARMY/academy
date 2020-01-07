@@ -22,7 +22,7 @@ sidebar_label: Injection
 
 The injection machine has a quick production output with high precision, while it takes a little bit more effort in the beginning with designing and making a mold, you’ll be amazed at what you can create. Shredded plastic enters the hopper and is heated and pressed through a long barrel into your mold. The output colour is often unpredictable when mixing colours in the barrel, allowing for beautiful (and surprising) patterns that can add to your one-of-a-kind products.
 
-> Tip: Invest in a good mould. Good mould, good output :)
+> Pro-tip:: Invest in a good mould. Good mould, good output :)
 
 </div>
 <div class="videoChaptersSidebar">
@@ -80,7 +80,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> common household power cable.
 
-> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 
 # 🛠 Tips & tricks while making

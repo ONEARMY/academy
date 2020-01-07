@@ -35,12 +35,11 @@ Each of these steps is explained in more detail below.
 
 ### Video Chapters
 
-- 00:10 What you’ll need
-- 00:50 How to organise
-- 01:25 Engaging on/offline
-- 01.45 Clean plastic
-- 02.01 Passing the plastic on
-- 02.49 Presenting your workspace
+- 00:00 Introduction
+- 00:50 Workspace Setup
+- 01:25 Engagement
+- 02:00 Labeling and Recording
+- 03:01 Collection Logistics
 
 </div>
 </div>
@@ -79,8 +78,6 @@ Have a whole bag ready to go? Be sure to label it properly with a label that won
 
 Seeing plastic as beautiful, valuable objects is a huge motivator for people bringing in their plastic, it’s nice to have a display to show off the Precious Plastic products being made from the plastic you’re collecting.
 
-There are many different ways you can collect plastic - people can bring it to you, or you can go and get it from them, but will depend on what’s possible in your area. Check out our series of <a href="url">Collection How-To's</a> to get inspired! But whatever approach you take, make sure that everyone that comes to your workspace has a nice, friendly experience. And of course in true Precious Plastic style, we’ve made some posters that you can hang up :)
+There are many different ways you can collect plastic - people can bring it to you, or you can go and get it from them, but will depend on what’s possible in your area. Check out our series of <a href="https://community.preciousplastic.com/how-to/set-up-a-collection-point">Collection How-To's</a> to get inspired! But whatever approach you take, make sure that everyone that comes to your workspace has a nice, friendly experience. And of course in true Precious Plastic style, we’ve made some posters that you can hang up :)
 
 So that’s it! Your needs will change depending on your own situation so make sure you adapt to what’s relevant for you and your community - make sure to share your experiences so we can all grow together. What’s next?
-
-<b>Want to share feedback, chat about the Collection Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>

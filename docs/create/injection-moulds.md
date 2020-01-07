@@ -10,7 +10,7 @@ sidebar_label: Injection moulds
   --hover: rgb(131, 206, 235);
 }
 </style>
-<img style="margin-left:0px;" src="../assets/Create/socket-cnc.jpg" />
+<img style="margin-left:0px;" src="../assets/create/socket-cnc.jpg" />
 
 # Tips on making injection moulds
 
@@ -52,18 +52,18 @@ The maximum possible part size is defined by multiple variables:
 
 1. Maximum volume -> is the part volume (inclusive sprue, gates and runners) less than 150g? (for the standard v3 injection machine). Going towards the upper end of the volume range >130g will make additional compressing of the plastic necessary and reduce the cycle time. The flakes have a bigger volume than the molten volume of the plastic:
 <br><br>
-<img style="margin-left:0px;" src="../assets/Create/volume.jpg" width="500"/><br>
+<img style="margin-left:0px;" src="../assets/create/volume.jpg" width="500"/><br>
 
 2. Total Size of the mould -> can it be used with my injection machine?
-(v3 Injection: Diameter: 380mm x 170mm) If you use a screw nozzle and a rectangular mould consider the diagonal distance for the maximum width/length! 
+(v3 Injection: Diameter: 380mm x 170mm) If you use a screw nozzle and a rectangular mould consider the diagonal distance for the maximum width/length!
 <br><br>
-<img style="margin-left:0px;" src="../assets/Create/sizes.jpg" width="500"/><br>
+<img style="margin-left:0px;" src="../assets/create/sizes.jpg" width="500"/><br>
 
 3. Depth of part -> Easiest if less than ~40mm, because standard endmills can be used for the machining. Most Endmills are limited to around 100mm length. Can be relevant if hobby style CNC machines with little Z-Travel are used. The mould can be usually machined from a single block if you stay below 80mm. This can be a big cost saver in the process. <br><br>
-<img style="margin-left:0px;" src="../assets/Create/milling.jpg" width="500"/><br>
+<img style="margin-left:0px;" src="../assets/create/milling.jpg" width="500"/><br>
 
 4. Projected area of all cavities, runners and gates towards the opening direction of the mould. This determines the necessary clamping force. This is not an issue for part designs injected with manual injection machines. If your part is manufactured on a higher pressure injection machine you might need to consider this closer. <br><br>
-<img style="margin-left:0px;" src="../assets/Create/mould.jpg" width="500"/><br>
+<img style="margin-left:0px;" src="../assets/create/mould.jpg" width="500"/><br>
 
 
 
@@ -85,7 +85,7 @@ The consideration of shrinkage is very important, especially for fine features w
 | ABS, PC, PMMA   |   0,6%   |
 | PS | 0,5%	|
 <br>
-<img style="margin-left:0px;" src="../assets/Create/shrinkage.jpg" width="500"/><br>
+<img style="margin-left:0px;" src="../assets/create/shrinkage.jpg" width="500"/><br>
 
 
 ## Draft Angle
@@ -98,7 +98,7 @@ Common value to start is 2°, high features can use a draft angle up to 5°. It 
 
 Many software packages on the market offer a helpful draft analysis function and this can be very handy especially if you have to check many surfaces on a single part for draft angle. You can set the range of legible draft angles. See image below.
 
-<img style="margin-left:0px;" src="../assets/Create/draft-angle-1.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/draft-angle-1.jpg" width="500"/>
 <br>
 <p class="note">Note: if there is no possibility of adding a draft angle to your design, consider to work with sliders or inserts to make straight surfaces possible. Keep in mind that this will significantly increase the manufacturing costs.
 </p>
@@ -109,11 +109,11 @@ The right wall thickness is very important for the successful injection of your 
 Be aware that manual injection machines are mainly limited by the pressure they can build up - select a value at the upper end of the range to ensure that the part can be successful injected. A proven wall thickness is above 2,5mm which in most applications worked well.
 In the image you see the iPhone 7 case from the last starter kit, it shows a simulation of multiple wall thicknesses and shows the reason why it became 2,5mm thick.
 
-<img style="margin-left:0px;" src="../assets/Create/wall-thickness.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/wall-thickness.jpg" width="500"/>
 
 The maximum values are recommended values from the industry. Keep in mind that it is a valid option to exceed them as far as you want. This can be an option to inject solid parts like a knife handle, small plates or other objects. The disadvantage is that you will face bigger sink marks, higher shrinkage and a longer cycle time because the parts have to cool longer before they can be removed from the mould.
 
-<img style="margin-left:0px;" src="../assets/Create/wall-thickness-1.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/wall-thickness-1.jpg" width="500"/>
 
 The wall thickness in combination with the flow distance (the gate to the farthest cavity space) is the most important factor in part design to determine the necessary injection force.
 
@@ -148,27 +148,27 @@ Reasons to decrease the wall thickness:
 
 
 ## Fillets
-All plastic parts around you have fillets on their edges. The only exception are the edges which are formed at the intersection of each mould half, or those formed by sliders and inserts in combination with other parts. This enables on one hand an easy release of the part and on the other a uniform material flow within the mould. Additionally, it reduces the costs of mould making in the manufacturing process. 
+All plastic parts around you have fillets on their edges. The only exception are the edges which are formed at the intersection of each mould half, or those formed by sliders and inserts in combination with other parts. This enables on one hand an easy release of the part and on the other a uniform material flow within the mould. Additionally, it reduces the costs of mould making in the manufacturing process.
 
 > Pro-tip: try to keep the minimum inside fillets bigger than 0,5mm to make sure standard tools can be used for manufacturing.
 
 <br>
-<img style="margin-left:0px;" src="../assets/Create/fillets.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/fillets.jpg" width="500"/>
 
 Keep in mind that the wall thickness should be maintained on the fillet as well.
 
-<img style="margin-left:0px;" src="../assets/Create/fillets-1.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/fillets-1.jpg" width="500"/>
 
 To ensure an easy material flow, try to avoid hard breaks in the part design.
 
-<img style="margin-left:0px;" src="../assets/Create/fillets-2.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/fillets-2.jpg" width="500"/>
 
 
 ## Text and Graphics
 
 With engraving you can add text and graphics to your product in a very economical way. This avoids post processes like stamping and printing, and makes the use of additional labels unnecessary. In this process the plastic type can be added easily and with a fine detail.
 
-Text and graphic can be integrated in two ways, either embossed or debossed: 
+Text and graphic can be integrated in two ways, either embossed or debossed:
 
 - Debossed text is the more economic option because the material around the text does not need to be removed by a small endmill.
 - Although embossed is easier to read, because the area gets darker from the shadows which cast inside.
@@ -181,7 +181,7 @@ The depth for engraved text and graphics should be bigger than >0,2 to 0,5mm. De
 
 All engraving bits have a flat or round tip and the smallest tip size starts from 0,1mm.
 
-<img style="margin-left:0px;" src="../assets/Create/text-graphics.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/text-graphics.jpg" width="500"/>
 
 ## Holes and Cutouts
 
@@ -189,7 +189,7 @@ Integrated holes or cutouts in injection parts save you time in post processing 
 
 But they come with the risk of creating weld/knit lines when the plastic flows around them and cools down on the way. Those knit lines can add structural weakness at their location. Therefore it is important to know if there is any load applied to the area behind them where the plastic merges.
 
-<img style="margin-left:0px;" src="../assets/Create/socket-holes.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/socket-holes.jpg" width="500"/>
 
 The same effect will occur if you work with multiple injection gates.
 
@@ -200,20 +200,20 @@ If the applied forces to this area are critical you can also consider post proce
 
 To increase the structural strength while maintaining the same wall thickness, ribs can be added to increase the rigidity of a part. This can be a time consuming design process (opposed to increasing the wall thickness) but prevents sink marks in a better way and reduces material usage.
 
-<img style="margin-left:0px;" src="../assets/Create/socket-rib.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/socket-rib.jpg" width="500"/>
 
 The thickness of the ribs should be around a factor of 0,4 - 0,6x wall thickness of the part - stay on the lower end to prevent sink marks.
 The height of the surface ribs should be less than factor 3x wall thickness.
 
-<img style="margin-left:0px;" src="../assets/Create/socket-rib-1.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/socket-rib-1.jpg" width="500"/>
 
 If you design the ribs, make sure to consider the direction of the applied forces - especially for long parts.
 
-<img style="margin-left:0px;" src="../assets/Create/ribbon.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/ribbon.jpg" width="500"/>
 
 To prevent sink marks on aesthetic relevant surfaces, the ribbon structure can be offset at the intersection points, where more material is present. Take care that draft angle and fillets have to be applied to all ribbons as well to ensure a easy ejection of the part. The bottom fillet for the ribs is a difficult choice. Try to reduce the stress in the part while preventing material accumulation and sink marks.
 
-<img style="margin-left:0px;" src="../assets/Create/material-flow.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/material-flow.jpg" width="500"/>
 
 ## Surface Texture
 
@@ -221,7 +221,7 @@ You can add a surface texture to parts. Larger details can be implemented into y
 
 If you add texture to your surfaces take care to increase the draft angle to 3-5°. Below is an example of an aluminum mould with a sandblasted finish inside.
 
-<img style="margin-left:0px;" src="../assets/Create/texture-sandblast.jpg" width="500"/>
+<img style="margin-left:0px;" src="../assets/create/texture-sandblast.jpg" width="500"/>
 
 
 ## Reducing costs in mould making

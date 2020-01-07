@@ -36,12 +36,10 @@ Each of these steps is explained in more detail below.
 ### Video Chapters
 
 - 00:00 Introduction
-- 00:29 Melting Temps
-- 01:33 Make Moulds
-- 03:00 Create with Injection
-- 04:13 Create with Extrusion
-- 06:02 Create with Compression
-
+- 00:49 Shredder Choice
+- 01:15 Sourcing Plastic
+- 01:41 Shredding
+- 03:36 Logistics
 
 
 </div>

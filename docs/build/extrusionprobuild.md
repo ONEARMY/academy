@@ -21,7 +21,7 @@ sidebar_label: - Build it
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-> Tip: Making the extruder requires fine precision and eye for tolerances, if you are not precise enough try to find complex parts on the bazar. They are small and easy to ship.
+> Pro-tip:: Making the extruder requires fine precision and eye for tolerances, if you are not precise enough try to find complex parts on the bazar. They are small and easy to ship.
 
 </div>
 <div class="videoChaptersSidebar">

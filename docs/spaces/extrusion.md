@@ -39,11 +39,10 @@ Each of these steps is explained in more detail below.
 ### Video Chapters
 
 - 00:00 Introduction
-- 00:29 Melting Temps
-- 01:33 Make Moulds
-- 03:00 Create with Injection
-- 04:13 Create with Extrusion
-- 06:02 Create with Compression
+- 00:49 Extrusion Machine
+- 01:02 Sourcing Plastic
+- 01:50 Extruding Time
+- 04:20 Logistics
 
 </div>
 </div>

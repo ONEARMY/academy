@@ -75,7 +75,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> Common household power cable.
 
-> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 - Take your time ensuring the box is square before any welding

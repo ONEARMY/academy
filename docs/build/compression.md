@@ -23,7 +23,7 @@ sidebar_label: Compression
 The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mould. The process is slower than the other Precious Plastic machines but it allows for larger moulds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!).
 
 
-> Tip: The compression machine is good for testing and trying. But for steady production we advise an extrusion or injection machine
+> Pro-tip:: The compression machine is good for testing and trying. But for steady production we advise an extrusion or injection machine
 
 </div>
 <div class="videoChaptersSidebar">
@@ -77,7 +77,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> common household power cable.
 
-> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 
