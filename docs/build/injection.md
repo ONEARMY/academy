@@ -160,7 +160,20 @@ Batch production ||
 
 # 🌎 Built by the community
 
-![PP Image](assets/ppimage.jpg)
+<div class="j-slideshow">
+
+![Community Shredder](assets/Build/community/community-injection4.jpg)
+
+![Community Shredder](assets/Build/community/community-injection1.jpg)
+
+![Community Shredder](assets/Build/community/community-injection2.jpg)
+
+![Community Shredder](assets/Build/community/community-injection3.jpg)
+
+![Community Shredder](assets/Build/community/community-injection5.jpg)
+
+
+</div>
 
 # 🔧 Most common hacks
 - [How to Make a Quick Release Mould](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)<br>
