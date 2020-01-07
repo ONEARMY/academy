@@ -49,7 +49,7 @@ So we’ve gone through how to use plastic, how to build and use the machines, a
 
 We’re going to drive this home again: the more accurate your mould, the less work you’ll have to do in post-processing. If you’re going to make 100 bowls, making sure your mould is super polished might save you a few minutes of sanding. Times that by 100 bowls, it definitely adds up! So take it from us: spend time on your mould. And if plastic does stick, head to your local hardware store and pick up some mould release, this should help.
 
-![Grey Stool](assets/create/stool_grey.jpg)
+![Grey Stool](assets/Create/stool_grey.jpg)
 
 # Soft plastics vs hard plastics
 
@@ -68,7 +68,7 @@ When working with hard plastics like PS they will come out with a smooth and shi
 
 Right on! OK now you have a pile of your products, it’s time to mark them. It’s very important to make sure that once your product has reached the end of it’s lifespan (hopefully that’s a long time away) that you, or the next person knows which plastic type it is so they can shred it and remould it again. As well as this, working with the Precious Plastic process is labour intensive: you have to collect the plastic, separate/shred/clean it, mould it, finish it and mark it. So not only can this mark be used to show the plastic type, but also as a kind of trademark for plastic products with a higher value. You can buy them on the bazar here.
 
-![PP Mark](assets/pp_mark.jpg)
+![PP Mark](assets/Create/pp_mark.jpg)
 
 # 🙌 Useful Links
 
