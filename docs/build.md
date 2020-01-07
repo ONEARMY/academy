@@ -24,7 +24,7 @@ It's time to build machines! In this section we’ll take you through all the ma
 
 We outline how to build each machine and where to source parts, as well as the machinery and skills needed to get up and running. The videos go in depth about each build, and everything you need is in the download pack for each machine.
 
-> Tip: focus on one machine, set of skills and output. Master that and become an expert in the Precious Plastic Universe!
+> Pro-tip:: focus on one machine, set of skills and output. Master that and become an expert in the Precious Plastic Universe!
 
 
 </div>

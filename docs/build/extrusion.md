@@ -23,7 +23,7 @@ sidebar_label: Extrusion
 
 Extrusion is a continuous process where shredded plastic enters the hopper, heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be recycling 24/7 🎉
 
-> Tip: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
+> Pro-tip:: to increase efficiency and diversity we recommend to [upgrade the extruder](https://www.youtube.com/watch?v=zNGuuSKE1pY) with the compression screw.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -48,7 +48,7 @@ Extrusion is a continuous process where shredded plastic enters the hopper, heat
 
 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
 
-> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
+> Pro-tip:: Make a stand for your output/mould to stabilize it and make your life easier.
 
 # 📓 Technical information
 📓 Type | Extrusion Machine
@@ -91,7 +91,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> common household power cable.
 
-> Tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 ## Skills needed
 
@@ -135,7 +135,7 @@ Explanation of electric component roles
 
 # ⚙️ Run & maintain
 You can set the temperature from the controllers on the electronic box. The heating elements are wired into two groups - nozzle and barrel are marked on top of the controllers. The first three elements (barrel) should be set at a slightly lower temperature than the last one near the nozzle. This is to make sure the plastic gets a last boost of heat right before it comes out. Below you can see a diagram with the best settings for this machine based on our experiments (tip: you could your own to see what works best for you). The optimal temperatures below are drawn using a motor turning at 70rmp. If your motor turns faster you would need higher temperature as the plastic flows faster through the barrel and has less time to melt, vice-versa if the motor is slower.
-> Tip: Make a stand for your output/mould to stabilize it and make your life easier.
+> Pro-tip:: Make a stand for your output/mould to stabilize it and make your life easier.
 
 
 ### How to operate the extruder                

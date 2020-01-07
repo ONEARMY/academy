@@ -198,9 +198,9 @@ Or:
 
 ## Tips and notes
 
-`> Tip: will show up in yellow` will show up like this:
+`> Pro-tip:: will show up in yellow` will show up like this:
 
-> Tip: will show up in yellow
+> Pro-tip:: will show up in yellow
 
 `<p class="note">Note: will show up in blue</p>` will show up like this:
 
