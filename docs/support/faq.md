@@ -1,7 +1,7 @@
 ---
 id: faq
 title: FAQ
-sidebar_label: faq
+sidebar_label: FAQ
 ---
 <style>
 :root {

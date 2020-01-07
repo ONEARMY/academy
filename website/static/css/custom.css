@@ -18,6 +18,38 @@ body {
   padding: 20px;
 }
 
+.downloadButton {
+  background-color: rgb(131, 206, 235);
+  padding: 20px;
+  color: #fff;
+  text-shadow: 0 2px 2px rgb(110, 173, 198);
+  border: 2px solid rgb(110, 173, 198);
+  border-radius: 4px;
+  display: inline-block;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  transition: all 180ms;
+  text-decoration: none;
+}
+
+.smalldownloadButton{
+  background-color: rgb(131, 206, 235);
+  padding: 5px 8px;
+  color: #fff;
+  border: 2px solid rgb(110, 173, 198);
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.downloadButton:hover {
+  background-color: rgb(112, 197, 230);
+  border-color: rgb(101, 173, 201);
+  color: #fff;
+  text-decoration: none;
+}
+
 article .videocontainer {
   position: relative;
   width: 100%;
@@ -454,6 +486,7 @@ button.tns-nav-active {
 .navPusher {
   padding-top: 0;
 }
+
 /* Edit page button */
 a.edit-page-link {
   float: none;
@@ -462,7 +495,9 @@ a.edit-page-link {
   border: none;
   position: absolute;
   bottom: -100px;
+  display: none;
 }
+
 header.postHeader {
   text-align: center;
   margin-bottom: 0 !important;
@@ -491,10 +526,10 @@ hr {
 }
 
 .note {
-    background-color: #caeff8;
-    color: #66737f;
-    border-left: 8px solid #29bbe3;
-    padding: 15px 30px 15px 15px;
+  background-color: #caeff8;
+  color: #66737f;
+  border-left: 8px solid #29bbe3;
+  padding: 15px 30px 15px 15px;
 }
 
 /* Desktop and up */
@@ -565,4 +600,24 @@ hr {
   .videoChaptersSidebar li:last-child {
     margin-bottom: 0;
   }
+}
+
+.loading.downloadCount {
+  opacity: 0;
+}
+
+.downloadCount {
+  color:
+  gray !important;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 0.6em;
+  text-align: center;
+  opacity: 1;
+  transition: opacity 00ms;
+  text-transform: uppercase;
+}
+
+.downloadCount:after {
+  content: " downloads";
 }

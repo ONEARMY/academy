@@ -59,6 +59,10 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 
 > Pro Tip: Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
 
+# 🌐 3D Model
+<iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Basic+V2.0&model_id=96649&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96649" allowfullscreen></iframe>
+
+
 # 🛠 Required machinery & skills
 Build Shredder  | Machines needed | Skills needed
 --- | ---| ---

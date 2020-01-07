@@ -60,12 +60,12 @@ Ease of build and diversity of molds, the molds we have developed are comparativ
 
 ### Cons
 
-Sheet size 1mx1m, many manufacturing processes have been designed to work with 1220x1220mm and there are sheet pressing systems available on the market that can produce sheets larger than this system.
+Sheet size 1m x 1m, many manufacturing processes have been designed to work with 1220mm x 1220mm and there are sheet pressing systems available on the market that can produce sheets larger than this system.
 
 Most mid-small workspace machinery only requires 16A but the Sheetpress requires 32A.
-In comparison with other Precious Plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
+Compared with other Precious Plastic machines the Sheepress is significantly larger. It does not fit through a standard door or double doors like all the others and requires at least a small garage door to fit it inside.
 
-The machine does not have wheels and is not moveable by human power so requires a pallet/pump truck to move. Some other sheet pressing systems come with wheels but we opted not to for stability.
+The machine does not have wheels and is not moveable by human power, so it requires a pallet/pump truck to move. Some other sheet pressing systems come with wheels but we opted not to for stability.
 
 # ♻️ Input & output
 
@@ -73,7 +73,7 @@ The machine does not have wheels and is not moveable by human power so requires 
 
 We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press can take any type of flakes (small, medium large). We recommend using the large flakes produced from the shredder pro using with the large sieve. Since it reduces the amount of shredding. We have had success in pressing sheets made from non-shredded bottle caps, the melting time just increases slightly with a larger size of input material. Here is a chart to give an overview in different thicknesses, times and temperatures.
 
- ⚠️ Important you cannot press dirty plastic as it will leave burned residue on the mould which is very difficult to remove.
+ ⚠️ Important: you cannot press dirty plastic as it will leave burned residue on the mould which is very difficult to remove.
 
  |  Sheet thickness    | HDPE  <br> 220°    | PP <br>  230°   | PS <br> 240°  |
  |------|----------------|------------|--------|
@@ -86,12 +86,12 @@ We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press 
 
 
 ### Playing with colors
-This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredded plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples in the poster in the downloadkit
+This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredded plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples on the poster in the downloadkit
 
 ![Sheetpress colors](assets/build/sheetpress-colors.jpg)
 ### How many sheets at a time?
 
-We recommend pressing only one sheet at a time. It may be possible to press more efficiently by melting multiple at a time but we have not figured out how to cool them evenly yet, if you figure out a way, please share it on our online community!  
+We recommend pressing only one sheet at a time. It may be possible to press more efficiently by melting multiple at a time but we have not figured out how to cool them evenly yet. If you figure out a way, please share it on our online community!  
 
 ### Sheet size
 
@@ -114,4 +114,4 @@ The aluminum pressing plates are 1220x1220mm but there is often an overflow from
 * [Forum post about an alternative version](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
 * [interesting results](https://davehakkens.nl/community/forums/topic/v4-sheets-interesting-results/)
 * [How to bend sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
-* [How to build a shelving system with sheets](https://community.preciousplastic.com/how-to/build-a-shelving-system)
+* [How to build a shelving system with sheets](https://community.preciousplastic.com/how-to/make-a-shelving-system)

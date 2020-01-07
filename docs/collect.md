@@ -57,10 +57,6 @@ But why - it’s being recycled, right? Well, the plastic that people throw in t
 
 Sometimes, the plastic is recycled. As you’ve probably read somewhere, it’s around 9%. It needs to go through a very complex, expensive, time-consuming and energy-intensive process and most countries don’t even have this option to do so.
 
-<img src="./assets/collect/burnlandfillocean.png" width="600" />
-
-The other, more likely scenario is that plastic is either burnt, sent to a landfill, dumped in the ocean, or sent on a cargo ship to Asia or Africa (where they certainly don’t have the infrastructure to deal with it). These solutions cause huge environmental damage and social oppression. Have you ever caught yourself thinking - I don’t see any rubbish anywhere! Our streets in western countries are clean. But some places in Asia, Africa, it’s often seen as dirty and littered - it’s everywhere in the ocean and they burn it on the streets. That’s because collection systems have to be subsidized by the state through taxpayer money which is just not doable in many places. But don’t get this one mixed up - the west is still the biggest producer of plastic waste on the planet. And on top of this, collection systems worldwide are not standardized. Every country and municipality within that country have different regulations. This leaves people very confused (including us).
-
 ## Challenges
 
 There are numerous challenges connected with the way plastic is currently collected:

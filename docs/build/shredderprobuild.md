@@ -32,14 +32,15 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 
 ### Video Chapters
 
-- 00:36 - Intro
-- 00:36 - Frame
-- 00:36 - Hopper
-- 00:36 - Cutting box
-- 00:36 - Motor
-- 00:36 - Electronics
-- 00:36 - Final assembly
-- 00:36 - How to run
+- 00:07 - Intro
+- 01:34 - Frame
+- 03:45 - Shafts
+- 08:16 - Hopper
+- 08:57 - Sieve
+- 10:44 - Electronics
+- 11:50 - Motor and gearing
+- 13:15 - Full assembly
+- 16:16 - How to run
 
 
 
@@ -64,9 +65,10 @@ All the energy to shred the plastic comes from the electric motor. More energy m
 
 To choose a 3-phase geared motor, you need to check:
 
-Nominal Power
-Output speed and torque
-Service factor
+- Nominal Power
+- Output speed 
+- Torque
+- Service factor
 
 ### Nominal Power
 

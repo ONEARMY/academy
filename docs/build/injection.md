@@ -59,6 +59,10 @@ The injection machine has a quick production output with high precision, while i
 ⚡️ AMP | 2.6A
 | ♻️ Input Flake Size                   | Medium, Small  |
 
+# 🌐 3D Model
+<iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Injection+Basic+V2.0&model_id=96645&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96645" allowfullscreen></iframe>
+
+
 # 🛠 Required machinery & skills
 Build Injection  | Machines needed | Skills needed
 --- | ---| ---
@@ -164,7 +168,7 @@ Batch production ||
 - [Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)
 
 # 🙌 Useful Links
-- [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-or-laser-cut-mould)<br>
+- [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
 - [How-to: Quick Release](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)<br>
 - [How-to: Cast Aluminium Moulds](https://www.youtube.com/watch?v=5LhHUBz9uL0)<br>
 - [How-to: CNC iPhone Case Mould](https://www.youtube.com/watch?v=ZYFoWP-3MYE)<br>
