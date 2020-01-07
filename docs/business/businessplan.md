@@ -54,7 +54,7 @@ This template is an easy to follow framework for your business plan and consists
 
 ## So what's in it?
 
-![Business Plan](assets/Business/Businessplantemplate.jpg)
+![Business Plan](assets/Business/businessplantemplate.jpg)
 
 *The 14 page business plan template PDF is in the download kit!*
 

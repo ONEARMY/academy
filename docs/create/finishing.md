@@ -81,3 +81,5 @@ Right on! OK now you have a pile of your products, it’s time to mark them. It�
 # 🌎 Some products by the community
 
 ![PP Image](assets/ppimage.jpg)
+
+<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>

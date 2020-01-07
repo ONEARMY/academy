@@ -248,7 +248,7 @@ This machine will allow you to be versatile with your production because all you
 
 When designing products to be produced with the Precious Plastic machines, your best resource will be the How-To’s! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channel below because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
 
-<b>Join the Discord channel [#Create](https://discordapp.com/invite/yhmfzTZ) to talk about product design, mouldmaking, color blends, finishing. everything to create precious objects.</b>
+<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>
 
 
 
