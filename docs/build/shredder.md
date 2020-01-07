@@ -38,7 +38,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 </div>
 </div>
 
-![Shredder V3](assets/build/shredderv3.jpg)
+![Shredder V3](assets/Build/shredderv3.jpg)
 
 # 📓 Technical information
 
@@ -66,7 +66,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 # 🛠 Required machinery & skills
 Build Shredder  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-shredder.jpg" width="100"/>  | - Lathe <br> - Drill press <br> - Welding machine (not specific) <br> - Belt Sander | - Welding (intermediate) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/Build/thumb-shredder.jpg" width="100"/>  | - Lathe <br> - Drill press <br> - Welding machine (not specific) <br> - Belt Sander | - Welding (intermediate) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 # ⚡️ Electronic box
 Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
@@ -92,7 +92,7 @@ The shredded plastic can be used in three different Precious Plastic machines: e
 
 Name: | Large | Medium | Small |
 --- | ---| ---| ---|
-Visual: | <img style="margin-left: 0;" src="../assets/build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/build/shredder_output_04.jpg" />
+Visual: | <img style="margin-left: 0;" src="../assets/Build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/Build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/Build/shredder_output_04.jpg" />
 Size: | 0-30 MM| 0-10 MM | 0-7 MM|
 Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpress <br> Injection <br> Compression <br> Extrusion|
 
@@ -142,7 +142,7 @@ Portable |
 
 # 🔧 Most common hacks
 - [Human Powered Shredder](https://community.preciousplastic.com/how-to/human-powered-shredder)<br>
-- [Shredder 2.1](https://preciousplastic.com/en/videos/build/upgrades/shredder-2-1.html)
+- [Shredder 2.1](https://preciousplastic.com/en/videos/Build/upgrades/shredder-2-1.html)
 
 # 🙌 Useful Links
 - [Shredder efficiency](https://davehakkens.nl/community/forums/topic/shredder-efficiency/)
@@ -153,14 +153,14 @@ Portable |
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/build/community/machinehack-shredder-2.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
 
-![Community Shredder](assets/build/community/machinehack-shredder-4.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)
 
-![Community Shredder](assets/build/community/shredder_community3.jpg)
+![Community Shredder](assets/Build/community/shredder_community3.jpg)
 
-![Community Shredder](assets/build/community/shredder_opo.jpg)
+![Community Shredder](assets/Build/community/shredder_opo.jpg)
 
-![Community Shredder](assets/build/community/shrednmould.jpg)
+![Community Shredder](assets/Build/community/shrednmould.jpg)
 
 </div>

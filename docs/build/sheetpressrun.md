@@ -12,7 +12,7 @@ sidebar_label: - Run it
 </style>
 <div class="videocontainer">
 
-![Sheetpress run](assets/build/sheetpress-run.jpg)
+![Sheetpress run](assets/Build/sheetpress-run.jpg)
 
 </div>
 

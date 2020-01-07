@@ -66,7 +66,7 @@ The injection machine has a quick production output with high precision, while i
 # 🛠 Required machinery & skills
 Build Injection  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-injection.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/Build/thumb-injection.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
 
 # ⚡️ Electronic box

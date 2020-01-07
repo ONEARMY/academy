@@ -47,7 +47,7 @@ Hi! It looks like you might want to build a Sheetpress? That is great! It's a ve
 # 🛠 Required machinery & skills
 Build Sheetpress  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-sheetpress.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br>  - Lifting system. (or some strong friends) | - Welding (expert) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (expert)
+<img style="margin-left: 0;" src="../assets/Build/thumb-sheetpress.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br>  - Lifting system. (or some strong friends) | - Welding (expert) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (expert)
 
 
 
@@ -188,4 +188,4 @@ You can make sheets with the Sheetpress alone but the process is slow. You have 
 
 To improve ease of use and efficiency we designed three tools to turn the Sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. So if you are looking to setup an efficient production, build the whole system. If you don't have a lot of space or just want to make a few sheets, make the Sheetpress.
 
-![Sheetpress run](assets/build/sheetpress-system.jpg)
+![Sheetpress run](assets/Build/sheetpress-system.jpg)

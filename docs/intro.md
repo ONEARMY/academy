@@ -42,7 +42,7 @@ We’ve created download packs and templates and once you’ve gone through ever
 </div>
 
 
-![Opn Source](assets/intro/opensource.svg)
+![Opn Source](assets/Intro/opensource.svg)
 
 ## But wait - why did you do this? And why is it all for free?
 

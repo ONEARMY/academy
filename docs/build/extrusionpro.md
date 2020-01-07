@@ -13,7 +13,7 @@ sidebar_label: - Overview
 }
 </style>
 
-![Extruder Pro](assets/build/extruderpro.jpg)
+![Extruder Pro](assets/Build/extruderpro.jpg)
 
 # 📓 Extrusion Pro information
 | Specification    |     |
@@ -96,7 +96,7 @@ Some examples of extrusion times for some moulds:
 
 
 
-![Image](assets/build/extruderpro-output.jpg)
+![Image](assets/Build/extruderpro-output.jpg)
 
 
 # 🙌 Useful Links
