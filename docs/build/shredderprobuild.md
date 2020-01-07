@@ -52,7 +52,7 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 # 🛠 Required machinery & skills
 Build Shredder Pro  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
+<img style="margin-left: 0;" src="../assets/Build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
 
 
 # 🔩 Materials and parts

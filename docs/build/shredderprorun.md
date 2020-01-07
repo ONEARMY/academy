@@ -10,7 +10,7 @@ sidebar_label: - Run it
 }
 </style>
 
-![Shredder](assets/build/shredderpro-run1.jpg)
+![Shredder](assets/Build/shredderpro-run1.jpg)
 
 # Run and Maintain the Shredder Pro
 Congrats, you've built a Shredder Pro! Time to chop some plastic. Below we explain how to do this, the settings to use, and an ideal workflow.  Remember that maintenance is also important!
@@ -78,7 +78,7 @@ Check the oil level of the motor gearbox. Usually, the quantity of oil depends o
 
 Ensure bearing and gears are greased properly.
 
-![Shredder](assets/build/shredderpro-maintain.jpg)
+![Shredder](assets/Build/shredderpro-maintain.jpg)
 
 ### Weekly
 

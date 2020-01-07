@@ -41,7 +41,7 @@ We outline how to build each machine and where to source parts, as well as the m
 </div>
 </div>
 
-![V3 and V4 Machines](assets/build/v3v4machine.jpg)
+![V3 and V4 Machines](assets/Build/v3v4machine.jpg)
 
 ## Why are these machines important?
 
@@ -49,7 +49,7 @@ We didn’t invent plastic processing machines. They already exist in the indust
 
 So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable: 
 
-![Industry Vs Precious Plastic](assets/build/industry_vs_pp.svg)
+![Industry Vs Precious Plastic](assets/Build/industry_vs_pp.svg)
 
 This inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
 

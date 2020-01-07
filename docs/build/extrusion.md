@@ -44,7 +44,7 @@ Extrusion is a continuous process where shredded plastic enters the hopper, heat
 </div>
 </div>
 
-![Extrusion v3](assets/build/extrusionv3.jpg)
+![Extrusion v3](assets/Build/extrusionv3.jpg)
 
 With this machine you can create filament (challenging but doable), granulate or get creative and spin this continuous line around a mould, and is great for educational purposes as the process is very straightforward and easy to understand. When plastic is extruded it nicely blends different colours together and produces a homogenous and clean colour.
 
@@ -77,7 +77,7 @@ With this machine you can create filament (challenging but doable), granulate or
 # 🛠 Required machinery & skills
 Build Extrusion  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/Build/thumb-extrusion.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
 
 # ⚡️ Electronic box
@@ -175,7 +175,7 @@ User Friendly |
 - [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
 - [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
 - [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: Shelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
+- [How-to: Shelf](https://community.preciousplastic.com/how-to/Build-a-shelving-system)<br>
 - [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
 - (more to come)
 
@@ -191,14 +191,14 @@ User Friendly |
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/build/community/community_extrusion.jpg)
+![Community Shredder](assets/Build/community/community_extrusion.jpg)
 
-![Community Shredder](assets/build/community/deskfactory.jpg)
+![Community Shredder](assets/Build/community/deskfactory.jpg)
 
-![Community Shredder](assets/build/community/machinehack-ppukraine.jpg)
+![Community Shredder](assets/Build/community/machinehack-ppukraine.jpg)
 
-![Community Shredder](assets/build/community/machines-inajason.jpg)
+![Community Shredder](assets/Build/community/machines-inajason.jpg)
 
-![Community Shredder](assets/build/community/tableextrusion.jpg)
+![Community Shredder](assets/Build/community/tableextrusion.jpg)
 
 </div>

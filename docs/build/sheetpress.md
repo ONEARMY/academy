@@ -12,7 +12,7 @@ sidebar_label: - Overview
 }
 </style>
 
-![Sheetpress](assets/build/sheetpress.jpg)
+![Sheetpress](assets/Build/sheetpress.jpg)
 
 
 # 📓 Sheetpress information
@@ -88,7 +88,7 @@ We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press 
 ### Playing with colors
 This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredded plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples on the poster in the downloadkit
 
-![Sheetpress colors](assets/build/sheetpress-colors.jpg)
+![Sheetpress colors](assets/Build/sheetpress-colors.jpg)
 ### How many sheets at a time?
 
 We recommend pressing only one sheet at a time. It may be possible to press more efficiently by melting multiple at a time but we have not figured out how to cool them evenly yet. If you figure out a way, please share it on our online community!  
@@ -98,7 +98,7 @@ We recommend pressing only one sheet at a time. It may be possible to press more
 The aluminum pressing plates are 1220x1220mm but there is often an overflow from the mould so we recommend making moulds of 1040mm so that once they have shrunk from cooling they are just over 1m, then the edges can be trimmed to make a perfect 1mx1m square. Thickness can be between 4 to 35 MM.
 
 
-![sheetpress](assets/build/sheetpress-sheets.jpg)
+![sheetpress](assets/Build/sheetpress-sheets.jpg)
 
 
 # 🙌 Useful Links

@@ -64,7 +64,7 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 # 🛠 Required machinery & skills
 Build Compression  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-compression.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/Build/thumb-compression.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
 # ⚡️ Electronic box
 Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
