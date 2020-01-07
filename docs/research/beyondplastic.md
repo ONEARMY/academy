@@ -42,11 +42,10 @@ In this section we introduce the Beyond Plastic Bio Press - a strong heat press 
 - 24:20 Table Add-on
 - 24:44 How to Run
 
-
 </div>
 </div>
 
-![Beyond Plastic Bowl](assets/research/BP_bowl.jpg)
+![Beyond Plastic Bowl](assets/Research/BP_bowl.jpg)
 
 ## Let's get started
 
@@ -54,31 +53,30 @@ There are three parts to making amazing things with the Beyond Plastic Bio Press
 
 > Pro-tip: getting to know your bio materials is a process. It often doesn’t work on the first (or second) try - this is normal! Be persistent and patient, as soon as you and your material know each other, you’ll have a friend for life!
 
-
 # The Heat Press
 
-![Beyond Plastic Heat Presss](assets/research/BP_press.jpg)
+![Beyond Plastic Heat Presss](assets/Research/BP_press.jpg)
 
 Building the Bio Press is not as complicated as other machines, but if you have never built a machine before it’s definitely not simple. It really helps to have people around you that can help if you get stuck. So make sure to ask your friends or find someone on the map!
 
 ## ♻️ General specifications
 
 | Type                  | Heat Press                                                                                     |
-|-----------------------|------------------------------------------------------------------------------------------------|
+| --------------------- | ---------------------------------------------------------------------------------------------- |
 | Version               | 1                                                                                              |
 | Material Needed       | A lot of metal, a 20tf hydraulic jack, some cartridge heater, a PID controller and some wiring |
 | Price in Netherlands  | 280 € (+ not including moulds)                                                                 |
-|  Weight               | 110kg                                                                                          |
+| Weight                | 110kg                                                                                          |
 | Dimensions            | HxWxD): 1300x320x480mm (with fold-out table: 1300x1360x480mm)                                  |
 | Possible Pressure     | 20tf                                                                                           |
 | Maximum Pressing Area | Width 240mm; D 400mm (space between legs)                                                      |
 | Energy used           | 2 x 400W heating elements                                                                      |
 
-
 # 🛠 Required machinery & skills
-Bio Press  | Machines needed | Skills needed
---- | ---| ---
-<img style="margin-left: 0;" src="../assets/research/thumb_biopress.jpg" width="100"/>  | - Angle grinder <br> - Welding machine <br> - Drill press <br> - Drill bits <br> - Tap set <br> - Allen keys <br> - Electronic assembly kit (crimping tool, screwdriver for electronics | - Cutting/grinding (intermediate) <br> - Welding (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
+
+| Bio Press                                                                              | Machines needed                                                                                                                                                                         | Skills needed                                                                                                                     |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| <img style="margin-left: 0;" src="../assets/Research/thumb_biopress.jpg" width="100"/> | - Angle grinder <br> - Welding machine <br> - Drill press <br> - Drill bits <br> - Tap set <br> - Allen keys <br> - Electronic assembly kit (crimping tool, screwdriver for electronics | - Cutting/grinding (intermediate) <br> - Welding (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate) |
 
 ### Machine hacks not included in the video:
 
@@ -90,7 +88,7 @@ This is the first version of the Bio Press and we’ve already figured out some 
 
 # 🎈 Moulds
 
-![Beyond Plastic Mould](assets/research/BP_mould.jpg)
+![Beyond Plastic Mould](assets/Research/BP_mould.jpg)
 
 In the download kit you can find three different moulds:
 
@@ -107,7 +105,7 @@ You can find all of the files and drawings for the moulds in our download kit. F
 Mould Specs:
 
 | Type         | Dimensions       | Price Aluminium in the Netherlands | How it's made |
-|--------------|------------------|------------------------------------|---------------|
+| ------------ | ---------------- | ---------------------------------- | ------------- |
 | Sample Mould | 100 x 200 x 50mm | 41 €                               | CNC-cut       |
 | Bowl Mould   | Ø 220 x 90 mm    | 116 €                              | CNC-cut       |
 | Cup Mould    | Ø 100 x 125 mm   | 40 €                               | Lathed        |
@@ -122,7 +120,7 @@ Machines used for Moulds:
 
 # 🍊 Materials
 
-![Beyond Plastic Materials](assets/research/BP_material.jpg)
+![Beyond Plastic Materials](assets/Research/BP_material.jpg)
 
 We already tested a few materials in the press and so far we feel like anything that has cellulose should work in principle. However, when it comes to the bigger products, they definitely get stronger if you add a natural binder to the mix. These can for example be starch, agar agar, xanthan gum or gelatine. If you don’t want to use fresh materials, be creative: there is starch in basically any root vegetable and it’s peel. You can also find binding agents in stale bread or some kinds of algae! Even dead insects can be a source for natural binders (you can find a way for this at plasticula.com).
 
@@ -156,14 +154,13 @@ This is for anyone who is interested in the chemistry behind the process we are 
 
 If you heat and press a material that includes cellulose in a closed mould, the energy of the water molecules inside the material, which would usually go into creating steam, goes into creating new bonds between the cellulose. That’s why a material like coffee grounds, which is high in cellulose, starts binding without the help of any other natural binding agents and we get something that actually looks pretty stone-like:
 
-![Beyond Plastic Materials](assets/research/BP_sample.jpg)
+![Beyond Plastic Materials](assets/Research/BP_sample.jpg)
 
 However for this to work, it’s important to have a closed mould, as the energy might wander off with the steam otherwise and leave you with unbound material. That’s why all of our moulds have a pretty tight fit and a straight part in which the mould is already closed, but leaves space for compression.
 
 For all of the other natural binders mentioned above: all of them bind at a pretty low temperature (eg. starch at 60°C) and usually in combination with water. That’s why they can help your materials to bind, in case your mould doesn’t close properly or anything else that may make binding the cellulose difficult.
 
 > Pro-tip: mix fine grain materials with materials with longer fibers to get a smooth but rigid material!☕️🍵
-
 
 ## What we're thinking about next:
 
