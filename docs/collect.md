@@ -24,7 +24,7 @@ sidebar_label: Our Collection System
 
 Collecting plastic is pretty crucial - here we’ll show you what it means to collect plastic, how it works around the world and how we envision a collection system within the Precious Plastic Universe!
 
-> Pro-tip: ask shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
+> Pro-tip: ask the shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
 
 
 </div>
