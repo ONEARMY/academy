@@ -24,9 +24,9 @@ sidebar_label: Collection Point
 
 So you want to set up an injection workspace. Awesome! Setting up a workspace can be broken down into three main steps:
 
-- <b>Search:</b> what to think about when choosing your space
-- <b>Plan:</b> how to plan your space effectively
-- <b>Build:</b> transforming an empty room into a injection workspace
+1. <b>Search:</b> what to think about when choosing your space
+2. <b>Plan:</b> how to plan your space effectively
+3. <b>Build:</b> transforming an empty room into a injection workspace
 
 Each of these steps is explained in more detail below.
 
@@ -65,7 +65,7 @@ And if you’re lucky enough to be able to get a consistent source of recycling,
 
 An important part of being the collection point for your local community is how you engage both online and offline, so in your workspace it’s great to have a workstation where you can organise online with campaigns, social media, partnerships and collaborations.
 
-> Tip: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget.
+> Pro-tip: teach your local community to clean their plastic before they bring it into you. It will help them understand the different types of plastic, as well as save you scrubbing off old yoghurt! If you set up a washing station at the collection point, they can also wash it there if they forget.
 
 Have a whole bag ready to go? Be sure to label it properly with a label that won’t fall off, so that the workspace you pass it on to know what type of plastic they’re receiving. Before you pass it on to them make sure to weigh the plastic and keep a record of it so you know how much plastic you’re collecting (it would be cool to let your community know as well!) and since you’re there, upload the weight to upload.preciousplastic.com so we can see how much our entire global community is collecting 💪
 

@@ -49,7 +49,7 @@ This tool is applicable to any type of business you hope to start within Preciou
 - The numbers you input can be less than 1 - simply use a decimal place (Example - 0.57)
 - Reach out to existing workspaces that are doing something similar (either by using the map or Discord), they might be able to share some of the numbers you need
 
-> This calculator doesn’t include taxes, so be sure to consider your country’s applicable taxes when you’re working with this calculator.
+<p class="note">Note: this calculator doesn’t include taxes, so be sure to consider your country’s applicable taxes when you’re working with this calculator.</p>
 
 ### 🗝️ Key Terms
 
@@ -72,7 +72,7 @@ This tool is applicable to any type of business you hope to start within Preciou
 <img style="margin-left: 0; margin-top: 0px" src="../assets/wscalc.gif" width="600"/>
 
 # 📚 Sections
----
+
 ## 0. READ ME
 
 The Read Me sheet tells you all you need to know about using the workspace calculator. The two most important things to know are that you only fill in the cells that are in blue, and that if hover over cells with an arrow in the top right corner, you can find more information about what we’re asking you about.
@@ -95,7 +95,7 @@ The cost sheet is where you input your weekly activities, investments, and month
 
 <b>Working hours:</b> includes all the activities you will do on a weekly basis to run your business that isn’t directly related to the production of your products. Things like marketing, cleaning your space, talking to the accountant - you know, the fun stuff 🙂
 
-> TIP: Don’t know what to put? Try getting in touch with an existing workspace and ask them how they spend their time during the week.
+> Pro-tip: don’t know what to put? Try getting in touch with an existing workspace and ask them how they spend their time during the week.
 
 <b>Investment costs:</b> here you can input the one time costs that you need to start your workspace. These are things like the Precious Plastic machines, certain tools you’ll need, or the cost to renovate a space you have in mind. Try to limit yourself to the bare minimum investments you need to get started - it’s better to start small and focused, and then make additional investment after you start to be profitable or making significant amounts of income.
 
@@ -153,7 +153,7 @@ The total monthly profit per month shows you how each product and service contri
 
 Total revenue versus costs shows a final overview of how your revenue stacks up against the total costs of the business.
 
-## 💅 Extras
+## 4. Extras
 
 The extra’s page provides you with some basic financial statements (like cashflow and profit & loss) and shows you the calculations from the previous pages. The information could be especially useful for people applying for a bank loan or grant to show a final overview of financial health.
 
@@ -176,4 +176,4 @@ The problem with designing a business tool to be applicable all across the world
 - The “money needed to start” also includes one month of operational costs, but if you want to be conservative, you might want something more like 3-6 months of operational costs available when you start.
 - “Full time employees needed” assumes a 40 hour work week, but this might be more or less depending on the work culture of your area.
 
-#### Do you have any thoughts or feedback? Head to our business channels on Discord and share!
+<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>

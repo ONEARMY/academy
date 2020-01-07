@@ -19,12 +19,11 @@ sidebar_label: Robotic sorting
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-Sorting plastic remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots.
+### Sorting plastic isn't so easy.
 
-Using robotics for sorting and scanning is a very experimental project at Precious Plastic. It’s more like an ongoing research project to work on optimizing . There’s two parts to this research: working with a robot to move the products and designing a scanner to identify the type of plastic that we’re moving.
+In fact it remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots 🤖
 
-
-`Pro: This is something to remember.`
+Using robotics for sorting and scanning is a very experimental project at Precious Plastic. It’s more like an ongoing research project to work on optimizing . There’s two parts to this research: working with a robot to move the products and designing a scanner to identify the type of plastic that we’re moving
 
 
 </div>
@@ -93,8 +92,6 @@ Another key part of this stage is how the plastic is delivered to the system. Im
 
 So what’s next? One Arm is picking up and dropping off plastic, it knows where to go - a great result! From here we’ll be improving the suck and blow gripper and thinking about installing a conveyer belt. If you want to learn more about this research project, <a href="url">visit the forums</a> and discuss plastic sorting. We’ve also posted our segmenting code on Github to see if anyone wants to improve on it.
 
-< end of robot >
-
 # Ok, but how does it know what is HDPE and what is PS?
 
 That's a great question! Another very important part to making this work is to actually identify what type of plastic it is. A robot is smart, but unfortunately it's not smart enough own it's own (probably a good thing) to identify different materials. This is where our research into plastic identification techniques comes into play.
@@ -136,4 +133,6 @@ For the spectrograph we are using a Czerny Turner configuration, this is where t
 
 The light enters the entrance slit that restricts light access so we only get the material response and nothing else. A first mirror is used to collimate the light to a diffraction grating (similar to a prism) so we can record every wavelength of the response. Then a second mirror is used to focus the light spectra into a CCD array where we can capture the signal and transfer it to a computer for further analysis. A CCD array sounds fancy, but it’s the same technology used in your cell phone camera. For the molecular structure signals we’re looking for it need to be extra precise. That’s why the last component of the spectrometer is a thermoelectric cooler that controls the temperature of the CCD array.
 
-With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system. Keen to learn more? <a href="url">Head to the forums.</a>
+With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system. 
+
+<b>Want to learn more or share your knowledge? Head to the [#robotics](https://discordapp.com/invite/5UYM4Sd) and [#plastic scanner](https://discordapp.com/invite/Khxfgg7) channels on Discord. Here we talk efficiency, sorting, scanning and of course, robots 🤖</b>

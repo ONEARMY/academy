@@ -25,9 +25,9 @@ Ok, you want to set up an Sheetpress workspace. Awesome! Your sheets can be used
 
 Setting up a workspace can be broken down into three main steps:
 
-- <b>Search:</b> what to think about when choosing your space
-- <b>Plan:</b> how to plan your space effectively
-- <b>Build:</b> transforming an empty room into a injection workspace
+1. <b>Search:</b> what to think about when choosing your space
+2. <b>Plan:</b> how to plan your space effectively
+3. <b>Build:</b> transforming an empty room into a injection workspace
 
 Each of these steps is explained in more detail below.
 
@@ -46,7 +46,7 @@ Each of these steps is explained in more detail below.
 </div>
 </div>
 
-## 🔍 SEARCH
+## 🔍 Search
 
 The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
@@ -54,10 +54,12 @@ The first step of setting up a workspace is to find a space (duh). While searchi
 
 2. <b>Electricity:</b> The Injection machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
 
-3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. Pro tip: Sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
+3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget. 
+
+> Pro-tip: sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
 
 
-## ✍️ PLAN
+## ✍️ Plan
 
 You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan.
 
@@ -69,7 +71,7 @@ To help you begin, we’ve included some starter floor plans, CAD models, and a 
 
 Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
 
-## 🛠 BUILD
+## 🛠 Build
 
 Now that your floor plan is blocked out, it’s time to transform your empty room into a Mix workspace.
 
@@ -111,6 +113,6 @@ Optionally we've also created a series of 4 videos where you can see how we buil
 |----------|----------------------|
 | <img src="../assets/universe/badge-workspace.png" width="150"/>        |  __Workspace__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
 
-## 👋 SHARE
+## 👋 Share
 
 You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂

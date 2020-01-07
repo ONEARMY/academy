@@ -13,13 +13,13 @@ sidebar_label: How to's
 </style>
 
 
-![How to](assets/create/how-to.jpg)
+![How to](assets/create/howto2.png)
 
-# Learn more in our how-to's!
+# Learn more in our How-To's!
 
 This is a powerful place on the web. Here people from around the world (like you) can share the things they've learned with others in a structured way. This tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
 
-> Tip: Have a look at our [how-to's](https://community.preciousplastic.com/how-to) its fun to browse around :)
+> Pro-tip: have a look at our [How-To's](https://community.preciousplastic.com/how-to) its fun to browse around :)
 
 # Create your own
 Ok, you’ve had a look around the How-to’s, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. It's pretty basic. Let’s go through the requirements for an *awesome* How-To.

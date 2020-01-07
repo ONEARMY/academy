@@ -19,6 +19,8 @@ sidebar_label: Beyond Plastic
 
 # Beyond Plastic
 
+### Researching biodegradable alternatives to plastic 🍊
+
 Making stuff from recycled plastic is pretty cool, but we know we need to break up with plastic in the long run. That’s why we’ve created Beyond Plastic, a project researching biodegradable alternatives to plastic as well as different methods to produce products.
 
 In this section we introduce the Beyond Plastic Bio Press - a strong heat press that allows you to turn a lot of different organic materials (like food waste) into biodegradable products like plates, bowls or cups. We set out to make single-use objects as we want to get rid of single-use plastics first. Woohoo! 🎉
@@ -44,7 +46,7 @@ In this section we introduce the Beyond Plastic Bio Press - a strong heat press 
 
 There are three parts to making amazing things with the Beyond Plastic Bio Press. First the heat press itself (of course), second the moulds, and third the materials. We’ll go through each one in this text and everything is available in the download kit.
 
-> Pro tip: Getting to know your bio materials is a process. It often doesn’t work on the first (or second) try - this is normal! Be persistent and patient, as soon as you and your material know each other, you’ll have a friend for life!
+> Pro-tip: getting to know your bio materials is a process. It often doesn’t work on the first (or second) try - this is normal! Be persistent and patient, as soon as you and your material know each other, you’ll have a friend for life!
 
 
 # The Heat Press
@@ -94,7 +96,7 @@ The cup and bowl moulds are a little more complex to make, but we did try to mak
 
 You can find all of the files and drawings for the moulds in our download kit. Feel free to use them, change them and develop them as much as you want.
 
-> Pro tip: if you want a more durable object, make the walls thicker. If you want a lighter object, make the walls thinner 🤓
+> Pro-tip: if you want a more durable object, make the walls thicker. If you want a lighter object, make the walls thinner 🤓
 
 Mould Specs:
 
@@ -154,7 +156,7 @@ However for this to work, it’s important to have a closed mould, as the energy
 
 For all of the other natural binders mentioned above: all of them bind at a pretty low temperature (eg. starch at 60°C) and usually in combination with water. That’s why they can help your materials to bind, in case your mould doesn’t close properly or anything else that may make binding the cellulose difficult.
 
-> Pro-Tip: Mix fine grain materials with materials with longer fibers to get a smooth but rigid material!☕️🍵
+> Pro-tip: mix fine grain materials with materials with longer fibers to get a smooth but rigid material!☕️🍵
 
 
 ## What we're thinking about next:

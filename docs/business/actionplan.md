@@ -24,7 +24,7 @@ sidebar_label: Action Plan
 
 The Action Plan is about boiling down your business idea into the most important components, so you can see all of the moving parts interacting together. A common issue we see within our community are people trying to do too many things at once - this tool will help you prioritize!
 
-> business tip
+> Pro-tip: this tool is a living and breathing document that can grow and evolve with your business: spend the time revising and testing it on potential customers (aka friends) and it will save you a lot of time down the line.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -95,9 +95,9 @@ This is how you’ll be able to measure your success.
 
 <b>Income Streams</b> are all the ways you can create income out of your business. It’s not the initial investment you need to start your business, but all the money that you will receive monthly from your operations. Are you selling products? Giving workshops? Charging fees for maintenance of the machines you build? Be realistic, and take a look around the Precious Plastic community at how other workspaces are making money.
 
-![PP Image](assets/actionplan-fill.jpg)
+![Action Plan Fill](assets/actionplan-fill.jpg)
 
-# 👌 Tips:
+# 👌 Tips
 
 - Revise the Action Plan tool several times before you get started - things will likely reveal themselves at different points so it will need to be edited and refined. This tool is a living and breathing document that can grow and evolve with your business.
 - Colour code your target groups
@@ -105,3 +105,5 @@ This is how you’ll be able to measure your success.
 - For your income streams, make sure to stick to the ones that are most achievable at first.
 - It’s much easier to revise the Action Plan than a full business plan. Take your action plan around to people you trust and respect to get their feedback and update your plan based on their advice. Focus on asking friends or family that are examples of your target groups - their feedback is the most important.
 - Check out the Starter kit!
+
+<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>

@@ -23,7 +23,7 @@ sidebar_label: The Basics of Plastic
 
 What is plastic? Where does it come from, how much do we use, and what is recycled? What different types of plastic exist, and how do you recognize them? Here we cover the basics of plastic to get you up to speed quickly with the material you’re going to be working with!
 
-> Pro Tip: Look under your plastic product and see if you can recognize what type of plastic it is.
+> Pro-tip: look under your plastic product and see if you can recognize what type of plastic it is.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -40,7 +40,7 @@ What is plastic? Where does it come from, how much do we use, and what is recycl
 </div>
 </div>
 
-## What is plastic?
+# What is plastic?
 
 Plastic is everywhere around us.
 
@@ -84,7 +84,7 @@ Thankfully, 80% of plastics in the world are thermoplastics (🎉) meaning they 
 
 The most common ones are:
 
-<img style="margin-left: 0; margin-top: 50px" src="../assets/plastictypesoverview.svg" width="80%"/>
+<img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/plastictypesoverview.svg" width="80%"/>
 
 <img style="margin-left: 0; margin-top: 50px" src="../assets/plastic/type-pet.svg" width="80"/>
 
@@ -197,6 +197,6 @@ Different plastic types should never be mixed together as this will decrease the
 
 So, there are different types of plastic and one reason why  it’s so important to separate them is because of their melting temperatures. They all reach a liquid state at a different heat, so in order to make new high quality items it’s important to know at what temperature each plastic melts, as well as at what temperatures different types can be moulded. But don’t worry - we did the tests for you! You can find more about specific melting temperatures in the <b>CREATE</b> section (head to <i>Design</i>). But it’s important to remember the different types of plastic, so we’ve made this handy poster for your workspace or studio. <br>
 
-![Melting Temperatures](assets/melting-temperatures.jpg)
+![Melting Temperatures](assets/plastic/melting-temperatures.jpg)
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.
