@@ -32,7 +32,7 @@ body {
   text-decoration: none;
 }
 
-.smalldownloadButton{
+.smalldownloadButton {
   background-color: rgb(131, 206, 235);
   padding: 5px 8px;
   color: #fff;
@@ -375,6 +375,11 @@ article code:before {
   position: relative;
 }
 
+.tns-item > * {
+  height: 600px;
+  object-fit: contain;
+}
+
 .tns-controls {
   margin-top: -32px;
   display: flex;
@@ -607,8 +612,7 @@ hr {
 }
 
 .downloadCount {
-  color:
-  gray !important;
+  color: gray !important;
   display: inline-block;
   padding: 0 10px;
   font-size: 0.6em;
