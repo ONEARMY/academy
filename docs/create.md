@@ -51,7 +51,7 @@ The following information is everything you need to do before getting started wi
 <br>
 <br>
 
-![Precious Plastic products](assets/Create/pp_products.jpg)
+![Precious Plastic products](assets/create/pp_products.jpg)
 
 # Learn your 💩
 
@@ -81,7 +81,7 @@ Moulds are an integral part of the Precious Plastic ecosystem and could almost b
 
 > Pro-tip: learn about the different mould techniques availavle so you can best design to the strengths of each method. You could use a more hands-on approach and create new moulds using a welding machine (which is a bit more rough), or a milling machine or a lathe. Or you could create a CAD file and use more advanced (and expensive) technologies like CNC milling which is very precise.
 
-![Socket Mould](assets/Create/sockets.jpg)
+![Socket Mould](assets/create/sockets.jpg)
 
 It's worth noting that there are many ways of exploring moulds and new methods, using for example wood, plastic, 3d printed and aluminum casted moulds.  We advise to spend some time thinking, designing and making an accurate mould so you can create better products. It will pay off in the long run!
 

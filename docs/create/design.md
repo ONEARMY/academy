@@ -64,19 +64,19 @@ As we’ve covered in the Basics of Plastic, each type of plastic has different 
 
 Products made with the sheetpress or compression machine:
 
-![Sheet Products](assets/Create/sheets-products.jpg)
+![Sheet Products](assets/create/sheets-products.jpg)
 
 <b>Extrusion</b> “extrudes” the plastic through a hot metal barrel into a singular line of plastic, the plastic will be completely molten and the colours will be uniform.
 
 Products made with the extrusion machine:
 
-![Extrusion Products](assets/Create/extrusion-products.jpg)
+![Extrusion Products](assets/create/extrusion-products.jpg)
 
 <b>Injection</b> also melts the plastic in another type of hot metal barrel, but this time into a mould. You can play with colour and texture with injection moulds depending on different types of techniques.
 
 Products made with the injection machine:
 
-![Injection Products](assets/Create/injection-products.jpg)
+![Injection Products](assets/create/injection-products.jpg)
 
 ## Some guiding principles: 
 
@@ -120,7 +120,7 @@ In order to design great products you first need to understand the capabilities 
 
 Extrusion is a continuous process where shredded plastic enters the hopper, is heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be making products 24/7!
 
-![How Extrusion Machine Works](assets/Create/extruder_design.svg)
+![How Extrusion Machine Works](assets/create/extruder_design.svg)
 
 > Pro-Tip: Extruding plastic will mix the plastic uniformly and will also create new colours. Darker colours will dominate - make sure to practise with different combinations. 
 
@@ -128,7 +128,7 @@ Extrusion is a continuous process where shredded plastic enters the hopper, is h
 
 This technique creates cool products by rolling the filament around a shape or mould. This will take a lot of practise (trust us!) and you can create all sorts of bowls, vessels, lamps, or your own creation. You can control the shape of the filament by changing the nozzle - think about pushing pasta or Play-Doh through a mould, you could have squares, circles, diamonds, a mixture.. it’s up to you!
 
-![Extrusion Products](assets/Create/extrusion-products2.jpg)
+![Extrusion Products](assets/create/extrusion-products2.jpg)
 
 
 ### 2. Beam making
@@ -146,7 +146,7 @@ This technique allows you to extrude solid plastic beams by attaching a metal mo
 
 Figuring out how the colour is extruded and hardens take a few experiments. Basically, as the plastic moves through the beam mould, it hardens as it touches the metal, and the following plastic will fill the middle of the beam. This means that the colour you put in first will create the surface of the beam. 
 
-![Bench](assets/Create/bench.jpg)
+![Bench](assets/create/bench.jpg)
 
 > Pro-tip: if you heat the mould first you can achieve a smooth surface. But note that this will often increase the cooling times can be very energy inefficient as it is constantly heating up and cooling down a piece of metal.
 
@@ -157,7 +157,7 @@ If you design with the strengths of each technique and you streamline your produ
 
 These are the type of design decisions you would consider before you go into production - circularity, efficiency and cost. Don’t forget to include all stages of production when assessing your product design - cooling times, demoulding processes and how much time to reattach a mould are examples of different variables.
 
-![Bench](assets/Create/bricks.jpg)
+![Bench](assets/create/bricks.jpg)
 
 <b>Products:</b>
 
@@ -177,7 +177,7 @@ This machine creates sheets up to 1 x 1 metre with a range of thicknesses betwee
 - [Make your sheet shiny](https://community.preciousplastic.com/how-to/make-your-sheet-shiny)
 - [Bend plastic sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
 
-![How Sheetpress Works](assets/Create/sheetpress_design.svg)
+![How Sheetpress Works](assets/create/sheetpress_design.svg)
 
 There are different ways of processing plastic sheets to create final products. Here we go over two of our most common techniques:
 
@@ -193,7 +193,7 @@ Cutting is the most common process and there are a number of different methods -
 
 Note: if you’re using large cuts of plastic make sure to get familiar with the material and how it sags and bends across bigger areas. It can be very flexible and the more you know about it’s properties the more you can amplify it’s qualities.  
 
-![Stool](assets/Create/stool.jpg)
+![Stool](assets/create/stool.jpg)
 
 ### 2. Bending
 
@@ -205,7 +205,7 @@ This is quite fun! By applying the right temperature for a period of time you ca
 - You can use line benders, there are many DIY options online using Nichrome wire for sheets under 6mm. For above you’ll need thick strings and double sided heat is highly recommended. You could also use heated blade benders for HDPE and PP. 
 - A less efficient option for smaller bends is heating the full piece in an oven and forming it with a two sided mould - it can be fast but restrictive due to the size of the oven.
 
-![Bends](assets/Create/bends.jpg)
+![Bends](assets/create/bends.jpg)
 
 <b>Products:</b>
 
@@ -218,13 +218,13 @@ This is quite fun! By applying the right temperature for a period of time you ca
 
 The Injection machine is a very simple concept, it heats the plastic and with pressure fills a mould. You can create really beautiful and well finished objects, and if your mould is well made then you can keep a consistent high quality across your production. It can also be very quick and easy to grasp for your customers or if you’re holding a workshop - you can fill plastic into the hopper, it is heated and fills the mould and then cooled and voilá! The product is finished for people to see and hand around. 
 
-![How Injection Machine Works](assets/Create/injection_design.svg)
+![How Injection Machine Works](assets/create/injection_design.svg)
 
 This machine will allow you to be versatile with your production because all you have to do is screw on another mould and you can be making a completely different product. Be sure to check out the Moulds section on the left to learn more about the different methods.
 
 > Pro-tip: the injection machine is a perfect companion for a workshop as it is capable of turning waste into a valuable product within minutes and people/customers can really grasp the value of your process and product quickly.
 
-![Moulds](assets/Create/moulds.jpg)
+![Moulds](assets/create/moulds.jpg)
 
 <b>Techniques:</b>
 
@@ -242,7 +242,7 @@ This machine will allow you to be versatile with your production because all you
 
 <p class="note">Note: make sure to know the total amount of plastic that can fit in the barrel - this will limit the volume of the final product. It is usually around 150cm3 - this is quite small. It's not a problem, just a design constraint!</p> 
 
-![Human with mould](assets/Create/person-with-mould.jpg)
+![Human with mould](assets/create/person-with-mould.jpg)
 
 ## How-To’s
 
