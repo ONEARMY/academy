@@ -83,4 +83,4 @@ There are many different ways you can collect plastic - people can bring it to y
 
 So that’s it! Your needs will change depending on your own situation so make sure you adapt to what’s relevant for you and your community - make sure to share your experiences so we can all grow together. What’s next?
 
-<< collection download button >>
+<b>Want to share feedback, chat about the Collection Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>

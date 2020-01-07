@@ -165,8 +165,8 @@ For all of the other natural binders mentioned above: all of them bind at a pret
 - Natural colorings and dyes
 - Other applications of materials (eg. for furniture)
 
-
-
 # How to make a bowl
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/UD57zOGqAPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b>Want to share feedback, chat about Beyond Plastic or learn more from the community? Head to the [#beyond blastic](https://discordapp.com/invite/SfTmtKP) channel on Discord. Here we talk about re-inventing alternative materials for plastic.</b>

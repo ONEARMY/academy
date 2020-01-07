@@ -116,3 +116,5 @@ Optionally we've also created a series of 4 videos where you can see how we buil
 ## 👋 Share
 
 You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂
+
+<b>Want to share feedback, chat about the Mix Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>

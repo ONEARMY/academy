@@ -52,11 +52,15 @@ This template is an easy to follow framework for your business plan and consists
 </div>
 </div>
 
-## So what's in it?
+### 👇The link to the Business Plan template
+
+Click on the link below to open the document, and click File > Make a copy and you're ready to go! 
+
+[Open the Business Plan template](http://tiny.cc/business-plan-template-pp)
 
 ![Business Plan](assets/Business/businessplantemplate.jpg)
 
-*The 14 page business plan template PDF is in the download kit!*
+## So what's in it?
 
 1. Executive summary
 2. Mission
