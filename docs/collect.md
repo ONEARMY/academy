@@ -30,7 +30,7 @@ Collecting plastic is pretty crucial - here we’ll show you what it means to co
 </div>
 <div class="videoChaptersSidebar">
 
-### Video Chapters (tbc)
+### Video Chapters
 
 - 00:19 Waste Collection
 - 01:21 Current Situation
