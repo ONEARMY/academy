@@ -89,7 +89,7 @@ To obtain these sizes, you need to use the right mesh. Install a 7mm sieve on th
 
 
 # 🙌 Useful Links
-* [⭐️ How to setup a full Shredder workspace](spaces/extrusion.md)
+* [⭐️ How to setup a full Shredder workspace](spaces/shredder.md)
 * [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)

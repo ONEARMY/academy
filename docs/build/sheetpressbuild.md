@@ -20,7 +20,7 @@ sidebar_label: - Build it
 
 # Build a Sheetpress 
 
-Hi looks like you might want to build a Sheetpress? that is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
+Hi! It looks like you might want to build a Sheetpress? That is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
 
 > Pro tip: Before you build, make sure you to read all documentation. Its a big project so make sure you know where you're getting into.
 
@@ -30,11 +30,15 @@ Hi looks like you might want to build a Sheetpress? that is great! It's a very e
 
 ### Video Chapters
 
-- 00.36 1 todo Bearing
-- 00.36 2 todo Barrel
-- 00.36 3 todo Barrel
-- 00.36 4 todo Motor
-- 00.36 5 todo Hopper
+- 00:06 Introduction
+- 01:07 Pressing Plates
+- 02:46 Frame
+- 04:43 Heating Elements
+- 09:32 Pressing Mechanism
+- 12:46 Extraction Hood
+- 13:54 Electronics
+- 15:35 Assembly
+- 16:08 How to Use
 
 </div>
 </div>
@@ -185,25 +189,3 @@ You can make sheets with the Sheetpress alone but the process is slow. You have 
 To improve ease of use and efficiency we designed three tools to turn the Sheetpress in to a full-on production system. Adding a cooling press, prep table and sliding tool allows you to prepare, heat and cool sheets simultaneously. You are also able to transport them easily and safely between each three of these stages. This dramatically increases the rate of production. So if you are looking to setup an efficient production, build the whole system. If you don't have a lot of space or just want to make a few sheets, make the Sheetpress.
 
 ![Sheetpress run](assets/build/sheetpress-system.jpg)
-<br><br><br><br><br><br><br><br><br><br>
----
-# NOT SURE IF WE SHOULD INCLUDE BUT I LIKE THE LOOKS OF IT
-
-
-
-| Component   |  Description |
-|----------|----------------------|
-| <img src="../assets/build/electronics/cable-gland.png" width="150"/>           | __Cable Glands__ <br> Precious Plastic Members are the beginning and the end of the plastic cycle. They provide the initial plastic waste and buy Precious Plastic recycled products.    |
-| <img src="../assets/build/electronics/cartridge-heater.png" width="150"/>        |  __Cartridge heaters__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
-| <img src="../assets/build/electronics/ceramic-terminal.png" width="150"/>     |  __Ceramic terminal__ <br> Machine Shops produce and build parts, moulds and entire machines for other workspaces and projects in the local recycling network.   |
-| <img src="../assets/build/electronics/emergency-stop.png" width="150"/>  |  __Emergency stop__ <br> Community Points connect and grow the network locally. Strengthening the existing local community while bringing in more & more people.  |
-| <img src="../assets/build/electronics/fork.png" width="150"/> |  __Fork__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/heatsink.png" width="150"/>        |  __Heatsink__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
-| <img src="../assets/build/electronics/multicore-cable.png" width="150"/>     |  __Multicore cable__ <br> Machine Shops produce and build parts, moulds and entire machines for other workspaces and projects in the local recycling network.   |
-| <img src="../assets/build/electronics/ring-terminal.png" width="150"/>  |  __Ring Terminal__ <br> Community Points connect and grow the network locally. Strengthening the existing local community while bringing in more & more people.  |
-| <img src="../assets/build/electronics/rotary-switch.png" width="150"/> |  __Rotary Switch__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/pid.png" width="150"/> |  __PID controller__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/plug-32.png" width="150"/> |  __32 AMP Plug__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/relais.png" width="150"/> |  __Relais__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/ssr.png" width="150"/> |  __Solid State Relais (SSSR)__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |
-| <img src="../assets/build/electronics/thermocouple.png" width="150"/> |  __Thermocouple__ <br> Collection Points gather plastic from neighbours, organisations and businesses to be used by local Shredder Workspaces.   |

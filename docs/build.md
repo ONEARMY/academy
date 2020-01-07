@@ -32,11 +32,11 @@ We outline how to build each machine and where to source parts, as well as the m
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 00:12 Introduction
+- 01:35 Shredder
+- 01:53 Extruder
+- 02:33 Compression
+- 02:57 Injection
 
 
 </div>
@@ -63,9 +63,9 @@ The underlying principle behind the machines is the same for all (except the shr
 | Machines   |  Description |
 |----------|----------------------|
 | <img src="assets/build/thumb-shredder.jpg" width="150"/>           | __Shredder__ <br> Our Shredder chops the plastic into small flakes that can be used by the other machines to melt. Get the Shredder Pro for higher outputs.   |
-| <img src="assets/build/thumb-extrusion.jpg" width="150"/>        |  __Extrusion__ <br> Shredder plastic goes in, gets molten and turned into a string of plastic. You can fresstsyle and wrap it around a mould or fill up moulds. Get the Pro version for higher outputs |
+| <img src="assets/build/thumb-extrusion.jpg" width="150"/>        |  __Extrusion__ <br> Shredded plastic goes in, gets molten and turns into a string of plastic. You can freestyle and wrap it around a mould or fill up moulds. Get the Pro version for higher outputs |
 | <img src="assets/build/thumb-injection.jpg" width="150"/>     |  __Injection__ <br> Simple to build and use machine. Plastic melts in the barrel and is squeezed into a mould. You can make basic objects or super detailed. Good for education and small productions.   |
-| <img src="assets/build/thumb-compression.jpg" width="150"/>  |  __Compression__ <br> An oven that can heat up your plastic in a mould anc compress it together. Its good for experimenting and learning but not strong for productions. |
-| <img src="assets/build/thumb-sheetpress.jpg" width="150"/> |  __Sheetpress__ <br> Big machine that can make big sheets. It can process a lot of plastis on a daily base. It's a relative new process, so still some things to learn and figure out :) |
-| <img src="assets/build/thumb-extrusion-pro.jpg" width="150"/> |  __Extrusion Pro__ <br> A beefed up version from our smaller extruder. Made to run long hours and outputs more plastic. Its the extruder you can count on for productions.   |
-| <img src="assets/build/thumb-shredder-pro.jpg" width="150"/> |  __Shredder Pro__ <br> Big version of our small shredder, the main difference is that this is a 2 axe machine. Good in quickly shredding plastic into small flakes. Less good in granulating.  |
+| <img src="assets/build/thumb-compression.jpg" width="150"/>  |  __Compression__ <br> An oven that can heat up your plastic in a mould and compress it together. It's good for experimenting and learning but not strong for productions. |
+| <img src="assets/build/thumb-sheetpress.jpg" width="150"/> |  __Sheetpress__ <br> Big machine that can make big sheets. It can process a lot of plastic on a daily basis. It's a relatively new process, so there are still some things to learn and figure out :) |
+| <img src="assets/build/thumb-extrusion-pro.jpg" width="150"/> |  __Extrusion Pro__ <br> A beefed up version of our smaller extruder. Made to run long hours and outputs more plastic. Its the extruder you can count on for big productions.   |
+| <img src="assets/build/thumb-shredder-pro.jpg" width="150"/> |  __Shredder Pro__ <br> Big version of our small shredder, the main difference is that this is a 2 axel machine. Good for quickly shredding plastic into small flakes. Less good for granulating.  |
