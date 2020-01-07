@@ -13,7 +13,7 @@ sidebar_label: How to's
 </style>
 
 
-![How to](assets/create/howto2.png)
+![How to](assets/Create/howto2.png)
 
 # Learn more in our How-To's!
 
@@ -38,7 +38,7 @@ Ok, you’ve had a look around the How-to’s, perhaps used some of them, and no
 Upload files: do you have CAD drawings, testing sheets, or resources that will help? Zip them in a folder and upload them here. Aim to keep it under mb.
 <b>Cover photo:</b> upload a landscape photo that shows your product or process clearly. We are visual creatures, good imagery will communicate quicker than text will. Keep it to 1280x960px.
 
-![How to](assets/create/how-to-title.jpg)
+![How to](assets/Create/how-to-title.jpg)
 
 ## Steps
 
@@ -49,7 +49,7 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 <b>Description:</b> edit it down to the essentials, and don’t make it a stream of text. If you have to much text for one step, it probably means your step is two big and it's better to split it up in 2 steps. This makes it easier to digest for others.
 <b>Photos:</b> make sure they’re clear and useful to the step.
 
-![How to](assets/create/how-to-step.jpg)
+![How to](assets/Create/how-to-step.jpg)
 
 
 ## Some tips & tricks:

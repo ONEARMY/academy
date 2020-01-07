@@ -38,7 +38,6 @@ We outline how to build each machine and where to source parts, as well as the m
 - 02:33 Compression
 - 02:57 Injection
 
-
 </div>
 </div>
 

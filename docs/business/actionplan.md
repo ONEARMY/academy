@@ -45,7 +45,7 @@ The Action Plan is a tool that you print out and write on, you can stick it on y
 
 The Action Plan is divided into 4 main areas: Mission, Market Analysis, Operations and Impact Measures.
 
-![Action Plan](assets/business/actionplan.jpg)
+![Action Plan](assets/Business/actionplan.jpg)
 
 
 ### Mission
@@ -95,7 +95,7 @@ This is how you’ll be able to measure your success.
 
 <b>Income Streams</b> are all the ways you can create income out of your business. It’s not the initial investment you need to start your business, but all the money that you will receive monthly from your operations. Are you selling products? Giving workshops? Charging fees for maintenance of the machines you build? Be realistic, and take a look around the Precious Plastic community at how other workspaces are making money.
 
-![Action Plan Fill](assets/actionplan-fill.jpg)
+![Action Plan Fill](assets/Business/actionplan-fill.jpg)
 
 # 👌 Tips
 

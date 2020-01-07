@@ -69,7 +69,7 @@ This tool is applicable to any type of business you hope to start within Preciou
 
 <b>Profit and Loss Statement:</b> An overview of how much money you made or lost
 
-<img style="margin-left: 0; margin-top: 0px" src="../assets/wscalc.gif" width="600"/>
+<img style="margin-left: 0; margin-top: 0px" src="../assets/gif/wscalc.gif" width="600"/>
 
 # 📚 Sections
 
@@ -81,7 +81,7 @@ The Read Me sheet tells you all you need to know about using the workspace calcu
 
 This is about what products you’re going to produce and how much time and resources it will take to produce them. You onlined these on your Action Plan - now it’s time to forecast some costs. Every product or service costs something to produce, whether it’s the plastic that is going into a beam, or the time you spend preparing for a workshop.
 
-<img style="margin-left: 0;" src="../assets/workspace_1.jpg" width="500"/>
+<img style="margin-left: 0;" src="../assets/Business/workspace_1.jpg" width="500"/>
 
 <b>Products or Services:</b> here you can list all the products, machines, workshops or services that you plan on selling with your Precious Plastic workspace. You can be a specific as you want here - if you plan on selling different bowls at different prices, you might want to list each type or color separately.  
 
@@ -113,7 +113,7 @@ Things to consider:
 
 ### Dashboard - Profit Margin
 
-<img style="margin-left: 0;" src="../assets/workspace_2.jpg" width="700"/>
+<img style="margin-left: 0;" src="../assets/Business/workspace_2.jpg" width="700"/>
 
 Now for some numbers to get excited about! As you complete the variables you can start to analyze the results. The first thing to consider is the profit margin per product - these numbers should all be green, meaning that the price you’re charging is covering the costs of producing these products and services, with some extra.
 
@@ -123,7 +123,7 @@ Many people wonder about what profit margin should be the target for each item, 
 
 ### Dashboard - Summary Box
 
-<img style="margin-left: 0;" src="../assets/workspace_3.jpg" width="700"/>
+<img style="margin-left: 0;" src="../assets/Business/workspace_3.jpg" width="700"/>
 
 Once you’ve worked out a good profit margin for each one of your products and services, now start analyzing the summary box results:
 

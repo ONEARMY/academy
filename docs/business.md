@@ -11,7 +11,7 @@ sidebar_label: Intro
 }
 </style>
 
-![Business Tools](assets/business/businesspresentation.jpg)
+![Business Tools](assets/Business/businesspresentation.jpg)
 
 # The Business Tools
 
@@ -21,7 +21,7 @@ We are excited to take you through some crucial tools to help you not only have 
 
 Pro-tip: the most successful businesses are the ones that really focus on what they want to deliver to their customers or audience
 
-![Business Tools](assets/business/businessintro.svg)
+![Business Tools](assets/Business/businessintro.svg)
 
 ## The Business Tools is a three part series consisting of:
 
