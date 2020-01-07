@@ -30,11 +30,17 @@ In this section we introduce the Beyond Plastic Bio Press - a strong heat press 
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 00:07 Introduction
+- 00:57 Frame
+- 06:41 Walls
+- 11:09 Painting
+- 11:45 Heating Elements
+- 16:06 Hydrolic Jack
+- 18:58 Electronics
+- 20:43 Protective Box
+- 22:57 Final Assembly
+- 24:20 Table Add-on
+- 24:44 How to Run
 
 
 </div>
