@@ -54,8 +54,8 @@
     "7. Spaces": [
       "spaces",
       "spaces/shredder",
-      "spaces/injection",
       "spaces/extrusion",
+      "spaces/injection",
       "spaces/sheetpress",
       "spaces/mix",
       "spaces/collectionpoint"
@@ -67,6 +67,6 @@
       "universe/yourlogo"
     ],
     "📦 Download": ["download"],
-    "💬 Questions?": ["support/faq", "support/chat"]
+    "💬 Questions?": ["support/faq", "support/chat", "styles"]
   }
 }

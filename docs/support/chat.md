@@ -1,7 +1,7 @@
 ---
 id: chat
 title: Chat
-sidebar_label: chat
+sidebar_label: Chat
 ---
 
 <style>

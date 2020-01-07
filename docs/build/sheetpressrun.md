@@ -12,7 +12,7 @@ sidebar_label: - Run it
 </style>
 <div class="videocontainer">
 
-![Sheetpress run](assets/Build/sheetpress-run.jpg)
+![Sheetpress run](assets/build/sheetpress-run.jpg)
 
 </div>
 
@@ -135,3 +135,5 @@ Check the resistance of your elements on each of the three phases is equal to th
 Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged.
 Re paint worn areas
 Check the body panels and frame for signs of ware, repaint any exposed metal to protect it from corrosion.
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

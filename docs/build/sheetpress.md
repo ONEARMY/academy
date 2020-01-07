@@ -12,7 +12,7 @@ sidebar_label: - Overview
 }
 </style>
 
-![Sheetpress](assets/Build/sheetpress.jpg)
+![Sheetpress](assets/build/sheetpress.jpg)
 
 
 # 📓 Sheetpress information
@@ -20,8 +20,8 @@ sidebar_label: - Overview
 |--------------------------------------|-----------------------|
 | 📓 Type                               | Sheetpress              |
 | 💎 Version                            | 1                     |
-| 💰 Material costs in Netherlands    | €2,550                |
-| 💰 Additional system (coldpress + table)   | €860                  |
+| 💰 Price new material in NL            | +/- €2.550                |
+| 💰 Additional system (Cooling press + table)   | +/- €860                  |
 | ⚖️ Weight                             | 450kg (Sheetpress)    |
 | 📦 Sheetpress Dimension               | 1620 X 1620 X 1780 mm |
 | 🔌 Voltage                            | 400V                  |
@@ -88,7 +88,7 @@ We have successfully pressed sheets from clean HDPE, LDPE, PP and PS. The press 
 ### Playing with colors
 This is where there is room to play. You can basically mix any color as long as it is the same type of plastic. A few variables to play with, the size of the shredded plastic. Small, medium or large flakes will have a different effect. Also using transparent plastic in there gives an interesting layer of depth. More examples on the poster in the downloadkit
 
-![Sheetpress colors](assets/Build/sheetpress-colors.jpg)
+![Sheetpress colors](assets/build/sheetpress-colors.jpg)
 ### How many sheets at a time?
 
 We recommend pressing only one sheet at a time. It may be possible to press more efficiently by melting multiple at a time but we have not figured out how to cool them evenly yet. If you figure out a way, please share it on our online community!  
@@ -98,20 +98,21 @@ We recommend pressing only one sheet at a time. It may be possible to press more
 The aluminum pressing plates are 1220x1220mm but there is often an overflow from the mould so we recommend making moulds of 1040mm so that once they have shrunk from cooling they are just over 1m, then the edges can be trimmed to make a perfect 1mx1m square. Thickness can be between 4 to 35 MM.
 
 
-![sheetpress](assets/Build/sheetpress-sheets.jpg)
+![sheetpress](assets/build/sheetpress-sheets.jpg)
 
 
 # 🙌 Useful Links
 
-* [⭐️ How to setup a full Sheetpress workspace](spaces/sheetpress.md)
-* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
 * [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [⭐️ How to setup a full Sheetpress workspace](spaces/sheetpress.md)
+* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [⭐️ How to make a chair with sheets](https://community.preciousplastic.com/how-to/make-a-chair-with-bent-sheets)
 * [Forum post about building the Sheetpress system](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
 * [Forum post about building a big oven](https://davehakkens.nl/community/forums/topic/sheet-press-mould-oven/)
 * [Forum post about an alternative version](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
-* [interesting results](https://davehakkens.nl/community/forums/topic/v4-sheets-interesting-results/)
 * [How to bend sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
 * [How to build a shelving system with sheets](https://community.preciousplastic.com/how-to/make-a-shelving-system)
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

@@ -19,6 +19,8 @@ sidebar_label: Shredder
 
 # Build a Shredder Machine
 
+### What is this machine?
+
 The shredder is the backbone of Precious Plastic, it allows you to shred plastic into small flakes - you can easily wash and store shredded plastic and transport it to other Precious Plastic workspaces to make into beautiful, valuable products. Of course you can also use the plastic yourself or sell clean, separated plastic within the industry (which buys it at 8-10 times higher than unshredded plastic!)
 
 > Pro Tip: If you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material. `
@@ -38,14 +40,13 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 </div>
 </div>
 
-![Shredder V3](assets/Build/shredderv3.jpg)
-
 # 📓 Technical information
 
 📓 Type | Single Shaft Shredder
 --- | ---
 💎 Version | 2.0
-💰 Prize in Netherlands | 1500€ + motor
+💰 Price new material in NL | +/- €500 + motor
+💰 Price scrap material in NL | +/- €400
 ⚖️ Weight | 90 kg
 📦 Dimension | 280 x 600 x 1142 mm
 ⚙️ Blade width | 5 mm, 6 mm
@@ -57,7 +58,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 - Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
 
 
-> Pro Tip: Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
+![Shredder V3](assets/build/shredderv3.jpg)
 
 # 🌐 3D Model
 <iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Basic+V2.0&model_id=96649&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96649" allowfullscreen></iframe>
@@ -66,7 +67,7 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 # 🛠 Required machinery & skills
 Build Shredder  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/Build/thumb-shredder.jpg" width="100"/>  | - Lathe <br> - Drill press <br> - Welding machine (not specific) <br> - Belt Sander | - Welding (intermediate) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/build/thumb-shredder.jpg" width="100"/>  | - Lathe <br> - Drill press <br> - Welding machine (not specific) <br> - Belt Sander | - Welding (intermediate) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 # ⚡️ Electronic box
 Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
@@ -75,7 +76,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> Common household power cable.
 
-> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 - Take your time ensuring the box is square before any welding
@@ -92,7 +93,7 @@ The shredded plastic can be used in three different Precious Plastic machines: e
 
 Name: | Large | Medium | Small |
 --- | ---| ---| ---|
-Visual: | <img style="margin-left: 0;" src="../assets/Build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/Build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/Build/shredder_output_04.jpg" />
+Visual: | <img style="margin-left: 0;" src="../assets/build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/build/shredder_output_04.jpg" />
 Size: | 0-30 MM| 0-10 MM | 0-7 MM|
 Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpress <br> Injection <br> Compression <br> Extrusion|
 
@@ -103,9 +104,9 @@ Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpres
 
 3. Let’s go - feed the plastic into the hopper. While shredding, you should regularly check the blades and push the plastic down towards the blades with the provided tool to make sure the blades are grabbing the plastic. When you finish working with the shredder, make sure to store and label the shredded plastic or the next person using the shredder won’t know what plastic type is in the bucket.
 
-<br>
-## ⚠️ Always use extra care when working with the shredder
-<br>
+<p class="note">Note:⚠️ Always use extra care when working with the shredder </p>
+
+
 
 ### Quick steps on operating the shredder
 1. Gather the sorted plastic you want to shred
@@ -138,31 +139,30 @@ Relatively cheap | High in maintenance
 Portable |
 
 # 🌎 Built by the community
-![PP Image](assets/ppimage.jpg)
-
-# 🔧 Most common hacks
-- [Human Powered Shredder](https://community.preciousplastic.com/how-to/human-powered-shredder)<br>
-- [Shredder 2.1](https://preciousplastic.com/en/videos/Build/upgrades/shredder-2-1.html)
-
-# 🙌 Useful Links
-- [Shredder efficiency](https://davehakkens.nl/community/forums/topic/shredder-efficiency/)
-- [Shredder & Extruder](https://davehakkens.nl/community/forums/topic/shredder-and-extrusion-industrial-electronics-2/)
-
-
-# 🌎 Built by the community
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/Build/community/communityshredder1.jpg)
+![Community Shredder](assets/build/community/machinehack-shredder-4.jpg)
 
-![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
+![Community Shredder](assets/build/community/machinehack-shredder-2.jpg)
 
-![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)
+![Community Shredder](assets/build/community/communityshredder1.jpg)
 
-![Community Shredder](assets/Build/community/shredder_community3.jpg)
+![Community Shredder](assets/build/community/shredder_community3.jpg)
 
-![Community Shredder](assets/Build/community/shredder_opo.jpg)
+![Community Shredder](assets/build/community/shredder_opo.jpg)
 
-![Community Shredder](assets/Build/community/shrednmould.jpg)
+![Community Shredder](assets/build/community/shrednmould.jpg)
 
 </div>
+
+# 🙌 Useful Links
+- [⭐️Upgrade: Shredder 2.1](https://preciousplastic.com/en/videos/build/upgrades/shredder-2-1.html)
+- [Upgrade: Shredder efficiency](https://davehakkens.nl/community/forums/topic/shredder-efficiency/)
+- [Hack: Shredder & Extruder](https://davehakkens.nl/community/forums/topic/shredder-and-extrusion-industrial-electronics-2/)
+- [Hack: Human Powered Shredder](https://community.preciousplastic.com/how-to/human-powered-shredder)
+
+
+
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

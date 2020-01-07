@@ -21,7 +21,7 @@ sidebar_label: - Build it
 
 Welcome to the Extruder Pro! This is a stronger, bigger and more robust version of our V3 extruder so if you are looking for serious production and have advanced milling and lathing skills, continue on! If you are starting out, or looking for a smaller and easier machine to build, we advise you to start with the original extruder (which is still badass).
 
-> Pro-tip:: Making the extruder requires fine precision and eye for tolerances, if you are not precise enough try to find complex parts on the bazar. They are small and easy to ship.
+> Pro-tip: Making the extruder requires fine precision and eye for tolerances, if you are not precise enough try to find complex parts on the bazar. They are small and easy to ship.
 
 </div>
 <div class="videoChaptersSidebar">
@@ -46,7 +46,7 @@ Welcome to the Extruder Pro! This is a stronger, bigger and more robust version 
 # 🛠 Required machinery & skills
 Build Extrusion Pro  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/Build/thumb-extrusion-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (TIG or MIG/MAG recommended) <br> - Torq wrench| - Welding (advanced) <br> - Machining (advanced) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/build/thumb-extrusion-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (TIG or MIG/MAG recommended) <br> - Torq wrench| - Welding (advanced) <br> - Machining (advanced) <br> - Assembling (intermediate)<br> - Electronics (intermediate)
 
 
 # 🔩 Materials and parts
@@ -149,3 +149,5 @@ It remains to use an insulating material to be inserted between the barrel and t
 - Glass wool
 
 <img style="margin-left: 0; margin-top: 0px margin-bottom: 0px;" src="../assets/ex12.jpg" width="500"/>
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

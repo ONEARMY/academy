@@ -57,3 +57,5 @@ Colors are key for us, we love them. They are friendly and represent shredder pl
 Graphics are a powerful tool to communicate a message. We use it to share dry functional information like melting temperatures and different types of plastic. We use it to trigger people and look different at plastic, for instance with our campaign posters from the Collection Points. And we use it digitally, on social media and our website. And there are probably many different purposes and things to make, we don't have an example for everything nor have all the guidelines in depth. The best thing to do is have a look at the graphic material we already provide, take them as an example or template an build upon that. And if you are unsure wheter it looks good, just share it in the Discord, many people love to share their opinion on it :)
 
 <img src="../assets/universe/posters.png" />
+
+<b>Have yout got any questions, need help making your poster or want to share what you made? Head to the [#Universe](https://discordapp.com/invite/QUw8A3w) channel on Discord. Here we talk about how you fit in the universe, roles, branding and your own logo.</b>

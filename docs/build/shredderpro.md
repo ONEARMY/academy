@@ -5,7 +5,7 @@ sidebar_label: - Overview
 ---
 
 
-![Shredder Pro](assets/Build/shredderpro.jpg)
+![Shredder Pro](assets/build/shredderpro.jpg)
 
 # 📓 Shredder Pro information
 
@@ -13,7 +13,7 @@ sidebar_label: - Overview
 |----------|-------------|
 | 📓 Type   |     Double Shaft Shredder   |
 | 💎 Version   |     1.0   |
-| 💰 Prize in Netherlands |  2200€ + motor |
+| 💰 Price new material in NL |  +/- €2200 + motor |
 | ⚖️ Weight |   340 kg   |
 | 📦 Dimension   | 1205 x 550 x 1512 mm|
 | ⚙️ Blade width | 6 mm|
@@ -57,13 +57,13 @@ This machine also requires specific equipment and a high powered motor making it
 
 The machine can shred any plastic in any shape that fits between the blades. We have tested it with HDPE, PP, and PS. There is no limit of thickness that the shredder can handle. If the plastic piece is too thick, the blades will not shred as it has been designed so that plastic cannot jam the machine (depends on the motor power). PP, HDPE, PS from 0.7mm to 12mm have been tested successfully. Films are too thin and will slide in between the blades.  Rubber, tires, and thermoset plastics have not been tested.
 
-![Shredder Pro](assets/Build/shredder_output.jpg)
+![Shredder Pro](assets/build/shredder_output.jpg)
 ### Definition of our flakes sizes
 The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and Sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
 
 Name: | Large | Medium | Small |
 --- | ---| ---| ---|
-Visual: | <img style="margin-left: 0;" src="../assets/Build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/Build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/Build/shredder_output_04.jpg" />
+Visual: | <img style="margin-left: 0;" src="../assets/build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_03.jpg"  />| <img style="margin-left: 0;" src="../assets/build/shredder_output_04.jpg" />
 Size: | 0-30 MM| 0-10 MM | 0-7 MM|
 Works with: | Sheetpress| Sheetpress <br> Injection <br> Compression | Sheetpress <br> Injection <br> Compression <br> Extrusion|
 
@@ -85,12 +85,15 @@ To obtain these sizes, you need to use the right mesh. Install a 7mm sieve on th
 |   |   |  **Total** |  **41.8** |   | **Medium**  |
 
 
-![Shredder Pro](assets/Build/shredderpro-output.jpg)
+![Shredder Pro](assets/build/shredderpro-output.jpg)
 
 
 # 🙌 Useful Links
-* [⭐️ How to setup a full Shredder workspace](spaces/shredder.md)
-* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
 * [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [⭐️ How to setup a full Shredder workspace](spaces/shredder.md)
+* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
+
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

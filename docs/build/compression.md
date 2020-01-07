@@ -12,18 +12,21 @@ sidebar_label: Compression
 :root {
   --highlight: #f29094;
   --hover: #f29094;
+
 }
 </style>
+<div class="videoChapters">
+<div class="videoChaptersMain">
 
 # Build a Compression Machine
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+### What is this machine?
 
 The compression machine is basically an electric kitchen oven to heat the plastic, and a compression mechanism (a carjack) to apply pressure to your mould. The process is slower than the other Precious Plastic machines but it allows for larger moulds to be used. It can be used to create raw material, like sheets or shapes that can be further worked on to make new products and gives a specific flake-like look to the plastic (which looks amazing!).
 
 
-> Pro-tip:: The compression machine is good for testing and trying. But for steady production we advise an extrusion or injection machine
+> Pro-tip: The compression machine is good for testing and trying. But for steady production we advise an extrusion or injection machine
+
 
 </div>
 <div class="videoChaptersSidebar">
@@ -45,8 +48,8 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 📓 Type | Compression Machine
 --- | ---
 💎 Version | 2.0
-💰 Cost in Netherlands | €200
-💰 Scrap cost in Netherlands | €120
+💰 Price new material in NL | +/- €350
+💰 Price scrap material in NL | +/- €150
 ⚖️ Weight | 30 kg
 📦 Dimensions | 500 x  590 x 1590 mm
 ⚙️ Compression | 2t car jack
@@ -64,7 +67,7 @@ The compression machine is basically an electric kitchen oven to heat the plasti
 # 🛠 Required machinery & skills
 Build Compression  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/Build/thumb-compression.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/build/thumb-compression.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
 # ⚡️ Electronic box
 Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
@@ -77,7 +80,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> common household power cable.
 
-> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
 
@@ -140,20 +143,19 @@ Unique patterns |
 
 <div class="j-slideshow">
 
-![Community Compression](assets/Build/community/compression1.jpg)
+![Community Compression](assets/build/community/compression3.jpg)
 
-![Community Compression](assets/Build/community/compression2.jpg)
+![Community Compression](assets/build/community/compression1.jpg)
 
-![Community Compression](assets/Build/community/compression3.jpg)
+![Community Compression](assets/build/community/compression2.jpg)
 
 </div>
 
 
-# 🔧 Most common hacks
-- [Compression V2.1](https://preciousplastic.com/en/videos/build/upgrades/compression2-1.html)<br>
-- (more to come)
-
 # 🙌 Useful Links
-- [Machine Development: Compression](https://davehakkens.nl/community/forums/topic/machine-development-compression-oven/)<br>
-- [Solar Powered Melting Machine](https://davehakkens.nl/community/forums/topic/solar-powered-melting-machine/)<br>
+- [⭐️Upgrade: Compression V2.1](https://community.preciousplastic.com/how-to/compression-machine-21)
+- [Hack: Compression](https://davehakkens.nl/community/forums/topic/machine-development-compression-oven/)
+- [Hack: Solar Powered Melting Machine](https://davehakkens.nl/community/forums/topic/solar-powered-melting-machine/)
 - [How-to: Wall Clock](https://www.youtube.com/watch?v=e_jqIvSFfI4)<br>
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

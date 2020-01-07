@@ -52,7 +52,7 @@ So you want to shred plastic? Cool! We have 2 different shredders: the original 
 # 🛠 Required machinery & skills
 Build Shredder Pro  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/Build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
+<img style="margin-left: 0;" src="../assets/build/thumb-shredder-pro.jpg" width="150"/>  | - Lathe <br> - Drill press <br>- Milling machine <br> - Welding machine (not specific) <br> - Torq wrench <br> - M16 hand tap | - Welding (intermediate) <br> - Machining (expert) <br> - Assembling (expert)<br> - Electronics (expert)
 
 
 # 🔩 Materials and parts
@@ -66,7 +66,7 @@ All the energy to shred the plastic comes from the electric motor. More energy m
 To choose a 3-phase geared motor, you need to check:
 
 - Nominal Power
-- Output speed 
+- Output speed
 - Torque
 - Service factor
 
@@ -232,3 +232,5 @@ We designed a fully closed version of the hopper to prevent the plastic from jum
 ### Different sieves
 
 You could use the shredder with no sieve, but in order to achieve different flake size standards - see input & output chapter - we provided different sieve designs to be cut. You can get your own drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

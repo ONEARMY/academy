@@ -14,15 +14,18 @@ sidebar_label: Injection
   --hover: #f29094;
 }
 </style>
-
-# Build an Injection Machine
-
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
+# Build an Injection Machine
+
+### What is this machine?
+
+
+
 The injection machine has a quick production output with high precision, while it takes a little bit more effort in the beginning with designing and making a mold, you’ll be amazed at what you can create. Shredded plastic enters the hopper and is heated and pressed through a long barrel into your mold. The output colour is often unpredictable when mixing colours in the barrel, allowing for beautiful (and surprising) patterns that can add to your one-of-a-kind products.
 
-> Pro-tip:: Invest in a good mould. Good mould, good output :)
+> Pro-tip: Invest in a good mould. Good mould, good output :)
 
 </div>
 <div class="videoChaptersSidebar">
@@ -46,8 +49,8 @@ The injection machine has a quick production output with high precision, while i
 📓 Type | Injection
 --- | ---
 💎 Version | 1.0
-💰 Cost in Netherlands | €300
-💰 Scrap cost in Netherlands | €131
+💰 Price new material in NL | +/- €300
+💰 Price scrap material in NL | +/- €150
 ⚖️ Weight | 23 kg
 📦 Dimensions | 830 x 700 x 1300 mm
 ⚙️ Barrel volume | 150 cm³
@@ -59,6 +62,10 @@ The injection machine has a quick production output with high precision, while i
 ⚡️ AMP | 2.6A
 | ♻️ Input Flake Size                   | Medium, Small  |
 
+
+![Injection machine](assets/build/injection.jpg)
+
+
 # 🌐 3D Model
 <iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Injection+Basic+V2.0&model_id=96645&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23dde7ed&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96645" allowfullscreen></iframe>
 
@@ -66,7 +73,7 @@ The injection machine has a quick production output with high precision, while i
 # 🛠 Required machinery & skills
 Build Injection  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/Build/thumb-injection.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+<img style="margin-left: 0;" src="../assets/build/thumb-injection.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
 
 
 # ⚡️ Electronic box
@@ -80,7 +87,7 @@ Explanation of the electric components inside this machine. More information and
 * <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
 * <b>Power cable:</b> common household power cable.
 
-> Pro-tip:: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
+> Pro-tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 
 # 🛠 Tips & tricks while making
@@ -97,13 +104,6 @@ Explanation of the electric components inside this machine. More information and
 # ⚙️ Run & maintain
 
 You can create beautiful, consistent products with the injection machine very efficiently, but it takes a little work upfront - making moulds, for example. The more precise the mould, the easier and more streamlined your production will be. Some quick tips:
-
-* Depending on the plastic type, you’ll need one or sometimes two people to pull down the lever.
-* Before injecting into the mould, make sure the plastic in the barrel is completely melted in order to fill all areas of the mould. To achieve this, run the machine a few degrees higher than usual to ensure the plastic is fully molten.
-
-<br>
-
-### How to Run the injection machine
 
 ### Startup
 1. Turn the machine on and set the temperature to 20° more than the desired temperature. Make sure the lever is at its lowest position.
@@ -129,6 +129,9 @@ You can create beautiful, consistent products with the injection machine very ef
 12. Fill the machine for a new product.
 13. Let the mould cool.
 14. Open the mould once it is cooled down.
+
+> Pro-tip: Depending on the plastic type, you’ll need one or sometimes two people to pull down the lever.
+Before injecting into the mould, make sure the plastic in the barrel is completely melted in order to fill all areas of the mould. To achieve this, run the machine a few degrees higher than usual to ensure the plastic is fully molten.
 
 ### Cooldown
 1. When you turn on the machine, empty the barrel completely - this makes it easier for the next person using the machine.
@@ -162,25 +165,23 @@ Batch production ||
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/Build/community/community-injection4.jpg)
+![Community Shredder](assets/build/community/community-injection4.jpg)
 
-![Community Shredder](assets/Build/community/community-injection1.jpg)
+![Community Shredder](assets/build/community/community-injection1.jpg)
 
-![Community Shredder](assets/Build/community/community-injection2.jpg)
+![Community Shredder](assets/build/community/community-injection2.jpg)
 
-![Community Shredder](assets/Build/community/community-injection3.jpg)
+![Community Shredder](assets/build/community/community-injection3.jpg)
 
-![Community Shredder](assets/Build/community/community-injection5.jpg)
+![Community Shredder](assets/build/community/community-injection5.jpg)
 
 
 </div>
 
-# 🔧 Most common hacks
-- [How to Make a Quick Release Mould](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)<br>
-- [Benchtop Injector](https://davehakkens.nl/community/forums/topic/benchtop-smaller-machines/)<br>
-- [Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)
-
 # 🙌 Useful Links
+- [Upgrade: Make a Quick Release Mould](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)<br>
+- [Hack: Benchtop Injector](https://davehakkens.nl/community/forums/topic/benchtop-smaller-machines/)<br>
+- [Hack: Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)
 - [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
 - [How-to: Quick Release](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)<br>
 - [How-to: Cast Aluminium Moulds](https://www.youtube.com/watch?v=5LhHUBz9uL0)<br>
@@ -189,4 +190,6 @@ Batch production ||
 - [How-to: Precious Plastic Monash Machine](https://www.preciousplasticmonash.com/download-kit)<br>
 - [How-to: Handplane](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)<br>
 - [How-to: Broom Hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)<br>
-- [The Story Behind the Piranhaclamp](https://davehakkens.nl/community/forums/topic/the-story-behind-the-piranhaclamp/)<br>
+- [Development: The Story Behind the Piranhaclamp](https://davehakkens.nl/community/forums/topic/the-story-behind-the-piranhaclamp/)<br>
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

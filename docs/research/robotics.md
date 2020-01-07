@@ -3,10 +3,6 @@ id: robotics
 title: Robotic sorting
 sidebar_label: Robotic sorting
 ---
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <style>
 :root {
   --highlight: #798bc5;
@@ -16,25 +12,7 @@ sidebar_label: Robotic sorting
 
 # Robotic Sorting
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
-
-### Sorting plastic isn't so easy.
-
-In fact it remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots 🤖
-
-</div>
-<div class="videoChaptersSidebar">
-
-### Video Chapters
-
-- 0:00 Video coming soon
-
-
-</div>
-</div>
-
-## Why Sorting?
+### Why Sorting?
 
 68% of the world’s plastic can’t be sorted by automated recycling facilities. While local recycling works differently in every country, typical sorting facilities may identify and separate PET and HDPE plastics, but due to the high cost of sorting, the rest of the plastics will likely be left mixed. These mixed plastics may be sent on to other waste facilities to be burned for energy, they might end up in a landfill, some are shipped overseas, and in the worst cases they are piled up and burned in the open air.
 
@@ -66,11 +44,11 @@ Ok, so there’s a lot of data coming in from the 3D camera but the arm doesn’
 
 Here you can see on the left the full resolution of points coming from the camera. With this many data points it will be difficult for the brain to quickly process everything, so on the right you see how we pull the resolution down to speed up the processing.
 
-![Robotic Belt](assets/Research/roboticbelt1.png)
+![Robotic Belt](assets/research/roboticbelt1.png)
 
 On the top view, we can remove the belt and so it’s easier to focus on specific objects (left) and then with the clusters that are left, the brain uses an algorithm that clumps points in space together to recognize them as unique objects (right).
 
-![Robotic Belt](assets/Roboticbelt2.png)
+![Robotic Belt](assets/roboticbelt2.png)
 
 With our unique objects identified as clusters of points, our brain finds the object’s center and highest point to create a “pick point” for the gripper of our arm to travel to. With this point in space known, a ROS function is able to create a safe path that the robot can follow to reach that point. Once it travels to that point and picks up an object, it then moves it to a determined goal location.
 
@@ -90,7 +68,7 @@ So what’s next? One Arm is picking up and dropping off plastic, it knows where
 
 That's a great question! Another very important part to making this work is to actually identify what type of plastic it is. A robot is smart, but unfortunately it's not smart enough own it's own (probably a good thing) to identify different materials. This is where our research into plastic identification techniques comes into play.
 
-As we have learned already, we use the numbers 1-7 to label different plastic types, but there is still a lot of plastic that is unmarked, degraded or shredded, so we can’t always rely on seeing this number. 
+As we have learned already, we use the numbers 1-7 to label different plastic types, but there is still a lot of plastic that is unmarked, degraded or shredded, so we can’t always rely on seeing this number.
 
 ## Machine Learning
 
@@ -104,7 +82,7 @@ That's great, but unfortunately there are more than 15 different plastic objects
 
 An alternative approach is to use spectroscopy, observing the interaction between matter and electromagnetic radiation. True spectroscopy rather complex and expensive, so we can use it’s simpler sibling: optical spectroscopy.
 
-![Spectroscopy](assets/Research/spectroscopy.png)
+![Spectroscopy](assets/research/spectroscopy.png)
 
 
 Riiiiiight. So how does it work? Well, it’s pretty simple: you throw light at objects, and depending on the response, it will categorise the object - every plastic type has a kind of fingerprint. There are a few options we have to do this:
@@ -119,7 +97,7 @@ The relationship between material and light has been studied for a long time. In
 
 In simple terms it means that if we throw, say, green light, at some material we will get mostly green light bounced back, but we will also get other colors, maybe purple or red, and from that difference it is possible to identify what things are made of and therefore what kind of plastic it is.
 
-<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/Research/raman.png" width="500"/>
+<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/research/raman.png" width="500"/>
 
 Before we go further, some respects to be paid. At Precious Plastic we’re pretty resourceful, we like making and fixing things, developing machines. But this experimental research into using raman spectroscopy wouldn’t be possible without the work of C.V. Raman (obviously) and to all the scientists and researchers out there who publish their findings online open source. We couldn’t do it without you (please keep going!)
 
@@ -129,7 +107,7 @@ First things first. Optical equipment is very sensitive to dust so to work with 
 
 So let’s dive into the scanner! The system is composed of two main stages, the excitation stage and the spectrograph stage.
 
-![Scanner](assets/Research/scanner.png)
+![Scanner](assets/research/scanner.png)
 
 The excitation stage is designed to shine a light source at the material we are trying to identify and direct its response into the spectrograph. In order to measure the energy shift in molecules we need to provide a known wavelength light source, and this is the first component of the spectrograph. Our spectrograph is using a green laser for this.
 
@@ -139,6 +117,6 @@ For the spectrograph we are using a Czerny Turner configuration, this is where t
 
 The light enters the entrance slit that restricts light access so we only get the material response and nothing else. A first mirror is used to collimate the light to a diffraction grating (similar to a prism) so we can record every wavelength of the response. Then a second mirror is used to focus the light spectra into a CCD array where we can capture the signal and transfer it to a computer for further analysis. A CCD array sounds fancy, but it’s the same technology used in your cell phone camera. For the molecular structure signals we’re looking for it need to be extra precise. That’s why the last component of the spectrometer is a thermoelectric cooler that controls the temperature of the CCD array.
 
-With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system. 
+With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system.
 
 <b>Want to learn more or share your knowledge? Head to the [#robotics](https://discordapp.com/invite/5UYM4Sd) and [#plastic scanner](https://discordapp.com/invite/Khxfgg7) channels on Discord. Here we talk efficiency, sorting, scanning and of course, robots 🤖</b>

@@ -111,3 +111,5 @@ The most common problem with the extrusion is having an output that is not unifo
 2. Two different types of plastic are mixed together, common causes for this can be contamination in the sorting stage or plastic left in the barrel from previous activity. In this case, one plastic type melts while the other doesn’t and obstructs the plastic flowing through the nozzle.
 3. The temperature is not high enough and the plastic in the barrel does not manage to fully melt.
 4. You can solve the above problems by checking the integrity and purity of the raw material or by raising the temperature. Upon adjusting your process make sure to empty the entire barrel before attempting to make a new product.
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

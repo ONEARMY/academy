@@ -13,14 +13,14 @@ sidebar_label: - Overview
 }
 </style>
 
-![Extruder Pro](assets/Build/extruderpro.jpg)
+![Extruder Pro](assets/build/extruderpro.jpg)
 
 # 📓 Extrusion Pro information
 | Specification    |     |
 |----------|-------------|
 | 📓 Type   |     Single Screw   |
 | 💎 Version   |     1.0   |
-| 💰 Raw material costs in NL |  +/- 2000€ |
+| 💰 Price new material in NL |  +/- €2000 |
 | ⚖️ Weight (inc frame) |   110 kg   |
 | 📦 Dimension   | 1500 x 600 x 1550 mm|
 | ⚙️ Power (W) | 5 kW|
@@ -96,17 +96,21 @@ Some examples of extrusion times for some moulds:
 
 
 
-![Image](assets/Build/extruderpro-output.jpg)
+![Image](assets/build/extruderpro-output.jpg)
 
 
 # 🙌 Useful Links
 
-* [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
 * [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [How-to: make light beams](https://community.preciousplastic.com/how-to/make-a-lamp-with-beams)
+* [How-to: make a T profile](https://community.preciousplastic.com/how-to/make-a-tshape-beam-)
+* [Hack: Quick release nozzle](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)
+* [Hack: Flat nozzle ](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)
 * [Documentation of screw](http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf)
-* [Documentation of screw](https://www.hanserpublications.com/SampleChapters/9781569904596_9781569904596_Extrusion%20of%20Polymers%202E_Chung.pdf)
 * [Documentation](http://www.polydynamics.com/Rheology.pdf)
 * [Documentation of hopper cones](http://craig-russell.co.uk/demos/cone_calculator/)
 * [Documentation](http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf)
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**

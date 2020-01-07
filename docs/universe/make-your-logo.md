@@ -64,3 +64,5 @@ All the instructions are included in the file.
 Enjoy & be creative!
 
 <img src="../assets/universe/figma-logo.gif" />
+
+<b>Have questions or need help making your logo? Head to the [#Universe](https://discordapp.com/invite/QUw8A3w) channel on Discord. Here we talk about how you fit in the universe, roles, branding and your own logo.</b>

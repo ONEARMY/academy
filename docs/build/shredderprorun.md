@@ -10,7 +10,7 @@ sidebar_label: - Run it
 }
 </style>
 
-![Shredder](assets/Build/shredderpro-run1.jpg)
+![Shredder](assets/build/shredderpro-run1.jpg)
 
 # Run and Maintain the Shredder Pro
 Congrats, you've built a Shredder Pro! Time to chop some plastic. Below we explain how to do this, the settings to use, and an ideal workflow.  Remember that maintenance is also important!
@@ -78,7 +78,7 @@ Check the oil level of the motor gearbox. Usually, the quantity of oil depends o
 
 Ensure bearing and gears are greased properly.
 
-![Shredder](assets/Build/shredderpro-maintain.jpg)
+![Shredder](assets/build/shredderpro-maintain.jpg)
 
 ### Weekly
 
@@ -93,3 +93,5 @@ Ensure bearing and gears are greased properly.
 - Disassemble the box, sand or sharpen damaged part and oil all plates. If teeth are too damaged, replace them. We recommend ordering extra blades to allow this maintenance easily.
 - Depending on the coupling that the machine uses, you may need to replace some rubber components. Check the manufacturer’s instructions.
 - Check the paint, and repaint damage to prevent long term corrosion issues.
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
