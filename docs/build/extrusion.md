@@ -117,8 +117,6 @@ Explanation of electric component roles
 
 <b>Power cable:</b> common household power cable.
 
-<i>< Schematic link > </i>
-
 [Jerry’s BIG ELECTRONICS topic](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
 # 🛠 Tips & tricks while making
@@ -177,7 +175,7 @@ User Friendly |
 - [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
 - [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
 - [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: SHelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
+- [How-to: Shelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
 - [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
 - (more to come)
 

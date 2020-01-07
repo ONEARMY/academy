@@ -168,7 +168,7 @@ Batch production ||
 - [Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)
 
 # 🙌 Useful Links
-- [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-or-laser-cut-mould)<br>
+- [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
 - [How-to: Quick Release](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)<br>
 - [How-to: Cast Aluminium Moulds](https://www.youtube.com/watch?v=5LhHUBz9uL0)<br>
 - [How-to: CNC iPhone Case Mould](https://www.youtube.com/watch?v=ZYFoWP-3MYE)<br>

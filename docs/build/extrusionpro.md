@@ -59,15 +59,15 @@ This machine requires a higher skill set of machining amongst Precious Plastic m
 
 ### Normal VS Pro
 
-Compare to smaller version of extruder, this machine:
+Compared to smaller version of extruder, this machine:
 - Has a larger screw which gives a higher output
 - Optimized screw design brings an homogeneous melt for a better quality plastic
 - An improved bearing design to support axial and radial extrusion forces
-- Is made to run full days
+- Is made to run for full days
 - Easier assembly and servicing
 - Overall stronger and tested components
-- A safer and easier to build electronic box.
-- Has a larger insulated hopper allowing better fluidity,
+- A safer and easier to build electronic box
+- Has a larger insulated hopper allowing better fluidity
 
 
 
@@ -89,7 +89,7 @@ You can set the temperature using the controllers on the electronic box. The hea
 
 Some examples of extrusion times for some moulds:
 
-- Beam Mould (2000  mm x40 mm x40 mm): 8 Min
+- Beam Mould (2000  mm x 40 mm x 40 mm): 8 Min
 - Little Lego Brick Mould: 4 Min
 - Big Lego Brick Mould: 6 Min
 - Skateboard Mould: 20 Min

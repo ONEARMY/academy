@@ -32,11 +32,14 @@ This section is quite juicy, we have been designing products alongside the commu
 
 ### Video Chapters
 
-- 0:11 Introduction
-- 00:18 What is plastic?
-- 01:15 Different types
-- 02:45 Recognize plastics
-- 05:18 Transform plastics
+- 00:07 Introduction
+- 00:16 Plastic Types
+- 01:05 Compression vs Injection/Extrusion
+- 02:32 Value of Plastic
+- 03:46 Plastic Design Ethics
+- 05:28 Sheetpress
+- 07:18 Injection
+- 09:23 Extrusion
 
 
 </div>

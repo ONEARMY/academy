@@ -18,7 +18,7 @@ sidebar_label: - Run it
 
 # Run and Maintain the Sheetpress
 
-Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
+Hooray! You built yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
 
 # 🏃‍♀️ Make a sheet!
 
@@ -30,7 +30,7 @@ Hooray! You build yourself a Sheetpress! Let's have some fun and make sheets. Be
 
 3. Close the pressing plates using the bottle jack and wait for them to heat up.
 
-4.  Whilst waiting for the heating plates to warm up weigh the plastic. See the Datasheet for weights.
+4. Whilst waiting for the heating plates to warm up weigh the plastic. See the Datasheet for weights.
 
 5. When the Sheetpress is at the required temperature. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 

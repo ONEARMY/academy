@@ -14,9 +14,9 @@ sidebar_label: - Run it
 ![Shredder](assets/build/extruderpro-run.jpg)
 
 # Run and Maintain the Extrusion Pro
-Hooray! You build yourself an Extruder Pro! Let's have some fun and make some beams and bricks. .Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
+Hooray! You build yourself an Extruder Pro! Let's have some fun and make some beams and bricks. Below we explain how to do this, which temperatures to use, how the workflow should be, plus the practical things to take in account like maintenance.
 
-## 🏃‍♀️ Extruder some Plastic
+## 🏃‍♀️ Extrude some Plastic
 
 ### How to Start
 
