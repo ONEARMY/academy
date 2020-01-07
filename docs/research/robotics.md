@@ -19,9 +19,9 @@ sidebar_label: Robotic sorting
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-Sorting plastic remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots.
+### Sorting plastic isn't so easy.
 
-Using robotics for sorting and scanning is a very experimental project at Precious Plastic. It’s more like an ongoing research project to work on optimizing . There’s two parts to this research: working with a robot to move the products and designing a scanner to identify the type of plastic that we’re moving.
+In fact it remains one of the most difficult aspects of the plastic recycling and processing chain. As we learnt in the Plastic section, there are different types of plastic - some unmarked and with similar properties - which is difficult to differentiate on our own. So we did what anyone else would do, we turned to robots 🤖
 
 </div>
 <div class="videoChaptersSidebar">
@@ -139,4 +139,6 @@ For the spectrograph we are using a Czerny Turner configuration, this is where t
 
 The light enters the entrance slit that restricts light access so we only get the material response and nothing else. A first mirror is used to collimate the light to a diffraction grating (similar to a prism) so we can record every wavelength of the response. Then a second mirror is used to focus the light spectra into a CCD array where we can capture the signal and transfer it to a computer for further analysis. A CCD array sounds fancy, but it’s the same technology used in your cell phone camera. For the molecular structure signals we’re looking for it need to be extra precise. That’s why the last component of the spectrometer is a thermoelectric cooler that controls the temperature of the CCD array.
 
-With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system. Keen to learn more? <a href="https://davehakkens.nl/community/forums/topic/sorting-plastic-with-robotics-v4/">Head to the forums.</a>
+With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system. 
+
+<b>Want to learn more or share your knowledge? Head to the [#robotics](https://discordapp.com/invite/5UYM4Sd) and [#plastic scanner](https://discordapp.com/invite/Khxfgg7) channels on Discord. Here we talk efficiency, sorting, scanning and of course, robots 🤖</b>

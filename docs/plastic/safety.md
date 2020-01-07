@@ -24,7 +24,7 @@ sidebar_label: Safety and Fumes
 
 Safety is a huge topic when working with plastic, it’s extremely important to take the right precautions - then you are completely safe. We’ll walk through the dangers of fume exposure and which plastics are unsafe to work with, and we’ll go through how we set up our filtration systems at Precious Plastic.
 
-> Pro Tip: Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
+> Pro-tip: Try to melt your plastic at the lowest temperature possible and for the shortest amount of time.
 
 
 </div>
@@ -132,19 +132,19 @@ Using an activated carbon filter (ACF) is the cleanest and easiest filtering met
 
 ### Stand Alone Filters
 
-<img style="margin-left: 0;" src="../assets/plastic/standalone_carbon.jpg" width="300"/>
+<img style="margin-left: 0;" src="../assets/plastic/carbonfilters.jpg" width="400"/>
 
 A filter like this costs approximately 40-50 euros and has roughly 2-3 kg of granular activated carbon which needs to be changed each month(you can also get bigger filter which will last longer). These filters can be attached to centrifugal fans for the ventilation. Preferable conditions for using these filters humidity under 70% and ambient temperature lower than 80°C.
 
 ### Buying carbon granules (for VOC removal)
 
-<img style="margin-left: 0;" src="../assets/plastic/carbon_granules.jpg" width="400"/>
+<img style="margin-left: 0;" src="../assets/plastic/carbongranules.jpg" width="400"/>
 
 When the filter needs to be changed, you do not have to buy a new filter. Instead, you can buy activated carbon granules to change the spent activated carbon - this spent carbon can be placed in a municipal landfill. It is best to buy activated carbon with Iodine number bigger than 1050mg/g - Iodine number is an indication of active surface area (the bigger the iodine number the better the filtration).
 
 ### Gas Mask
 
-<img style="margin-left: 0;" src="../assets/plastic/gasmask.jpg" width="300"/>
+<img style="margin-left: 0;" src="../assets/plastic/maskgas.jpg" width="400"/>
 
 A gas mask is also extremely important, as the filtration is not 100% so this acts as an extra barrier. Even in large industrial recycling and manufacturing they haven’t reached clean air, so gas masks are common practice. The most common masks are 3M masks and have four parts: the mouthpiece, the filter cartridge, a dust filter holder and a dust filter. They can be used for 50 hours before the cartridge and dust filters need to be replaced.
 

@@ -16,8 +16,6 @@ sidebar_label: Intro
 
 # Precious Plastic Spaces
 
-> Deciding which tools to use and how to arrange them in your workspace can have a dramatic effect on your productivity and quality of life while working.
-
 To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind. In the following section you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace.
 
 

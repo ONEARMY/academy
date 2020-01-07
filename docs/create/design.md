@@ -120,7 +120,7 @@ In order to design great products you first need to understand the capabilities 
 
 Extrusion is a continuous process where shredded plastic enters the hopper, is heated and pressed with a screw through a long barrel. The output is a steady line of plastic, and as this machine runs continuously, if you have enough plastic and a well-streamlined process you could (technically) be making products 24/7!
 
-<< One drawing of the machine pointing at the parts and showing how the material gets pushed >>
+![How Extrusion Machine Works](assets/create/extruder_design.svg)
 
 > Pro-Tip: Extruding plastic will mix the plastic uniformly and will also create new colours. Darker colours will dominate - make sure to practise with different combinations. 
 
@@ -177,7 +177,7 @@ This machine creates sheets up to 1 x 1 metre with a range of thicknesses betwee
 - [Make your sheet shiny](https://community.preciousplastic.com/how-to/make-your-sheet-shiny)
 - [Bend plastic sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
 
-<< One drawing of how the machine works >>
+![How Sheetpress Works](assets/create/sheetpress_design.svg)
 
 There are different ways of processing plastic sheets to create final products. Here we go over two of our most common techniques:
 
@@ -218,9 +218,13 @@ This is quite fun! By applying the right temperature for a period of time you ca
 
 The Injection machine is a very simple concept, it heats the plastic and with pressure fills a mould. You can create really beautiful and well finished objects, and if your mould is well made then you can keep a consistent high quality across your production. It can also be very quick and easy to grasp for your customers or if you’re holding a workshop - you can fill plastic into the hopper, it is heated and fills the mould and then cooled and voilá! The product is finished for people to see and hand around. 
 
+![How Injection Machine Works](assets/create/injection_design.svg)
+
 This machine will allow you to be versatile with your production because all you have to do is screw on another mould and you can be making a completely different product. Be sure to check out the Moulds section on the left to learn more about the different methods.
 
 > Pro-tip: the injection machine is a perfect companion for a workshop as it is capable of turning waste into a valuable product within minutes and people/customers can really grasp the value of your process and product quickly.
+
+![Moulds](assets/create/moulds.jpg)
 
 <b>Techniques:</b>
 
@@ -236,20 +240,15 @@ This machine will allow you to be versatile with your production because all you
 - [Make a handplane - simple mould](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)
 - [Make a broom hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)
 
-![Moulds](assets/create/moulds.jpg)
-
-<< drawing of how the machine works>>
-
-Note: make sure to know the total amount of plastic that can fit in the barrel - this will limit the volume of the final product. It is usually around 150cm3 - this is quite small. It's not a problem, just a design constraint!
+<p class="note">Note: make sure to know the total amount of plastic that can fit in the barrel - this will limit the volume of the final product. It is usually around 150cm3 - this is quite small. It's not a problem, just a design constraint!</p> 
 
 ![Human with mould](assets/create/person-with-mould.jpg)
 
 ## How-To’s
 
-When designing products to be produced with the Precious Plastic machines, your best resource will be the How-To’s! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channels because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
+When designing products to be produced with the Precious Plastic machines, your best resource will be the How-To’s! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channel below because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
 
-#your-products
-#create
+<b>Join the Discord channel [#Create](https://discordapp.com/invite/yhmfzTZ) to talk about product design, mouldmaking, color blends, finishing. everything to create precious objects.</b>
 
 
 

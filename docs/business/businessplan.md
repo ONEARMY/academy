@@ -15,18 +15,18 @@ sidebar_label: Business Plan Template
 }
 </style>
 
-# Business Plan Template
+# Business Plan template
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Telling the story of your business or project.
+### Telling the story of your business or project
 
 The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
 This template is an easy to follow framework for your business plan and consists of different sections to work through everything you need to get started, and to build your case as to why someone should be contributing to your business. The outline is below, but don’t worry if you don’t know what some of these are, Joseph is here to take you through bit by bit.
 
-> Pro Tip: Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it!
+> Pro-tip: quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it!
 
 
 </div>
@@ -52,8 +52,11 @@ This template is an easy to follow framework for your business plan and consists
 </div>
 </div>
 
-![Business Plan](assets/ppimage.jpg)
-*business plan template*
+## So what's in it?
+
+![Business Plan](assets/business/businessplantemplate.jpg)
+
+*The 14 page business plan template PDF is in the download kit!*
 
 1. Executive summary
 2. Mission
@@ -78,7 +81,7 @@ This template is an easy to follow framework for your business plan and consists
 
 ![Business Plan](assets/businessplan.jpg)
 
-# 👌 Tips:
+# 👌 Tips
 
 - Complete the Action Plan first before writing down all the information in a long business plan. Your business model is more important than a business plan.
 - Think of your business plan as an opportunity for you to tell the story of your business or project, and why you have a compelling financial proposition. Show that you’ve really thought things through, especially how you’re delivering value to customers.
@@ -86,4 +89,4 @@ This template is an easy to follow framework for your business plan and consists
 - Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it.
 - This is an example outline for a business plan based on Precious Plastic business tools, but there are also other formats out there that may suit you better.
 
-So, what are you waiting for! Watch the video above with Joseph and if you have any questions, please check out our community Discord and head to the business channels.
+<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>
