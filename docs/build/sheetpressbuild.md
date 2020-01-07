@@ -20,7 +20,7 @@ sidebar_label: - Build it
 
 # Build a Sheetpress
 
-Hi! It looks like you might want to build a Sheetpress? That is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video about to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
+Hi! It looks like you might want to build a Sheetpress? That is great! It's a very exciting machine that can recycle big amounts of plastic on a daily basis. And everytime you open up the machine it's a little suprise how the sheet comes out. But ok. Focus. We need to build it first. Watch this video to see how to make the machine in 20 minutes, or have a scroll down below to find out more about specific parts and machines you need to build it.
 
 > Pro tip: Before you build, make sure you to read all documentation. Its a big project so make sure you know where you're getting into.
 
@@ -47,7 +47,7 @@ Hi! It looks like you might want to build a Sheetpress? That is great! It's a ve
 # 🛠 Required machinery & skills
 Build Sheetpress  | Machines needed | Skills needed
 --- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-sheetpress.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br>  - Lifting system. (or some strong friends) | - Welding (expert) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (expert)
+<img style="margin-left: 0;" src="../assets/build/thumb-sheetpress.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br>  - Lifting system (or some strong friends) | - Welding (expert) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (expert)
 
 
 
@@ -93,11 +93,11 @@ If possible we recommend you laser cut all the sheet steel components, especiall
 
 For the 6mm laser cut components we chose to use hot rolled (HRS 75F70) structural steel for its high tensile strength. This type of steel is hot rolled which also makes it less prone to warping when welding during construction and heating plastic during usage.
 
-For the 2mm laser cut components we used 2mm Cold Rolled steel (CRS CR4) as high strength is not required
+For the 2mm laser cut components we used 2mm Cold Rolled steel (CRS CR4) as high strength is not required.
 
 ### Mould release
 
-We found silicone oil to be the best performing mould release. There are many alternatives, if you find a more available or better performing solution please share it on our online community!  
+We found silicone oil to be the best performing mould release. There are many alternatives, if you find a more available or better performing solution please share it in our online community!  
 
 ### Cooling insulation interest and choice
 

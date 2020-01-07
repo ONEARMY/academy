@@ -82,7 +82,7 @@ That's great, but unfortunately there are more than 15 different plastic objects
 
 An alternative approach is to use spectroscopy, observing the interaction between matter and electromagnetic radiation. True spectroscopy rather complex and expensive, so we can use it’s simpler sibling: optical spectroscopy.
 
-![Spectroscopy](assets/research/spectroscopy.png)
+![Spectroscopy](assets/Research/spectroscopy.png)
 
 
 Riiiiiight. So how does it work? Well, it’s pretty simple: you throw light at objects, and depending on the response, it will categorise the object - every plastic type has a kind of fingerprint. There are a few options we have to do this:
@@ -97,7 +97,7 @@ The relationship between material and light has been studied for a long time. In
 
 In simple terms it means that if we throw, say, green light, at some material we will get mostly green light bounced back, but we will also get other colors, maybe purple or red, and from that difference it is possible to identify what things are made of and therefore what kind of plastic it is.
 
-<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/research/raman.png" width="500"/>
+<img style="margin-left: 0; margin-top: 40px; margin-bottom: 40px" src="../assets/Research/raman.png" width="500"/>
 
 Before we go further, some respects to be paid. At Precious Plastic we’re pretty resourceful, we like making and fixing things, developing machines. But this experimental research into using raman spectroscopy wouldn’t be possible without the work of C.V. Raman (obviously) and to all the scientists and researchers out there who publish their findings online open source. We couldn’t do it without you (please keep going!)
 
@@ -107,7 +107,7 @@ First things first. Optical equipment is very sensitive to dust so to work with 
 
 So let’s dive into the scanner! The system is composed of two main stages, the excitation stage and the spectrograph stage.
 
-![Scanner](assets/research/scanner.png)
+![Scanner](assets/Research/scanner.png)
 
 The excitation stage is designed to shine a light source at the material we are trying to identify and direct its response into the spectrograph. In order to measure the energy shift in molecules we need to provide a known wavelength light source, and this is the first component of the spectrograph. Our spectrograph is using a green laser for this.
 
