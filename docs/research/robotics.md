@@ -44,11 +44,11 @@ Ok, so there’s a lot of data coming in from the 3D camera but the arm doesn’
 
 Here you can see on the left the full resolution of points coming from the camera. With this many data points it will be difficult for the brain to quickly process everything, so on the right you see how we pull the resolution down to speed up the processing.
 
-![Robotic Belt](assets/research/roboticbelt1.png)
+![Robotic Belt](assets/Research/roboticbelt1.png)
 
 On the top view, we can remove the belt and so it’s easier to focus on specific objects (left) and then with the clusters that are left, the brain uses an algorithm that clumps points in space together to recognize them as unique objects (right).
 
-![Robotic Belt](assets/roboticbelt2.png)
+![Robotic Belt](assets/Research/roboticbelt2.png)
 
 With our unique objects identified as clusters of points, our brain finds the object’s center and highest point to create a “pick point” for the gripper of our arm to travel to. With this point in space known, a ROS function is able to create a safe path that the robot can follow to reach that point. Once it travels to that point and picks up an object, it then moves it to a determined goal location.
 
