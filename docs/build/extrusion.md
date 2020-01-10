@@ -145,15 +145,15 @@ User Friendly |
 
 <div class="j-slideshow">
 
-![Community Extrusion](assets/build/community/community_extrusion.jpg)
+![Community Extrusion](assets/Build/community/community_extrusion.jpg)
 
-![Community Extrusion](assets/build/community/deskfactory.jpg)
+![Community Extrusion](assets/Build/community/deskfactory.jpg)
 
-![Community Extrusion](assets/build/community/machinehack-ppukraine.jpg)
+![Community Extrusion](assets/Build/community/machinehack-ppukraine.jpg)
 
-![Community Extrusion](assets/build/community/machines-inajason.jpg)
+![Community Extrusion](assets/Build/community/machines-inajason.jpg)
 
-![Community Extrusion](assets/build/community/tableextrusion.jpg)
+![Community Extrusion](assets/Build/community/tableextrusion.jpg)
 
 </div>
 

@@ -165,15 +165,15 @@ Batch production ||
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/build/community/community-injection4.jpg)
+![Community Shredder](assets/Build/community/community-injection4.jpg)
 
-![Community Shredder](assets/build/community/community-injection1.jpg)
+![Community Shredder](assets/Build/community/community-injection1.jpg)
 
-![Community Shredder](assets/build/community/community-injection2.jpg)
+![Community Shredder](assets/Build/community/community-injection2.jpg)
 
-![Community Shredder](assets/build/community/community-injection3.jpg)
+![Community Shredder](assets/Build/community/community-injection3.jpg)
 
-![Community Shredder](assets/build/community/community-injection5.jpg)
+![Community Shredder](assets/Build/community/community-injection5.jpg)
 
 
 </div>

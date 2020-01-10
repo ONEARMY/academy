@@ -142,17 +142,17 @@ Portable |
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/build/community/machinehack-shredder-4.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)
 
-![Community Shredder](assets/build/community/machinehack-shredder-2.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
 
-![Community Shredder](assets/build/community/communityshredder1.jpg)
+![Community Shredder](assets/Build/community/communityshredder1.jpg)
 
-![Community Shredder](assets/build/community/shredder_community3.jpg)
+![Community Shredder](assets/Build/community/shredder_community3.jpg)
 
-![Community Shredder](assets/build/community/shredder_opo.jpg)
+![Community Shredder](assets/Build/community/shredder_opo.jpg)
 
-![Community Shredder](assets/build/community/shrednmould.jpg)
+![Community Shredder](assets/Build/community/shrednmould.jpg)
 
 </div>
 
