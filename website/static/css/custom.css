@@ -601,21 +601,16 @@ hr {
   }
 }
 
-.loading.downloadCount {
-  opacity: 0;
+.loaded.fileStats {
+  opacity: 1;
 }
 
-.downloadCount {
+.fileStats {
   color: gray !important;
   display: inline-block;
   padding: 0 10px;
   font-size: 0.6em;
   text-align: center;
-  opacity: 1;
-  transition: opacity 00ms;
+  opacity: 0;
   text-transform: uppercase;
-}
-
-.downloadCount:after {
-  content: " downloads";
 }
