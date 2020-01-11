@@ -54,7 +54,7 @@ This template is an easy to follow framework for your business plan and consists
 
 ### 👇The link to the Business Plan template
 
-Click on the link below to open the document, and click File > Make a copy and you're ready to go! 
+Click on the link below to open the document, and click File > Make a copy and you're ready to go!
 
 [Open the Business Plan template](http://tiny.cc/business-plan-template-pp)
 
@@ -83,7 +83,7 @@ Click on the link below to open the document, and click File > Make a copy and y
 8. Legal Structure
 9. Appendix
 
-![Business Plan](assets/Business/Businessplan.jpg)
+![Business Plan](assets/Business/businessplan.jpg)
 
 # 👌 Tips
 
