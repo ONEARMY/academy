@@ -48,7 +48,7 @@ Join our main server here: https://discordapp.com/invite/rnx7m4t
 | [#beyond plastic](https://discordapp.com/invite/SfTmtKP) |  Re-inventing alternative materials for plastic|
 | [#robotics](https://discordapp.com/invite/5UYM4Sd)   |Find advanced ways to sort more efficient|
 | [#plastic scanner](https://discordapp.com/invite/Khxfgg7) |  Find ways to scan which type of plastic it is.|
-| [#community-platform!](https://discordapp.com/invite/)    |Coding and improvements for our online community platform|
+| [#community-platform!](https://discordapp.com/invite/AKuxkpx)    |Coding and improvements for our online community platform|
 
 # Chat in your own country and language
 
