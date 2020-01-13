@@ -96,9 +96,11 @@ window.addEventListener("DOMContentLoaded", function() {
           var downloadCount = asset.download_count || 0;
           var fileSize = humanFormatBytes(asset.size || 0);
           var tag = data.tag_name || "";
+          var href = asset.browser_download_url || "#0";
           writeToDomNodes($downloadCount, downloadCount + " downloads ");
           writeToDomNodes($fileSize, fileSize);
           writeToDomNodes($versionTag, tag);
+          $link.href = href;
           addLoadedClass([$link, $fileSize, $downloadCount, $versionTag]);
         } catch (error) {
           removeDomNode(
@@ -118,10 +120,6 @@ window.addEventListener("DOMContentLoaded", function() {
     var links = document.querySelectorAll(".js-getLinkDetails");
     Array.from(links).forEach(function(node) {
       getDownloadStats(node.href, node.id);
-      node.addEventListener("click", function(e) {
-        e.preventDefault();
-        console.log(e.target.href, e.target.id);
-      });
     });
   })();
 });
