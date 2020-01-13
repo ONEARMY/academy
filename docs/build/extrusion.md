@@ -62,11 +62,9 @@ With this machine you can create filament (challenging but doable), granulate or
 🔌 Voltage | 380V    
 ⚡️ AMP | 5.8A
 ♻️ Input Flake Size | Medium, Small  
-- Motor | Hollow shaft, 30mm
-- Nominal Power | 2.2 kW minimum. 3 kW recommended
+- Nominal Power | 1.5 kW minimum.
 - Nominal Torque | 109 Nm
 - Output Speed | 40-140 r/min
-- Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
 
 ![Extrusion v3](assets/build/extrusionv3.jpg)
 
