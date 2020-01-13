@@ -136,7 +136,7 @@ function humanFormatBytes(bytes, decimals) {
   if (bytes === 0) return "0 Bytes";
   var k = 1024;
   // default to 2 decimal points
-  var dm = (decimals < 0 ? 0 : decimals) || 2;
+  var dm = (decimals < 0 ? 0 : decimals) || 0;
   var sizes = ["Bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"];
   var i = Math.floor(Math.log(bytes) / Math.log(k));
   return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + " " + sizes[i];
