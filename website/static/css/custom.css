@@ -32,14 +32,8 @@ body {
   text-decoration: none;
 }
 
-.smalldownloadButton {
-  background-color: rgb(131, 206, 235);
+.downloadButton.small {
   padding: 5px 8px;
-  color: #fff;
-  border: 2px solid rgb(110, 173, 198);
-  border-radius: 4px;
-  display: inline-block;
-  text-decoration: none;
   font-size: 12px;
 }
 
@@ -607,21 +601,16 @@ hr {
   }
 }
 
-.loading.downloadCount {
-  opacity: 0;
+.loaded.fileStats {
+  opacity: 1;
 }
 
-.downloadCount {
+.fileStats {
   color: gray !important;
   display: inline-block;
   padding: 0 10px;
   font-size: 0.6em;
   text-align: center;
-  opacity: 1;
-  transition: opacity 00ms;
+  opacity: 0;
   text-transform: uppercase;
-}
-
-.downloadCount:after {
-  content: " downloads";
 }

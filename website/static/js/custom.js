@@ -77,43 +77,87 @@ window.addEventListener("DOMContentLoaded", function() {
     initiateSlideshows();
   }
 
-  (function getKitDownloadCount() {
-    var kitUrl =
-      "https://cors-anywhere.herokuapp.com/https://cutt.ly/api/api.php?key=19f84938273aa758d86cc1f73a0e5b236ca06&stats=precious-plastic-kit";
+  function getDownloadStats(url, linkId) {
+    var $link = document.getElementById(linkId);
+    var $fileSize = document.getElementById(linkId + "-fileSize");
+    var $downloadCount = document.getElementById(linkId + "-downloadCount");
+    var $versionTag = document.getElementById(linkId + "-version");
     var request = new XMLHttpRequest();
-    request.open("GET", kitUrl, true);
+    request.open("GET", url, true);
+    request.setRequestHeader("Accept", "application/vnd.github.v3+json");
 
     request.onload = function() {
       if (this.status >= 200 && this.status < 400) {
         try {
           var data = JSON.parse(this.response);
-          var downloadCount = ["stats", "clicks"].reduce(function(obj, path) {
+          var asset = ["assets", 0].reduce(function(obj, path) {
             return (obj || {})[path];
           }, data);
-          writeToDomNodes(".downloadCount", downloadCount);
-          removeLoadingClass(".downloadCount");
-        } catch (error) {}
+          var downloadCount = asset.download_count || 0;
+          var fileSize = humanFormatBytes(asset.size || 0);
+          var tag = data.tag_name || "";
+          writeToDomNodes($downloadCount, downloadCount + " downloads ");
+          writeToDomNodes($fileSize, fileSize);
+          writeToDomNodes($versionTag, tag);
+          addLoadedClass([$link, $fileSize, $downloadCount, $versionTag]);
+        } catch (error) {
+          removeDomNode(
+            [$link, $fileSize, $downloadCount, $versionTag].filter(Boolean)
+          );
+        }
+      } else {
+        removeDomNode(
+          [$link, $fileSize, $downloadCount, $versionTag].filter(Boolean)
+        );
       }
     };
-
     request.send();
+  }
+
+  (function getStatsForDownloadButtons() {
+    var links = document.querySelectorAll(".js-getLinkDetails");
+    Array.from(links).forEach(function(node) {
+      getDownloadStats(node.href, node.id);
+      node.addEventListener("click", function(e) {
+        e.preventDefault();
+        console.log(e.target.href, e.target.id);
+      });
+    });
   })();
 });
 
-function removeLoadingClass(selector) {
-  Array.from(document.querySelectorAll(selector + ".loading")).forEach(function(
-    domNode
-  ) {
-    domNode.classList.remove("loading");
+function addLoadedClass(elements) {
+  elements.forEach(function(domNode) {
+    domNode.classList.add("loaded");
   });
 }
-function writeToDomNodes(selector, value) {
-  var nodes = Array.from(document.querySelectorAll(selector));
-  if (nodes.length > 0) {
-    nodes.forEach(function(n) {
-      n.innerHTML = value;
-    });
+
+function humanFormatBytes(bytes, decimals) {
+  if (bytes === 0) return "0 Bytes";
+  var k = 1024;
+  // default to 2 decimal points
+  var dm = (decimals < 0 ? 0 : decimals) || 0;
+  var sizes = ["Bytes", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"];
+  var i = Math.floor(Math.log(bytes) / Math.log(k));
+  return parseFloat((bytes / Math.pow(k, i)).toFixed(dm)) + " " + sizes[i];
+}
+
+function writeToDomNodes(el, value) {
+  if (el) {
+    el.innerHTML = value;
   }
+}
+
+function removeDomNode(elements) {
+  elements
+    .filter(function(b) {
+      return !b;
+    })
+    .forEach(function(node) {
+      if (node.parentNode) {
+        node.parentNode.removeChild(node);
+      }
+    });
 }
 
 /********************************************************************
