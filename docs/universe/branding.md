@@ -12,7 +12,7 @@ sidebar_label: Style guides
 </style>
 
 # The style and graphics behind Precious Plastic
-Precious Plastic if a global Open-Source community. This means people can take and make whatever they want. So we have individuals, groups and us in the headquarters making graphic material like posters, website and stickers. But we like to collaborate on a global scale. Instead of making a lot of random things, we like to keep them coherent. So if someone makes something, someone else on the other side of the world can use it as well. And in order to achieve this we have some style- guides.
+Precious Plastic is a global Open-Source community. This means people can take and make whatever they want. So we have individuals, groups and us in the headquarters making graphic material like posters, website and stickers. But we like to collaborate on a global scale. Instead of making a lot of random things, we like to keep them coherent. So if someone makes something, someone else on the other side of the world can use it as well. And in order to achieve this we have some style-guides.
 <img src="../assets/universe/our-logos.png" />
 # Our different logo's
 There are basically 3 different types of logo's we use. Each of them have their own function.
