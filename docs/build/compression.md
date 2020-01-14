@@ -143,11 +143,11 @@ Unique patterns |
 
 <div class="j-slideshow">
 
-![Community Compression](assets/build/community/compression3.jpg)
+![Community Compression](assets/Build/community/compression3.jpg)
 
-![Community Compression](assets/build/community/compression1.jpg)
+![Community Compression](assets/Build/community/compression1.jpg)
 
-![Community Compression](assets/build/community/compression2.jpg)
+![Community Compression](assets/Build/community/compression2.jpg)
 
 </div>
 

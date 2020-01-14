@@ -52,10 +52,9 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 ⚙️ Blade width | 5 mm, 6 mm
 🔌 Voltage | 380V
 ⚡️ AMP | 5.8A
-- Nominal Power | 2.2 kW minimum. 3 kW recommended
+- Nominal Power | 2.0 - 2.5 kW minimum
 - Nominal Torque | 1100 Nm minimum - 2000 Nm max
 - Output Speed | ±70 r/min
-- Minimum Service Factor | 1,5 (2,2kW) / 1,2 (3kW)
 
 
 ![Shredder V3](assets/build/shredderv3.jpg)
@@ -142,17 +141,17 @@ Portable |
 
 <div class="j-slideshow">
 
-![Community Shredder](assets/build/community/machinehack-shredder-4.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)
 
-![Community Shredder](assets/build/community/machinehack-shredder-2.jpg)
+![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
 
-![Community Shredder](assets/build/community/communityshredder1.jpg)
+![Community Shredder](assets/Build/community/communityshredder1.jpg)
 
-![Community Shredder](assets/build/community/shredder_community3.jpg)
+![Community Shredder](assets/Build/community/shredder_community3.jpg)
 
-![Community Shredder](assets/build/community/shredder_opo.jpg)
+![Community Shredder](assets/Build/community/shredder_opo.jpg)
 
-![Community Shredder](assets/build/community/shrednmould.jpg)
+![Community Shredder](assets/Build/community/shrednmould.jpg)
 
 </div>
 

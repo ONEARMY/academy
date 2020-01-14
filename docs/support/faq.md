@@ -179,7 +179,7 @@ We'd love you to join our community and become part of the Precious Plastic Univ
 <details><summary><b>If I create a workshop, am I allowed to use the Precious Plastic name? If yes, what are the conditions?</b></summary>
 <p>
 
-Yes you are! Check out the branding and style guidelines in the Academy under [Style guides](https://preciousplastic.com/academy/universe/branding).
+Yes you are! Check out the branding and style guidelines in the Academy under [Style guides](https://community.preciousplastic.com/academy/universe/branding).
 </p>
 </details>
 
@@ -284,4 +284,4 @@ Well we'd love to talk to you! Please visit our support[https://support.precious
 </p>
 </details>
 
-### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our Discord. There's a rundown of all the channels in the Chat section next. 
+### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our Discord. There's a rundown of all the channels in the Chat section next.
