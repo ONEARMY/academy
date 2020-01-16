@@ -71,4 +71,4 @@ The underlying principle behind the machines is the same for all (except the shr
 | <img src="assets/build/thumb-extrusion-pro.jpg" width="150"/> |  __Extrusion Pro__ <br> A beefed up version of our smaller extruder. Made to run long hours and outputs more plastic. Its the extruder you can count on for big productions.   |
 | <img src="assets/build/thumb-shredder-pro.jpg" width="150"/> |  __Shredder Pro__ <br> Big version of our small shredder, the main difference is that this is a 2 axel machine. Good for quickly shredding plastic into small flakes. Less good for granulating.  |
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord! Here we talk nerdy about machines.**
