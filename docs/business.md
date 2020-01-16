@@ -27,6 +27,6 @@ Pro-tip: the most successful businesses are the ones that really focus on what t
 
 - The <b>Action Plan</b> is a quick and dirty business plan for you to plan your business model
 - The <b>Workspace Calculator</b> is a financial forecasting tool for you to understand the financial viability of your workspace
-- The <b>Business Plan Template</b> is where you roll everything together and create a more long form business plan
+- The <b>Business Plan Template</b> is where you roll everything together and create a more long form business plan!
 
 Let's get started!
