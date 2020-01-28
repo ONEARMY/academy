@@ -90,12 +90,19 @@ window.addEventListener("DOMContentLoaded", function() {
       if (this.status >= 200 && this.status < 400) {
         try {
           var data = JSON.parse(this.response);
-          var asset = ["assets", 0].reduce(function(obj, path) {
+          var asset = [0, "assets", 0].reduce(function(obj, path) {
             return (obj || {})[path];
           }, data);
-          var downloadCount = asset.download_count || 0;
+          var downloadCount = data.reduce(function(count, prev) {
+            return (
+              count +
+              prev.assets.reduce(function(p, curr) {
+                return p + curr.download_count;
+              }, 0)
+            );
+          }, 0);
           var fileSize = humanFormatBytes(asset.size || 0);
-          var tag = data.tag_name || "";
+          var tag = data[0].tag_name || "";
           var href = asset.browser_download_url || "#0";
           writeToDomNodes($downloadCount, downloadCount + " downloads ");
           writeToDomNodes($fileSize, fileSize);
