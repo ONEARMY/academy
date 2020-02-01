@@ -56,7 +56,7 @@ This template is an easy to follow framework for your business plan and consists
 
 Click on the link below to open the document, and click File > Make a copy and you're ready to go!
 
-[Open the Business Plan template](http://tiny.cc/business-plan-template-pp)
+[Open the Business Plan template](https://drive.google.com/open?id=1hUAt75jHTGq3Au_TH9Y_Dd7wXGM94W2Csfb0IsmQCP8)
 
 ![Business Plan](assets/Business/businessplantemplate.jpg)
 
