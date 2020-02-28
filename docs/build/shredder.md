@@ -52,8 +52,8 @@ The shredder is the backbone of Precious Plastic, it allows you to shred plastic
 ⚙️ Blade width | 5 mm, 6 mm
 🔌 Voltage | 380V
 ⚡️ AMP | 5.8A
-- Nominal Power | 2.0 - 2.5 kW minimum
-- Nominal Torque | 1100 Nm minimum - 2000 Nm max
+- Nominal Power | 1.5 kW minimum
+- Nominal Torque | 300 Nm minimum
 - Output Speed | ±70 r/min
 
 
