@@ -95,9 +95,9 @@ const siteConfig = {
   // enableUpdateBy: true,
 
   // collapsie menu: true,
-  docsSideNavCollapsible: true
+  docsSideNavCollapsible: true,
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

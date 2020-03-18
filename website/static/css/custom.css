@@ -486,6 +486,11 @@ button.tns-nav-active {
   padding-top: 0;
 }
 
+.docLastUpdate {
+  text-align: left;
+}
+
+
 /* Edit page button */
 a.edit-page-link {
   float: none;
