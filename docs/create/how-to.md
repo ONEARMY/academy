@@ -17,12 +17,13 @@ sidebar_label: How to's
 
 # Learn more in our How-To's!
 
-This is a powerful place on the web. Here people from around the world (like you) can share the things they've learned with others in a structured way. This tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together!
+This is a powerful place on the web. Here people from around the world (like you) can share the things they've learned with others in a structured way. This tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together! [Read more here on why sharing back is crucial](https://community.preciousplastic.com/academy/universe/contribute)  
 
 > Pro-tip: have a look at our [How-To's](https://community.preciousplastic.com/how-to) its fun to browse around :)
 
-# Create your own
-Ok, you’ve had a look around the How-to’s, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. It's pretty basic. Let’s go through the requirements for an *awesome* How-To.
+# How to make.. an How-to
+Ok, you’ve had a look around the How-to’s, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot.  Here a few guidelines to take in account
+
 
 
 ## Intro
@@ -52,17 +53,44 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 ![How to](assets/create/how-to-step.jpg)
 
 
+> __Pro tip 1 :__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
+
+# Guidelines
+
+### ✏️ Text
+- max. 700 characters per step
+- Upload Minimum 3 steps
+- Keep it simple! Think of your documentation as a beginners guide.
+- We recommend simple language and a conversational tone.
+- It’s better to have more easy steps than a few very complex ones.
+- If you have too much information to put into one step then try to split it up into more steps.
+
+### 📸 Images
+- Every step must include 1-3 images.
+- All images should be landscape (4:3) best at (1920x1440)
+- Nice & clean cover image showing what to learn in the How-to
+- It can be useful to include technical drawings or templates, if it doesn't fit add them as download file.
+- Try to make clear and clean photos showing what needs to be seen. (clean your space could help ;))
+- If possible, every step should include a photo showing the result of that step.
+- A good picture of the end result is pure gold.
+
+
+### 📦 Download files
+
+- Add downloadable files to support your documentation. detailed drawings, CAD-files, a material list etc.
+- Bundles all your files into 1 .zip file. Easier to share around. :)
+
+
 ## Some tips & tricks:
 
 1. <b>Titles are powerful.</b> Choose wisely, keep it short.
 2. <b>Use tags,</b> that's how we stay organised - this will be how people find your How-To, so make sure they’re accurate.
-3. <b>Upload minimum 3 steps</b> and make sure each step has easy to understand instructions - if it’s very long, consider splitting it into two steps.
-4. <b>Try to keep it short</b> but informative - trust us, we all have short attention spans.
-5. <b>Use images</b> in each step - this will help the user to visualise your instructions. Make sure your images are clear and taken with a good camera (smartphones are ok too!)
+3. <b>Try to keep it short</b> but informative - trust us, we all have short attention spans.
+4. <b>Use images</b> in each step - this will help the user to visualise your instructions. Make sure your images are clear and taken with a good camera (smartphones are ok too!)
 
 
 ## All done?
 
-Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community!
+Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community! Side back relax and feel your [karma points](https://community.preciousplastic.com/academy/universe/contribute#5-reasons-why-you-should-share-back) growing  
 
 <b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>

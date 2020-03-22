@@ -39,36 +39,4 @@ Documentation and sharing knowledge is actually one of the challenges with worki
 
 > Note: The how-to’s are still very much under development. Many features like commenting and saving are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest
 
---------------
-# How To make a.. How-to
-
-Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot.  Here a few guidelines to take in account
-
-
-### ✏️ TEXT
-- max. 700 characters per step
-- Keep it simple! Think of your documentation as a beginners guide.
-- We recommend simple language and a conversational tone.
-- It’s better to have more easy steps than a few very complex ones.
-- If you have too much information to put into one step then try to split it up into more steps.
-- Add downloadable files to support your documentation. detailed drawings, CAD-files, a material list etc.
-
-### 📸 IMAGES
-- Every step must include 1-3 images.
-- All images should be landscape (4:3) best at (1920x1440)
-- Nice & clean cover image showing what to learn in the How-to
-- It can be useful to include technical drawings or templates, if it doesn't fit add them as download file.
-- Try to make clear and clean photos showing what needs to be seen. (clean your space could help ;))
-- If possible, every step should include a photo showing the result of that step.
-- A good picture of the end result is pure gold.
-
-
-> __Pro tip 1 :__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
-
-> __Pro tip 2 :__ Put all your files in 1 .zip before you upload. Makes it cleaner :)
-
-
-
-
-
-__Overall don’t be stopped by perfection to share your improved machines, products, moulds or hacks. We all love to see them and if we have questions about it we just chat in [#Discord](https://discordapp.com/invite/QUw8A3w) :)__
+⭐️ Visit [this chapter](https://community.preciousplastic.com/academy/create/howto) in the academy to see step by step how to create the best how-to
