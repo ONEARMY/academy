@@ -64,7 +64,8 @@
     "9. Universe": [
       "universe/universe",
       "universe/branding",
-      "universe/yourlogo"
+      "universe/yourlogo",
+      "universe/contribute"
     ],
     "📦 Download": ["download"],
     "💬 Questions?": ["support/faq", "support/chat"]

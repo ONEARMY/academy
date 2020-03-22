@@ -1,7 +1,7 @@
 ---
 id: contribute
 title: Share back & Contribute
-sidebar_label: Contribute
+sidebar_label: Share back
 ---
 
 <style>
@@ -55,7 +55,7 @@ Processes and development can be complex. It’s easy to get lost in the perfect
 
 ### 📸 IMAGES
 - Every step must include 1-3 images.
-- All images should be landscape (4:3)
+- All images should be landscape (4:3) best at (1920x1440)
 - Nice & clean cover image showing what to learn in the How-to
 - It can be useful to include technical drawings or templates, if it doesn't fit add them as download file.
 - Try to make clear and clean photos showing what needs to be seen. (clean your space could help ;))
@@ -63,9 +63,11 @@ Processes and development can be complex. It’s easy to get lost in the perfect
 - A good picture of the end result is pure gold.
 
 
-> __Pro tip 1:__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
+> __Pro tip 1 :__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
 
-> __Pro tip 2:__ We found it much easier to recreate a process from the start. Outline your steps and list down the images you need to take to show what’s needed to understand the process. Maybe ask a friend or someone to take the photos while you’re creating :)
+> __Pro tip 2 :__ Put all your files in 1 .zip before you upload. Makes it cleaner :)
+
+
 
 
 
