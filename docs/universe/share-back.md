@@ -39,4 +39,18 @@ Documentation and sharing knowledge is actually one of the challenges with worki
 
 > Note: The how-to’s are still very much under development. Many features like commenting and saving are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest
 
-⭐️ Visit [this chapter](https://community.preciousplastic.com/academy/create/howto) in the academy to see step by step how to create the best how-to
+# Tag us! #preciousplastic
+When you share your creations with the world, please mention/tag Precious Plastic. Why?
+
+__Crediting:__ We give everything away for free and enable thousands in the world to make some cash with recycling machines or products. So a little thank you in form of a mention should be easy to give back 🙃
+
+__Featuring:__ We are always stalking the community to find inspiring creations to share. But we can only feature you on our social media or videos, if we actually FIND you and see that you are connected to Precious Plastic.
+So what to do? Use the hashtag [#preciousplastic](https://www.instagram.com/explore/tags/preciousplastic/), or even better mention @realpreciousplastic, to help us find you
+
+<br>
+<br>
+<br>
+
+- ⭐️ Follow our [instagram](https://instagram.com/realpreciousplastic) to have a look at beautiful things from our community
+- ⭐️ Browse the community[ Facebook](https://facebook.com/preciousplastic) to see real and rough things made by our global army
+- ⭐️ Visit [this chapter](https://community.preciousplastic.com/academy/create/howto) in the academy to see step by step how to create the best how-to
