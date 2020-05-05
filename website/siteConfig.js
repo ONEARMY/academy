@@ -13,7 +13,6 @@ const siteConfig = {
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
   baseUrl: "/academy/",
-  onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -28,10 +27,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [{ doc: "intro", label: "Academy" }],
-
-
-
+  headerLinks: [{ languages: true }],
 
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
@@ -44,7 +40,7 @@ const siteConfig = {
     primaryFade: "#f5c3c4",
     primaryShade: "#e18183",
     secondaryColor: "#256e23",
-    defaultFontColor: "#404040"
+    defaultFontColor: "#404040",
   },
   editUrl: "https://github.com/ONEARMY/academy/blob/master/docs/",
 
@@ -62,24 +58,33 @@ const siteConfig = {
   },
   */
   fonts: {
-    bodyFont: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Helvetica", "Arial",
-    "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"]
+    bodyFont: [
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
+      "Helvetica",
+      "Arial",
+      "sans-serif",
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+    ],
   },
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: "default"
+    theme: "default",
   },
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
     "https://buttons.github.io/buttons.js",
     "/academy/js/custom.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
   ],
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Varela+Round&display=swap",
-    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css"
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css",
   ],
 
   // On page navigation for the current documentation page.
@@ -97,7 +102,7 @@ const siteConfig = {
   // collapsie menu: true,
   docsSideNavCollapsible: true,
   // Show documentation's last update time.
-  enableUpdateTime: true
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
