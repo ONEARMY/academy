@@ -480,6 +480,9 @@ button.tns-nav-active {
 }
 /* Remove Header */
 .fixedHeaderContainer {
+  background: none;
+}
+.fixedHeaderContainer a {
   display: none;
 }
 .navPusher {
@@ -489,7 +492,6 @@ button.tns-nav-active {
 .docLastUpdate {
   text-align: left;
 }
-
 
 /* Edit page button */
 a.edit-page-link {
