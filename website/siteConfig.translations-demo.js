@@ -1,0 +1,107 @@
+/**
+ * Site config with updated base url to support non-github pages deployment
+ * (i.e. netlify for translations demo)
+ * */
+
+const siteConfig = {
+  title: "Precious Plastic Toolbox", // Title for your website.
+  tagline: "A website for testing",
+  url: "https://onearmy.github.io", // Your website URL
+  baseUrl: "/",
+  // remove /docs/ prefix
+  docsUrl: "",
+  // For github.io type URLs, you would set the url and baseUrl like:
+  //   url: 'https://facebook.github.io',
+  //   baseUrl: '/test-site/',
+
+  // Used for publishing and more
+  projectName: "academy",
+  organizationName: "onearmy",
+  // For top-level user or org sites, the organization is still the same.
+  // e.g., for the https://JoelMarcey.github.io site, it would be set like...
+  //   organizationName: 'JoelMarcey'
+
+  // For no header links in the top nav bar -> headerLinks: [],
+  headerLinks: [{ languages: true }],
+
+  /* path to images for header/footer */
+  headerIcon: "img/favicon.ico",
+  footerIcon: "img/favicon.ico",
+  favicon: "img/favicon.ico",
+
+  /* Colors for website */
+  colors: {
+    primaryColor: "#f58d8e",
+    primaryFade: "#f5c3c4",
+    primaryShade: "#e18183",
+    secondaryColor: "#256e23",
+    defaultFontColor: "#404040",
+  },
+  editUrl: "https://github.com/ONEARMY/academy/blob/master/docs/",
+
+  /* Custom fonts for website */
+  /*
+  fonts: {
+    myFont: [
+      "Times New Roman",
+      "Serif"
+    ],
+    myOtherFont: [
+      "-apple-system",
+      "system-ui"
+    ]
+  },
+  */
+  fonts: {
+    bodyFont: [
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
+      "Helvetica",
+      "Arial",
+      "sans-serif",
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+    ],
+  },
+
+  highlight: {
+    // Highlight.js theme to use for syntax highlighting in code blocks.
+    theme: "default",
+  },
+
+  // Add custom scripts here that would be placed in <script> tags.
+  scripts: [
+    "https://buttons.github.io/buttons.js",
+    "/academy/js/custom.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
+  ],
+  stylesheets: [
+    "https://fonts.googleapis.com/css?family=Varela+Round&display=swap",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css",
+  ],
+
+  // On page navigation for the current documentation page.
+  onPageNav: "separate",
+  // No .html extensions for paths.
+  cleanUrl: true,
+
+  // Open Graph and Twitter card images.
+  ogImage: "img/undraw_online.svg",
+  twitterImage: "img/undraw_tweetstorm.svg",
+
+  // Show documentation's last contributor's name.
+  // enableUpdateBy: true,
+
+  // collapsie menu: true,
+  docsSideNavCollapsible: true,
+  // Show documentation's last update time.
+  enableUpdateTime: true,
+
+  // You may provide arbitrary config keys to be used as needed by your
+  // template. For example, if you need your repo's URL...
+  //   repoUrl: 'https://github.com/facebook/test-site',
+};
+
+module.exports = siteConfig;
