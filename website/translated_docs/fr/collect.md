@@ -1,7 +1,7 @@
 ---
-id: collect
-title: Collect
-sidebar_label: Our Collection System
+id: ramasser
+title: Collecter
+sidebar_label: Notre système de collecte
 ---
 
 <div class="videocontainer">
@@ -15,98 +15,98 @@ sidebar_label: Our Collection System
 }
 </style>
 
-# Our worldwide Collection System
+# Notre système mondial de collecte
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### No collecting, no recycling!
+### Pas de collecte, pas de recyclage !
 
-Collecting plastic is pretty crucial - here we’ll show you what it means to collect plastic, how it works around the world and how we envision a collection system within the Precious Plastic Universe!
+La collecte du plastique est assez cruciale - ici nous vous montrerons ce que signifie la collecte du plastique, comment cela fonctionne à travers le monde et comment nous concevons un système de collection au sein de l'Univers Plastique Précieux!
 
-> Pro-tip: ask the shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
+> Astuce pro : demandez aux magasins et aux entreprises qui vous entourent s'ils ont un excédent de déchets en plastique dont ils veulent se débarrasser. Si vous les mettez en place avec des poubelles, ils pourraient même les trier pour vous!
 
 
 </div>
 <div class="videoChaptersSidebar">
 
-### Video Chapters
+### Chapitres Vidéo
 
-- 00:19 Waste Collection
-- 01:21 Current Situation
+- 00:19 Collection de Déchets
+- 01:21 Situation Actuelle
 - 02:05 Challenges
-- 02:32 Precious Plastic Plan
-- 03:00 Our Strategy
-- 03:42 Benefits of This Approach
-- 04:26 Tools
+- 02:32 Plan Plastique Précieux
+- 03:00 Notre Stratégie
+- 03:42 Avantages de Cette Approche
+- 04:26 Outils
 
 
 
 </div>
 </div>
 
-# Waste Collection
+# Collecte de déchets
 
-![Daily Plastic Use](assets/Collect/dailyplastic.svg)
+![Consommation quotidienne en plastique](assets/Collect/dailyplastic.svg)
 
-On a daily basis we buy, use and generate a huge amount of plastic. Once this plastic is used, usually for a very short time, it’s discarded. Depending on where you live, you might drop it off at a local recycling point or they’ll collect it from your home to take it to further processing. This is normally where the problems begin.
+Sur une base quotidienne, nous achetons, utilisons et générons une énorme quantité de plastique. Une fois que ce plastique est utilisé, généralement pour une période très courte, il est jeté. Selon l'endroit où vous vivez, Vous pouvez le déposer à un point de recyclage local ou ils le ramèneront à votre domicile pour le faire traiter. C'est normalement là que commencent les problèmes.
 
-But why - it’s being recycled, right? Well, the plastic that people throw in their recycling bin is unsorted, usually dirty and often mixed with other materials (the soda bottle with the film label, for example). As we’ve learnt already, separating plastics is fundamental to proper recycling and well, they aren’t going to do it for us. Industrial sorting is possible, with infrared scanning, water density techniques and hand picking, but it’s no way near efficient enough to sort through the 348 million metric tons that is produced every year. Yup.
+Mais pourquoi - il est recyclé, non ? Eh bien, le plastique que les gens jettent dans leur corbeille de recyclage n'est pas trié, généralement sale et souvent mélangée à d'autres matériaux (la bouteille de soda avec l'étiquette de film par exemple). Comme nous l’avons déjà appris, séparer les plastiques est fondamental pour un recyclage correct et bien, ils ne le feront pas pour nous. Le tri industriel est possible, avec le balayage infrarouge, les techniques de densité d'eau et de ramassage manuel, mais ce n’est pas assez efficace pour trier les 348 millions de tonnes métriques produites chaque année. Oui.
 
-### Ok. That’s grim. So what happens to it?
+### Ok. C’est sinistre. Qu'en advient-ils?
 
-Sometimes, the plastic is recycled. As you’ve probably read somewhere, it’s around 9%. It needs to go through a very complex, expensive, time-consuming and energy-intensive process and most countries don’t even have this option to do so.
+Parfois, le plastique est recyclé. Comme vous l’avez probablement lu quelque part, c’est autour de 9%. Elle doit passer par un processus très complexe, coûteux, qui demande beaucoup de temps et qui nécessite beaucoup d’énergie, et la plupart des pays n’ont même pas cette option pour le faire.
 
 <img src="./assets/Collect/burnlandfillocean.png" width="600" />
 
-The other, more likely scenario is that plastic is either burnt, sent to a landfill, dumped in the ocean, or sent on a cargo ship to Asia or Africa (where they certainly don’t have the infrastructure to deal with it). These solutions cause huge environmental damage and social oppression. Have you ever caught yourself thinking - I don’t see any rubbish anywhere! Our streets in western countries are clean. But some places in Asia, Africa, it’s often seen as dirty and littered - it’s everywhere in the ocean and they burn it on the streets. That’s because collection systems have to be subsidized by the state through taxpayer money which is just not doable in many places. But don’t get this one mixed up - the west is still the biggest producer of plastic waste on the planet. And on top of this, collection systems worldwide are not standardized. Every country and municipality within that country have different regulations. This leaves people very confused (including us).
+L'autre scénario plus probable est que le plastique soit brûlé, soit envoyé à une décharge, déversé dans l'océan, ou envoyé sur un cargo en Asie ou en Afrique (où ils n’ont certainement pas les infrastructures pour le traiter). Ces solutions causent d'énormes dommages à l'environnement et à l'oppression sociale. Avez vous déjà pris à penser - je ne vois aucun déchet nulle part ! Nos rues dans les pays occidentaux sont propres. Mais certains endroits en Asie, en Afrique, il est souvent vu comme sale et enfermés - il est partout dans l’océan et ils le brûlent dans les rues. C’est parce que les systèmes de collecte doivent être subventionnés par l’État par l’argent des contribuables, ce qui n’est tout simplement pas faisable dans de nombreux endroits. Mais ne vous mêlez pas à celui-ci - l’Ouest est toujours le plus grand producteur de déchets plastiques de la planète. Et en plus de cela, les systèmes de collecte dans le monde entier ne sont pas standardisés. Chaque pays et chaque municipalité de ce pays ont des réglementations différentes. Cela laisse les gens très confus (y compris nous).
 
-## Challenges
+## Défi
 
-There are numerous challenges connected with the way plastic is currently collected:
+Il y a de nombreux défis liés à la manière dont le plastique est actuellement collecté:
 
-- Collected plastic is often dirty and mixed with other materials
-- It is very resource-intensive - running a fleet of trucks and drivers around the city 24/7 is hugely expensive.
-- It encourages a throw-away culture (??)
+- Le plastique collecté est souvent sale et mélangé avec d'autres matériaux
+- Il est très gourmand en ressources - la gestion d'une flotte de camions et de chauffeurs dans la ville 24/7 est extrêmement coûteuse.
+- Il encourage une culture de jetés (??)
 
-# But don’t worry - we have a plan! 💪
+# Mais ne vous inquiétez pas, nous avons un plan ! 💪
 
-## The Precious Plastic Collection System
+## Le système de collection plastique précieux
 
-You probably know by know, but Precious Plastic is focused on citizens: people, just like us, just like you, taking action. We invite you to become more involved in your plastic waste and become part of the solution. By providing the information and infrastructure, community can be a tool for change.
+Vous le savez sans doute, mais Precious Plastic se concentre sur les citoyens: les gens, tout comme nous, tout comme vous, prennent des mesures. Nous vous invitons à vous impliquer davantage dans vos déchets plastiques et à faire partie de la solution. En fournissant l'information et l'infrastructure, la communauté peut être un outil de changement.
 
-So how does this work for collecting plastic? Great question 😉
+Comment cela fonctionne-t-il pour la collecte du plastique? Bonne question 😉
 
-![Collection Network](assets/Collect/collectionnetwork.svg)
+![Réseau de collecte](assets/Collect/collectionnetwork.svg)
 
-<p class="note">Note: when we say citizens, we mean everyone in society. When we say people in our community, we mean those that have become part of the Precious Plastic community (and if you haven’t already, join us!)</p>
+<p class="note">Note: quand nous disons les citoyens, nous entendons tout le monde dans la société. Quand nous disons des gens dans notre communauté, nous entendons ceux qui font partie de la communauté Plastique Précieuse (et si vous ne l'avez pas déjà fait, rejoignez-nous !)</p>
 
-<b>One.</b> We give people all the information they need to properly clean their plastic at home and then show them where they can bring it to make sure it’s recycled properly. Education is at the core of everything we do (knowledge = power) so teaching citizens on the importance of clean, label free plastic can alone create a huge shift.
+<b>Un.</b> Nous donnons aux gens toutes les informations dont ils ont besoin pour nettoyer correctement leur plastique à la maison et ensuite leur montrer où ils peuvent l’apporter pour s’assurer qu’il est recyclé correctement. L'éducation est au cœur de tout ce que nous faisons (savoir = pouvoir) pour enseigner aux citoyens l'importance de la propreté, les plastiques libres d'étiquette peuvent à eux seuls créer un décalage énorme.
 
-<b>Two.</b> We show people in our community how to create Collection Points in their local area to accept the clean plastic from citizens. As we only accept this clean, label free plastic it means that we’re also showing citizens and our community how valuable this material can be.
+<b>Deux.</b> Nous montrons aux gens de notre communauté comment créer des Points de Collecte dans leur région locale pour accepter le plastique propre des citoyens. Étant donné que nous n’acceptons que ce plastique propre et exempt d’étiquettes, cela signifie que nous montrons également aux citoyens et à notre communauté combien ce matériau peut être précieux.
 
-## Benefits of this approach
+## Avantages de cette approche
 
-This new approach offers a few different benefits for both people and the environment:
+Cette nouvelle approche offre quelques avantages différents à la fois pour les personnes et pour l'environnement :
 
-1. First (and most important) is that the <b>material collected is of high quality.</b> Setting up a local collection points that are managed by members of the community helps to obtain higher quality material that is clean and usable.
+1. Le premier (et le plus important) est que le <b>matériel collecté est de haute qualité.</b> La mise en place de points de collecte locaux gérés par les membres de la communauté aide à obtenir des matériaux de meilleure qualité qui soient propres et utilisables.
 
-2. Second, <b>it stays local.</b> The plastic collected will be recycled and transformed in one of the local Precious Plastic workspaces, not shipped across the planet hoping someone else will take care of it.
+2. Deuxièmement, <b>il reste local.</b> Le plastique collecté sera recyclé et transformé dans un des espaces de travail locaux en plastique précieux, pas expédié à travers la planète en espérant que quelqu'un d'autre prendra soin de lui.
 
-3. Third is <b>education.</b> This approach aims to inform and educate citizens on plastic and how to recycle it properly.  This is a long-term strategy that is quite time-consuming in the beginning, but we believe will pay off in the long run. Forth, it’s powered by people, not by the government or companies. So it’s resilient, human, and accessible.
+3. Third is <b>education.</b> This approach aims to inform and educate citizens on plastic and how to recycle it properly.  Il s'agit d'une stratégie à long terme qui prend assez de temps au début, mais nous pensons qu'elle sera rentable à long terme. Enfin, il est alimenté par des personnes, pas par le gouvernement ou les entreprises. Il est donc résilient, humain et accessible.
 
-# Tools
+# Outils
 
-Are you in? We hope so! We’ve developed a bunch of tools for citizens, as well as people in our community.
+Êtes-vous entrant? Nous l'espérons! Nous avons développé un ensemble d’outils pour les citoyens et les personnes de notre communauté.
 
-For citizens we have a website that will teach them about the Precious Plastic recycling system, how to clean plastic and how to use the map so they can find their local drop off point.
+Pour les citoyens, nous avons un site web qui leur enseignera le système de recyclage plastique précieux, comment nettoyer le plastique et comment utiliser la carte afin qu'ils puissent trouver leur point de dépôt local.
 
-![All Tools](assets/Collect/alltools.svg)
+![Tous les outils](assets/Collect/alltools.svg)
 
-For people in our community we’re developed:
-- A <b>starter-kit:</b> if you’re interested in becoming a collection point this will give you everything you need to get started
-- A <b>platform</b> to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
-- <b>Posters</b> for your workspace or for your community to help spread the word
-- A <b>tool to weigh</b> how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
+Pour les gens de notre communauté, nous sommes développés :
+- Un <b>kit de départ :</b> si vous êtes intéressé à devenir un point de collection, cela vous donnera tout ce dont vous avez besoin pour commencer
+- Une plateforme <b></b> pour connecter tout le monde dans la communauté. Vous pouvez utiliser la carte pour trouver des espaces de travail locaux, ou l'outil Comment apprendre d'autres stratégies de collecte du monde entier
+- <b>Affiches</b> pour votre espace de travail ou pour votre communauté pour aider à faire passer le mot
+- Un outil <b>pour peser</b> combien de plastique vous traitez, pour que nous puissions l'additionner et voir l'impact de l'Univers Plastique Précieux
 
-<b>Want to share feedback, chat about collecting plastic or learn more from the community? Head to the [#Collect](https://discordapp.com/invite/kpnYaEr) channel on Discord. Here we talk about the Collection system, Pickup points and how to sort plastic.</b>
+<b>Vous voulez partager vos commentaires, discuter à propos de la collecte de plastique ou en apprendre plus de la communauté? Rendez-vous sur le canal [#Collect](https://discordapp.com/invite/kpnYaEr) sur Discord. Ici, nous parlons du système de collecte, des points de ramassage et de la façon de trier le plastique.</b>
