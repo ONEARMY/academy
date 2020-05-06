@@ -1,7 +1,7 @@
 ---
-id: intro
-title: Intro
-sidebar_label: Hello! 🤙
+id: introduction
+title: Introduction
+sidebar_label: Bonjour! 🤙
 ---
 
 <div class="videocontainer">
@@ -15,46 +15,46 @@ sidebar_label: Hello! 🤙
 }
 </style>
 
-# Welcome to the Precious Plastic Academy!
+# Bienvenue à la Precious Plastic Academy !
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Awesome to see you are interested in recycling plastic.
-We've made this section of videos, tutorials and content to share the most crucial things we've learned over the last years about transforming plastic waste into valuable products. 
+### Génial de voir que vous êtes intéressé par le recyclage du plastique.
+Nous avons créé cette section de vidéos, des tutoriels et du contenu pour partager les choses les plus cruciales que nous ayons apprises au cours des dernières années sur la transformation des déchets plastiques en produits précieux. 
 
-We will teach you about the basics of plastic - what types there are and how to identify them, to collecting and separating plastic, to building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more. 
+Nous vous enseignerons les bases du plastique - quels sont les types et comment les identifier, collecter et séparer le plastique, pour construire vos propres machines, modèles d’affaires que vous pouvez adopter, comment devenir un membre important de la communauté Plastique Précieuse, et bien plus encore. 
 
-We’ve created download packs and templates and once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world!
+Nous avons créé des packs de téléchargement et des modèles et une fois que vous aurez tout traversé, vous serez prêt à commencer votre propre espace de travail de recyclage, partout dans le monde!
 
 </div>
 <div class="videoChaptersSidebar">
 
-### Video Chapters
+### Chapitres Vidéo
 
 - 00:00 Introduction
-- 00:42 What will you learn
-- 01:40 Help & Feedback
-- 02:01 Donate
-- 02:30 Spread the project
+- 00:42 Qu'est-ce que vous apprendrez
+- 01:40 Aide et commentaires
+- 02:01 Faire un don
+- 02:30 Répandez le projet
 
 </div>
 </div>
 
-![Opn Source](assets/Intro/opensource.svg)
+![Source Opn](assets/Intro/opensource.svg)
 
-## But wait - why did you do this? And why is it all for free?
+## Mais attendez - pourquoi avez-vous fait cela? Et pourquoi tout cela est-il gratuit ?
 
-At Precious Plastic we want to show the world the incredible opportunities of plastic waste in order to eliminate plastic pollution, reducing the demand for new virgin plastic and closing its materials loop while creating better livelihoods for people around the world. Precious Plastic is, above all, a cultural tool to change the way society perceives plastic.
+Chez Precious Plastic nous voulons montrer au monde entier les possibilités incroyables de déchets plastiques afin d'éliminer la pollution plastique, réduire la demande de nouveaux plastiques vierges et fermer la boucle de leurs matériaux tout en créant de meilleurs moyens de subsistance pour les gens partout dans le monde. Precious Plastic est avant tout un outil culturel pour changer la perception de la société en plastique.
 
-All plastic laying around you is a resource, not waste. It is a material with great potential, left intact all around the world and if processed correctly, can become something new and valuable. This resource can become a source of income or an educational tool for your community, at the same time making sure it doesn’t enter our environment.
+Tout le plastique qui se pose autour de vous est une ressource, pas un gaspillage. C'est un matériau avec grand potentiel, laissé intact dans le monde entier et s'il est traité correctement, peut devenir quelque chose de nouveau et de précieux. Cette ressource peut devenir une source de revenus ou un outil éducatif pour votre communauté, tout en veillant à ce qu’il ne pénètre pas dans notre environnement.
 
 <img style="padding: 50px" src="./assets/Intro/PP_universe.svg" width="500px" />
 
-We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a workspace.
+Nous avons créé des machines, de la documentation, des tutoriels vidéo, campagnes et une plateforme pour permettre aux gens de partout dans la planète de commencer à travailler avec les déchets plastiques localement tout en essayant de décentraliser et de localiser les technologies de recyclage des plastiques, infrastructures et connaissances en fournissant des conceptions open-source pour machines, moules et produits de consommation, ainsi que des modèles d'affaires et des outils pour mettre en place et gérer un espace de travail.
 
-We share everything open source for anyone to benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Precious Plastic and shapes most decisions within our team. We believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively.
+Nous partageons tout ce qui est open source pour que tout le monde puisse en profiter. Cela signifie que toute la connaissance, le savoir-faire, les processus, les méthodologies et les outils sont disponibles en ligne, gratuitement en tout temps. Cette philosophie open source est au cœur de Precious Plastic et forme la plupart des décisions au sein de notre équipe. Nous pensons que la collaboration est plus forte que la concurrence et que le problème du plastique ne peut être résolu que collectivement.
 
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a Discord to discuss all the things we're doing here. Check out the Questions section in the sidebar to see where you can chat with people locally and globally.</p>
+<p class="note">Vous êtes intéressé à vous connecter à la communauté Plastique Precious ? Peut-être que vous voulez en apprendre plus ou partager vos propres connaissances. Eh bien, vous avez de la chance! Nous avons créé un Discord pour discuter de toutes les choses que nous faisons ici. Consultez la section Questions dans la barre latérale pour voir où vous pouvez discuter avec des personnes localement et globalement.</p>
 
-Ok, let's dive in!
+Ok, plongeons!
