@@ -1,10 +1,16 @@
+# Configuration file for uploading translations to crowdin
+
+# Note - only works in linux environment (windows fails with ** for unknown reason)
+
+# To execute commands requires an API token for the project
+# E.g. CROWDIN_API_TOKEN=some-api-key crowdin upload sources
 project_id: "2"
 api_token_env: CROWDIN_API_TOKEN
-base_path: .
+base_path: "."
 base_url: "https://ONEARMY.crowdin.com"
 preserve_hierarchy: true
 files:
   - source: /docs/**/*.md
-    translation: /website/translated_docs/%two_letters_code%/%original_file_name%
+    "translation": "/website/translated_docs/%two_letters_code%/**/%original_file_name%"
   - source: /website/i18n/en.json
     translation: /website/i18n/%locale%.json
