@@ -1,112 +1,165 @@
 ---
 id: shredder
-title: Setup a Shredder Workspace
+title: Build a Shredder Machine
 sidebar_label: Shredder
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/FFv4GR8ku38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/VFIPXgrk7u0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
 :root {
-  --highlight: #37b4a3;
-  --hover: #37b4a3;
+  --highlight: #f29094;
+  --hover: #f29094;
 }
 </style>
-
-# Shredder Workspace
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Without it, there’s no plastic to melt.
+# Build a Shredder Machine
 
-Ok, you want to set up a shredder workspace. Awesome! The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps:
+### What is this machine?
 
-1. <b>Search:</b> what to think about when choosing your space
-2. <b>Plan:</b> how to plan your space effectively
-3. <b>Build:</b> transforming an empty room into a shredder workspace
+The shredder is the backbone of Precious Plastic, it allows you to shred plastic into small flakes - you can easily wash and store shredded plastic and transport it to other Precious Plastic workspaces to make into beautiful, valuable products. Of course you can also use the plastic yourself or sell clean, separated plastic within the industry (which buys it at 8-10 times higher than unshredded plastic!)
 
-Each of these steps is explained in more detail below.
-
+> Pro Tip: If you shred plastic by colours you can have more control over the look and feel of your creations- adding value to the material. `
 
 </div>
 <div class="videoChaptersSidebar">
 
 ### Video Chapters
 
-- 00:00 Introduction
-- 00:49 Shredder Choice
-- 01:15 Sourcing Plastic
-- 01:41 Shredding
-- 03:36 Logistics
-
+- 00:07 Introduction
+- 00:46 Shredding box
+- 04:18 Power supply
+- 06:35 Framework
+- 08:07 Hopper
+- 09:31 How it works
 
 </div>
 </div>
 
-## 🔍 Search
+# 📓 Technical information
 
-The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
-
-
-1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The shredder space we designed is roughly 4 x 6 meters – you can go larger, but if you include the shredder (like ours) we wouldn’t recommend going much smaller.
-
-2. <b>Electricity:</b> The Injection machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
-
-3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget.
-
-> Pro-tip: sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
-
-## ✍️ Plan
-
-You’ve found your space. Now you can begin to plan how you will arrange the elements of your workspace according to your unique floorplan.
-
-Every space is different, so this is a chance for you to customize your layout to make it work for you.
-
-To help you begin, we’ve included some starter floor plans, CAD models, and a custom floor planner in the download kit, which you can use to explore different layouts before diving into the real thing.
-
-![Shredder Workspace](assets/spaces_shredder.jpg)
-
-Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
+| 📓 Type                       | Single Shaft Shredder |
+| ---------------------------- | --------------------- |
+| 💎 Version                    | 2.0                   |
+| 💰 Price new material in NL   | +/- €500 + motor      |
+| 💰 Price scrap material in NL | +/- €400              |
+| ⚖️ Weight                    | 90 kg                 |
+| 📦 Dimension                  | 280 x 600 x 1142 mm   |
+| ⚙️ Blade width               | 5 mm, 6 mm            |
+| 🔌 Voltage                    | 380V                  |
+| ⚡️ AMP                       | 5.8A                  |
+- Nominal Power | 1.5 kW minimum
+- Nominal Torque | 300 Nm minimum
+- Output Speed | ±70 r/min
 
 
-## 🛠 Build
+![Shredder V3](assets/build/shredderv3.jpg)
 
-Now that your floor plan is blocked out, it’s time to transform your empty room into a shredder workspace.
-
-Begin with basics
-
-Start with your most essential items - shredder, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
-
-> Pro-tip: it’s nice to keep your workspace furniture on wheels so that you can easily move it around as needed
-
-When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
-
-If what you need isn’t available secondhand, buy new or build.
-
-Some essential items to get you started:
-
-- Shredder - of course
-- Pre-shredded plastic storage containers - bags work well, might depend on how you collect your plastic
-- Shredded plastic storage containers - make sure they’re sturdy. Nice if they fit under the shredder and can be stored directly after shredding to eliminate the need of pouring shredded plastic from one container to another. Keeps types and colors pure. Clear is nice, but not required.
-- Plastic beam or large rubber - mallet for pushing plastic into shredder when needed
-- Assembly tools for cleaning between shreds - wrenches, allen keys, mallet
-- Stiff-bristled brush - to clean the blades
+# 🌐 3D Model <iframe width="500" height="500" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Basic+V2.0&model_id=96649&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96649" allowfullscreen mark="crwd-mark"></iframe>
 
 
-Once you’ve got your basics covered, start working with the shredder to develop your workflow and see what else might help you work more efficiently and comfortably.
+# 🛠 Required machinery & skills
+| Build Shredder                                                                                        | Machines needed                                                                                       | Skills needed                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img style="margin-left: 0;" src="../assets/build/thumb-shredder.jpg" width="100" /> | - Lathe <br> - Drill press <br> - Welding machine (not specific) <br> - Belt Sander | - Welding (intermediate) <br> - Machining (intermediate) <br> - Assembling (intermediate)<br> - Electronics (intermediate) |
 
-And don’t be afraid to spice the place up with your own unique charm! Plants, posters, the right lighting, and a boombox will make your workspace more enjoyable to be in.
+# ⚡️ Electronic box
+Explanation of the electric components inside this machine. More information and schematics can be found in the download-kit.
 
-### Your role in the universe
-| Your icon                                                                         | Your task                                                                                                                                                                                                                                |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../assets/universe/badge-workspace.png" width="150" /> | __Workspace__ <br> A Precious Plastic Workspace is a place where plastic gets transformed from waste into valuable materials or products. There are five different workspaces: Shredder, Extrusion, Sheetpress, Injection and Mix. |
+* <b>Motor:</b> The muscles of the machine - look for something with approx. 2.2kW that is geared down to 70rpm.
+* <b>LED indicator:</b> LED that will shine with power (often found with Power switch).
+* <b>Power cable:</b> Common household power cable.
 
-## 👋 Share
+> Pro-tip: Here is a [good forum topic about electronics](https://davehakkens.nl/community/forums/topic/the-big-electronics-topic/)
 
-You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space 🙂
+# 🛠 Tips & tricks while making
+- Take your time ensuring the box is square before any welding
+- Use locknuts and ensure bearing bolts are tight
 
-<b>Want to share feedback, chat about the Shredder Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>
+# ♻️ Input & Output
+
+<b>Type:</b> HDPE, LDPE, PP, PS<br>
+<b>Max thickness:</b> 4mm<br>
+<b>Size of hopper input:</b> 400 x 200 mm<br>
+<b>Output:</b> ±10 kg/h<br>
+
+### Definition of our flakes sizes
+The shredded plastic can be used in three different Precious Plastic machines: extruder, injector, and sheetpress. Thus, we have defined three different sizes of shredded plastic that work with each machine
+
+| Name:       | Large                                                                                         | Medium                                                                                        | Small                                                                                         |
+| ----------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Visual:     | <img style="margin-left: 0;" src="../assets/build/shredder_output_02.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_03.jpg" /> | <img style="margin-left: 0;" src="../assets/build/shredder_output_04.jpg" /> |
+| Size:       | 0-30 MM                                                                                       | 0-10 MM                                                                                       | 0-7 MM                                                                                        |
+| Works with: | Sheetpress                                                                                    | Sheetpress <br> Injection <br> Compression                                        | Sheetpress <br> Injection <br> Compression <br> Extrusion                   |
+
+# ⚙️ Run & maintain
+1. Ready to shred? yeah! First choose the plastic type - this usually depends on the quantities of plastic piling up in your sorting bags. Make sure you have enough of the same type of plastic, as the shredder has a process between cycles of different plastics (cleaning, for example).
+
+2. Got your plastic type? Great. Now it’s time to break up the bigger plastic objects into smaller chunks that can go in the hopper. This can be done with a hammer, scissors or a saw depending on the plastic. At this point you should also roughly clean the plastic from major dirt (don’t waste too much time on this though as the plastic will be washed shortly after).
+
+3. Let’s go - feed the plastic into the hopper. While shredding, you should regularly check the blades and push the plastic down towards the blades with the provided tool to make sure the blades are grabbing the plastic. When you finish working with the shredder, make sure to store and label the shredded plastic or the next person using the shredder won’t know what plastic type is in the bucket.
+
+<p class="note">Note:⚠️ Always use extra care when working with the shredder </p>
+
+### Quick steps on operating the shredder
+1. Gather the sorted plastic you want to shred
+2. Separate in colours
+3. Check if the mesh is installed with the right hole size
+4. Turn on the machine
+5. Put in the plastic and wait
+6. Store the shredded plastic
+7. Clean the machine
+
+### Changing plastic type
+1. Stop the machine, take out the plug
+2. Remove the mesh underneath with 4 screws
+3. Remove the little shredded flakes in the machine with a brush. Optionally blow it out with pressured air
+4. Put the mesh back in and shred another type of plastic
+> Tip: Clean the shredder blades and mesh every time you change plastic to avoid contamination of different plastic types.
+
+# 🔓 Troubleshooting
+1. Sometimes the blades don’t grab the plastic. Try pushing the plastic towards the blades with the tool provided. <b>Never attempt to do that with your hands.</b>
+2. If plastic resistance exceeds the maximum torque of the motor, the machine will stop. Basically, there is too much plastic to be cut and the motor can’t make it. Switch on the machine and remove some of the clogged plastic.
+
+# 🌦 Pros & cons
+
+| Pros                             | Cons                     |
+| -------------------------------- | ------------------------ |
+| Small and lightweight            | Processing load is small |
+| Option to granulate small flakes | Granulating is slow      |
+| Relatively cheap                 | High in maintenance      |
+| Portable                         |                          |
+
+# 🌎 Built by the community
+
+<div class="j-slideshow">
+
+![Community Shredder](assets/Build/community/machinehack-shredder-4.jpg)
+
+![Community Shredder](assets/Build/community/machinehack-shredder-2.jpg)
+
+![Community Shredder](assets/Build/community/communityshredder1.jpg)
+
+![Community Shredder](assets/Build/community/shredder_community3.jpg)
+
+![Community Shredder](assets/Build/community/shredder_opo.jpg)
+
+![Community Shredder](assets/Build/community/shrednmould.jpg)
+
+</div>
+
+# 🙌 Useful Links
+- [⭐️Upgrade: Shredder 2.1](https://community.preciousplastic.com/how-to/shredder-21)
+- [Upgrade: Shredder efficiency](https://davehakkens.nl/community/forums/topic/shredder-efficiency/)
+- [Hack: Shredder & Extruder](https://davehakkens.nl/community/forums/topic/shredder-and-extrusion-industrial-electronics-2/)
+- [Hack: Human Powered Shredder](https://community.preciousplastic.com/how-to/human-powered-shredder)
+
+
+
+
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
