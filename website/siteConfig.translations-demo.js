@@ -74,7 +74,7 @@ const siteConfig = {
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
     "https://buttons.github.io/buttons.js",
-    "/academy/js/custom.js",
+    "/js/custom.js",
     "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
   ],
   stylesheets: [
