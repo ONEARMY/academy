@@ -1,5 +1,7 @@
+project_id: "2"
+api_token_env: CROWDIN_API_TOKEN
 base_path: .
-base_url: 'https://ONEARMY.crowdin.com'
+base_url: "https://ONEARMY.crowdin.com"
 preserve_hierarchy: true
 files:
   - source: /docs/**/*.md
