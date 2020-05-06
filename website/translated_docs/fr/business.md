@@ -1,7 +1,7 @@
 ---
-id: business
-title: Business
-sidebar_label: Intro
+id: Entreprise
+title: Entreprise
+sidebar_label: Introduction
 ---
 
 <style>
@@ -11,22 +11,22 @@ sidebar_label: Intro
 }
 </style>
 
-![Business Tools](assets/Business/businesspresentation.jpg)
+![Outils professionnels](assets/Business/businesspresentation.jpg)
 
-# The Business Tools
+# Les outils commerciaux
 
-### So how can you make money out of recycling plastic?
+### Comment donc gagner de l'argent en recyclant le plastique?
 
-We are excited to take you through some crucial tools to help you not only have an impact in your local community, but to become financially sustainable so you can do it for a long time. Joseph (our Business Guy) is going to take you through the following three tools to go from nothing, to having a business!
+Nous sommes heureux de vous faire découvrir des outils cruciaux pour vous aider non seulement à avoir un impact sur votre communauté locale, mais pour devenir financièrement durable pour que vous puissiez le faire pour une longue période. Joseph (notre Business Guy) va vous emmener à travers les trois outils suivants pour passer de rien, à avoir une entreprise!
 
-Pro-tip: the most successful businesses are the ones that really focus on what they want to deliver to their customers or audience
+Astuce pro : les entreprises les plus prospères sont celles qui se concentrent réellement sur ce qu'elles veulent livrer à leurs clients ou à leur public
 
-![Business Tools](assets/Business/businessintro.svg)
+![Outils professionnels](assets/Business/businessintro.svg)
 
-## The Business Tools is a three part series consisting of:
+## Les outils commerciaux sont une série en trois parties composée de :
 
-- The <b>Action Plan</b> is a quick and dirty business plan for you to plan your business model
-- The <b>Workspace Calculator</b> is a financial forecasting tool for you to understand the financial viability of your workspace
-- The <b>Business Plan Template</b> is where you roll everything together and create a more long form business plan!
+- Le <b>Plan d'Action</b> est un plan d'affaires rapide et sale qui vous permettra de planifier votre modèle d'affaires
+- Le <b>Calculateur d'espace de travail</b> est un outil de prévision financière qui vous permet de comprendre la viabilité financière de votre espace de travail
+- Le <b>Modèle de Plan d'Affaires</b> est l'endroit où vous roulez tout ensemble et créez un plan d'affaires plus long !
 
-Let's get started!
+Commençons !
