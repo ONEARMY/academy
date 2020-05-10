@@ -14,78 +14,78 @@ sidebar_label: Styles (temp)
 }
 </style>
 
-# Styles (à supprimer)
+# Styles (to delete)
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-## Construire un déchiqueteur (c'est facile de sang)
+## Build shredder (it's bloody easy)
 
-Tournage vers lui avec une expression perplexe. Le personnel de la réception était très aimable et serviable. Une tapisserie flamande défaite, une image ondulée, un vieux casson italien, et un cas de livre presque vide, qui était tout ce qu'il semblait contenir, en plus d'une chaise et d'une table. Alors que Dorian Gray allumait une bougie à moitié brûlée qui se tenait sur les étagères, Il a vu que tout le lieu était recouvert de poussière et que le tapis était en trous. Une souris courut derrière le wainscoting. Il y avait une odeur humide de mildew.
+Hallward glanced round him with a puzzled expression. The room looked as if it had not been lived in for years. A faded Flemish tapestry, a curtained picture, an old Italian cassone, and an almost empty book-case--that was all that it seemed to contain, besides a chair and a table. As Dorian Gray was lighting a half-burned candle that was standing on the mantelshelf, he saw that the whole place was covered with dust and that the carpet was in holes. A mouse ran scuffling behind the wainscoting. There was a damp odour of mildew.
 
 </div>
 <div class="videoChaptersSidebar">
 
-### Chapitres Vidéo
+### Video Chapters
 
 - 0:11 Introduction
-- 00:18 Qu'est-ce que le plastique ?
-- 01:15 Différents types
-- 02:45 Reconnaître les plastiques
-- 05:18 Transformer les plastiques
+- 00:18 What is plastic?
+- 01:15 Different types
+- 02:45 Recognize plastics
+- 05:18 Transform plastics
 
 </div>
 </div>
 
-# titre 1
+# title 1
 
-## titre 2
+## title 2
 
-### titre 3
+### title 3
 
-`C'est une citation.`
+`This is a quote.`
 
-Ceci est un lien vers un [autre document.](intro.md) Ceci est un lien vers une [page externe.](http://www.example.com)
+This is a link to [another document.](intro.md) This is a link to an [external page.](http://www.example.com)
 
-Bouton
+Button
 
 ## Image
 
-Pour ajouter des images dans markdown, utilisez :
+To add images in markdown use:
 
 ```markdown
 ![Background](/academy/img/menu-selection-bg.jpg)
 ```
 
-<div style="text-align: center;">Produira 👇</div>
+<div style="text-align: center;">Will produce 👇</div>
 
-![Arrière-plan](/academy/img/menu-selection-bg.jpg)
+![Background](/academy/img/menu-selection-bg.jpg)
 
-Si vous devez spécifier la taille de l'image, utilisez une balise `<img />`
+If you need to specify the size of the image use an `<img />` tag
 
-Lorsque nous utilisons des images et des icônes que nous avons produites, ajoutez-les au dossier `docs/assets` et incluez-les avec le préfixe d'url `assets/`. Exemple: "Saskia veut ajouter une image `fantaisie en plastique. pg` au dossier `docs/assets/fancy-plastic.jpg` puis elle l'utilise dans la documentation comme ceci:
+When using imagery and icons that we have produced add them to the `docs/assets` folder and include them with the url prefix `assets/`. Example: "Saskia wants to add an image `fancy-plastic.jpg` to the folder `docs/assets/fancy-plastic.jpg` and then she uses it in the docs like this:
 
 ```markdown
 ![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
 ```
 
-Produit cette image ci-dessous:
+Produces this image below:
 
 ![Fancy Plastic is Fancy](assets/fancy-plastic.jpg)
 
-(🤫 Elle ne ferait jamais cela bien sûr)
+(🤫 She would never do that of course)
 
-#### Exemple avec `<img />`:
+#### Example with `<img />`:
 
 ```html
 <img src="/academy/img/favicon.ico" width="150" height="150" />
 ```
 
-<div style="text-align: center;">Produira 👇</div>
+<div style="text-align: center;">Will produce 👇</div>
 
 <img src="/academy/img/favicon.ico" width="150" height="150" />
 
-## Les icônes sont incluses de la même manière que les images
+## Icons are included in the same way as images
 
 <div class="j-slideshow">
 
@@ -101,7 +101,7 @@ Produit cette image ci-dessous:
 
 </div>
 
-# Liste d'icônes avec étiquettes
+# Icon list with labels
 
 <div class="icon-list">
 
@@ -128,7 +128,7 @@ Produit cette image ci-dessous:
 
 </div>
 
-# Liste d'icônes avec étiquettes et une sans
+# Icon list with labels and one without
 
 <div class="icon-list">
 
@@ -170,44 +170,44 @@ Produit cette image ci-dessous:
 
 </div>
 
-## L'icône sans étiquette
+## The icon without a label
 
-![animal de compagnie](assets/plastic/type-pet.svg)
+![pet](assets/plastic/type-pet.svg)
 
-Étant donné qu'il s'agit d'un graphique vectoriel, il remplira l'espace disponible dans le document de sorte qu'il DOIT ÊTRE CONSTRAINÉ !
+Since this is a Vector graphic it will fill up the available space in the document so it MUST BE CONSTRAINED!
 
-Utiliser la balise img à la place :
+Use the img tag instead:
 
 <img src="assets/plastic/type-pet.svg" width="50" height="50" />
 <img style="margin-left: 0;" src="assets/plastic/type-pet.svg" width="100" />
 
-Ou:
+Or:
 
 <img style="margin-left: 0;" src="./assets/ppimage.jpg" width="300" />
 
--       Recherche: quoi penser lors du choix de votre espace
--       Planifier : comment planifier efficacement votre espace
--       Construction : transformation d'une pièce vide en un espace de travail d'injection
+-       Search: what to think about when choosing your space
+-       Plan: how to plan your space effectively
+-       Build: transforming an empty room into a injection workspace
 
 1. **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
 1. **Lorem** ipsum dolor sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
 1. **Lorem ipsum dolor** sit amet, consectetur adipiscing elit. Sed in neque a risus dignissim cursus id et nisi. Sed dignissim, leo et semper fermentum, justo ligula dictum massa, ac ornare arcu felis ut urna. Duis sodales massa ut pharetra tempus. Etiam eu fringilla nisl. Nullam rhoncus et elit a consectetur. Duis nec auctor tellus, ut varius urna. In nunc quam, ornare in suscipit a, iaculis eu tellus. Nunc et vestibulum neque. Sed laoreet justo a magna hendrerit ornare. Nulla facilisi. In sodales, purus in maximus consequat, eros purus sollicitudin purus, sed sagittis libero nunc vel lectus.
 
-## Conseils et notes
+## Tips and notes
 
-`> Astuce pro : apparaîtra en jaune` comme ceci :
+`> Pro-tip: will show up in yellow` will show up like this:
 
-> Astuce pro : s'affichera en jaune
+> Pro-tip: will show up in yellow
 
-`<p class="note">Note : apparaîtra en bleu</p>` comme ceci :
+`<p class="note">Note: will show up in blue</p>` will show up like this:
 
-<p class="note">Note: sera affiché en bleu</p>
+<p class="note">Note: will show up in blue</p>
 
-## Bouton de téléchargement
+## Download Button
 
-`<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip"><unk> TÉLÉCHARGER ICI</a>`
+`<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip">↳ DOWNLOAD HERE</a>`
 
-Produire :
+Will produce:
 
-<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip"><unk> TÉLÉCHARGER ICI</a>
+<a class="downloadButton" href="https://github.com/hakkens/precious-plastic-kit/archive/master.zip">↳ DOWNLOAD HERE</a>
 
