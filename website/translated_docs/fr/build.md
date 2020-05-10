@@ -1,7 +1,7 @@
 ---
-id: construire
-title: Construire
-sidebar_label: Introduction
+id: build
+title: Build
+sidebar_label: Intro
 ---
 
 <div class="videocontainer">
@@ -18,57 +18,57 @@ sidebar_label: Introduction
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Construire des machines
+# Building machines
 
-### Quelles sont ces machines ?
+### What are these machines?
 
-Il est temps de construire des machines ! Dans cette section, nous vous guiderons à travers toutes les machines que nous avons développées sur Precious Plastic - le déchiqueteur original et adapté aux débutants, Injection, Compression et Extrusion et les machines plus robustes que nous avons développées dans la version 4 - la Feuille, Shredder Pro et Extrusion Pro 💪
+It's time to build machines! In this section we’ll take you through all the machines we have developed at Precious Plastic - the original and beginner-friendly Shredder, Injection, Compression and Extrusion and the more robust machines we’ve developed in Version 4 - the Sheetpress, Shredder Pro and Extrusion Pro 💪
 
-Nous décrivons comment construire chaque machine et où la source des pièces. ainsi que les machines et les compétences nécessaires pour se mettre en marche. Les vidéos vont en profondeur sur chaque compilation, et tout ce dont vous avez besoin est dans le pack de téléchargement pour chaque machine.
+We outline how to build each machine and where to source parts, as well as the machinery and skills needed to get up and running. The videos go in depth about each build, and everything you need is in the download pack for each machine.
 
-> Pro-tip : se concentrer sur une machine, ensemble de compétences et de rendement. Maîtrisez cela et devenez un expert de l'univers plastique précieux !
+> Pro-tip: focus on one machine, set of skills and output. Master that and become an expert in the Precious Plastic Universe!
 
 
 </div>
 <div class="videoChaptersSidebar">
 
-### Chapitres Vidéo
+### Video Chapters
 
 - 00:12 Introduction
-- Shredder 01:35
-- Extruder 01:53
+- 01:35 Shredder
+- 01:53 Extruder
 - 02:33 Compression
 - 02:57 Injection
 
 </div>
 </div>
 
-![Machines V3 et V4](assets/Build/v3v4machine.jpg)
+![V3 and V4 Machines](assets/Build/v3v4machine.jpg)
 
-## Pourquoi ces machines sont-elles importantes?
+## Why are these machines important?
 
-Nous n’avons pas inventé de machines de traitement de plastique. Ils existent déjà dans l'industrie et peuvent transformer de nouveaux produits à vitesse de foudre - ils sont presque trop efficaces, qui contribue à la quantité de déchets plastiques que nous avons dans le monde. Mais travailler avec du plastique recyclé peut être imprévisible et c'est pourquoi l'industrie ne veut pas travailler avec lui - c'est plus facile, moins cher et plus fiable d'utiliser du plastique vierge propre.
+We didn’t invent plastic processing machines. They already exist in the industry and can process new products at lightning speed - they’re almost too efficient, which is a contributing factor to the amount of plastic waste we have globally. But working with recycled plastic can be unpredictable and this is why the industry doesn’t want to work with it - it’s easier, cheaper and more reliable to use clean virgin plastic.
 
-Nous avons donc basé nos machines sur celles de l'industrie mais nous les avons rendues moins chères, plus faciles à construire et beaucoup plus abordables :
+So we based our machines on those in the industry but made them cheaper, easier to build and much more affordable:
 
-![Industrie contre Plastique Précieuse](assets/Build/industry_vs_pp.svg)
+![Industry Vs Precious Plastic](assets/Build/industry_vs_pp.svg)
 
-Cette approche inclusive accroît l'accessibilité et l'adoption dans le monde entier et est développée à l'aide de technologies et de matériaux de base afin qu'ils soient facilement compris, reproduit et réparé par des gens du monde entier avec des compétences de base en métal et en construction. Et depuis que nous faisons cela avec vous (notre communauté) depuis de nombreuses années, Il est plus facile que jamais de comprendre comment construire ces machines dans votre communauté locale et d'obtenir le soutien des constructeurs et fournisseurs locaux. Et nous aimons vous voir les hacker et les améliorer !
+This inclusive approach increases accessibility and adoption worldwide and are developed using basic technologies and materials so they are easily understood, reproduced and repaired by people from all over the world with basic metal and building skills. And since we’ve been doing this together with you (our community) for many years, it’s easier than ever to understand how to build these machines in your local community and get support from local builders and suppliers. And we love seeing you hack them and making them better!
 
-> Astuce Pro: Utilisez la carte pour voir quelles machines se trouvent dans votre région!
+> Pro Tip: Use the map to see which machines are in your local area!
 
-### Nos machines
+### Our machines
 
-Le principe sous-jacent des machines est le même pour tous (sauf le broyeur). Chaque machine applique de la chaleur à la fonte en plastique, est pressée dans un moule ou une forme et est finalement refroidi pour retrouver son état solide. C’est toute la magie du recyclage. Assez simple, n'est-ce pas? Chaque machine est unique avec ses propres flux de travail, résultats, précautions, comportements et problèmes, mais le concept fondamental est le même. Plus vous travaillerez avec eux, plus vous les comprendrez et vous vous améliorerez lors du recyclage. Alors plongeons!
+The underlying principle behind the machines is the same for all (except the shredder). Each machine applies heat to plastic, plastic melts, gets pressed into a mould or shape and is finally cooled to regain its solid state. That’s all the magic behind recycling. Pretty simple, right? Each machine is unique with its own workflows, outcomes, precautions, behaviours and problems but the fundamental concept is the same. The more you’ll work with them, the more you’ll understand them and get better at recycling. So let’s dive in!
 
-| Machines                                                                        | Libellé                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="assets/build/thumb-shredder.jpg" width="150" />      | __Déchiqueteur__ <br> Notre broyeur coupe le plastique en petits flocons qui peuvent être utilisés par les autres machines pour fondre. Obtenez le Shredder Pro pour des sorties plus élevées.                                                            |
-| <img src="assets/build/thumb-extrusion.jpg" width="150" />     | __Extrusion__ <br> Le plastique broyé entre en fusion, devient fondu et se transforme en une chaîne de plastique. Vous pouvez freestyle et l'envelopper autour d'un moule ou remplir des moules. Téléchargez la version Pro pour des sorties plus élevées |
-| <img src="assets/build/thumb-injection.jpg" width="150" />     | __Injection__ <br> Simple à construire et utiliser la machine. Le plastique fond dans le tonneau et est enfoncé dans un moule. Vous pouvez faire des objets de base ou des objets super détaillés. Bon pour l'éducation et les petites productions.       |
-| <img src="assets/build/thumb-compression.jpg" width="150" />   | __Compression__ <br> Un four qui peut chauffer votre plastique dans un moule et le compresser ensemble. C'est bon pour l'expérimentation et l'apprentissage mais pas fort pour les productions.                                                           |
-| <img src="assets/build/thumb-sheetpress.jpg" width="150" />    | __Feuille__ <br> Grande machine qui peut faire de grandes feuilles. Il peut traiter beaucoup de plastique sur une base quotidienne. C'est un processus relativement nouveau, donc il y a encore quelques choses à apprendre et à comprendre :)            |
-| <img src="assets/build/thumb-extrusion-pro.jpg" width="150" /> | __Extrusion Pro__ <br> Une version renforcée de notre extrudeur plus petit. Conçu pour courir de longues heures et donne plus de plastique. C'est l'extrudeur sur lequel vous pouvez compter pour de grandes productions.                                 |
-| <img src="assets/build/thumb-shredder-pro.jpg" width="150" />  | __Shredder Pro__ <br> Grande version de notre petit déchiqueteur, la différence principale est qu'il s'agit d'une machine à 2 axes. Bon pour déchiqueter rapidement du plastique en petits morceaux. Moins bon pour le granulation.                       |
+| Machines                                                                        | Description                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="assets/build/thumb-shredder.jpg" width="150" />      | __Shredder__ <br> Our Shredder chops the plastic into small flakes that can be used by the other machines to melt. Get the Shredder Pro for higher outputs.                                           |
+| <img src="assets/build/thumb-extrusion.jpg" width="150" />     | __Extrusion__ <br> Shredded plastic goes in, gets molten and turns into a string of plastic. You can freestyle and wrap it around a mould or fill up moulds. Get the Pro version for higher outputs   |
+| <img src="assets/build/thumb-injection.jpg" width="150" />     | __Injection__ <br> Simple to build and use machine. Plastic melts in the barrel and is squeezed into a mould. You can make basic objects or super detailed. Good for education and small productions. |
+| <img src="assets/build/thumb-compression.jpg" width="150" />   | __Compression__ <br> An oven that can heat up your plastic in a mould and compress it together. It's good for experimenting and learning but not strong for productions.                              |
+| <img src="assets/build/thumb-sheetpress.jpg" width="150" />    | __Sheetpress__ <br> Big machine that can make big sheets. It can process a lot of plastic on a daily basis. It's a relatively new process, so there are still some things to learn and figure out :)  |
+| <img src="assets/build/thumb-extrusion-pro.jpg" width="150" /> | __Extrusion Pro__ <br> A beefed up version of our smaller extruder. Made to run long hours and outputs more plastic. Its the extruder you can count on for big productions.                           |
+| <img src="assets/build/thumb-shredder-pro.jpg" width="150" />  | __Shredder Pro__ <br> Big version of our small shredder, the main difference is that this is a 2 axel machine. Good for quickly shredding plastic into small flakes. Less good for granulating.       |
 
-**Si vous avez besoin d'aide, si vous avez des questions ou si vous recherchez quelqu'un à qui parler dans votre espace de travail solitaire froid. Rendez-vous sur le canal [#build](https://discordapp.com/invite/XQDmQVT) sur Discord ! Nous parlons ici de machines nerveuses.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord! Here we talk nerdy about machines.**
