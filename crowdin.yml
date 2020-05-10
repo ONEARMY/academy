@@ -3,6 +3,7 @@
 # Note - only works in linux environment (windows fails with ** for unknown reason)
 
 # To execute commands requires an API token for the project
+# E.g. CROWDIN_API_TOKEN=some-api-key crowdin download
 # E.g. CROWDIN_API_TOKEN=some-api-key crowdin upload sources
 project_id: "2"
 api_token_env: CROWDIN_API_TOKEN

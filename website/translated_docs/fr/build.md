@@ -1,6 +1,6 @@
 ---
-id: construire
-title: Construire
+id: fabrication
+title: Fabrication
 sidebar_label: Introduction
 ---
 
@@ -18,7 +18,7 @@ sidebar_label: Introduction
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-# Construire des machines
+# Fabrication
 
 ### Quelles sont ces machines ?
 
