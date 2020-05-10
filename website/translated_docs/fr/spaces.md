@@ -1,7 +1,7 @@
 ---
-id: espaces
-title: Espaces
-sidebar_label: Introduction
+id: spaces
+title: Spaces
+sidebar_label: Intro
 ---
 
 
@@ -12,22 +12,22 @@ sidebar_label: Introduction
 }
 </style>
 
-![Badges de la communauté](assets/comm_badges.jpg)
+![Community Badges](assets/comm_badges.jpg)
 
-# Espaces en plastique précieux
+# Precious Plastic Spaces
 
-Pour vous aider à démarrer sur le bon pied, nous avons conçu et testé des espaces pour chacune des machines avec simplicité, la productivité et la qualité de vie à l'esprit. Dans la section suivante, vous trouverez un guide étape par étape avec plans de plancher, modèles CAO, et des recommandations d’outils pour vous aider à planifier les différents éléments de votre espace de travail.
+To help you get started on the right foot, we’ve designed and tested spaces for each of the machines with simplicity, productivity, and quality of life in mind. In the following section you’ll find a step-by-step guide with floor plans, CAD models, and tool recommendations to help you plan the various elements of your workspace.
 
 
 
-### Au fur et à mesure que vous travaillez, il y a quelques choses d'ordre général à garder à l'esprit:
+### As you work, there are a few general things to keep in mind:
 
-<b>1. Travaillez ensemble.</b> Trouvez un coéquipier. Avoir quelqu'un avec qui partager des tâches rend le travail plus amusant et plus facile à gérer. Il est préférable que vous et votre coéquipier ayez des compétences complémentaires – ingénieur + femme d’affaires, par exemple.
+<b>1. Work together.</b> Find a teammate. Having someone to share tasks with makes the work more fun and easier to handle. It’s best if you and your teammate have complementary skillsets – engineer + businesswoman, for example.
 
-<b>2. Personnalisez.</b> Votre contexte (espace, emplacement, produits) affectera la façon dont vous configurez votre espace de travail. Utiliser les plans ici comme point de départ, et être toujours à la recherche de moyens de les adapter pour mieux répondre à vos besoins.
+<b>2. Customize.</b> Your context (space, location, products) will affect the way you set up your workspace. Use the plans here as a starting point, and always be on the lookout for ways that you can adapt them to better suit your needs.
 
-<b>3. Gardez-le simple.</b> Nous vous recommandons de commencer par les éléments les plus basiques de votre espace de travail (machine, , outils de base) et de construire à partir de là quand vous commencez à travailler avec votre machine. De cette façon, vous construirez et acheterez seulement ce qui convient à vos besoins.
+<b>3. Keep it simple.</b> We recommend starting with the most basic elements of your workspace (machine, workbench, basic tools) and building out from there as you start to work with your machine. This way, you’ll build and buy only what suits your needs.
 
-<b>4. Bienvenue.</b> Votre espace de travail est plus qu'un centre de recyclage - c'est un outil de changement culturel. Prenez soin des petits détails pour en faire un endroit agréable pour vous, votre équipe et les visiteurs qui passent.
+<b>4. Welcoming.</b> Your workspace is more than a recycling center - it’s a tool for cultural change. Take care of the little details to make it an enjoyable place to be for you, your team, and visitors who pass by.
 
-Ok, prêt à commencer? Consultez les chapitres suivants pour savoir comment configurer votre espace de travail.
+Ok, ready to get started? Check out the next chapters to learn about how to set up your workspace.
