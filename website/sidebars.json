@@ -49,7 +49,18 @@
       "business",
       "business/actionplan",
       "business/workspacecalculator",
-      "business/businessplan"
+      "business/businessplan",
+      {
+      "label": "Bazar",
+      "type": "subcategory",
+      "ids": [
+        "business/bazar",
+	"business/Account_Setup",
+        "business/Connect_Stripe",
+        "business/Image_Size_Guidelines"
+        ]
+      }
+
     ],
     "7. Spaces": [
       "spaces",
