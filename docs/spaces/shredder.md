@@ -19,13 +19,13 @@ sidebar_label: Shredder
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-### Without it, there’s no plastic to melt.
+###  This Precious Plastic Space receive plastic from Collection Points,  shreds it and sells it to other Precious Plastic workspaces recycling it into products. Without this, there’s no plastic to melt.
 
-Ok, you want to set up a shredder workspace. Awesome! The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps:
+Ok, you want to set up a shredder workspace. Fantastic! The shredder workspace is a crucial element of the Precious Plastic universe. Setting up a workspace can be broken down into three main steps:
 
 1. <b>Search:</b> what to think about when choosing your space
 2. <b>Plan:</b> how to plan your space effectively
-3. <b>Build:</b> transforming an empty room into a shredder workspace
+3. <b>Build:</b> transforming an empty room into a Shredder Workspace
 
 Each of these steps is explained in more detail below.
 
@@ -51,9 +51,9 @@ Each of these steps is explained in more detail below.
 The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
 
-1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The shredder space we designed is roughly 4 x 6 meters – you can go larger, but if you include the shredder (like ours) we wouldn’t recommend going much smaller.
+1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The shredder space we designed is roughly 5 x 6 meters – you can go larger, but we wouldn’t recommend going much smaller.
 
-2. <b>Electricity:</b> The Injection machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
+2. <b>Electricity:</b> The Shredder machine can run on single-phase or three-phase depending on the version you're planning to build (v2 or v4), so be sure to check the specs of the motor you plan to use when choosing your space.
 
 3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget.
 
@@ -76,15 +76,11 @@ Once you’ve made a floor plan that seems promising, test it out in real life b
 
 Now that your floor plan is blocked out, it’s time to transform your empty room into a shredder workspace.
 
-Begin with basics
-
 Start with your most essential items - shredder, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
 
 > Pro-tip: it’s nice to keep your workspace furniture on wheels so that you can easily move it around as needed
 
-When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
-
-If what you need isn’t available secondhand, buy new or build.
+When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space. If what you need isn’t available secondhand, buy new or build it. And always strive for good quality rather than cheap.
 
 Some essential items to get you started:
 
@@ -94,7 +90,6 @@ Some essential items to get you started:
 - Plastic beam or large rubber - mallet for pushing plastic into shredder when needed
 - Assembly tools for cleaning between shreds - wrenches, allen keys, mallet
 - Stiff-bristled brush - to clean the blades
-
 
 Once you’ve got your basics covered, start working with the shredder to develop your workflow and see what else might help you work more efficiently and comfortably.
 

@@ -20,16 +20,16 @@ sidebar_label: Extrusion
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-###  Great for transforming plastic waste into batches of objects using moulds.
+###  This Precious Plastic Space transforms plastic waste extruding it into various objects and raw materials like beams or bricks.
 
-So, you want to set up an injection workspace. Awesome! The extruder workspace plays a key role in transforming shredded plastic into useful objects.
+So, you want to set up an Extrusion Workspace. That's brilliant! The Extrusion Workspace is a great choice to recycle lots of plastic waste into beams or bricks in a continuous process that is fairly straighforward and easy to learn.
 
-Setting up a workspace can be broken down into three main steps:
+Setting up an Extrusion Workspace can be broken down into three main steps:
 
 
 1. <b>Search:</b> what to think about when choosing your space
-2. <b>Plan:</b> how to plan your space effectively
-3. <b>Build:</b> transforming an empty room into a injection workspace
+2. <b>Plan:</b> how to plan your space effectively to work with (sometimes) long moulds
+3. <b>Build:</b> transforming an empty room into a Extrusion Workspace
 
 Each of these steps is explained in more detail below.
 
@@ -49,13 +49,15 @@ Each of these steps is explained in more detail below.
 
 ## 🔍 Search
 
-The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
+The first step of setting up an Extrusion workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
-1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The injection space we designed is roughly 4 x 6 meters – you can go larger, but if you include the shredder (like ours) we wouldn’t recommend going much smaller.
+1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The Extrusion Workspace we designed is roughly 5 x 6 meters – you can go larger, but we wouldn’t recommend going much smaller.
 
-2. <b>Electricity:</b> The extrusion machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
+2. <b>Electricity:</b> The extrusion machine can run both on single-phase or on three-phase depending on the version you're building (v2 or v4), so be sure to check the specs of the motor you plan to use when choosing your space.
 
 3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget.
+
+4. <b>Ventilation:</b> Recycling plastic can sometimes produce some fumes. For this reason it is nice to look out for a nicely ventilated and open space. Alternatively you can always create your own ventilation system.
 
 > Pro-tip: sometimes, cities offer discounted rent to entrepreneurs with purposeful missions, so it’s worth getting in touch with accelerators and representatives of your municipality to see if there are opportunities like this in your area.
 
@@ -70,30 +72,28 @@ To help you begin, we’ve included some starter floor plans, CAD models, and a 
 
 ![Extrusion Workspace](assets/spaces_extruder.jpg)
 
-Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right.
+Once you’ve made a floor plan that seems promising, test it out in real life by blocking it out on the floor of your space with chalk. Continue to iterate until you arrive at a floor plan that feels right. Keeping in mind that you'll spend quite some time in it. So make it comfy :)
 
 
 ## 🛠 Build
 
-Now that your floor plan is blocked out, it’s time to transform your empty room into an extruder workspace.
+Now that your floor plan is blocked out, it’s time to transform your empty room into an Extruder Workspace.
 
 ### Begin with basics
 
-Start with your most essential items - extruder, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
+Start with your most essential items - extruder, workbench, basic tools – then build out from there as you start to see what suits your workflow best depending on your plan, products and goals.
 
-When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
-
-If what you need isn’t available secondhand, buy new or build.
+When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your Precious Plastic space. If what you need isn’t available secondhand, buy new or build it. And always strive for good quality rather than cheap.
 
 Some essential items to get you started:
 
-- Extruder - of course
+- Extruder - of course.
 - Shredded plastic storage containers – this might be determined by who you buy your plastic from. What’s most important is to make sure that they’re sturdy to prevent accidental spills. Clear is nice, but not required.
-- Simple mold – could be beam, bowl, or any other item. Best to start with something simple to familiarize yourself with the process then build out from there. Check out the how-to’s for inspiration
-- Basic tools - wrenches, channel lock pliers, screwdriver, safety glasses, heat resistant gloves, scoop
-- Ventilation – filter mask, ventilation caddy, check out the safety video to learn more
-- Workbench
-- Offcut container
+- Simple mould – could be beam or a brick. Best to start with something simple to familiarize yourself with the process then build out from there. Check out the <a href="https://community.preciousplastic.com/">how-tos</a> for inspiration.
+- Basic tools - wrenches, channel lock pliers, screwdriver, safety glasses, heat resistant gloves and scoop.
+- Ventilation – filter mask, ventilation caddy, check out the <a href="https://community.preciousplastic.com/academy/plastic/safety">safety video</a> to learn more.
+- Workbench.
+- Off-cuts container.
 
 Once you’ve got your basic workspace set up, start working with the extruder to develop your workflow and see what else might help you work more efficiently and comfortably.
 
@@ -108,6 +108,6 @@ And don’t be afraid to spice the place up with your own unique charm :) Plants
 
 ## 👋 Share
 
-You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂
+You’ve built your Extrusion Workspace. Well done! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂
 
 <b>Want to share feedback, chat about the Extrusion Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>
