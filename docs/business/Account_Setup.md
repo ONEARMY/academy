@@ -17,10 +17,11 @@ sidebar_label: Account Setup
 So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account. Now lets go through the steps to get setup!
 
 ## Login to the Seller [Dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php) 
- <img src="../assets/Business/login.png"/>
+ <img src="../assets/Business/login.png" />
 
 ## Go to your seller profile
  <img src="../assets/gif/seller profile.gif" />
+ 
 ## Check your profile information for accuracy 
  <img src="../assets/Business/check_profile.png" />
 
@@ -33,7 +34,7 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 - If your country is not supported, you can try setting up an account through [Stripe Atlas](https://stripe.com/atlas), or find another way and get creative 😜
 - Paypal is not supported. 
 
-<img src="../assets/gif/Connect to stripe.gif"/>
+<img src="../assets/gif/connect to stripe.gif"/>
 
 ## Add a description 
 - A detailed description helps potential buyers know you and your organization. 
