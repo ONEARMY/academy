@@ -27,7 +27,7 @@ Stripe is the payment processor that powers the Bazar. You need a seperate accou
 
 ## Scroll down and click "connect with Stripe" 
 
-<img src="../assets/gif/Connect to stripe.gif" />
+<img src="../assets/gif/connect to stripe.gif" />
 
 
 ## Set up a new account or connect an existing one 
