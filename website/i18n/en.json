@@ -9,6 +9,10 @@
         "title": "Build",
         "sidebar_label": "Intro"
       },
+      "build/components": {
+        "title": "Overview of components",
+        "sidebar_label": "components"
+      },
       "build/compression": {
         "title": "Build an compression Machine",
         "sidebar_label": "Compression"
@@ -65,13 +69,29 @@
         "title": "Business",
         "sidebar_label": "Intro"
       },
+      "business/Account_Setup": {
+        "title": "Account Setup",
+        "sidebar_label": "Account Setup"
+      },
       "business/actionplan": {
         "title": "Action Plan",
         "sidebar_label": "Action Plan"
       },
+      "business/bazar": {
+        "title": "Bazar Overview",
+        "sidebar_label": "Overview"
+      },
       "business/businessplan": {
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
+      },
+      "business/Connect_Stripe": {
+        "title": "Connect Stripe",
+        "sidebar_label": "Connect Stripe"
+      },
+      "business/Image_Size_Guidelines": {
+        "title": "Image Size Guidelines",
+        "sidebar_label": "Image Size Guidelines"
       },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
@@ -180,6 +200,10 @@
       "universe/yourlogo": {
         "title": "Make your own logo",
         "sidebar_label": "Make your logo"
+      },
+      "universe/contribute": {
+        "title": "Share back & Contribute",
+        "sidebar_label": "Share back"
       },
       "universe/universe": {
         "title": "Universe",
