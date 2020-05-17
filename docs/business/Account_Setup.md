@@ -43,7 +43,7 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 
 ## Add your logos 
 - The first logo is what will appear as your profile picture
-- The second logos is what will appear on your invoices to customers
+- The second logo is what will appear on your invoices to customers
 - The recommended size for your logos is 400x250 pixels, and the total size must be under 5 MB
 
 <img src="../assets/gif/add logo.gif" />

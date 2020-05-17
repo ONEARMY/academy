@@ -26,9 +26,6 @@ Stripe is the payment processor that powers the Bazar. You need a seperate accou
 <img src="../assets/gif/seller profile.gif" />
 
 ## Scroll down and click "connect with Stripe" 
-- Only registered organizations in certain countries can create an account. Check the [list](https://stripe.com/global) to see if your home country is supported 
-- If your country is not supported, you can try setting up an account through [Stripe Atlas](https://stripe.com/atlas), or find another way and get creative 😜
-- Paypal is not supported 
 
 <img src="../assets/gif/Connect to stripe.gif" />
 
@@ -40,4 +37,4 @@ Stripe is the payment processor that powers the Bazar. You need a seperate accou
 - Paypal is not supported
 
 ## You're now open for business 🙌🏼🎉💪
-- Next move is to create lisitngs on the Bazar and start selling 🤑
+- Next step is to create lisitngs on the Bazar and start selling 🤑
