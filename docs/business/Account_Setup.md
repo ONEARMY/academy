@@ -20,13 +20,13 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
  <img src="../assets/Business/login.png" />
 
 ## Go to your seller profile
- <img src="../assets/gif/seller profile.gif" />
+ <img src="../assets/gif/seller_profile.gif" />
  
 ## Check your profile information for accuracy 
  <img src="../assets/Business/check_profile.png" />
 
 ## Add your seller map location to create your pin on the seller [map](https://bazar.preciousplastic.com/index.php?dispatch=companies.catalog)
- <img src="../assets/gif/seller map.gif" >
+ <img src="../assets/gif/seller_map.gif" >
 
 ## Connect your Stripe account for payment
 - You need a seperate account with Stripe (payment processor), which allows you to manage all the information related to payments. 
@@ -34,7 +34,7 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 - If your country is not supported, you can try setting up an account through [Stripe Atlas](https://stripe.com/atlas), or find another way and get creative 😜
 - Paypal is not supported. 
 
-<img src="../assets/gif/connect to stripe.gif"/>
+<img src="../assets/gif/connect_to_stripe.gif"/>
 
 ## Add a description 
 - A detailed description helps potential buyers know you and your organization. 
@@ -47,4 +47,4 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 - The second logo is what will appear on your invoices to customers
 - The recommended size for your logos is 400x250 pixels, and the total size must be under 5 MB
 
-<img src="../assets/gif/add logo.gif" />
+<img src="../assets/gif/add_logo.gif" />
