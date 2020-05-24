@@ -10,8 +10,7 @@ sidebar_label: Overview
 }
 </style>
 
-<img src="../assets/Business/bazarmain.png
-" />
+![Precious Plastic Bazar](../assets/Business/bazarmain.png)
 
 👉**[Visit the Bazar](http://bazar.preciousplastic.com/)**  👈
 
@@ -20,8 +19,8 @@ The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers a
 
 ## How It Works
 
-<img src="../assets/Business/bazarproduct.png
-" />  
+![Bazar Product](../assets/Business/bazarproduct.png)
+
 
 The Bazar works a lot like the e-commerce platforms you’re used to. Here’s the process: 
 
