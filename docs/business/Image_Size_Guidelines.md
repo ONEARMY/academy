@@ -11,7 +11,7 @@ sidebar_label: Image Size Guidelines
 }
 </style>
 
- ![Bazar Images](../assets/Business/imagesize.jpg)
+![Bazar Images](../assets/Business/imagesize.jpg)
 
 # Image Size Guidelines 
 
