@@ -13,6 +13,7 @@ sidebar_label: Account Setup
 
 ![New Seller](../assets/Business/accountpic1.jpg)
 
+
 # Setup Your Seller Account
 So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account. Now lets go through the steps to get setup!
 
@@ -44,7 +45,7 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 ![Connect Stripe](../assets/gif/connect_to_stripe.gif)
 
 
-## Add a description 
+## Add a description
 - A detailed description helps potential buyers know you and your organization. 
 - Tell them your story of how you got started and what your focus is. This seems trivial but could be the difference between a sale or not.
 
