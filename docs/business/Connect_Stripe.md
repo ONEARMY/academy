@@ -11,7 +11,7 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Stripe Logo](../assets/business/stripelogo.png)
+![Stripe Logo](../assets/business/Stripelogo.png)
  
 # Connect Your Stripe Account 
 
@@ -22,7 +22,7 @@ Stripe is the payment processor that powers the Bazar. You need a seperate accou
 
 ## Login to the Seller [Dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php)
 
-![Login](../assets/gif/login.gif)
+![Login](../assets/gif/Login.gif)
 
 ## Go to your seller profile
 

@@ -11,7 +11,7 @@ sidebar_label: Account Setup
 }
 </style>
 
-![New Seller](../assets/Business/accountpic1.jpg)
+![New Seller](../assets/Business/Accountpic1.jpg)
 
 
 # Setup Your Seller Account
@@ -49,7 +49,7 @@ So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=com
 - A detailed description helps potential buyers know you and your organization. 
 - Tell them your story of how you got started and what your focus is. This seems trivial but could be the difference between a sale or not.
 
-![Add Description](../assets/gif/description.gif)
+![Add Description](../assets/gif/Description.gif)
 
 
 ## Add your logos 
