@@ -61,11 +61,21 @@ The folder structure follows the same structure as the website, so if for exampl
 Simply click on the row for the file you want to work on and you will be taken to the translation editor. Alternatively use the dropdown and go to the `translations` section
 
 ## Adding or editing translations
+From within the editor you can select any piece of text on the left, and view existing translations and make suggested changes on the right.
 
+![](images/editor.png) 
+
+Once you have finished a piece of text you can either manually select another, or use the arrows or keyboard shortcuts to go to the next. You can also toggle between English and translated versions using the preview icon. Once a file is complete you can select another from the filename dropdown. 
 
 ## Seeing the changes on a live site
+Before changes appear on the live translations preview site they must first be approved by a manager, and then merged into the codebase by a member of the dev team. A request to merge will be created automatically on approval, and should appear at: https://github.com/ONEARMY/academy/pulls. 
 
+Once approved the site will be deployed to a live preview at:
+https://pp-academy-translation-demo.netlify.app/
 
+Integration into the final public academy site takes one more approval step from the lead developers, who will merge the changes into the master branch of the repo.
+
+>By default all translations will be merged in and appear live, in the future we will likely need to find a better system to know which languages are ready for inclusion on live or not.
 
 # Managers Docs
 ## Adding languages for translation
@@ -95,6 +105,7 @@ For larger changes, such as addition of new files, or large text changes then it
 - Automated (google) translations
 - User permissions
 - Contacting translators
+- Handling conflicts, translation voting system
 - Super managers docs (e.g. handling page changes/additions, multiple country overview)
 
 ## 
