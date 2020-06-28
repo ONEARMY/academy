@@ -11,7 +11,7 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Stripe Logo](../assets/business/Stripelogo.png)
+![Stripe Logo](../assets/Business/Stripelogo.png)
  
 # Connect Your Stripe Account 
 
