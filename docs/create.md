@@ -89,7 +89,7 @@ It's worth noting that there are many ways of exploring moulds and new methods, 
 
 - [Make a handplane - simple mould](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)<br>
 - [Make a broom hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)<br>
-- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-laser-cut)<br>
+- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
 - [Make an interlocking brick](https://community.preciousplastic.com/how-to/make-an-interlocking-brick)
 
 # 💰 Make plastic valuable
