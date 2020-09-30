@@ -10,18 +10,13 @@ Here's an example of the [markdown file](https://github.com/ONEARMY/academy/blob
 ![](images/overview.png)
 
 ## How the translation works
-The main bulk of the translation work is to take the markdown files for every page, and rewrite all the visible content in the translation language. For example, if translating into french we will need to create another `build.md` file written in french, and stored in a separate folder (currently `academy/website/translated_docs/fr`).
+All translations are managed online using a system called [crowdin](https://crowdin.com/). Not only does this allow multiple translators to collaborate on files, it also provides tools to track revisions across languages, apply automated machine-translation as a base for contributors to work from, and sync with github to provide final output.
+
+>Note, there is already lots of really good documentation on the crowdin website for handling all steps of the translation process, however recently they have launched a new platform for enterprise which we are using, and currently has only limited documentation. So find some more general guidance below.
 
 ![](images/overview-fr.png)
 
 > There are also a few bits of text injected into pages from elsewhere (like navigation sidebars, or the page titles themselves). These also require translation, but someone still needs to outline how to do this!!
-
-The benefit to translating file-by-file as opposed to storing individual lines of text (or relying on google translate) is that we can use the full page context to provide an exact translation for the text which can, at times, be quite technical or in need of precision.
-
-## Managing Translations
-All translations are managed online using a system called [crowdin](https://crowdin.com/). Not only does this allow multiple translators to collaborate on files, it also provides tools to track revisions across languages, apply automated machine-translation as a base for contributors to work from, and sync with github to provide final output.
-
->Note, there is already lots of really good documentation on the crowdin website for handling all steps of the translation process, however recently they have launched a new platform for enterprise which we are using, and currently has only limited documentation. So find some more general guidance below.
 
 # Translators Docs
 
