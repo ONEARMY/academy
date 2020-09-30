@@ -33,7 +33,7 @@ So as a couple pre-requisites, before requesting additional languages it would b
 - Would many people benefit from the work?
 - Is there someone to manage the work?
 - Are there multiple people able to spend time translating all the content (there's quite a lot!)
-- Would translators have the technical knowledge to know if what is written is accurate - precision machines require precision translation!!!
+- Would translators have the technical knowledge to know if what is written is accurate? precision machines require precision translation!!!
 
 >A good place start these discussions could be country community channels on the [Precious Plastic Discord](https://discordapp.com/invite/AKuxkpx).
 
