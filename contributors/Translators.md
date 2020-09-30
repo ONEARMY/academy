@@ -42,13 +42,18 @@ If the answers to all of these are reasonably positive, then the next step would
 At the moment the languages enabled are French and Japanese.
 
 ## Joining a translation project
-Translations are hosted by crowdin, and require an account at https://onearmy.crowdin.com/. Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
+Translations are hosted by crowdin, and require an account at https://onearmy.crowdin.com/.
+
+To get an account, join the crowdin instance at https://accounts.crowdin.com/register?domain=ONEARMY
+
+Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
 
 > Don't know who the project manager is? No problem, take a look through the discussion at https://github.com/ONEARMY/academy/issues/77 and hopefully it will say. Otherwise you could always try ask around on discord.
 
-
 ## Loading translation files
-From the project homepage, click on a language to see the full list of files for translation. 
+
+Once your access to the translation project has been accepted by a manager, you will be able to translate.
+From the project homepage, click on a language to see the full list of files for translation.
 
 The folder structure follows the same structure as the website, so if for example you wanted to translate https://onearmy.github.io/academy/plastic/basics page, you can see the file at `plastic/basics.md`
 
