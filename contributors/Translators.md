@@ -88,7 +88,7 @@ Anybody with Manager priviledges can add more languages for translation. To do t
 Additional languages can be added as [custom languages](https://support.crowdin.com/changing-target-languages/), however before doing this it is recommended to check with developers whether the platform is capable of supporting these.
 
 ## Inviting translators
-This can be one via email, or by adding a user's username from the `Members` page. 
+This can be done via email, or by adding a user's username from the `Members` page in crowdin.
 >It is also possible to create links for sharing, however in the past we have found them to be a bit termpermental (expiring after single use). Feel free to try though!
 
 ## Handling changes to source files
@@ -99,7 +99,7 @@ Crowdin will automatically detect some minor changes (such as punctuation change
 
 For other smaller changes (such as word changes), crowdin will use it's bank of all previous translations to automatically detect and suggest translation changes. These should be reviewed by the manager and can usually be updated pretty quickly.
 
-For larger changes, such as addition of new files, or large text changes then it is likely that maangers will want to assign the file back to translators for translation.
+For larger changes, such as addition of new files, or big text changes, then it is likely that managers will want to assign the file back to translators for translation.
 
 ## TODO
 - General workflow
