@@ -39,6 +39,7 @@ So as a couple pre-requisites, before requesting additional languages it would b
 
 If the answers to all of these are reasonably positive, then the next step would be to drop a message into this GitHub thread: https://github.com/ONEARMY/academy/issues/77
 
+At the moment the languages enabled are French and Japanese.
 
 ## Joining a translation project
 Translations are hosted by crowdin, and require an account at https://onearmy.crowdin.com/. Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
