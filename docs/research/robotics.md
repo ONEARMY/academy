@@ -66,7 +66,7 @@ So what’s next? One Arm is picking up and dropping off plastic, it knows where
 
 # Ok, but how does it know what is HDPE and what is PS?
 
-That's a great question! Another very important part to making this work is to actually identify what type of plastic it is. A robot is smart, but unfortunately it's not smart enough own it's own (probably a good thing) to identify different materials. This is where our research into plastic identification techniques comes into play.
+That's a great question! Another very important part to making this work is to actually identify what type of plastic it is. A robot is smart, but unfortunately it's not smart enough on it's own (probably a good thing) to identify different materials. This is where our research into plastic identification techniques comes into play.
 
 As we have learned already, we use the numbers 1-7 to label different plastic types, but there is still a lot of plastic that is unmarked, degraded or shredded, so we can’t always rely on seeing this number.
 

@@ -61,7 +61,7 @@ Go through the previous modules - having the knowledge about plastic types and t
 
 # ❗️ Safety
 
-Safety. Safety. Safety. Taking the proper precautions when working with plastic will ensure your safe when doing so. Ventalite the area well and always wear a mask.
+Safety. Safety. Safety. Taking the proper precautions when working with plastic will ensure your safety when doing so. Ventilate the area well and always wear a mask.
 
 # 😎 Choose your plastic and start easy
 
@@ -79,7 +79,7 @@ This might seem obvious for some but worth repeating. Plastic should never be bu
 
 Moulds are an integral part of the Precious Plastic ecosystem and could almost be considered a world on its own, they give shape to the molten plastic and create the final product. Entire teams of designers and engineers all around the world dedicate their lives to mould development to make most of the stuff around us - your phone case, your outdoor chair, your plant pot. Moulds shape our modern society, and they will shape the amazing products that you create! Moulds can be made using different materials but we generally advise you to work with metal for its durability and better capacity to conduct heat - it’s more energy efficient. Metal can be shaped in a number of ways, which one you will use depends on what kind of object you intend to make and what technologies you can access. 
 
-> Pro-tip: learn about the different mould techniques availavle so you can best design to the strengths of each method. You could use a more hands-on approach and create new moulds using a welding machine (which is a bit more rough), or a milling machine or a lathe. Or you could create a CAD file and use more advanced (and expensive) technologies like CNC milling which is very precise.
+> Pro-tip: learn about the different mould techniques available so you can best design to the strengths of each method. You could use a more hands-on approach and create new moulds using a welding machine (which is a bit more rough), or a milling machine or a lathe. Or you could create a CAD file and use more advanced (and expensive) technologies like CNC milling which is very precise.
 
 ![Socket Mould](assets/create/sockets.jpg)
 

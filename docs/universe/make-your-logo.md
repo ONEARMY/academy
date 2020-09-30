@@ -49,7 +49,7 @@ Below a few examples that stick to the guideliness and some that are not. Good l
 
 
 
-# Let's make you logo!
+# Let's make your logo!
 We provide 2 options to make your own logo. For both you need to install the Precious Plastic fonts. Make sure to keep the above guidelines in mind and if if you need help you can ask around in our [#Universe](https://discordapp.com/invite/QUw8A3w) channel in Discord.
 
 1. **The oldschool way:** Download al the files and templates from the [download-kit](../download). You can use your own software to modify. Photoshop, Illustarter, GIMP, Sketch, paint. Whatever gets you going.
