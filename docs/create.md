@@ -69,7 +69,7 @@ There are many to choose from and each have their own properties. Some are easie
 
 # 🌡️ Temperature 
 
-When recycling plastic, it’s imperative to know the melting temperature that’s needed to melt and not burn. It will mostly depend on two different things - the plastic type, the room temperature of your workspace (eg. if it is windy the heat will disperse faster). We’ve made this diagram that you can use as a resource to reference the different melting states of each plastic but one thing to note is that plastic is often mixed with additives, pigments and fillers, that transform its chemical and physical composition affecting the final melting temperature. Don’t be surprised if sometimes the recommended melting temperature does not achieve the desired molten state, try to gradually adjust your temperature up or down until you achieve the desired melt.
+When recycling plastic, it’s imperative to know the melting temperature that’s needed to melt and not burn. It will mostly depend on two different things: the plastic type, and the room temperature of your workspace (eg. if it is windy the heat will disperse faster). We’ve made [this diagram](assets/plastic/melting-temperatures.jpg) that you can use as a resource to reference the different melting states of each plastic, but one thing to note is that plastic is often mixed with additives, pigments and fillers that transform its chemical and physical composition affecting the final melting temperature. Don’t be surprised if sometimes the recommended melting temperature does not achieve the desired molten state, try to gradually adjust your temperature up or down until you achieve the desired melt.
 
 # 🥵 Don’t. Burn. Plastic. 
 
