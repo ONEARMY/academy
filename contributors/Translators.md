@@ -80,7 +80,7 @@ Integration into the final public academy site takes one more approval step from
 
 # Managers Docs
 ## Adding languages for translation
-Anybody with Manager priviledges can add more languages for translation. To do this simply go to the `target languages` menu from the project home dropdown.
+Anybody with Manager privileges can add more languages for translation. To do this simply go to the `target languages` menu from the project home dropdown.
 
 ![](images/target_languages.png)
 
