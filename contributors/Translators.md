@@ -89,7 +89,7 @@ Additional languages can be added as [custom languages](https://support.crowdin.
 
 ## Inviting translators
 This can be done via email, or by adding a user's username from the `Members` page in crowdin.
->It is also possible to create links for sharing, however in the past we have found them to be a bit termpermental (expiring after single use). Feel free to try though!
+It is also possible to create links for sharing, but they expire after single use. Feel free to try though!
 
 ## Handling changes to source files
 From time to time small changes might be made to source files, as users point out typos, corrections, clarifications etc. Once these have been made to the default english version of the files, they will show up as requiring translation within the project home page.
