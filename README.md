@@ -49,7 +49,4 @@ You can view build status at https://travis-ci.org/onearmy/academy
 You can see live deployment at : https://onearmy.github.io/academy/
 
 # Translations
-We are currently testing a translation system using crowdin. 
-To contribute to translations first check the status of https://github.com/ONEARMY/academy/issues/77,
-and join the project at https://crowdin.com/project/precious-plastic-academy/invite
-
+We are currently testing a translation system using crowdin. To contribute to translations please read https://github.com/ONEARMY/academy/blob/master/contributors/Translators.md
