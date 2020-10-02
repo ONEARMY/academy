@@ -45,14 +45,15 @@ At the moment the languages enabled are French, Japanese and Spanish.
 
 To start translating you need to:
 
-Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
+- create an account in crowdin, at https://accounts.crowdin.com/register?domain=ONEARMY
+- once you have an account, you will need to let the project manager for your language know either your crowdin username or email
 
 > Don't know who the project manager is? No problem, take a look through the discussion at https://github.com/ONEARMY/academy/issues/77 and hopefully it will say. Otherwise you could always try ask around on discord.
 
 ## Loading translation files
 
 Once your access to the translation project has been accepted by a manager, you will be able to translate.
-From the project homepage, click on a language to see the full list of files for translation.
+From the [project homepage](https://onearmy.crowdin.com/u/projects/2) click on a language to see the full list of files for translation.
 
 The folder structure follows the same structure as the website, so if for example you wanted to translate https://onearmy.github.io/academy/plastic/basics page, you can see the file at `plastic/basics.md`
 
