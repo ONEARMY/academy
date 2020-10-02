@@ -45,7 +45,7 @@ This tool is applicable to any type of business you hope to start within Preciou
 
 Click on the link below to open the sheets document, and click File > Make a copy and you're ready to go!
 
-[Open the Workspace Calculator](https://drive.google.com/open?id=1AywsAePEdu25GOKupowA1-VGgY2Yy357akE0nCiL2lE)
+[Open the Workspace Calculator](https://bit.ly/2YG16Xt)
 
 ### 👌 To get the best out of this tool:
 

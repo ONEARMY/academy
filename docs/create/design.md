@@ -234,7 +234,7 @@ This machine will allow you to be versatile with your production because all you
 
 <b>Products:</b>
 
-- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-laser-cut)
+- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)
 - [Make a lightswitch and socket](https://community.preciousplastic.com/how-to/make-a-lightswitch-and-socket)
 - [Make an interlocking brick](https://community.preciousplastic.com/how-to/make-an-interlocking-brick)
 - [Make a handplane - simple mould](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)

@@ -19,15 +19,15 @@ sidebar_label: Sheetpress
 <div class="videoChapters">
 <div class="videoChaptersMain">
 
-###  A key role in transforming shredded plastic into beautiful sheets.
+###  This Precious Plastic Space transforms shredded plastic into beautiful (1m x 1m) sheets.
 
-So you want to set up an Sheetpress workspace. Awesome! Your sheets can be used to create all sorts of useful, wonderful objects – or just look nice hanging on a wall 🙂
+So you want to set up an Sheetpress workspace. That's exciting right!? Your sheets can be used to create all sorts of useful, wonderful objects – or just look arty hanging on a wall 🙂
 
-Setting up a workspace can be broken down into three main steps:
+Setting up a Sheetpress workspace can be broken down into three main steps:
 
 1. <b>Search:</b> what to think about when choosing your space
-2. <b>Plan:</b> how to plan your space effectively
-3. <b>Build:</b> transforming an empty room into a injection workspace
+2. <b>Plan:</b> how to plan your space effectively to fit big machines
+3. <b>Build:</b> transforming an empty room into a Sheetpress Workspace
 
 Each of these steps is explained in more detail below.
 
@@ -47,11 +47,11 @@ Each of these steps is explained in more detail below.
 
 ## 🔍 Search
 
-The first step of setting up a workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
+The first step of setting up a Sheetpress Workspace is to find a space (duh). While searching, there are a few considerations to keep in mind.
 
-1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The injection space we designed is roughly 4 x 6 meters – you can go larger, but if you include the shredder (like ours) we wouldn’t recommend going much smaller.
+1. <b>Size:</b> It’s important to be sure that you have enough space to move around freely with your machines and tools. The Sheetpress Workspace we designed is roughly 5 x 8 meters – you can go larger, but we wouldn’t recommend going much smaller.
 
-2. <b>Electricity:</b> The Injection machine can run on single-phase, but the shredder sometimes runs on three-phase, so be sure to check the specs of the motor you plan to use when choosing your space.
+2. <b>Electricity:</b> The Sheetpress machine runs on three-phase and demands quite a it of power, so be sure to choose a space with three-phase and the following specs 400V / 32AMP /1.5KW.
 
 3. <b>Budget:</b> While making sure your space meets your functional needs, it’s also important to keep in mind how it will fit into your budget.
 
@@ -78,19 +78,17 @@ Now that your floor plan is blocked out, it’s time to transform your empty roo
 
 Start with your most essential items - Sheetpress, prep table, workbench, basic tools – then build out from there as you start to see what suits your workflow best.
 
-When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space.
-
-If what you need isn’t available secondhand, buy new or build.
+When possible, look for secondhand options to reduce the amount of new materials and resources being used to start your space. If what you need isn’t available secondhand, buy new or build it. And always strive for good quality rather than cheap.
 
 Some essential items to get you started:
 
-- Sheetpress - of course
-- Prep table – makes preparing your molds for the press safer and easier
+- Sheetpress - of course.
+- Prep table – makes preparing your moulds for the press safer and easier.
 - Shredded plastic storage containers – this might be determined by who you buy your plastic from. What’s most important is to make sure that they’re sturdy to prevent accidental spills. Clear is nice, but not required.
-- Simple mold – square frames with two steel sheets, simple and effective
-- Basic tools – scale, bucket, sliding tool, silicone oil, heat resistant gloves, timer
-- Ventilation – filter mask, ventilation hood, check out the safety video to learn more
-- Offcut container
+- Simple mold – square frames with two steel sheets, simple and effective.
+- Basic tools – scale, bucket, sliding tool, silicone oil, heat resistant gloves, timer.
+- Ventilation – filter mask, ventilation hood, check out the <a href="https://community.preciousplastic.com/academy/plastic/safety">safety video</a> to learn more.
+- Off-cuts container
 
 
 Once you’ve got your basic workspace set up, start working with the Sheetpress to develop your workflow and see what else might help you work more efficiently and comfortably.
@@ -104,6 +102,6 @@ And don’t be afraid to spice the place up with your own unique charm :) Plants
 
 ## 👋 Share
 
-You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂
+You’ve built your Sheetpress Workspace. Nice one! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space along the way. Enjoy the journey 🙂
 
 <b>Want to share feedback, chat about the Sheetpress Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>
