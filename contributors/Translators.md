@@ -42,9 +42,8 @@ If the answers to all of these are reasonably positive, then the next step would
 At the moment the languages enabled are French, Japanese and Spanish.
 
 ## Joining a translation project
-Translations are hosted by crowdin, and require an account at https://onearmy.crowdin.com/.
 
-To get an account, join the crowdin instance at https://accounts.crowdin.com/register?domain=ONEARMY
+To start translating you need to:
 
 Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
 
