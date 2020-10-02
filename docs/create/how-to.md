@@ -94,4 +94,4 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 
 Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community! Sit back, relax and feel your [karma points](https://community.preciousplastic.com/academy/universe/contribute#5-reasons-why-you-should-share-back) growing.
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>
+<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
