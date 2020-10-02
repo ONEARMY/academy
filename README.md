@@ -50,6 +50,12 @@ You can see live deployment at : https://onearmy.github.io/academy/
 
 # Translations
 We are currently testing a translation system using crowdin. 
-To contribute to translations first check the status of https://github.com/ONEARMY/academy/issues/77,
-and join the project at https://crowdin.com/project/precious-plastic-academy/invite
+The languages being translated at the moment are French, Japanese and Spanish.
+There is a lot of text to translate and there are changes often. Please make
+sure you have a team of translators before asking to enable a new language, as
+there is too much text for only one person to keep updated.
 
+To contribute to translations:
+- join the project at https://accounts.crowdin.com/register?domain=ONEARMY
+- check the status of https://github.com/ONEARMY/academy/issues/77
+- introduce yourself on the ticket or on Discord for a manager to invite you to the project.
