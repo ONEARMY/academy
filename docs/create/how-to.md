@@ -78,7 +78,7 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 
 ### 📦 Download files
 
-- Add downloadable files to support your documentation. detailed drawings, CAD-files, a material list etc.
+- Add downloadable files to support your documentation: detailed drawings, CAD-files, a material list etc.
 - Bundle all your files into 1 .zip file. Easier to share around. :)
 
 

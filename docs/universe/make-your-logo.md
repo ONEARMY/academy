@@ -27,7 +27,7 @@ The colors in the logo are used to see its [function in the Universe ](../univer
 </center>
 
 # Guideline #2 - Select the right name
-A few things to keep in mind when picking a name. Don't use your location (country, city neigberhood) unless you are a Community Point. We need multiple Precious Plastic Spaces in each local area, if you claim the location name it prevents others from using it. Location names should be used by Community Points only. They are the main point of contact for new members in your area. Any other name can be used though. In general we recommend to use a short name, fits better and easy to remember.
+A few things to keep in mind when picking a name. Don't use your location (country, city neigberhood) unless you are a Community Point. We need multiple Precious Plastic Spaces in each local area, if you claim the location name it prevents others from using it. Location names should be used by Community Points only. They are the main point of contact for new members in your area. Any other name can be used though. In general we recommend to use a short name: fits better and is easy to remember.
 
 <img src="../assets/universe/logo-name.jpg"/>
 
@@ -52,11 +52,11 @@ Below a few examples that stick to the guideliness and some that are not. Good l
 # Let's make your logo!
 We provide 2 options to make your own logo. For both you need to install the Precious Plastic fonts. Make sure to keep the above guidelines in mind and if if you need help you can ask around in our [#Universe](https://discordapp.com/invite/QUw8A3w) channel in Discord.
 
-1. **The oldschool way:** Download al the files and templates from the [download-kit](../download). You can use your own software to modify. Photoshop, Illustarter, GIMP, Sketch, paint. Whatever gets you going.
+1. **The oldschool way:** Download al the files and templates from the [download-kit](../download). You can use your own software to modify. Photoshop, Illustrator, GIMP, Sketch, paint. Whatever gets you going.
 
 2. **The new way:** Use Figma, a free online tool. We like to use it at Precious Plastic to create graphic assets.
 It's free and Multi-platform (Windows, Mac and even Linux) which makes it a great tool to collaborate.<br>
-2.1 - You need to create your on account. Go to www.figma.com and click on Sign up (top-right corner).You can either download the [desktop app](https://www.figma.com/downloads/) or use it directly in your browser. If you choose the second option, then you need to install the [Font Installer](https://www.figma.com/downloads/) to use the custom Precious Plastic font within the software.<br>
+2.1 - You need to create your own account. Go to www.figma.com and click on Sign up (top-right corner). You can either download the [desktop app](https://www.figma.com/downloads/) or use it directly in your browser. If you choose the second option, then you need to install the [Font Installer](https://www.figma.com/downloads/) to use the custom Precious Plastic font within the software.<br>
 2.2 - If you want to learn more about Figma and how to use the editor you can watch [this video.](https://youtu.be/DSrbwCrEIII)<br>
 2.3 - Once it's done, we're ready to create your logo. Follow this link:<br>
 https://www.figma.com/file/YpkQ9zzWMLS1R47pJcKBxJ/Logo-Generator.<br>
