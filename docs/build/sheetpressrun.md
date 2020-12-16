@@ -128,7 +128,7 @@ Use a trowel to scrape any remiant material from the heating plates. You may nee
 <b>Check oil in jacks</b><br>
 Bleed and replace the oil in the jacks.
 
-<b>Check electronics</b><br>
+<b>Check electronics </b><br>
 Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check.
 Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged.
 Re paint worn areas
