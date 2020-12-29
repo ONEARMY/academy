@@ -22,7 +22,7 @@ sidebar_label: Business Plan Template
 
 ### Telling the story of your business or project
 
-The Business Plan template has two purposes: firstly, to clarify the idea for your and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
+The Business Plan template has two purposes: firstly, to clarify the idea for you and for your team, and secondly to communicate this idea clearly to potential funding and/or partners. This can be useful for grant applications, preparation for a bank loan or perhaps to take to an investor.
 
 This template is an easy to follow framework for your business plan and consists of different sections to work through everything you need to get started, and to build your case as to why someone should be contributing to your business. The outline is below, but don’t worry if you don’t know what some of these are, Joseph is here to take you through bit by bit.
 
