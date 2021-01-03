@@ -82,7 +82,7 @@ Products made with the injection machine:
 
 Recycling plastic is often a long and energy intense process what makes the material a very valuable resource. Here are some guiding principles you can follow through your design process and use as a check marks to know you are making the most out of this material: 
 
-- Optimize the amount of material do you use in your design, use thin but strong walls to make hollow pieces. Plastic can be really strong when formed into the right shape.
+- Optimize the amount of material you use in your design, use thin but strong walls to make hollow pieces. Plastic can be really strong when formed into the right shape.
 
 - Be mindful of the steps involved in your production process: try to think strategically about the amount of time & energy involved in each step and design an efficient and productive manufacturing line, without compromising quality or sustainability. 
 
@@ -165,7 +165,7 @@ These are the type of design decisions you would consider before you go into pro
 - [Build brick structures](https://community.preciousplastic.com/how-to/build-brick-structures)
 - [Make a bench with beams](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)
 - [Make a lamp with beams](https://community.preciousplastic.com/how-to/make-a-lamp-with-beams)
-- [Created an extruded lamp](https://community.preciousplastic.com/how-to/create-an-extruded-lamp)
+- [Create an extruded lamp](https://community.preciousplastic.com/how-to/create-an-extruded-lamp)
 
 ## The Sheetpress
 
@@ -248,7 +248,7 @@ This machine will allow you to be versatile with your production because all you
 
 When designing products to be produced with the Precious Plastic machines, your best resource will be the How-To’s! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channel below because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing.. everything to create precious objects!</b>
+<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
 
 
 
