@@ -15,7 +15,7 @@ sidebar_label: Universe explained
 
 # How the Universe works
 
-Hmm yes.. this is a bit of a tough question. Maybe its better to start with our own little one. The Precious Plastic Universe. How this this work, what are the roles and guidelines, how can we help etc. The universe is setup to be a big global ecosystem, people around the world collaborating on plastic recycling. In order to do this properly we need different people and different expertise. So within the universe there are different roles to choose, some more technical, some more social. Below an overview of the roles we currently have.
+Hmm yes.. this is a bit of a tough question. Maybe its better to start with our own little one. The Precious Plastic Universe. How does this work, what are the roles and guidelines, how can we help etc. The universe is setup to be a big global ecosystem, people around the world collaborating on plastic recycling. In order to do this properly we need different people and different expertise. So within the universe there are different roles to choose, some more technical, some more social. Below an overview of the roles we currently have.
 
 
 
@@ -40,7 +40,7 @@ It's hard to say how many recycling Spaces you need in your local region. It dep
 <img src="../assets/universe/number-spaces.jpg"/>
 
 
-# Start you Space in the Universe
+# Start your Space in the Universe
 
 There are a few things to take in account when setting up a Space.
 
