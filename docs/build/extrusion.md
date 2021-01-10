@@ -166,8 +166,8 @@ User Friendly |
 - [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
 - [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
 - [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: Shelf](https://community.preciousplastic.com/how-to/build-a-shelving-system)<br>
-- [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)<br>
+- [How-to: Shelf](https://community.preciousplastic.com/how-to/make-a-shelf-with-sheets--beams)<br>
+- [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glass-like-beams)<br>
 
 
 
