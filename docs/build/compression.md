@@ -123,7 +123,7 @@ The compression is simple to understand and very powerful if properly mastered. 
 ### Cooldown
 1. Clean the inside of the oven from molten plastic.
 2. Tips & tricks while using
-3. It is advisable to heat up the plastic rst until melted and then apply pressure.
+3. It is advisable to heat up the plastic until melted and then apply pressure.
 4. Don’t be hasty, make sure the plastic is fully melted in the mould.
 
 # 🔓 Troubleshooting
