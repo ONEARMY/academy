@@ -93,6 +93,10 @@
         "title": "Image Size Guidelines",
         "sidebar_label": "Image Size Guidelines"
       },
+      "business/International_Shipping": {
+        "title": "International Shipping",
+        "sidebar_label": "International Shipping"
+      },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
         "sidebar_label": "Workspace Calculator"
