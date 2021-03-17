@@ -11,7 +11,7 @@ The plastic problem can only be tackled by a strong, united movement of people a
 
 Precious Plastic can do a lot to help Precious Plastic Spaces around the world. Likewise, Precious Plastic Spaces around the world can do a lot to help grow Precious Plastic. The stronger Precious Plastic (the movement), the stronger Precious Plastic Spaces, the greater the impact on plastic pollution.
 
-The more you help Precious Plastic the more Precious Plastic will help you
+<b>The more you help Precious Plastic the more Precious Plastic will help you<b>
 
 
 <script async src="{embedSrc}"></script>
