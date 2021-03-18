@@ -14,7 +14,7 @@ Precious Plastic can do a lot to help Precious Plastic Spaces around the world. 
 <b>The more you help Precious Plastic the more Precious Plastic will help you</b>
 
 
-<script async src="{embedSrc}"></script>
+<iframe width="100%" height="300" src="//jsfiddle.net/davehakkens/gr4pndtc/94/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 
 
