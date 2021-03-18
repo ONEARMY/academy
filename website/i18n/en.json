@@ -133,6 +133,14 @@
         "title": "Download",
         "sidebar_label": "Download-Kit"
       },
+      "guides/research": {
+        "title": "Research module Guide",
+        "sidebar_label": "Hello! 🤙"
+      },
+      "guides/stars": {
+        "title": "Star Program",
+        "sidebar_label": "Hello! 🤙"
+      },
       "intro": {
         "title": "Intro",
         "sidebar_label": "Hello! 🤙"

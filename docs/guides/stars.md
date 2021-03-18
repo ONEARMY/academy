@@ -13,11 +13,7 @@ Precious Plastic can do a lot to help Precious Plastic Spaces around the world. 
 
 <b>The more you help Precious Plastic the more Precious Plastic will help you</b>
 
-
-<iframe width="100%" height="600" src="//jsfiddle.net/davehakkens/f5gknozs/1/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-
-
-
+<iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ###  What Precious Plastic can do for Spaces
 Precious Plastic already provides all the tools and platforms for free for the world to use. On top of that Precious Plastic can help Spaces around the world by featuring them in its communication channels (100K+ combined), feature them in sales channels (IG store, Bazar and more), and finally opening up partnership opportunities.
