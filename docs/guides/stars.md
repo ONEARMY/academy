@@ -1,7 +1,7 @@
 ---
-id: Community Program
+id: stars
 title: Community Program
-sidebar_label: Hello! 🤙
+sidebar_label: Community Program
 ---
 # Community Program
 
@@ -15,11 +15,11 @@ Precious Plastic can does and can do a lot to help Precious Plastic Spaces aroun
 
 
 ###  What Precious Plastic can do for Spaces
-Precious Plastic already provides all the tools and platforms for free for the world to use. On top of that Precious Plastic can help Spaces around the world by featuring them in its communication channels (100K+ combined), feature them in sales channels (IG store, Bazar and more), and finally opening up partnership opportunities. 
+Precious Plastic already provides all the tools and platforms for free for the world to use. On top of that Precious Plastic can help Spaces around the world by featuring them in its communication channels (100K+ combined), feature them in sales channels (IG store, Bazar and more), and finally opening up partnership opportunities.
 
 
 ###  What Spaces can do for Precious Plastic
-Precious Plastic Spaces can greatly help Precious Plastic by crediting and mentioning they’re part of Precious Plastic on their websites, social media and communication. This way more people can come across Precious Plastic and grow the movement. Sharing back your knowledge is also much appreciated and helpful. 
+Precious Plastic Spaces can greatly help Precious Plastic by crediting and mentioning they’re part of Precious Plastic on their websites, social media and communication. This way more people can come across Precious Plastic and grow the movement. Sharing back your knowledge is also much appreciated and helpful.
 
 
 ### Welcome to the Precious Plastic Community Program

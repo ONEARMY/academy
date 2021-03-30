@@ -1,5 +1,5 @@
 ---
-id: Community Platform Guidelines
+id: platform
 title: Community Platform Guidelines
 sidebar_label: Guidelines CP
 ---
