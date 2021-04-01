@@ -53,4 +53,8 @@ Ally Spaces can become Verified by getting most/all stars on the Ally Checklist 
 --- | --- | ---
 Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified Badge, plus ongoing communication, sales and partnerships.
 
+
+#### Ally Checklist
+The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become and Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
+
 <iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
