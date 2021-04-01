@@ -3,7 +3,8 @@ id: stars
 title: Community Program
 sidebar_label: Community Program
 ---
-![community-programm-cover](https://user-images.githubusercontent.com/17761877/113267258-6a5bf480-92d6-11eb-90df-b7e950d9a437.jpg)
+![community-programm-cover](https://user-images.githubusercontent.com/17761877/113297730-4959ca80-92fb-11eb-802d-6a02f61ff471.jpg)
+
 
 # Community Program
 
