@@ -3,8 +3,9 @@ id: stars
 title: Community Program
 sidebar_label: Community Program
 ---
-# Community Program
+![community-programm-cover](https://user-images.githubusercontent.com/17761877/113267258-6a5bf480-92d6-11eb-90df-b7e950d9a437.jpg)
 
+# Community Program
 
 ### Working together to tackle the plastic waste problem
 The plastic problem is big. At Precious Plastic we believ that it can only be tackled by a strong, united movement of people and projects collaborating together.
