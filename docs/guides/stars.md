@@ -32,6 +32,9 @@ The Community Program aims to help and reward the people and projects contributi
 #### Member/Space
 Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is not to spam :)
 
+🚩 Type | 🤝 Requirements | 💫 Unlocks
+--- | --- | ---
+💎 Member | Don’t spam | Post how-to, useful, and (soon) comment and have a profile
 
 #### Ally
 Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the Ally Checklist. A Ally Spaces can create a pin on the map. Ally Spaces are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
