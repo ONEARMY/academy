@@ -8,9 +8,9 @@ sidebar_label: Community Program
 # Community Program
 
 ### Working together to tackle the plastic waste problem
-The plastic problem is big. At Precious Plastic we believ that it can only be tackled by a strong, united movement of people and projects collaborating together.
+The plastic problem is big. At Precious Plastic we believe that it can only be tackled by a strong, united movement of people and projects collaborating together.
 
-Precious Plastic can does and can do a lot to help Precious Plastic Spaces around the world. Likewise, Precious Plastic Spaces around the world can do a lot to help grow the Precious Plastic movement. The stronger Precious Plastic (the movement), the stronger Precious Plastic Spaces, the greater the impact on plastic pollution.
+Precious Plastic can do a lot to help Precious Plastic Spaces around the world. Likewise, Precious Plastic Spaces around the world can do a lot to help grow the Precious Plastic movement. The stronger Precious Plastic (the movement), the stronger Precious Plastic Spaces, the greater the impact on plastic pollution.
 
 🤜 <b>The more you help Precious Plastic the more Precious Plastic will help you!</b> 🤛
 
@@ -30,15 +30,15 @@ The Community Program aims to help and reward the people and projects contributi
 
 
 #### Member/Space
-Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is not to spam :)
+Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is to be nice and not to spam :)
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
-Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment
+Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment.
 
 
 #### Ally
-Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the Ally Checklist. A Ally Spaces can create a pin on the map. Ally Spaces are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
+Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show). An Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
