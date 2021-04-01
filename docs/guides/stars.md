@@ -42,12 +42,15 @@ Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Commun
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
-Ally | Collect at least 6 stars in the Ally Checklist | Create a pin on the map, Eligible for: communication, sales, partnerships, become Verified.
+Ally | Collect at least 6 stars in the Ally Checklist | Create a pin on the map and be eligible for: communication, sales, partnerships, become Verified.
 
 
 
 #### Verified
 Ally Spaces can become Verified by getting most/all stars on the Ally Checklist and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
 
+🚩 Type | 🤝 Requirements | 💫 Unlocks
+--- | --- | ---
+Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified Badge, plus ongoing communication, sales and partnerships.
 
 <iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
