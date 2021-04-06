@@ -60,10 +60,10 @@ Anyone can become a Member or a Space on the Precious Plastic Community Platform
 Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below). Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+ combined) and the upcoming IG store.
 
 **Verified**<br>
-Ally Spaces can become Verified by getting most/all stars on the Ally Checklist and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
+Ally Spaces can become Verified by getting most/all stars on the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
 
 <br>
-# Ally Checklist
-The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become and Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
+# ✅ Ally Checklist
+The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become an Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
 
 <iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
