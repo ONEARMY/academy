@@ -29,13 +29,16 @@ The Community Program aims to help and reward the people and projects contributi
 
 ![pp-members](https://user-images.githubusercontent.com/17761877/113016382-b6942100-917e-11eb-8abd-f51629019c8c.jpg)
 
+🚩 Type | 🤝 Requirements | 💫 Unlocks
+--- | --- | ---
+
+![map-member](https://user-images.githubusercontent.com/17761877/113723973-2c096f80-96f2-11eb-9f91-b5511e267651.png)
+Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment.
 
 #### Member/Space
 Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is to be nice and not to spam :)
 
-🚩 Type | 🤝 Requirements | 💫 Unlocks
---- | --- | ---
-Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment.
+
 
 
 #### Ally
