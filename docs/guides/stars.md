@@ -39,7 +39,7 @@ Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful 
 
 
 #### Ally
-Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show). An Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
+Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below). Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
