@@ -13,7 +13,7 @@ The plastic problem is big. At Precious Plastic we believe that it can only be t
 Precious Plastic can do a lot to help Precious Plastic Spaces around the world. Likewise, Precious Plastic Spaces around the world can do a lot to help grow the Precious Plastic movement. The stronger Precious Plastic (the movement), the stronger Precious Plastic Spaces, the greater the impact on plastic pollution.
 
 
-> ## <b>The more you help Precious Plastic the more Precious Plastic will help you!</b> 🤜 🤛
+> #### <b>The more you help Precious Plastic the more Precious Plastic will help you!</b> 🤜 🤛
 
 
 ##  💎 What Precious Plastic can do for Spaces
