@@ -27,9 +27,9 @@ Precious Plastic Spaces can greatly help Precious Plastic by crediting and menti
 # Welcome to the Precious Plastic Community Program
 The Community Program aims to help and reward the people and projects contributing the most to grow the Precious Plastic movement. There are different levels, requirements and rewards. Have a dig below to understand how you can be part of it.
 
-🚩 Type style="margin-left: 0;" | 🤝 Requirements style="margin-left: 0;" | 💫 Unlocks style="margin-left: 0;"
+🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
-<img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="50px"/> <img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="50px"/> <br> Member/Space | - Be nice <br> - Don’t spam | - Create a profile<br> - Post how-to<br> - Useful<br> - Comment (soon).
+<img style="margin-left: 0;" src="../assets/build/all-spaces.png" width="50px"/> <img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="50px"/> <br> Member/Space | - Be nice <br> - Don’t spam | - Create a profile<br> - Post how-to<br> - Useful<br> - Comment (soon).
 Ally | - All of the above<br> - Collect at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) | - Create a pin on the map<br> - Eligible for: communication, sales and partnerships<br> - Become Verified profile
 Verified | - Collect most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below)<br> - Top quality work | - Verified badge<br> - Ongoing communication and sales oppoertunities<br> - Eligible for partnerships
 
