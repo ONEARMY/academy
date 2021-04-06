@@ -24,7 +24,7 @@ Precious Plastic already provides all the tools and platforms for free for the w
 Precious Plastic Spaces can greatly help Precious Plastic by crediting and mentioning they’re part of Precious Plastic on their websites, social media and communication. This way more people can come across Precious Plastic and grow the movement. Sharing back your knowledge is also much appreciated and helpful.
 
 
-### Welcome to the Precious Plastic Community Program
+# Welcome to the Precious Plastic Community Program
 The Community Program aims to help and reward the people and projects contributing the most to grow the Precious Plastic movement. There are different levels, requirements and rewards. Have a dig below to understand how you can be part of it.
 
 ![pp-members](https://user-images.githubusercontent.com/17761877/113016382-b6942100-917e-11eb-8abd-f51629019c8c.jpg)
@@ -55,7 +55,7 @@ Ally Spaces can become Verified by getting most/all stars on the Ally Checklist 
 Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified badge plus ongoing: communication, sales and partnerships.
 
 
-#### Ally Checklist
+## Ally Checklist
 The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become and Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
 
 <iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
