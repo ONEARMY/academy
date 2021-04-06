@@ -63,7 +63,7 @@ Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Commun
 Ally Spaces can become Verified by getting most/all stars on the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
 
 <br>
-#  ✅ Ally Checklist
+# Ally Checklist ✅
 The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become an Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
 
 <iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
