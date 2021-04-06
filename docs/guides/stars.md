@@ -5,6 +5,12 @@ sidebar_label: Community Program
 ---
 ![community-programm-cover](https://user-images.githubusercontent.com/17761877/113297730-4959ca80-92fb-11eb-802d-6a02f61ff471.jpg)
 
+<style>
+:root {
+  --highlight: #b79ecb;
+  --hover: #b79ecb;
+}
+</style>
 
 # Welcome to the Precious Plastic Community Program
 
