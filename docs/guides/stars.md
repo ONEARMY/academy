@@ -10,9 +10,10 @@ sidebar_label: Community Program
 #### Working together to tackle the plastic waste problem
 The plastic problem is big. At Precious Plastic we believe that it can only be tackled by a strong, united movement of people and projects collaborating together.
 
-> ## <b>The more you help Precious Plastic the more Precious Plastic will help you!</b> 🤜 🤛
-
 Precious Plastic can do a lot to help Precious Plastic Spaces around the world. Likewise, Precious Plastic Spaces around the world can do a lot to help grow the Precious Plastic movement. The stronger Precious Plastic (the movement), the stronger Precious Plastic Spaces, the greater the impact on plastic pollution.
+
+
+> ## <b>The more you help Precious Plastic the more Precious Plastic will help you!</b> 🤜 🤛
 
 
 ##  💎 What Precious Plastic can do for Spaces
