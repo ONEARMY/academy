@@ -36,31 +36,21 @@ Build Extrusion  | Machines needed | Skills needed
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
+Member/Space | - Be nice <br> - Don’t spam | - Create a profile<br> - Post how-to<br> - Useful<br> - Comment (soon).
+Ally | Collect at least 6 stars in the Ally Checklist | Create a pin on the map plus be eligible for: communication, sales, partnerships, become Verified.
+Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified badge plus ongoing: communication, sales and partnerships.
 
-<img style="margin-left: 0;" src="https://user-images.githubusercontent.com/17761877/113723973-2c096f80-96f2-11eb-9f91-b5511e267651.png" width="100"/>
-Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment.
 
 #### Member/Space
 Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is to be nice and not to spam :)
 
 
-
-
 #### Ally
 Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below). Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
-
-🚩 Type | 🤝 Requirements | 💫 Unlocks
---- | --- | ---
-Ally | Collect at least 6 stars in the Ally Checklist | Create a pin on the map plus be eligible for: communication, sales, partnerships, become Verified.
-
 
 
 #### Verified
 Ally Spaces can become Verified by getting most/all stars on the Ally Checklist and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
-
-🚩 Type | 🤝 Requirements | 💫 Unlocks
---- | --- | ---
-Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified badge plus ongoing: communication, sales and partnerships.
 
 
 ## Ally Checklist
