@@ -6,7 +6,7 @@ sidebar_label: Community Program
 ![community-programm-cover](https://user-images.githubusercontent.com/17761877/113297730-4959ca80-92fb-11eb-802d-6a02f61ff471.jpg)
 
 
-# Community Program
+# Welcome to the Precious Plastic Community Program
 
 ### Working together to tackle the plastic waste problem
 The plastic problem is big. At Precious Plastic we believe that it can only be tackled by a strong, united movement of people and projects collaborating together.
@@ -24,14 +24,14 @@ Precious Plastic already provides all the tools and platforms for free for the w
 Precious Plastic Spaces can greatly help Precious Plastic by crediting and mentioning they’re part of Precious Plastic on their websites, social media and communication. This way more people can come across Precious Plastic and grow the movement. Sharing back your knowledge is also much appreciated and helpful.
 
 
-# Welcome to the Precious Plastic Community Program
+# How does it work
 The Community Program aims to help and reward the people and projects contributing the most to grow the Precious Plastic movement. There are different levels, requirements and rewards. Have a dig below to understand how you can be part of it.
 
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
 <b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful<br>- Comment (soon)
 <b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)|- Create a pin on the map<br>- Eligible for: communication, sales and partnerships<br>- Eligible to become Verified profile
-<b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/verified-icon.png" width="200px"/> |- Get most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)<br>- Top quality work |- Verified badge<br>- Ongoing communication and sales oppoertunities<br>- Eligible for partnerships
+<b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/verified-icon.png" width="200px"/> |- All of the above<br>- Get most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)<br>- Top quality work |- Verified badge<br>- Ongoing communication and sales oppoertunities<br>- Eligible for partnerships
 
 
 #### Member/Space
