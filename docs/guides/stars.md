@@ -51,7 +51,6 @@ The Community Program aims to help and reward the people and projects contributi
 
 <br>
 <br>
-<br>
 
 **Member/Space**<br>
 Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is to be nice and not to spam :)
