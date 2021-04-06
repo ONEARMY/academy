@@ -29,10 +29,15 @@ The Community Program aims to help and reward the people and projects contributi
 
 ![pp-members](https://user-images.githubusercontent.com/17761877/113016382-b6942100-917e-11eb-8abd-f51629019c8c.jpg)
 
+Build Extrusion  | Machines needed | Skills needed
+--- | ---| ---
+<img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
+
+
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
 
-![map-member](https://user-images.githubusercontent.com/17761877/113723973-2c096f80-96f2-11eb-9f91-b5511e267651.png)
+<img style="margin-left: 0;" src="https://user-images.githubusercontent.com/17761877/113723973-2c096f80-96f2-11eb-9f91-b5511e267651.png" width="100"/>
 Member/Space | Be nice and don’t spam | Create a profile, post how-to, useful and (soon) comment.
 
 #### Member/Space
