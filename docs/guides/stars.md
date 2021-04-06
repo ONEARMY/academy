@@ -30,7 +30,7 @@ The Community Program aims to help and reward the people and projects contributi
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
 <img style="margin-left: 0;" src="../assets/build/all-spaces.png" width="200px"/> <br> Member/Space | - Be nice <br> - Don’t spam | - Create a profile<br> - Post how-to<br> - Useful<br> - Comment (soon).
-Ally | - All of the above<br> - Collect at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) | - Create a pin on the map<br> - Eligible for: communication, sales and partnerships<br> - Become Verified profile
+<img style="margin-left: 0;" src="../assets/build/all-spaces-no-member.png" width="200px"/> <br> Ally | - All of the above<br> - Collect at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) | - Create a pin on the map<br> - Eligible for: communication, sales and partnerships<br> - Become Verified profile
 Verified | - Collect most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below)<br> - Top quality work | - Verified badge<br> - Ongoing communication and sales oppoertunities<br> - Eligible for partnerships
 
 
