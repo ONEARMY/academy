@@ -23,6 +23,9 @@ Precious Plastic already provides all the tools and platforms for free for the w
 - Feature Spaces in the upcoming IG Shopping driving sales
 - Collaborate on projects and partneships with Spaces
 
+![Precious Plastic can do for spaces](https://user-images.githubusercontent.com/17761877/113735716-cd95be80-96fc-11eb-906f-a080db811974.jpg)
+
+
 
 ##  🎁 What Spaces can do for Precious Plastic
 Precious Plastic Spaces can greatly help Precious Plastic by crediting and mentioning they’re part of Precious Plastic, this way more people can come across Precious Plastic and grow the movement. Amongst other things Spaces can:
