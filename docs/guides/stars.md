@@ -45,15 +45,12 @@ The Community Program aims to help and reward the people and projects contributi
 <b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/verified-icon.png" width="200px"/> |- All of the above<br>- Get most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)<br>- Top quality work |- Verified badge<br>- Ongoing communication and sales oppoertunities<br>- Eligible for partnerships
 
 
-<img style="margin-left: 0;" src="../assets/build/all-spaces.png" width="200px"/><br>
 #### Member/Space
 Anyone can become a Member or a Space on the Precious Plastic Community Platform. As a Member or Space you can create your profile, post how-tos, useful things and (soon) comment. The only thing we’re asking you in return is to be nice and not to spam :)
 
-<img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/><br>
 #### Ally
 Precious Plastic Spaces (Workspace, Machine Builder, Collection Point and Community Point) can become an Ally Space by getting at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below). Ally Spaces can create a pin on the map plus they are eligible to be featured in Precious Plastic communication channels (100k+) and the upcoming IG store.
 
-<img style="margin-left: 0;" src="../assets/build/verified-icon.png" width="200px"/>
 #### Verified
 Ally Spaces can become Verified by getting most/all stars on the Ally Checklist and by creating top quality work. This is still very subjective and is a way for Precious Plastic to highlight greatest Spaces out there. Verified Spaces will receive ongoing promotion, communication and sales opportunities on Precious Plastic channels, client partnerships and the VERIFIED badge on their profile and map pin. Yay 👻
 
