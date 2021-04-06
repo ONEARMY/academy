@@ -27,18 +27,11 @@ Precious Plastic Spaces can greatly help Precious Plastic by crediting and menti
 # Welcome to the Precious Plastic Community Program
 The Community Program aims to help and reward the people and projects contributing the most to grow the Precious Plastic movement. There are different levels, requirements and rewards. Have a dig below to understand how you can be part of it.
 
-![pp-members](https://user-images.githubusercontent.com/17761877/113016382-b6942100-917e-11eb-8abd-f51629019c8c.jpg)
-
-Build Extrusion  | Machines needed | Skills needed
---- | ---| ---
-<img style="margin-left: 0;" src="../assets/build/thumb-extrusion.jpg" width="100"/>  | - Drill press <br> - Welding machine (not specific) <br> - Angle grinder | - Welding (intermediate) <br> - Assembling (intermediate) <br> - Electronics (intermediate)
-
-
 🚩 Type | 🤝 Requirements | 💫 Unlocks
 --- | --- | ---
 Member/Space | - Be nice <br> - Don’t spam | - Create a profile<br> - Post how-to<br> - Useful<br> - Comment (soon).
-Ally | Collect at least 6 stars in the Ally Checklist | Create a pin on the map plus be eligible for: communication, sales, partnerships, become Verified.
-Verified | Collect most/all stars in the Ally Checklist + top quality work | Verified badge plus ongoing: communication, sales and partnerships.
+Ally | - All of the above<br> - Collect at least 6 stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below) | - Create a pin on the map<br> - Eligible for: communication, sales and partnerships<br> - Become Verified profile
+Verified | - Collect most/all stars in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)(below)<br> - Top quality work | - Verified badge<br> - Ongoing communication and sales oppoertunities<br> - Eligible for partnerships
 
 
 #### Member/Space
