@@ -35,7 +35,9 @@ Precious Plastic Spaces can greatly help Precious Plastic by crediting and menti
 - Use our logo generator
 - Create how-tos sharing back knowledge with the community
 
-![bope mentioning](https://user-images.githubusercontent.com/17761877/113733504-d1c0dc80-96fa-11eb-9db1-6a08d082cfec.jpg)
+
+![Precious Plastic mention](https://user-images.githubusercontent.com/17761877/114057728-1bdcc600-9893-11eb-9cae-904e0175c03d.jpg)
+
 
 <br>
 <br>
