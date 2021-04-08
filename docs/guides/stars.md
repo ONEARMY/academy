@@ -42,7 +42,7 @@ Precious Plastic Spaces can greatly help Precious Plastic by crediting and menti
 <br>
 # How does it work?
 The Community Program aims to help and reward the people and projects contributing the most to grow the Precious Plastic movement. There are different levels, requirements and rewards. Have a dig below to understand how you can be part of it.
-<br>
+
 🚩 Type | 🤝 Requirements | 💫 Rewards
 --- | --- | ---
 <b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful things<br>- Comment (soon)
