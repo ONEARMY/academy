@@ -54,4 +54,4 @@ The Community Program aims to help and reward the people and projects contributi
 # Ally Checklist ✅
 The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become an Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
 
-<iframe width="600px" height="950px" src="//jsfiddle.net/davehakkens/f5gknozs/35/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="600px" height="950px" src="//jsfiddle.net/PreciousPlastic/xubr3gLz/embed/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
