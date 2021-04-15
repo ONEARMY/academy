@@ -135,11 +135,15 @@
       },
       "guides/research": {
         "title": "Research module Guide",
-        "sidebar_label": "Hello! 🤙"
+        "sidebar_label": "Research"
       },
-      "guides/stars": {
-        "title": "Star Program",
-        "sidebar_label": "Hello! 🤙"
+      "guides/platform": {
+        "title": "Community Platform Guidelines",
+        "sidebar_label": "Guidelines CP"
+      },
+      "guides/community-program": {
+        "title": "Community Program",
+        "sidebar_label": "Community Program"
       },
       "intro": {
         "title": "Intro",

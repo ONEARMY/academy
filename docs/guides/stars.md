@@ -1,5 +1,5 @@
 ---
-id: stars
+id: community-program
 title: Community Program
 sidebar_label: Community Program
 ---
@@ -46,12 +46,12 @@ The Community Program aims to help and reward the people and projects contributi
 🚩 Type | 🤝 Requirements | 💫 Rewards
 --- | --- | ---
 <b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful things<br>- Comment (soon)
-<b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](https://jsfiddle.net/davehakkens/gr4pndtc/94/show)|- Create a pin on the map<br>- Eligible for communication and sales<br>- Eligible to become a Verified profile
+<b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](#ally-checklist-)|- Create a pin on the map<br>- Eligible for communication and sales<br>- Eligible to become a Verified profile
 <b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-verified.png" width="200px"/> |- All of the above<br>- Top quality work |- Verified badge<br>- Ongoing communication<br> - Sales opportunities<br>- Eligible for collaborations
 
 <br>
 <br>
 # Ally Checklist ✅
-The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become an Ally and Verified you need at the very least 6 stars in the Ally Checlist. How are you scoring? Check below!
+The Ally Checklist is a list of things any Space out there can do to help push the Precious Plastic movement. It also helps us to see which Spaces are contributing the most to grow the movement. The more a Space helps Precious Plastic, the more Precious Plastic will help the Space. To become an Ally and Verified you need at the very least 6 stars in the Ally Checklist. How are you scoring? Check below!
 
-<iframe width="600px" height="1050px" src="//jsfiddle.net/PreciousPlastic/xubr3gLz/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<iframe width="600px" height="1050px" src="//jsfiddle.net/PreciousPlastic/xubr3gLz/11/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
