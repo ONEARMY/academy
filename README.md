@@ -47,3 +47,5 @@ The site is configured to automatically build whenever changes are made to the m
 
 You can view build status at https://travis-ci.org/onearmy/academy  
 You can see live deployment at : https://onearmy.github.io/academy/
+
+Additionally all PRs will have a live preview link created, which can be viewed on the github PR thread.
