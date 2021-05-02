@@ -4,12 +4,14 @@ title: Machine Inventory
 sidebar_label: Research
 ---
 
-# What is our machine inventory?
+# Machine inventory guidelines
+
+## What is our inventory?
 - in our inventory we keep track of machines made by us and Community
 - Overview where we stick to certain rules
 - Explore machines and share back
 
-# Rating
+## Rating
 
 Rating is introduced to make sure we can see at which stage drawings are. To make sure the once that have been running for a while withstand time score a high rating and new drawings need to go to a verification process.
 
@@ -22,8 +24,8 @@ Rating is introduced to make sure we can see at which stage drawings are. To mak
 
 
 
-# Difficulty
-Difficulty levels is to indicate how complex the tooling is needed to make the machines. This will give a better understanding upfront of the complexity you are going into. They are divided into 5 different levels. 
+## Difficulty
+Difficulty levels is to indicate how complex the tooling is needed to make the machines. This will give a better understanding upfront of the complexity you are going into. They are divided into 5 different levels.
 
 | Difficulty level |             |
 |---------|------------|
@@ -34,7 +36,7 @@ Difficulty levels is to indicate how complex the tooling is needed to make the m
 | Level 5 | Same as above + steel milling / pneumatic or hydraulic system
 
 
-# Drawing Guidelines
+## Drawing Guidelines
 - use solidworks
 - make pdf
 - use this kind of naming
