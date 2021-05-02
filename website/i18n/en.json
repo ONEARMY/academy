@@ -137,6 +137,10 @@
         "title": "Research module Guide",
         "sidebar_label": "Research"
       },
+      "guides/machine-inventory": {
+        "title": "Machine Inventory",
+        "sidebar_label": "Research"
+      },
       "guides/platform": {
         "title": "Community Platform Guidelines",
         "sidebar_label": "Guidelines CP"
