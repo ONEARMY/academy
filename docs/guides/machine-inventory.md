@@ -4,7 +4,7 @@ title: Machine Inventory
 sidebar_label: Research
 ---
 
-# Machine inventory guidelines
+# Machine inventory guidelines (DRAFT)
 
 ## What is our inventory?
 - in our inventory we keep track of machines made by us and Community
@@ -15,25 +15,26 @@ sidebar_label: Research
 
 Rating is introduced to make sure we can see at which stage drawings are. To make sure the once that have been running for a while withstand time score a high rating and new drawings need to go to a verification process.
 
-| Rating |             |
+| Rating |  Description           |
 |---------|------------|
-| ⭐️ |   The drawings are uploaded according to our guidelines (below)          |
-| ⭐️⭐️|  Same as above + the drawings are also positivly reviewed by us        |
-| ⭐️⭐️|  Same as above + we tested tested the machine in real life and it works good.    |
-| ⭐️⭐️⭐️|  Same as above + we and other community members used the machines for a long period of time and it works well    |
+| <img src="../assets/guides/opensource_01.png" width="50px"/> |   **Not Open Source** <br> The drawings of this machine are not shared Open Source.          |
+| <img src="../assets/guides/opensource_02.png" width="50px"/> |  **Open Source** <br>  The drawings are uploaded according to our guidelines (below)          |
+| <img src="../assets/guides/opensource_03.png" width="50px"/> |  **Reviewed** <br>  Same as above + the drawings are also positivly reviewed by us        |
+| <img src="../assets/guides/opensource_04.png" width="50px"/> |  **Tested** <br> Same as above + we tested tested the machine in real life and it works good.    |
+| <img src="../assets/guides/opensource_05.png" width="50px"/> |  **Quality** <br>  + we and other community members used the machines for a long period of time and it works well    |
 
 
 
 ## Difficulty
 Difficulty levels is to indicate how complex the tooling is needed to make the machines. This will give a better understanding upfront of the complexity you are going into. They are divided into 5 different levels.
 
-| Difficulty level |             |
+| Difficulty level |        Description     |
 |---------|------------|
-| Level 1 | Only grinder / drill / welding
-| Level 2 | Same as above + lasercut / heating element cabling
-| Level 3 | Same as above + lathe work / motor cabling
-| Level 4 | Same as above + milling / multiple axis lathe work / VFD
-| Level 5 | Same as above + steel milling / pneumatic or hydraulic system
+| <img src="../assets/guides/level_1.png" width="50px"/> | **Level 1** <br>  Only grinder / drill / welding
+| <img src="../assets/guides/level_2.png" width="50px"/> | **Level 2** <br> Same as above + lasercut / heating element cabling
+| <img src="../assets/guides/level_3.png" width="50px"/> | **Level 3** <br> Same as above + lathe work / motor cabling
+| <img src="../assets/guides/level_4.png" width="50px"/> | **Level 4** <br> Same as above + milling / multiple axis lathe work / VFD
+| <img src="../assets/guides/level_5.png" width="50px"/> | **Level 5** <br> Same as above + steel milling / pneumatic system or hydraulic system and some other complex stuff. Get yourself ready.
 
 
 ## Drawing Guidelines
