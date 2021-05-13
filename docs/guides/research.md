@@ -23,6 +23,7 @@ Can we...
 [[Make single axe shredder]](https://davehakkens.nl/community/forums/topic/v4-shredder-development/)
 [[Extrude tubes and profiles]](https://davehakkens.nl/community/forums/topic/v4-extrusion-tubes-and-profiles/)
 
+> **Note:** This module is currently still in beta. If you have an interesting research let us know in Discord and we can give you access.
 
 # How it works
 
@@ -46,7 +47,7 @@ Once the module is ready we will release it. This means your research will be us
 
 
 
-> Note; This module is currently still in beta. If you have an interesting research let us know in Discord and we can give you access.
+# Step by step guide
 
 | Step | Description|
 |-----------|---------|
