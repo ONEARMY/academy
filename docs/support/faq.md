@@ -36,7 +36,7 @@ We'd love you to join our community and become part of the Precious Plastic Univ
 </p>
 </details>
 
-<details><summary><b>The forums are dead?! Where can I ask more detailed questions about specific How-To's and the Academy?</b></summary>
+<details><summary><b>The forums are dead?! Where can I ask more detailed questions about specific how-tos and the Academy?</b></summary>
 <p>
 
 Our Discord is even better than the forums! Check out the Discord channels on the [Chat](https://community.preciousplastic.com/academy/support/chat) section of the Academy. It's juicy!

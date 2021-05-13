@@ -15,14 +15,14 @@ sidebar_label: How to's
 
 ![How to](assets/create/howto2.png)
 
-# Learn more in our How-To's!
+# Learn more in our how-tos!
 
 This is a powerful place on the web. Here people from around the world (like you) can share the things they've learned with others in a structured way. This tool is the heart of our open-source, collaborative community. We rely on all of you to gain knowledge from us and then share your learnings back, that way we are all solving the problem of plastic waste together! [Read more here on why sharing back is crucial](https://community.preciousplastic.com/academy/universe/contribute)  
 
-> Pro-tip: have a look at our [How-To's](https://community.preciousplastic.com/how-to) its fun to browse around :)
+> Pro-tip: have a look at our [how-tos](https://community.preciousplastic.com/how-to) its fun to browse around :)
 
 # How to make... a How-to
-Ok, you’ve had a look around the How-to’s, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot.  Here a few guidelines to take in account
+Ok, you’ve had a look around the how-tos, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot.  Here a few guidelines to take in account
 
 
 

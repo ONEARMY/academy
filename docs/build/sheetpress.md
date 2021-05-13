@@ -105,7 +105,7 @@ The aluminum pressing plates are 1220x1220mm but there is often an overflow from
 
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
-* [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [ Visit our how-tos for upgrades and hacks](https://community.preciousplastic.com/how-to)
 * [⭐️ How to setup a full Sheetpress workspace](spaces/sheetpress.md)
 * [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
 * [⭐️ How to make a chair with sheets](https://community.preciousplastic.com/how-to/make-a-chair-with-bent-sheets)
