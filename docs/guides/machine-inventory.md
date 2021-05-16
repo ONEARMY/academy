@@ -6,12 +6,48 @@ sidebar_label: Research
 
 # Machine inventory guidelines (DRAFT)
 
-## What is our inventory?
+
+
+# What is our inventory?
 - in our inventory we keep track of machines made by us and Community
 - Overview where we stick to certain rules
 - Explore machines and share back
 
-## Rating
+
+# Documentation
+- Folder structure
+- Name structure
+- Model (version) structure explained
+- Whqt is a machine update
+- What is a machine fork
+
+# Design
+#### Principles
+- Not to technical
+- Anywhere in the world
+- Uses labour
+
+#### Material choices
+- bolts/nuts
+- tubes
+- electronics
+- lasercut
+- etc (whatever caro adds)
+
+# Online repositories
+- basic information Github
+- how to submit issue
+- how to submit an edit
+
+
+# Type of machine
+- What are different types
+- How to define your type
+
+# Different levels
+
+
+### Open Source rating
 
 Rating is introduced to make sure we can see at which stage drawings are. To make sure the once that have been running for a while withstand time score a high rating and new drawings need to go to a verification process.
 
@@ -25,7 +61,7 @@ Rating is introduced to make sure we can see at which stage drawings are. To mak
 
 
 
-## Difficulty
+### Difficulty level
 Difficulty levels is to indicate how complex the tooling is needed to make the machines. This will give a better understanding upfront of the complexity you are going into. They are divided into 5 different levels.
 
 | Difficulty level |        Description     |
@@ -35,11 +71,3 @@ Difficulty levels is to indicate how complex the tooling is needed to make the m
 | <img src="../assets/guides/level_3.png" width="50px"/> | **Level 3** <br> Same as above + lathe work / motor cabling
 | <img src="../assets/guides/level_4.png" width="50px"/> | **Level 4** <br> Same as above + milling / multiple axis lathe work / VFD
 | <img src="../assets/guides/level_5.png" width="50px"/> | **Level 5** <br> Same as above + steel milling / pneumatic system or hydraulic system and some other complex stuff. Get yourself ready.
-
-
-## Drawing Guidelines
-- use solidworks
-- make pdf
-- use this kind of naming
-- use these components
-- compress filesize
