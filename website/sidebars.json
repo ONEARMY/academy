@@ -58,6 +58,7 @@
 	"business/Account_Setup",
         "business/Connect_Stripe",
         "business/Image_Size_Guidelines",
+	"business/Regions",
 	"business/International_Shipping"
         ]
       }
