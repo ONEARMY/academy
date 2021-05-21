@@ -97,6 +97,10 @@
         "title": "International Shipping",
         "sidebar_label": "International Shipping"
       },
+      "business/Regions": {
+        "title": "Add Shipping Regions",
+        "sidebar_label": "Add Shipping Regions"
+      },
       "business/workspacecalculator": {
         "title": "Workspace calculator",
         "sidebar_label": "Workspace Calculator"

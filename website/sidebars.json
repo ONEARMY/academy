@@ -55,10 +55,11 @@
       "type": "subcategory",
       "ids": [
         "business/bazar",
-	"business/Account_Setup",
+	      "business/Account_Setup",
         "business/Connect_Stripe",
         "business/Image_Size_Guidelines",
-	"business/International_Shipping"
+	      "business/International_Shipping",
+	      "business/regions"
         ]
       }
 
