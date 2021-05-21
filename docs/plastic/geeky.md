@@ -120,7 +120,7 @@ This is a relatively new production process. Here, multiple 2D layers make up a 
 
 ### The manual way
 
-Lastly, you can also process plastic in a more manual way. You can drill it, mill it, turn it on a lathe, sand it. It feels more like a craft and there are some beautiful results. Interested to learn more about these techniques? Check out our How-To’s!
+Lastly, you can also process plastic in a more manual way. You can drill it, mill it, turn it on a lathe, sand it. It feels more like a craft and there are some beautiful results. Interested to learn more about these techniques? Check out our how-tos!
 
 <img style="margin-left: 0;" src="../assets/jerry/jerry9.svg" width="600px"/>
 

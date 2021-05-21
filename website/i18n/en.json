@@ -137,15 +137,19 @@
         "title": "Download",
         "sidebar_label": "Download-Kit"
       },
-      "guides/research": {
-        "title": "Research module Guide",
+      "guides/machine-inventory": {
+        "title": "Machine Inventory",
         "sidebar_label": "Research"
       },
       "guides/platform": {
         "title": "Community Platform Guidelines",
         "sidebar_label": "Guidelines CP"
       },
-      "guides/stars": {
+      "guides/research": {
+        "title": "Research module Guide",
+        "sidebar_label": "Research"
+      },
+      "guides/community-program": {
         "title": "Community Program",
         "sidebar_label": "Community Program"
       },

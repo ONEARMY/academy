@@ -54,7 +54,7 @@ This section is quite juicy, we have been designing products alongside the commu
 4. Extrusion machine.
 5. Sheetpress
 6. Injection
-7. How-To’s
+7. how-tos
 
 ## Getting started
 
@@ -169,7 +169,7 @@ These are the type of design decisions you would consider before you go into pro
 
 ## The Sheetpress
 
-This machine creates sheets up to 1 x 1 metre with a range of thicknesses between 6mm - 30mm. When making a sheet mould there are many different configurations of size, thickness and surface finish. Do your research, read through different How-To’s and check out the products on the Bazar before investing in the best mould that will fit your needs. Some different methods are:
+This machine creates sheets up to 1 x 1 metre with a range of thicknesses between 6mm - 30mm. When making a sheet mould there are many different configurations of size, thickness and surface finish. Do your research, read through different how-tos and check out the products on the Bazar before investing in the best mould that will fit your needs. Some different methods are:
 
 - [Cut plastic jigsaw](https://community.preciousplastic.com/how-to/cut-plastic-jigsaw)
 - [Drill and screw through plastic](https://community.preciousplastic.com/how-to/drill-and-screw-through-plastic)
@@ -244,9 +244,9 @@ This machine will allow you to be versatile with your production because all you
 
 ![Human with mould](assets/create/person-with-mould.jpg)
 
-## How-To’s
+## how-tos
 
-When designing products to be produced with the Precious Plastic machines, your best resource will be the How-To’s! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channel below because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
+When designing products to be produced with the Precious Plastic machines, your best resource will be the how-tos! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on the Discord channel below because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
 
 <b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
 

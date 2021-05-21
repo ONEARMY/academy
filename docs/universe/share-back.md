@@ -35,9 +35,9 @@ __5. 🙃 Five sounds better then four:__ So point 5 is just to make a point
 
 # Centralised documentation: How to’s
 
-Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Forums, Discord, Slack, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [How-to's](https://community.preciousplastic.com/how-to). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other how-to. Its a place to centralise all the things we as a community learn. Because there is still a lot to figure out when it comes to plastic recycling. So we need each other.
+Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Forums, Discord, Slack, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [how-tos](https://community.preciousplastic.com/how-to). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other how-to. Its a place to centralise all the things we as a community learn. Because there is still a lot to figure out when it comes to plastic recycling. So we need each other.
 
-> Note: The how-to’s are still very much under development. Many features like commenting and saving are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest
+> Note: The how-tos are still very much under development. Many features like commenting and saving are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest
 
 # Tag us! #preciousplastic
 When you share your creations with the world, please mention/tag Precious Plastic. Why?

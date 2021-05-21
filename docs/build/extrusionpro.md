@@ -103,7 +103,7 @@ Some examples of extrusion times for some moulds:
 
 * [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
 * [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
-* [ Visit our how-to's for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [ Visit our how-tos for upgrades and hacks](https://community.preciousplastic.com/how-to)
 * [How-to: make light beams](https://community.preciousplastic.com/how-to/make-a-lamp-with-beams)
 * [How-to: make a T profile](https://community.preciousplastic.com/how-to/make-a-tshape-beam-)
 * [Hack: Quick release nozzle](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)
