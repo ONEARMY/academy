@@ -60,9 +60,9 @@
         "business/Image_Size_Guidelines",
 	"business/International_Shipping",
 	"business/regions"
-
         ]
       }
+
     ],
     "7. Spaces": [
       "spaces",
@@ -78,6 +78,7 @@
       "universe/universe",
       "universe/branding",
       "universe/yourlogo",
+      "guides/community-program",
       "universe/contribute"
     ],
     "📦 Download": ["download"],
