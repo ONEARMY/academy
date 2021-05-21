@@ -11,22 +11,25 @@ sidebar_label: Add Shipping Regions
 }
 </style>
 
-#Add Regions as a Shipping Destination
+![Login](../assets/Business/Regions_title.png)
+
+
+# Add Regions as a Shipping Destination
 
 This article will show you how to apply a shipping rate across a region, which will then apply to all countries located that region. This shortens the process of adding shipping locations for each country. 
 
-##How to set a regions as a shipping destination
+## How to set a regions as a shipping destination
 
 After configuring your domestic shipping option, click “Add another shipping location”, select a region, and set your shipping costs as usual. This shipping rate will now apply to all countries within that region. 
 
 ![Login](../assets/Business/addregions.png)
 
 
-##Can I set a different shipping rate for a region and a specific country within that region?
+## Can I set a different shipping rate for a region and a specific country within that region?
 
 Yes! We understand that shipping costs for different countries in a region may vary. For example, if are located in Vietnam and set a shipping rate of €10 for Asia, €15 for Indonesia, and €20 for Azerbaijan. A customer from Cambodia will get a shipping rate of €10, a customer from Indonesia will get a shipping rate of €15, a customer from Azerbaijan will get a shipping rate of €20, and a customer from Thailand will get a shipping rate of €10.
 
-##What countries are within each region?
+## What countries are within each region?
 🌍 Region | 🏳 Countries |  <span style="color:white">Countries </span>.
 --- | --- | --- 
 **Europe** | - Albania <br> - Andorra <br> - Armenia <br> - Austria <br> - Azerbaijan <br> - Belarus <br> - Belgium <br> - Bosnia and Herzegovina <br> - Bulgaria <br> - Croatia <br> - Cyprus <br> - Czechia <br> - Denmark <br> - Estonia <br> - Finland <br> - France <br> - Georgia <br> - Germany <br> - Greece <br> - Hungary <br> - Iceland <br> - Ireland <br> - Italy <br> - Kazakhstan <br> - Kosovo <br> - Latvia <br>| - Liechtenstein <br> - Lithuania <br> - Luxembourg<br> - Malta <br> - Moldova <br> - Monaco <br> - Montenegro <br> - Netherlands <br> - North Macedonia <br> - Norway <br> - Poland <br> - Portugal <br> - Romania <br> - Russia <br> - San Marino <br> - Serbia <br> - Slovakia <br> - Slovenia <br> - Spain <br> - Sweden <br> - Switzerland <br> - Turkey <br> - Ukraine <br> - United Kingdom <br> - Vatican City (Holy See)
