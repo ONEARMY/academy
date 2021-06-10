@@ -49,7 +49,7 @@ Colors are key for us, we love them. They are friendly and represent shredder pl
 |  color | Location & Hex code           | color | Location & Hex code                   |
 |----------|---------------|--|--------|
 | <img src="../assets/universe/8ec685.jpg" width="100%" height="50px" /> | __Community Points__ <br> #8FC487    | <img src="../assets/universe/95D2EF.jpg" width="100%" height="50px"/> | __Workspaces__ <br> #95D2EF	|
-| <img src="../assets/universe/C0ADD4.jpg" width="100%" height="50px" /> | __Collection Point__ <br> #C0ADD4    | <img src="../assets/universe/F19093.jpg" width="100%" height="50px"/> | __Machine shop__ <br> #F19093	|
+| <img src="../assets/universe/C0ADD4.jpg" width="100%" height="50px" /> | __Collection Points__ <br> #C0ADD4    | <img src="../assets/universe/F19093.jpg" width="100%" height="50px"/> | __Machine shop__ <br> #F19093	|
 
 
 
