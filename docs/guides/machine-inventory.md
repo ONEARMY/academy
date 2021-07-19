@@ -53,11 +53,11 @@ Rating is introduced to make sure we can see at which stage drawings are. To mak
 
 | Rating |  Description           |
 |---------|------------|
-| <img src="../assets/guides/opensource_01.png" width="50px"/> |   **Not Open Source** <br> The drawings of this machine are not shared Open Source.          |
-| <img src="../assets/guides/opensource_02.png" width="50px"/> |  **Open Source** <br>  The drawings are uploaded according to our guidelines (below)          |
-| <img src="../assets/guides/opensource_03.png" width="50px"/> |  **Reviewed** <br>  Same as above + the drawings are also positivly reviewed by us        |
-| <img src="../assets/guides/opensource_04.png" width="50px"/> |  **Tested** <br> Same as above + we tested tested the machine in real life and it works good.    |
-| <img src="../assets/guides/opensource_05.png" width="50px"/> |  **Quality** <br>  + we and other community members used the machines for a long period of time and it works well    |
+| <img src="../assets/guides/quality-1.png" width="50px"/> |   **Unknown** <br> The drawings of this machine are not according to any quality standard.         |
+| <img src="../assets/guides/quality-2.png" width="50px"/> |  **Good Documentation** <br>  The drawings are uploaded according to our guidelines (below)          |
+| <img src="../assets/guides/quality-3.png" width="50px"/> |  **Reviewed Drawing** <br>  Same as above + the drawings are also positively reviewed by us        |
+| <img src="../assets/guides/quality-4.png" width="50px"/> |  **Well Tested machine** <br> Same as above + we tested tested the machine in real life and it works good.    |
+| <img src="../assets/guides/quality-5.png" width="50px"/> |  **Well Tested >Year** <br>  + we and other community members used the machines for a long period of time and it works well    |
 
 
 

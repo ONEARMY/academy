@@ -97,7 +97,7 @@
         "title": "International Shipping",
         "sidebar_label": "International Shipping"
       },
-      "business/Regions": {
+      "business/regions": {
         "title": "Add Shipping Regions",
         "sidebar_label": "Add Shipping Regions"
       },
