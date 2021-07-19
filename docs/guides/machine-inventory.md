@@ -51,7 +51,7 @@ sidebar_label: Research
 
 Rating is introduced to make sure we can see at which stage drawings are. To make sure the once that have been running for a while withstand time score a high rating and new drawings need to go to a verification process.
 
-| Rating |  Description           |
+| Quality Rating |  Description           |
 |---------|------------|
 | <img src="../assets/guides/quality-1.png" width="50px"/> |   **Unknown** <br> The drawings of this machine are not according to any quality standard.         |
 | <img src="../assets/guides/quality-2.png" width="50px"/> |  **Good Documentation** <br>  The drawings are uploaded according to our guidelines (below)          |
