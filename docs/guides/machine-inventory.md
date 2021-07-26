@@ -44,7 +44,7 @@ Big Number 👉 3 (Third iteration of the machine)
 
 Small Number 👉 .2 (Second small iteration) 
 
-We refer to this as the *Model* of the machine (previously referred to as *version*). We made this change to reduce confusion between the version of the project (Precious Plastic version 4 ) and the model of the machine, which is not dependent on the version of Precious Plastic during which it was developed. 
+We refer to the big number and small number together as the *Model* of the machine (previously referred to as *version*). We made this change to reduce confusion between the version of the project (Precious Plastic version 4 ) and the model of the machine, which is not dependent on the version of Precious Plastic during which it was developed. 
 
 If you sell your machines on the [Bazar](https://bazar.preciousplastic.com/) make sure to specify what model the machine is.
 
@@ -54,7 +54,7 @@ If you sell your machines on the [Bazar](https://bazar.preciousplastic.com/) mak
 
 Ideally the folder structure should be the same for any machine added to the inventory and should follow this system:
 
-	📁 Name of Machine
+	📁 Name of Machine - Model Number
 		📁 1. 3D CAD
 			📁 STEP Files
 			📁 Program Files (Solidworks, Fusion 360, Rhino, Etc) 
@@ -122,7 +122,7 @@ Difficulty levels are to indicate how complex the tooling is needed to make the 
 Want to add your machine to the inventory ? Great! It's next level satisfaction to see your machine replicated around the world :)
 
 ## Guidelines for submitting 
-* Mustic follow the naming system outlined above
+* Must follow the naming system outlined above
 * Must have at least a 3D CAD model documented 
 * Must provide a public link to where your documentation is stored 
 
@@ -137,5 +137,5 @@ We don't mind where you are storing your files. Do what works best for you. Here
 
 ## How can I submit my machine to the inventory? 
 
-We’ve created a [form](https://docs.google.com/forms/d/e/1FAIpQLSfTEshXP9IZuq5aoTi3z5l6bNfkBL1kLuVDxpDHQDXIYHehfQ/viewform?usp=sf_link) for you to submit your  machine to the inventory. We'll take a look at the information your submitted and see if it fits within our guidelines. If so, we'll add a thumbnail and link to the machine inventory. 
+We’ve created a [form](https://machine-inventory.preciousplastic.com/submit.html) for you to submit your  machine to the inventory. We'll take a look at the information your submitted and see if it fits within our guidelines. If so, we'll add a thumbnail and link to the machine inventory. 
 
