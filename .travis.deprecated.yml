@@ -1,3 +1,5 @@
+# CC 2021-07-27 - Old configuration for deploying via travis
+# Now we instead use github actions, code in `./github/workflows/deploy-to-github-pages`
 language: node_js
 node_js:
   - '8'
