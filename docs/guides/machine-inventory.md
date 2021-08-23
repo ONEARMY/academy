@@ -15,7 +15,7 @@ The download kit (which matches with the Academy) is for the place for the “fi
 
 The machine inventory is for faster iterative development. There are many steps for a final design (and let’s be honest, final is never final). The machine inventory is for just that. It’s the place to find the latest and greatest from around the community, but not necessarily with all the documentation necessary to hold your hand all the way through. It’s best for machine builders who’ve had previous experience building Precious Plastic machines. 
 
-How-tos are full step-by-step guides for how to do something in the Precious Plastic Universe. Whether its a machine hack, unique collection system, new product or else. The scope is beyond just machines, and has a higher lift in terms of amount of information you need to provide.
+How-tos are full step-by-step guides for how to do something in the Precious Plastic Universe. Whether it's a machine hack, unique collection system, new product or otherwise. The scope is beyond just machines, and has a higher lift in terms of amount of information you need to provide.
 
 
 ## Documentation
@@ -44,7 +44,7 @@ Big Number 👉 3 (Third iteration of the machine)
 
 Small Number 👉 .2 (Second small iteration) 
 
-We refer to this as the *Model* of the machine (previously referred to as *version*). We made this change to reduce confusion between the version of the project (Precious Plastic version 4 ) and the model of the machine, which is not dependent on the version of Precious Plastic during which it was developed. 
+We refer to this as the *Model* of the machine (previously referred to as *version*). We made this change to reduce confusion between the version of the project (Precious Plastic version 4) and the model of the machine, which is not dependent on the version of Precious Plastic during which it was developed. 
 
 If you sell your machines on the [Bazar](https://bazar.preciousplastic.com/) make sure to specify what model the machine is.
 
@@ -57,16 +57,16 @@ Ideally the folder structure should be the same for any machine added to the inv
 	📁 Name of Machine
 		📁 1. 3D CAD
 			📁 STEP Files
-			📁 Program Files (Solidworks, Fusion 360, Rhino, Etc) 
-		📁 2Lazercut Files (DXF Format)
+			📁 Program Files (FreeCAD, Solidworks, Fusion 360, Rhino, Etc) 
+		📁 2. Lasercut Files (DXF Format)
 		📁 3. 2D Blueprints (PDF) 
 		📁 4. Schematics
-		📁 5. BOM (Excel File) 
+		📁 5. BOM (Libre Calc / Excel File) 
 		📁 6. Other
 			📁 Options   
 			📁 Images 
 			📁 Posters 
-			📁 Templates /Jigs 
+			📁 Templates / Jigs 
 			📁 Upgrades 
 			📁 …
 
@@ -77,7 +77,7 @@ Ideally the folder structure should be the same for any machine added to the inv
 These are the principles that guide design across the Precious Plastic Universe. The list is not exhaustive, but gives a general idea of what ideas to keep in mind for the design of the machines. 
 
 * Open-source 
-* Accessible (parts and materials found globably)
+* Accessible (parts and materials found globally)
 * Simple (avoiding overly complex parts)
 * Replicable (considered the building process for others) 
 * Appealing / Approachable  
@@ -93,14 +93,14 @@ These are the principles that guide design across the Precious Plastic Universe.
 
 ### Quality rating
 
-Rating is introduced to make sure we can see at which stage drawings are. To make sure the once that have been running for a while withstand time score a high rating and new drawings need to go to a verification process.
+Rating is introduced to make sure we can see at which stage the drawings are. To make sure the ones that have been running for a while withstand time, score a high rating and new drawings need to go to a verification process.
 
 | Quality Rating |  Description           |
 |---------|------------|
 | <img src="../assets/guides/quality-1.png" width="50px"/> |   **Unknown** <br> The drawings of this machine are not according to any quality standard.         |
 | <img src="../assets/guides/quality-2.png" width="50px"/> |  **Good Documentation** <br>  The drawings are uploaded according to our guidelines (above)          |
 | <img src="../assets/guides/quality-3.png" width="50px"/> |  **Reviewed Drawing** <br>  Same as above + the drawings are also positively reviewed by Precious Plastic.        |
-| <img src="../assets/guides/quality-4.png" width="50px"/> |  **Tested machine** <br> Same as above + we tested tested the machine in real life and it works well.    |
+| <img src="../assets/guides/quality-4.png" width="50px"/> |  **Tested machine** <br> Same as above + we tested the machine in real life and it works well.    |
 | <img src="../assets/guides/quality-5.png" width="50px"/> |  **Well Tested > 1 Year** <br>  + We and community members used the machines for a long period of time and it works well.    |
 
 
@@ -119,10 +119,10 @@ Difficulty levels are to indicate how complex the tooling is needed to make the 
 
 ## Add Your Machine to the Inventory 
 
-Want to add your machine to the inventory ? Great! It's next level satisfaction to see your machine replicated around the world :)
+Want to add your machine to the inventory? Great! It's next level satisfaction to see your machine replicated around the world :)
 
 ## Guidelines for submitting 
-* Mustic follow the naming system outlined above
+* Must follow the naming system outlined above
 * Must have at least a 3D CAD model documented 
 * Must provide a public link to where your documentation is stored 
 
@@ -130,7 +130,8 @@ Want to add your machine to the inventory ? Great! It's next level satisfaction 
 We don't mind where you are storing your files. Do what works best for you. Here are a few options:
 
 * Google Drive
-* [Github](https://github.com/)
+* [GitHub](https://github.com/)
+* [GitLab](https://gitlab.com/)
 * [Wikifactory](https://wikifactory.com/)
 * [Grabcad](https://grabcad.com/) 
 
