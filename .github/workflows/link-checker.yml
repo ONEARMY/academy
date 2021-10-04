@@ -17,29 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # - name: Install and Build 🔧
-      #   run: |
-      #     cd website
-      #     yarn install
-      #     npm run build
-
-      # Check links after build 
-      # - name: Link Checker
-      #   uses: lycheeverse/lychee-action@v1.0.9
-      #   with:
-      #     args: --verbose --no-progress website/build/academy/**/*.html
-      #   env:
-      #     GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-      # Check links before build
-
+      # Check links
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.9
         with:
-          args: --verbose --no-progress docs/**/*.md 
+          args: --verbose --no-progress docs/**/*.md
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
+      # Create PR
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v3
         with:
