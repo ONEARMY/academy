@@ -27,7 +27,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.8
         with:
-          args: --verbose --no-progress website/build/academy/**/*.html
+          args: --verbose --no-progress --base ./website/build/academy website/build/academy/**/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
