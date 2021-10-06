@@ -36,7 +36,7 @@ The Ally Checklist is a list of things any Space out there can do to help push t
 <br>
 
 # How to become Verified ⭐️
-We look at a number of different (objective and subjective) factors when evaluating projects to become a Verified workspace. In addition to being an Ally we look at quality (machines, products, moulds, workshops etc..), trustworthiness, track record, open source mentality and more. You can apply to become a Verified workspace [here](https://docs.google.com/forms/d/e/1FAIpQLScgWrLq-8pi9IWsVTczwJx96w2_7U7NNKy-3SplboEQHwD0aQ/viewform).
+We look at a number of different (objective and subjective) factors when evaluating projects to become a Verified workspace. In addition to being an Ally we look at quality (machines, products, moulds, workshops etc..), trustworthiness, track record, open source mentality and more. You can apply to become a Verified workspace [here](https://forms.monday.com/forms/094b47dcc2528236d552a1fcad7d46c6?r=use1).
 <br>
 <br>
 
