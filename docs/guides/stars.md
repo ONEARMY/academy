@@ -23,7 +23,9 @@ The Community Program aims to help and reward the people and projects contributi
 --- | --- | ---
 <b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful things<br>- Comment (soon)
 <b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](#ally-checklist-)|- Create a pin on the map<br>- Eligible for communication and sales<br>- Eligible to become a Verified profile
-<b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-verified.png" width="200px"/> |- All of the above<br>- Top quality work |- Verified badge<br>- Verified slack channels<br>- Ongoing communication<br> - Sales opportunities<br>- Eligible for collaborations
+<b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-verified.png" width="200px"/> |- All of the above<br>- 8+ stars on Ally Checklist<br>- Legal Entity for 1+ year<br>- 1500 followers on main social media account<br>- 2 full-time paid employees  |- Verified badge<br>- Verified slack channels<br>- Ongoing communication<br> - Sales opportunities<br>- Eligible for collaborations
+
+
 
 <br>
 <br>
@@ -36,7 +38,7 @@ The Ally Checklist is a list of things any Space out there can do to help push t
 <br>
 
 # How to become Verified ⭐️
-We look at a number of different (objective and subjective) factors when evaluating projects to become a Verified workspace. In addition to being an Ally we look at quality (machines, products, moulds, workshops etc..), trustworthiness, track record, open source mentality and more. You can apply to become a Verified workspace [here](https://forms.monday.com/forms/094b47dcc2528236d552a1fcad7d46c6?r=use1).
+We look at several different objective factors when evaluating projects to become a Verified workspace. In addition to being an Ally, we require having 8+ stars on the Ally Checklist, a legal entity for over a year, at least 1500 followers on your most active social media account, 2 full-time paid employees and professional references. Each of these requirements needs to be fulfilled to become a Verified Workspace. These objective categories allow us to determine the quality (machines, products, moulds, workshops etc..), trustworthiness, track record, open-source mentality and more. You can apply to become a Verified workspace [here](https://forms.monday.com/forms/094b47dcc2528236d552a1fcad7d46c6?r=use1).
 <br>
 <br>
 
