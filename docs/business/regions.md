@@ -11,12 +11,12 @@ sidebar_label: Add Shipping Regions
 }
 </style>
 
-![Login](../assets/Business/Regions_title.png)
-
 
 # Add Regions as a Shipping Destination
 
 This article will show you how to apply a shipping rate across a region, which will then apply to all countries located that region. This shortens the process of adding shipping locations for each country.
+
+![Login](../assets/Business/Regions_title.png)
 
 ## How to set a regions as a shipping destination
 
