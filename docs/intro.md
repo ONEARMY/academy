@@ -65,6 +65,6 @@ Different parts of this project are under different license conditions
 ## Support & get involved
 If you are in the position to help there are many ways you can <a href="https://support.preciousplastic.com/">support Precious Plastic.</a>
 
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a [Discord](https://discordapp.com/invite/cGZ5hKP) to discuss all the things we're doing here. Check out the Questions section in the sidebar to see where you can chat with people locally and globally.</p>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://discordapp.com/invite/cGZ5hKP">Discord</a> to discuss all the things we're doing here. Check out the Questions section in the sidebar to see where you can chat with people locally and globally.</p>
 
 Ok, let's dive in!
