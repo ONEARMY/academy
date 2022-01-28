@@ -72,6 +72,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
+
 ## You're now open for business 🎉
 Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
 Before you leave this page, please stick around for the last important point!
