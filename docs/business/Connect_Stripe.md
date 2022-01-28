@@ -11,7 +11,6 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Stripe Logo](../assets/Business/Stripelogo.png)
 ![Bazar Stripe](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Bazar-Stripe.png)
  
 # Set up your payment method
