@@ -29,6 +29,7 @@ Don’t have an account already? [Set up your Stripe account.](https://dashboard
 Once you are set, you can connect your Bazar account to your Stripe account.
 
 
+---
 
 
 ## CONNECT YOUR SELLER ACCOUNT TO STRIPE
