@@ -11,7 +11,8 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Bazar Stripe](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Bazar-Stripe.png)
+![Under Construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/underconstruction-signup.png)
+
  
 # Set up your payment method
 
