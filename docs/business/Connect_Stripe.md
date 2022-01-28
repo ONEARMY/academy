@@ -50,7 +50,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 - Select Stripe as processor, and fill other required infos
 - Then click on ‘configure’
 
-![Select processor](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-1-payment%20methods.png)
+![Select processor](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
 
 
 
