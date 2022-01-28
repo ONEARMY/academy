@@ -44,14 +44,12 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
-
 ## Step 2: Select processor (Stripe)
 
 - Select Stripe as processor, and fill other required infos
 - Then click on ‘configure’
 
 ![Select processor](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-2-add%20method.png)
-
 
 
 
@@ -73,12 +71,11 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
-
 ## You're now open for business 🎉
 Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
 Before you leave this page, please stick around for the last important point!
 
-
+---
 
 ## The Bazar fee - 5% for the Community
 We would like to offer the services of the Bazar without any charges, but the reality is: Running, maintaining and improving a platform like the Bazar requires a lot of human resources and money.
