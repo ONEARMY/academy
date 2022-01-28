@@ -1,0 +1,34 @@
+# Check for broken links
+name: Link Checker
+
+on:
+  push:
+    branches:
+      - feat/link-checker
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    # Check every Sunday at midnight
+    - cron: "00 00 * * 0"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # Check links
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.0.9
+        with:
+          args: --verbose --no-progress docs/**/*.md
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      # Create PR
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
