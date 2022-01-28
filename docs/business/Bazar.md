@@ -10,7 +10,7 @@ sidebar_label: Overview
 }
 </style>
 
-![Precious Plastic Bazar](../assets/Business/bazarmain.png)
+![Under construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Under%20construction-white.png)
 
 👉**[Visit the Bazar](http://bazar.preciousplastic.com/)**  👈
 
