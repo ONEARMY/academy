@@ -30,6 +30,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
+
 ## CONNECT YOUR SELLER ACCOUNT TO STRIPE
 
 ## Step 1: Add a payment method
@@ -42,6 +43,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
+
 ## Step 2: Select processor (Stripe)
 
 - Select Stripe as processor, and fill other required infos
@@ -51,12 +53,14 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
+
 ## Step 3:Connect to stripe
 
 - Fill out info for ‘configure’
 - Find your publishable key + secret key on your stripe account/Developers/API keys
 
 ![Select processor](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-3-Configure.png)
+
 
 
 
