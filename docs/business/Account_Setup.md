@@ -13,8 +13,6 @@ sidebar_label: Account Setup
 
 ![Under Construction](../assets/Business/Under%20construction-white.png)
 
-![New Seller](../assets/Business/Accountpic1.jpg)
-
 
 # Setup Your Seller Account
 So you've **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account. Now lets go through the steps to get setup!
