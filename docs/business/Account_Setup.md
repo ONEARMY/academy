@@ -11,7 +11,7 @@ sidebar_label: Account Setup
 }
 </style>
 
-![Under Construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/underconstruction-signup.png)
+![Under Construction](../assets/Business/Under%20construction-white.png)
 
 ![New Seller](../assets/Business/Accountpic1.jpg)
 
