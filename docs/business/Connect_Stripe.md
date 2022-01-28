@@ -24,9 +24,14 @@ Stripe is the payment processor that powers the Bazar. You need a seperate accou
 
 ![Login](../assets/gif/Login.gif)
 
-## Go to your seller profile
+## Go to payment methods
 
-![Seller Profile](../assets/gif/seller_profile.gif)
+Login to the seller dashboard.
+Go to Administration/ Payment methods.
+Click on ‘+’- to add one.
+
+![Payment methods](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-1-payment%20methods.png)
+
 
 
 ## Scroll down and click "connect with Stripe" 
