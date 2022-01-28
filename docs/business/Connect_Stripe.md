@@ -11,7 +11,7 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Under Construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Under%20construction-white.png)
+![Under Construction](../assets/Business/Under%20construction-white.png)
 
  
 # Set up your payment method
@@ -41,7 +41,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 - Go to Administration/ Payment methods.
 - Click on ‘+’- to add one.
 
-![Payment methods](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-1-payment%20methods.png)
+![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
 
 
 
@@ -59,7 +59,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 - Fill out info for ‘configure’
 - Find your publishable key + secret key on your stripe account/Developers/API keys
 
-![Select processor](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-3-configure.png)
+![Select processor](../assets/Business/Set%20up%20payment-3-configure.png)
 
 
 
@@ -68,7 +68,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 - Click  ‘Create’ -  you should now see your payment method listed
 
-![Select processor](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Set%20up%20payment-4-create.png)
+![Select processor](../assets/Business/Set%20up%20payment-4-create.png)
 
 
 
