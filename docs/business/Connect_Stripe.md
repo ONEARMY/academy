@@ -11,7 +11,7 @@ sidebar_label: Connect Stripe
 }
 </style>
 
-![Under Construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/underconstruction-signup.png)
+![Under Construction](https://github.com/katharinaelleke/academy/blob/master/docs/assets/Business/Under%20construction-white.png)
 
  
 # Set up your payment method
