@@ -56,7 +56,7 @@
       "ids": [
         "business/bazar",
 	"business/Account_Setup",
-        "business/Connect_Stripe",
+        "business/Setup_Payment",
         "business/Image_Size_Guidelines"
         ]
       }

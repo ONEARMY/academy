@@ -1,7 +1,7 @@
 ---
 id: Account_Setup
 title: Account Setup
-sidebar_label: Account Setup
+sidebar_label: Set up account
 ---
 
 <style>
@@ -17,7 +17,7 @@ sidebar_label: Account Setup
 # Set up your seller account 👐
 Cool that you want to start selling on the Precious Plastic Bazar! Have you **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account already? Then let's go through the steps to get you set up properly!
 
-## 1. Login to the Seller [Dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php) 
+## 1. Login to the Seller [Dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php)
 
 ![Login](../assets/Business/login.png)
 
@@ -26,8 +26,8 @@ Cool that you want to start selling on the Precious Plastic Bazar! Have you **[s
 
 ![Seller Profile](../assets/gif/seller_profile.gif)
 
- 
-## 3. Check your profile information for accuracy 
+
+## 3. Check your profile information for accuracy
 
 ![Check Profile](../assets/Business/check_profile.png)
 
@@ -37,13 +37,13 @@ Cool that you want to start selling on the Precious Plastic Bazar! Have you **[s
 
 
 ## 5. Add a description
-- A detailed description helps potential buyers know you and your organization. 
+- A detailed description helps potential buyers know you and your organization.
 - Tell them your story of how you got started and what your focus is. This seems trivial but could be the difference between a sale or not.
 
 ![Add Description](../assets/gif/Description.gif)
 
 
-## 6. Add your logos 
+## 6. Add your logos
 - The first logo is what will appear as your profile picture
 - The second logo is what will appear on your invoices to customers
 - The recommended size for your logos is 250x250 pixels, and the total size must be under 5 MB

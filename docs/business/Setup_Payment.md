@@ -1,7 +1,7 @@
 ---
-id: Connect_Stripe
-title: Connect Stripe 
-sidebar_label: Connect Stripe
+id: Setup_Payment
+title: Setup payment
+sidebar_label: Set up payment
 ---
 
 <style>
@@ -13,12 +13,12 @@ sidebar_label: Connect Stripe
 
 ![Under Construction](../assets/Business/Under%20construction-white.png)
 
- 
+
 # Set up your payment method
 
 ## Our payment processor: Stripe
 
-In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As the standard payment processor on the Bazar, we use [Stripe](https://stripe.com/en-gb-de). You will need to have a Stripe Account to manage your payments, reimbursements, and invoices. 
+In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As the standard payment processor on the Bazar, we use [Stripe](https://stripe.com/en-gb-de). You will need to have a Stripe Account to manage your payments, reimbursements, and invoices.
 Stripe is also where the Bazar fees will be collected (read more further down).
 
 Don’t have an account already? [Set up your Stripe account.](https://dashboard.stripe.com/register)
@@ -91,8 +91,5 @@ Every month we will send out invoices (via stripe), charging 5% of the amount yo
 
 
 
-## Happy selling 💸 
+## Happy selling 💸
 Hope this is all clear, if you have any questions about this, best is to bring them up on the [#bazar-sellers channel](https://discord.gg/2E93VxB3CD) on Discord :)
-
-
-
