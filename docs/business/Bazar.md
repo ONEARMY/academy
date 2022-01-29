@@ -15,7 +15,7 @@ sidebar_label: Overview
 👉**[Visit the Bazar](http://bazar.preciousplastic.com/)**  👈
 
 # Bazar Explained
-The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers and sellers of Precious Plastic machines, moulds, raw materials and products. Everything listed is created by Precious Plastic workspaces around the world. A great tool for connecting with other workspaces and finding the items you need to start or improve your workspace - or finding buyers for your recycling machines and precious products 👊
+The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers and sellers of Precious Plastic machines, moulds, raw materials and products. Everything listed is created by Precious Plastic workspaces around the world. A great tool for connecting with other workspaces and finding the items you need to start or improve your workspace 👊
 
 ## How It Works
 
@@ -27,7 +27,7 @@ The Bazar works a lot like other e-commerce platforms you can find on the world 
 1. Search listings or browse by category .
 2. Find different offers from sellers around the world (buy local if you can 🌍).
 3. Add items to your shopping card.
-4. Checkout with a credit card. **You will have to check out PER seller, as the payment goes directly to the seller.**
+4. Check out with a credit card. **You will have to check out PER seller, as the payment goes directly to the seller.**
 5. Receive your items.
 6. Give a review to the seller to help the community.
 
