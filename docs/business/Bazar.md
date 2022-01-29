@@ -12,10 +12,10 @@ sidebar_label: Overview
 
 ![Under construction](../assets/Business/Under%20construction-white.png)
 
-👉**[Visit the Bazar](http://bazar.preciousplastic.com/)**  👈
+
 
 # Bazar Explained
-The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers and sellers of Precious Plastic machines, moulds, raw materials and products. Everything listed is created by Precious Plastic workspaces around the world. A great tool for connecting with other workspaces and finding the items you need to start or improve your workspace 👊
+The **[Precious Plastic Bazar](http://bazar.preciousplastic.com/)** is a peer to peer marketplace for connecting buyers and sellers of Precious Plastic machines, moulds, raw materials and products. Everything listed is created by Precious Plastic workspaces around the world. A great tool for connecting with other workspaces and finding the items you need to start or improve your workspace 👊
 
 ## Want to buy from the Bazar?
 
