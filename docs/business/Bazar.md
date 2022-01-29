@@ -17,7 +17,7 @@ sidebar_label: Overview
 # Bazar Explained
 The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers and sellers of Precious Plastic machines, moulds, raw materials and products. Everything listed is created by Precious Plastic workspaces around the world. A great tool for connecting with other workspaces and finding the items you need to start or improve your workspace 👊
 
-## How It Works
+## Want to buy from the Bazar?
 
 ![Bazar Product](../assets/Business/Bazar-Item.png)
 
@@ -25,7 +25,7 @@ The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers a
 The Bazar works a lot like other e-commerce platforms you can find on the world wide web. Here’s the process: 
 
 1. Search listings or browse by category .
-2. Find different offers from sellers around the world (buy local if you can 🌍).
+2. Find offers from various sellers around the world (buy local if you can 🌍).
 3. Add items to your shopping card.
 4. Check out with a credit card. **You will have to check out PER seller, as the payment goes directly to the seller.**
 5. Receive your items.
@@ -33,7 +33,7 @@ The Bazar works a lot like other e-commerce platforms you can find on the world 
 
 > Precious Plastic receives a **5% transaction fee** when items are purchased through the Bazar, which helps us pay the costs of running the platform and improving it over time 💪
 
-## Requirements for Selling on the Bazar
+## Want to sell on the Bazar?
 If you're workspace is up and running and you want to **[sell](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** on the Bazar, there are a few requirements you should know before getting started.
 
 * You need a registered business / organisation (it's required by the payment processor).
@@ -43,4 +43,4 @@ If you're workspace is up and running and you want to **[sell](https://bazar.pre
 
 
 ## Enjoy :)
-Have fun browsing, buying and supporting grassroots recyclers!
+Have fun browsing, buying, selling and supporting grassroots recyclers!
