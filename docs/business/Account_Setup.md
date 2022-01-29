@@ -51,6 +51,6 @@ Cool that you want to start selling on the Precious Plastic Bazar! Have you **[s
 ![Add Logo](../assets/gif/add_logo.gif)
 
 
-## 7. Set up your payment method!
+## 7. Set up your payment method 💰
 - Finally, in order to receive money, you will have to set up your payment method.
 - Go to this guide to show you [how to set up your payment method.](https://community.preciousplastic.com/academy/business/Connect_Stripe)
