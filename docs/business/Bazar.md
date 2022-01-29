@@ -42,4 +42,5 @@ If you're workspace is up and running and you want to **[sell](https://bazar.pre
 * Connecting a payment (stripe) account is required before publishing your listings.  
 
 
-## Enjoy browsing, buying and supporting grassroots recyclers! :)
+## Enjoy :)
+Have fun browsing, buying and supporting grassroots recyclers!
