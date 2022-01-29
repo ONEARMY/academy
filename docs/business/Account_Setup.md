@@ -14,7 +14,7 @@ sidebar_label: Account Setup
 ![Under Construction](../assets/Business/Under%20construction-white.png)
 
 
-# Sign up for a seller account
+# Set up your seller account 👐
 Cool that you want to start selling on the Precious Plastic Bazar! Have you **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account already? Then let's go through the steps to get you set up properly!
 
 ## 1. Login to the Seller [Dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php) 
