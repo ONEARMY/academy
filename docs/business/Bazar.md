@@ -19,7 +19,7 @@ The Precious Plastic Bazar is a peer to peer marketplace for connecting buyers a
 
 ## How It Works
 
-![Bazar Product](../assets/Business/BazarProduct.png)
+![Bazar Product](../assets/Business/Bazar-Item.png)
 
 
 The Bazar works a lot like the e-commerce platforms you’re used to. Here’s the process: 
