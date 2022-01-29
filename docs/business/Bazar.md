@@ -40,3 +40,6 @@ If you're workspace is up and running and you want to **[sell](https://bazar.pre
 * You agree to finish transactions on the Bazar which started there. It's not allowed to ask customers to email you off the platform to use your own payment methods. Going around the platform to avoid the transaction fee hurts the platform and the Precious Plastic Community. 
 * All transaction issues need to be resolved between the customer and seller. Precious Plastic is not responsible for disputes!
 * Connecting a payment (stripe) account is required before publishing your listings.  
+
+
+## Enjoy browsing, buying and supporting grassroots recyclers! :)
