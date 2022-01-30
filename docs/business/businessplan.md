@@ -87,7 +87,7 @@ Click on the link below to open the document, and click File > Make a copy and y
 
 # 👌 Tips
 
-- Complete the Action Plan first before writing down all the information in a long business plan. Your business model is more important than a business plan.
+- Complete the Action Plan first before writing down everything in a long business plan. Your business model is more important than a business plan.
 - Think of your business plan as an opportunity for you to tell the story of your business or project, and why you have a compelling financial proposition. Show that you’ve really thought things through, especially how you’re delivering value to customers.
 - The legal structure is an important part of your business plan that’s not covered in the previous two tools - make sure to research the structures in your country and for your particular situation, and what the advantages are for each. You may need to consult a business lawyer for this.
 - Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it.

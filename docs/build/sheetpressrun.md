@@ -18,27 +18,27 @@ sidebar_label: - Run it
 
 # Run and Maintain the Sheetpress
 
-Hooray! You built yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc.  But also the practical things to take in account like maintenance.
+Hooray! You built yourself a Sheetpress! Let's have some fun and make sheets. Below we explain how to do this, which temperatures to use, how the workflow should be etc., but also the practical things to take in account like maintenance.
 
 # 🏃‍♀️ Make a sheet!
 
 ## Run Standalone Sheetpress
 
-1. Plug in the Sheetpress, check the emergency stop is released and switch on the main power switch.
+1. Plug in the Sheetpress, check that the emergency stop is released and switch on the main power switch.
 
 2. Check the required temperature to melt your type of plastic and set the PID controller to this temperature.
 
 3. Close the pressing plates using the bottle jack and wait for them to heat up.
 
-4. Whilst waiting for the heating plates to warm up weigh the plastic. See the Datasheet for weights.
+4. Whilst waiting for the heating plates to warm up, weigh the plastic. See the Datasheet for weights.
 
-5. When the Sheetpress is at the required temperature. Open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
+5. When the Sheetpress is at the desired temperature, open the pressing plates of the Sheetpress by releasing pressure from the bottle jack.
 
 6. Place the bottom sheet of the mould on the bottom pressing plate and apply a layer of silicone oil. Make sure to remove any remnants of the previous sheet.
 
 7. Place the mould frame in the centre of the sheet and apply a layer of silicone oil to the top of the frame.
 
-8. Load the plastic it into the mould.
+8. Load the plastic into the mould.
 
 9. Spread the plastic evenly across the area inside the mould frame with slightly less around a 100mm border offset on the inside of the edges.
 
@@ -48,7 +48,7 @@ Hooray! You built yourself a Sheetpress! Let's have some fun and make sheets. Be
 
 12. Whilst waiting for the plastic to melt. 2 mins before the recommended melting time close the pressing plates using the bottle jack until the jacks starts to give strong resistance. See the Datasheet (Appendix A) for melting temperatures and times.
 
-13. When the mould has been in the sheetpres for required melting time. Switch off the Sheetpress.
+13. When the mould has been in the Sheetpress for the required melting time, switch off the Sheetpress.
 
 14. Alternatively you can take out the mould and either weight it down or clamp it to allow the sheet to cool externally.
 
@@ -128,7 +128,9 @@ Use a trowel to scrape any remiant material from the heating plates. You may nee
 <b>Check oil in jacks</b><br>
 Bleed and replace the oil in the jacks.
 
-<b>Check electronics</b><br>
+
+<b>Check electronics </b><br>
+
 Check the resistance of your elements on each of the three phases is equal to the number of heating elements attached to each phase. If it does not one of your heating elements may be broken, use a thermal camera to check.
 Check all the components inside the enclosure for visual signs of melting/burning and replace anything that appears damaged.
 Re paint worn areas

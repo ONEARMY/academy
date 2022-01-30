@@ -71,7 +71,7 @@
       },
       "business/Account_Setup": {
         "title": "Account Setup",
-        "sidebar_label": "Account Setup"
+        "sidebar_label": "Set up account"
       },
       "business/actionplan": {
         "title": "Action Plan",
@@ -85,13 +85,14 @@
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
       },
-      "business/Connect_Stripe": {
-        "title": "Connect Stripe",
-        "sidebar_label": "Connect Stripe"
-      },
       "business/Image_Size_Guidelines": {
         "title": "Image Size Guidelines",
         "sidebar_label": "Image Size Guidelines"
+      },
+
+      "business/Setup_Payment": {
+        "title": "Setup payment",
+        "sidebar_label": "Set up payment"
       },
       "business/International_Shipping": {
         "title": "International Shipping",
@@ -100,6 +101,7 @@
       "business/regions": {
         "title": "Add Shipping Regions",
         "sidebar_label": "Add Shipping Regions"
+
       },
       "business/workspacecalculator": {
         "title": "Workspace calculator",

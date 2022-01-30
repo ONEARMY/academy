@@ -11,15 +11,14 @@ sidebar_label: Image Size Guidelines
 }
 </style>
 
-![Bazar Images](../assets/Business/Imagesize.jpg)
 
 # Image Size Guidelines 
 
 ## Logo Images
 
-The recommended size for your logos is **250 x 400 pixels**, and the total size must be under **5 MB**. Image file types allowed are .jpeg and .png
+The recommended size for your logos is **250 x 250 pixels**, and the total size must be under **5 MB**. Image file types allowed are .jpeg and .png
 
-![Profile Logo](../assets/Business/logo.png)
+![Profile Logo](../assets/Business/Bazar-Logo-Size.png)
 
 
 ## Product Images
@@ -27,5 +26,6 @@ The recommended size for your logos is **250 x 400 pixels**, and the total size 
 Horizontal (landscape) images are highly encouraged for maximum visibility. The minimum recommended product image size is **794 x 1000 pixels** with a resolution of 72ppi 
 
 ![Product Image](../assets/Business/product.png)
+
 
 
