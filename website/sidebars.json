@@ -55,9 +55,15 @@
       "type": "subcategory",
       "ids": [
         "business/bazar",
+
 	"business/Account_Setup",
         "business/Setup_Payment",
         "business/Image_Size_Guidelines"
+	      "business/Account_Setup",
+        "business/Connect_Stripe",
+        "business/Image_Size_Guidelines",
+	      "business/International_Shipping",
+	      "business/regions"
         ]
       }
 
@@ -76,6 +82,7 @@
       "universe/universe",
       "universe/branding",
       "universe/yourlogo",
+      "guides/community-program",
       "universe/contribute"
     ],
     "📦 Download": ["download"],

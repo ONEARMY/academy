@@ -62,6 +62,7 @@ window.addEventListener("DOMContentLoaded", function() {
   }
   showActiveSubChapterMenu();
 
+
   function initiateSlideshows() {
     tns({
       container: ".j-slideshow",

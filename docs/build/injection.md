@@ -27,6 +27,9 @@ The injection machine has a quick production output with high precision, while i
 
 > Pro-tip: Invest in a good mould. Good mould, good output :)
 
+> Pro-tip: A new improved version of the injection machine which can be disassembled and has some additional safety features can be found in the [how-tos](https://community.preciousplastic.com/how-to/injection-machine---designed-for-disassembly). If you are building a new one consider taking a look at this one before ordering parts.
+
+
 </div>
 <div class="videoChaptersSidebar">
 
@@ -179,6 +182,7 @@ Batch production ||
 </div>
 
 # 🙌 Useful Links
+- [How-to: Injection Machine - Designed for disassembly](https://community.preciousplastic.com/how-to/injection-machine---designed-for-disassembly)<br>
 - [Upgrade: Make a Quick Release Mould](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)<br>
 - [Hack: Benchtop Injector](https://davehakkens.nl/community/forums/topic/benchtop-smaller-machines/)<br>
 - [Hack: Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)

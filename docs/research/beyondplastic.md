@@ -5,7 +5,7 @@ sidebar_label: Beyond Plastic
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/b2aRrWCxaX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/oyDKboHoAxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <style>
@@ -31,19 +31,18 @@ In this section we introduce the Beyond Plastic Bio Press - a strong heat press 
 ### Video Chapters
 
 - 00:07 Introduction
-- 00:57 Frame
-- 06:41 Walls
-- 11:09 Painting
-- 11:45 Heating Elements
-- 16:06 Hydrolic Jack
-- 18:58 Electronics
-- 20:43 Protective Box
-- 22:57 Final Assembly
-- 24:20 Table Add-on
-- 24:44 How to Run
+- 00:43 Upsides
+- 02:29 Start experiment
+- 04:13 Downsides
+- 06:56 Finish experiment
+- 09:42 bio vs biodegradable
+- 11:12 Beyond plastic explained
+- 12:57 Grandpa
+
 
 </div>
 </div>
+<br><br>
 
 ![Beyond Plastic Bowl](assets/Research/BP_bowl.jpg)
 
@@ -55,7 +54,7 @@ There are three parts to making amazing things with the Beyond Plastic Bio Press
 
 # The Heat Press
 
-![Beyond Plastic Heat Presss](assets/Research/BP_press.jpg)
+<iframe width="560" height="515" src="https://www.youtube.com/embed/b2aRrWCxaX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Building the Bio Press is not as complicated as other machines, but if you have never built a machine before it’s definitely not simple. It really helps to have people around you that can help if you get stuck. So make sure to ask your friends or find someone on the map!
 

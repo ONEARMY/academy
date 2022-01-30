@@ -58,9 +58,11 @@ So, you can find it everywhere in the world, and it ends up in places we definit
 
 ### We produce 300 million metric tonnes of new plastic every year 🤯
 
-Which is not very smart, especially when we have so much already existing material that we can use. Virgin plastic is made from oil, a valuable fossil fuel which we’re running out of, and it’s used to make cheap products which are meant to be discarded after a very short time of usage. . This isn’t very smart. And, as less than 10% of plastic is actually recycled, most of all this newly produced plastic ends up in landfills, the ocean, or is burnt. Huh?
+Which is not very smart, especially when we have so much already existing material that we can use. Virgin plastic is made from oil, a valuable fossil fuel which we’re running out of, and it’s used to make cheap products which are meant to be discarded after a very short time of usage. This isn’t very smart. A huge design fallacy. And, as less than 10% of plastic is actually recycled, most of all this newly produced plastic ends up in landfills, the ocean, or is burnt. Huh?
 
 So, how do we solve this? Well, it’s time to get recycling!
+
+> Pro-tip: alongside recycling you should try to minimize your use of new plastic.
 
 # Different plastic types
 
@@ -70,13 +72,13 @@ Firstly, there are two major categories of plastic: Thermoplastics and Thermoset
 
 ### Thermoset
 
-Thermoset plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be melted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled. Some examples of thermoset plastics are:
+Thermoset plastics contain polymers that cross-link together and create an irreversible bond, meaning they can’t be remelted - once they take shape, they will be solidified forever. Think of Thermoset as bread: once bread is made, if you try to heat it, it just burns. None of these plastics can be recycled. Some examples of thermoset plastics are:
 
 ![Thermoset Examples](assets/plastic/thermosetex.svg)
 
 ### Thermoplastic
 
-Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again. Examples of thermoplastics: 
+Thermoplastics is a plastic polymer which becomes soft when heated and hard when cooled. Thermoplastic materials can be cooled and heated several times: when they are heated, they melt to a liquid and when they cool they become hard. Think of Thermoplastics as butter: it can be heated and cooled many times, it just melts and sets again. Examples of thermoplastics:
 
 ![Thermoset Examples](assets/plastic/thermoplasticex.svg)
 
@@ -187,7 +189,7 @@ This code is used to identify other types of plastic that are not defined by the
 <b>Common uses:</b>PC (CDs & DVDs…), PLA (bioplastics), ABS (3D-printing filament, toys, electronic products…), PMMA (acrylic glass)
 <br>
 
-## And always remember: 
+## And always remember:
 
 ![Dont' Mix Plastic](assets/plastic/dontmixplastic.svg)
 
@@ -203,5 +205,3 @@ So, there are different types of plastic and one reason why  it’s so important
 <b>Want to share feedback, chat about plastic or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.
-
-

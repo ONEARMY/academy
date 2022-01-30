@@ -1,0 +1,15 @@
+# CC 2021-07-27 - Old configuration for deploying via travis
+# Now we instead use github actions, code in `./github/workflows/deploy-to-github-pages`
+language: node_js
+node_js:
+  - '8'
+branches:
+  only:
+    - master
+cache:
+  yarn: true
+script:
+  - git config --global user.name "${GH_NAME}"
+  - git config --global user.email "${GH_EMAIL}"
+  - echo "machine github.com login ${GH_NAME} password ${GH_TOKEN}" > ~/.netrc
+  - cd website && yarn install && GIT_USER="${GH_NAME}" yarn run publish-gh-pages
