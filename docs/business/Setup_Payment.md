@@ -62,7 +62,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 - Click  ‘Create’ -  you should now see your payment method listed
 
-![Select processor](../assets/Business/Set%20up%20payment-4-create.png)
+![Select processor](../assets/Business/Set%20up%20payment-4-create.png) 
 
 
 
