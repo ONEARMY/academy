@@ -13,6 +13,7 @@ sidebar_label: Set up payment
 
 ![Under Construction](../assets/Business/Under%20construction-transparent.png)
 
+
 # Set up your payment method
 
 ## Our payment processor: Stripe
