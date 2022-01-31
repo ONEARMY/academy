@@ -53,7 +53,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 - Fill out info for ‘configure’
 - Find your publishable key + secret key on your stripe account/Developers/API keys
-![Select processor](../assets/Business/Set%20up%20payment-3-configure.png)
+![Select processor](../assets/Business/Set%20up%20payment-3-config.png)
 
 
 
