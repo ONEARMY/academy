@@ -30,11 +30,6 @@ Don’t have an account already? [Set up your Stripe account.](https://dashboard
 Once you are set, you can connect your Bazar account to your Stripe account.
 
 
----
-
-
-## CONNECT YOUR SELLER ACCOUNT TO STRIPE
-
 ## Step 1: Add a payment method
 
 - Login to the [seller dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php)
@@ -76,7 +71,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
 Before you leave this page, please stick around for the last important point!
 
----
+
 
 ## The Bazar fee - 5% for the Community
 We would like to offer the services of the Bazar without any charges, but the reality is: Running, maintaining and improving a platform like the Bazar requires a lot of human resources and money.
