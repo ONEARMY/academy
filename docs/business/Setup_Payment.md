@@ -11,7 +11,7 @@ sidebar_label: Set up payment
 }
 </style>
 
-![Under Construction](../assets/Business/Under%20construction-white.png)
+![Under Construction](../assets/Business/Under%20construction-transparent.png)
 
 
 # Set up your payment method
