@@ -32,7 +32,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 ## Step 1: Add a payment method
 
-- Login to the [seller dashboard](https://bazar.preciousplastic.com/vendor.php?dispatch=auth.login_form&return_url=vendor.php)
+- Login to the [seller dashboard](https://newbazar.preciousplastic.com/my_admin_panel.php)
 - Go to Administration/ Payment methods.
 - Click on ‘+’- to add one.
 
@@ -80,8 +80,7 @@ It is then used to pay for the platform hosting, the bug-fixing, the technical s
 
 So by selling your precious things on the Bazar, you also contribute to making this plastic recycling marketplace as accessible and smooth for plastic recyclers to buy and sell and help them succeed in their recycling project. pre
 
-How are the fees collected?
-Every month we will send out invoices (via stripe), charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
+> **How are the Bazar fees collected?** Every month we will send out invoices (via stripe), charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
 
 
 
