@@ -13,7 +13,6 @@ sidebar_label: Set up payment
 
 
 
-
 # Set up your payment method
 
 ## Our payment processor: Stripe
@@ -29,11 +28,6 @@ Don’t have an account already? [Set up your Stripe account.](https://dashboard
 
 Once you are set, you can connect your Bazar account to your Stripe account.
 
-
----
-
-
-## CONNECT YOUR SELLER ACCOUNT TO STRIPE
 
 ## Step 1: Add a payment method
 
@@ -54,7 +48,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 
 
-## Step 3:Connect to stripe
+## Step 3: Connect to stripe
 
 - Fill out info for ‘configure’
 - Find your publishable key + secret key on your stripe account/Developers/API keys
@@ -68,7 +62,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 - Click  ‘Create’ -  you should now see your payment method listed
 
-![Select processor](../assets/Business/Set%20up%20payment-4-create.png)
+![Select processor](../assets/Business/Set%20up%20payment-4-create.png) 
 
 
 
@@ -76,7 +70,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
 Before you leave this page, please stick around for the last important point!
 
----
+
 
 ## The Bazar fee - 5% for the Community
 We would like to offer the services of the Bazar without any charges, but the reality is: Running, maintaining and improving a platform like the Bazar requires a lot of human resources and money.
