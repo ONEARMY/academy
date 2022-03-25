@@ -11,8 +11,6 @@ sidebar_label: Set up account
 }
 </style>
 
-![Under Construction](../assets/Business/Under%20construction-transparent.png)
-
 
 # Set up your seller account 👐
 Cool that you want to start selling on the Precious Plastic Bazar! Have you **[signed up](https://bazar.preciousplastic.com/index.php?dispatch=companies.apply_for_vendor)** for a seller account and recieved an email approval of your account already? Then let's go through the steps to get you set up properly!
