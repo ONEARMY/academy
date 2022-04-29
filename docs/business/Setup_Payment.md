@@ -12,15 +12,14 @@ sidebar_label: Set up payment
 </style>
 
 
-
 # Set up your payment method
 
-## Our payment processor: Stripe
+In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As the standard payment processor on the Bazar, we use [Stripe](https://stripe.com/en-gb-de), and also recently added [Paypal](https://paypal.com/) as a second option. You will need to have at least one of those accounts to manage your payments, reimbursements, and invoices.
 
-In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As the standard payment processor on the Bazar, we use [Stripe](https://stripe.com/en-gb-de). You will need to have a Stripe Account to manage your payments, reimbursements, and invoices.
-Stripe is also where the Bazar fees will be collected (read more further down).
+# Stripe - Our standard payment processor
 
-Don’t have an account already? [Set up your Stripe account.](https://dashboard.stripe.com/register)
+First things first: To connect your Bazar account to Stripe, you will need a Stripe account.
+Don’t have one already? [Set up your Stripe account.](https://dashboard.stripe.com/register)
 
 - Creating an account is free
 - You need to have a registered organisation in a Stripe supported country [country](https://stripe.com/global)
@@ -65,8 +64,47 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 ![Select processor](../assets/Business/Set%20up%20payment-4-create.png) 
 
 
+# Connect to your Paypal Account
 
-## You're now open for business 🎉
+Paypal is a very commonly used payment tool. 
+
+## Requirements: Paypal Business Account
+To use Paypal for the Bazar, you need an active Paypal Business Account. 
+If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAccount) and make sure to verify with your email address.
+
+## Step 1: Add a payment method
+
+- Login to the [seller dashboard](https://newbazar.preciousplastic.com/my_admin_panel.php)
+- Go to Administration/ Payment methods.
+- Click on ‘+’- to add one.
+
+![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
+
+## Step 2: Select processor (Paypal)
+
+- Select "Paypal Express Checkout" as processor
+- Then click on ‘configure’
+
+## Step 3: Fill in Technical Details (1)
+- Scroll down to the **Technical Details** field, this is where you’ll have to insert information from your Paypal Account
+- Find your **Merchant ID** in your Paypal Account under [Business Information](https://www.paypal.com/businessmanage/account/aboutBusiness)
+- Copy it over into your Technical Details
+
+## Step 4: Fill in Technical Details (2)
+- Request your **Username, Password and Signature** in [Manage API Access](https://www.paypal.com/businessprofile/mytools/apiaccess/firstparty)
+- Copy it over into your Technical Details
+**When copying over names and numbers, make sure you're only copying the numbers & letters, and NOT empty spaces.**
+
+## Step 5: Fill in Technical Details (3)
+- Select “Live” mode 
+- Check the box to show the Paypal option in the Checkout
+
+## Step 6: Finish!
+- Click  ‘Create’
+- you should now see your payment method listed
+
+
+# You're now open for business 🎉
 Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
 Before you leave this page, please stick around for the last important point!
 
