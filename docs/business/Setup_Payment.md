@@ -66,7 +66,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 # Connect to your Paypal Account
 
-Paypal is a very commonly used payment tool. 
+[Paypal](https://paypal.com/) is a very widely used payment tool that is very accessible in many countries. It can be good to offer it additionally to your Stripe payment method to avoid conflicts with Payments.
 
 ## Requirements: Paypal Business Account
 To use Paypal for the Bazar, you need an active Paypal Business Account. 
@@ -80,28 +80,39 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 
 ![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
 
+
 ## Step 2: Select processor (Paypal)
 
 - Select "Paypal Express Checkout" as processor
 - Then click on ‘configure’
+- 
+![Payment methods](../assets/Business/Set%20up%20paypal%20(1).png)
 
 ## Step 3: Fill in Technical Details (1)
 - Scroll down to the **Technical Details** field, this is where you’ll have to insert information from your Paypal Account
 - Find your **Merchant ID** in your Paypal Account under [Business Information](https://www.paypal.com/businessmanage/account/aboutBusiness)
 - Copy it over into your Technical Details
 
+![Payment methods](../assets/Business/Set%20up%20paypal%20(2).png)
+
 ## Step 4: Fill in Technical Details (2)
 - Request your **Username, Password and Signature** in [Manage API Access](https://www.paypal.com/businessprofile/mytools/apiaccess/firstparty)
 - Copy it over into your Technical Details
 **When copying over names and numbers, make sure you're only copying the numbers & letters, and NOT empty spaces.**
 
+![Payment methods](../assets/Business/Set%20up%20paypal%20(3).png)
+
 ## Step 5: Fill in Technical Details (3)
 - Select “Live” mode 
 - Check the box to show the Paypal option in the Checkout
 
+![Payment methods](../assets/Business/Set%20up%20paypal%20(5).png)
+
 ## Step 6: Finish!
 - Click  ‘Create’
 - you should now see your payment method listed
+
+![Payment methods](../assets/Business/Set%20up%20paypal%20(4).png)
 
 
 # You're now open for business 🎉
@@ -119,7 +130,7 @@ It is then used to pay for the platform hosting, the bug-fixing, the technical s
 So by selling your precious things on the Bazar, you also contribute to making this plastic recycling marketplace as accessible and smooth for plastic recyclers to buy and sell and help them succeed in their recycling project. pre
 
 
-**How are the Bazar fees collected?** Every month we will send out invoices (via stripe), charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
+**How are the Bazar fees collected?** Every month we will send out invoices (via Stripe), charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
 
 
 
