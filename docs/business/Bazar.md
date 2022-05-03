@@ -10,7 +10,6 @@ sidebar_label: Overview
 }
 </style>
 
-![Under Construction](../assets/Business/Under%20construction-transparent.png)
 
 
 
