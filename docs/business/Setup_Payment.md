@@ -93,7 +93,7 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 - Find your **Merchant ID** in your Paypal Account under [Business Information](https://www.paypal.com/businessmanage/account/aboutBusiness)
 - Copy it over into your Technical Details
 
-![Payment methods](../assets/Business/Set_up_paypal_2.pngg)
+![Payment methods](../assets/Business/Set_up_paypal_2.png)
 
 ## Step 4: Fill in Technical Details (2)
 - Request your **Username, Password and Signature** in [Manage API Access](https://www.paypal.com/businessprofile/mytools/apiaccess/firstparty)
