@@ -86,33 +86,33 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 - Select "Paypal Express Checkout" as processor
 - Then click on ‘configure’
 - 
-![Payment methods](../assets/Business/Set%20up%20paypal%20(1).png)
+![Payment methods](../assets/Business/Set_up_paypal_1.png)
 
 ## Step 3: Fill in Technical Details (1)
 - Scroll down to the **Technical Details** field, this is where you’ll have to insert information from your Paypal Account
 - Find your **Merchant ID** in your Paypal Account under [Business Information](https://www.paypal.com/businessmanage/account/aboutBusiness)
 - Copy it over into your Technical Details
 
-![Payment methods](../assets/Business/Set%20up%20paypal%20(2).png)
+![Payment methods](../assets/Business/Set_up_paypal_2.pngg)
 
 ## Step 4: Fill in Technical Details (2)
 - Request your **Username, Password and Signature** in [Manage API Access](https://www.paypal.com/businessprofile/mytools/apiaccess/firstparty)
 - Copy it over into your Technical Details
 **When copying over names and numbers, make sure you're only copying the numbers & letters, and NOT empty spaces.**
 
-![Payment methods](../assets/Business/Set%20up%20paypal%20(3).png)
+![Payment methods](../assets/Business/Set_up_paypal_3.png)
 
 ## Step 5: Fill in Technical Details (3)
 - Select “Live” mode 
 - Check the box to show the Paypal option in the Checkout
 
-![Payment methods](../assets/Business/Set%20up%20paypal%20(5).png)
+![Payment methods](../assets/Business/Set_up_paypal_5.png)
 
 ## Step 6: Finish!
 - Click  ‘Create’
 - you should now see your payment method listed
 
-![Payment methods](../assets/Business/Set%20up%20paypal%20(4).png)
+![Payment methods](../assets/Business/Set_up_paypal_4.png)
 
 
 # You're now open for business 🎉
