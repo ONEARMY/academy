@@ -11,7 +11,7 @@ sidebar_label: Intro
 <style>
 :root {
   --highlight: #ffe084;
-  --links: rgb(131, 206, 235);
+  --links: #29bbe3;
   --hover: rgb(131, 206, 235);
 }
 </style>
