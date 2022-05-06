@@ -6,7 +6,8 @@ sidebar_label: Share back
 
 <style>
 :root {
-  --highlight: #f2a5c1;
+  --highlight: #f090b3;
+  --links: #f090b3;
   --hover: #f2a5c1;
 }
 </style>

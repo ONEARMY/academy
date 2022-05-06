@@ -6,7 +6,8 @@ sidebar_label: Universe explained
 
 <style>
 :root {
-  --highlight: #f2a5c1;
+  --highlight: #f090b3;
+  --links: #f090b3;
   --hover: #f2a5c1;
 }
 </style>
@@ -37,6 +38,7 @@ Within the Universe we have different Spaces. Each Space plays a different role.
 # The amount of Spaces locally.
 
 It's hard to say how many recycling Spaces you need in your local region. It depends on the density, amount of people and the volume of plastic they use. But to give you an indication here you can see the ratio between workspaces. Most noticeable: There are a big amount of Collection Points needed to gather the plastic, specially in the beginning to educate the people. And only 1 Community Point. In this way there is one point where Spaces can come together and collaborate with eachother.
+
 <img src="../assets/universe/number-spaces.jpg"/>
 
 
