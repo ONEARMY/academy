@@ -10,8 +10,9 @@ sidebar_label: Hello! 🤙
 
 <style>
 :root {
-  --highlight: #e1e1e1;
-  --hover: #e1e1e1;
+  --highlight: #ffe084;
+  --links: #29bbe3;
+  --hover: rgb(131, 206, 235);
 }
 </style>
 

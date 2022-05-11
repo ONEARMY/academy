@@ -9,8 +9,9 @@ sidebar_label: The Basics of Plastic
 
 <style>
 :root {
-  --highlight: #84cfec;
-  --hover:#84cfec;
+  --highlight: #ffe084;
+  --links: #29bbe3;
+  --hover: rgb(131, 206, 235);
 }
 </style>
 

@@ -8,8 +8,8 @@ sidebar_label: Download-Kit
 
 <style>
 :root {
-  --highlight: #e1e1e1;
-  --links: rgb(131, 206, 235);
+  --highlight: #ffe084;
+  --links: #29bbe3;
   --hover: rgb(131, 206, 235);
 }
 </style>
