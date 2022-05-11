@@ -51,7 +51,7 @@ At Precious Plastic we want to show the world the incredible opportunities of pl
 
 All plastic laying around you is a resource, not waste. It is a material with great potential, laying all around the world that, if processed correctly, can become something new and valuable. This resource can become a source of income or an educational tool for your community, while making sure it doesn’t enter our environment.
 
-<img style="padding: 50px" src="./assets/Intro/PP_universe.svg" width="500px"/>
+<img style="padding: 50px 0" src="./assets/Intro/PP_universe.svg" width="500px"/>
 
 We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a recycling workspace.
 
