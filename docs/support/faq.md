@@ -175,6 +175,7 @@ Plastic is a pretty strong material and as long as it's sorted and cleaned prope
 </p>
 </details>
 
+
 <details><summary><b>Can Precious Plastic recycle PET?</b></summary>
 <p>
 
