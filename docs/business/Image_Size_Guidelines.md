@@ -15,7 +15,7 @@ sidebar_label: Listing Guidelines
 # How to make good Bazar listings
 
 
-Putting some love into your listing will help you to attract customers and make them trust in the quality of your products.
+Putting some love into your listing will help you to attract customers and make them trust in the quality of your work.
 High quality content on the Bazar will also make the overall experience of the Bazar more successful and therefore make the users happier and result in **more traffic and sales for everyone!**
 
 >Good listings also have better chances to be **promoted on the Bazar homepage**, which will help to increase your visibility.
@@ -37,7 +37,7 @@ Take a look at this example.
 
 The content and quality of your images is probably one of the most important and powerful aspect to make your listing **informative and convincing**, so we will share some best practices here.
 
-Horizontal (landscape) images are highly encouraged for maximum visibility. The minimum recommended product image size is **794 x 1000 pixels** with a resolution of 72ppi.
+Horizontal (landscape) images are highly encouraged for maximum visibility. The minimum recommended listing image size is **794 x 1000 pixels** with a resolution of 72ppi.
 
 ![Product Image](../assets/Business/product.png)
 
