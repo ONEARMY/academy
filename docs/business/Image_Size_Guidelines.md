@@ -12,7 +12,7 @@ sidebar_label: Image Size Guidelines
 </style>
 
 
-# Image Size Guidelines 
+# Listing Guidelines 
 
 ## Logo Images
 
