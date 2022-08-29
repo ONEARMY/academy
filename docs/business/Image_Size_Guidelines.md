@@ -1,7 +1,7 @@
 ---
 id: Image_Size_Guidelines
 title: Image Size Guidelines
-sidebar_label: Image Size Guidelines
+sidebar_label: Listing Guidelines
 ---
 
 <style>
