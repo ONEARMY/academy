@@ -12,7 +12,7 @@ sidebar_label: Image Size Guidelines
 </style>
 
 
-# How to make good Bazar listings
+# Create precious listings on the Bazar
 
 
 Putting some love into your listing will help you to attract customers and make them trust in the quality of your work.
@@ -41,8 +41,6 @@ Horizontal (landscape) images are highly encouraged for maximum visibility. The 
 
 ![Product Image](../assets/Business/product.png)
 
-
-
 ### 3.1 Multiple angles
 
 Include pictures from various angles, and to ensure a **full view** of the item, its components and proportions.
@@ -51,8 +49,6 @@ It’s good practice to have both **clean photos** showing only the item itself,
 
 Take a look at [this example](https://bazar.preciousplastic.com/machines/sheetpress/sheet-press-kits/mini-press/). 
 ![Profile Logo](../assets/Business/bazar-listingguide-3.1.png)
-￼
-
 
 ### 3.2 Close ups & wide angles
 
@@ -61,7 +57,6 @@ Close ups as well as wide angles will help to get a feeling of the details and q
 Take a look at [this example](https://bazar.preciousplastic.com/moulds/injection-moulds/spinning-top-mold-clone/).
 ￼
 ![Profile Logo](../assets/Business/bazar-listingguide-3.2.png)
-
 
 ### 3.3 Shipping box (incl. dimensions)
  Especially when buying a machine, it is very useful for the customer to include a picture of the shipping box with dimensions. 
@@ -77,11 +72,12 @@ Take a look at [this example] (https://bazar.preciousplastic.com/machines/extrud
 ### 3.4 CAD drawings
 
 If available, it can help to share the CAD or technical drawings of the machine, mould or item.
- This can give a better understanding of **exact measurements and assembly**, which can help the customer to assess whether their existing equipment will be compatible with your item.  
+ This can give a better understanding of **exact measurements and assembly**, which can help the customer to assess whether their existing equipment will be compatible with your item. 
 Take a look at [this example](https://bazar.preciousplastic.com/machines/shredder/shredder-kits/upgraded-shredder-box-kit-new-version-3.3/).
 
 ![Profile Logo](../assets/Business/bazar-listingguide-3.4.png) 
-# 4. Description 
+# 4. Description
+
 As with pictures, having a **clear and detailed item description** will enable the customer to have no doubt on what they are buying, this will also help reduce your customer contact rate. 
 
 The buyer should be able to clearly understand all the key features, dimensions, conditions etc. **- everything they need to know** about what it is they're looking at, so that they can evaluate whether they are going to make a purchase or not.
@@ -94,7 +90,8 @@ Take a look at [this example](https://bazar.preciousplastic.com/machines/shredde
 
 ![Profile Logo](../assets/Business/bazar-listingguide-4.png)
 ￼
-## 5. Features 
+## 5. Features
+
 Completing the features section provided by the Precious Plastic Bazar helps the customer better understand the item he is buying and building trust with your store. 
 
 Please make sure you **fill out as many as possible, ideally all**.
@@ -119,12 +116,11 @@ Take a look at [this example](https://bazar.preciousplastic.com/machines/shredde
 
 ￼![Profile Logo](../assets/Business/bazar-listingguide-6.png)
 
-
 ## 7. Shipping options
 
 The more shipping options you have, the **wider range of customers** you can reach. 
 
-The easiest option to cover shipping options worldwide, is to set up a shipping price for **each of the biggest regions** (USA, South America, Europe, Africa, Russia, Asia, Oceania). Find here [more info about the regions](https://community.preciousplastic.com/academy/business/regions).
+The easiest option to cover shipping options worldwide, is to set up a shipping price for **each of the biggest regions** (USA, South America, Europe, Africa, Russia, Asia, Oceania). 
 
 If not set up per region, try to offer shipping for **as many countries as possible**.  We recommend having at the very least shipping options in **Europe and the United States** (as these are the most active user groups on the Bazar).
 
@@ -132,7 +128,7 @@ If not set up per region, try to offer shipping for **as many countries as possi
 
 Also make sure to pay attention to setting the price for each **additional item** (especially for machines it is very likely that double the quantity means double the shipping price).
 
-You can find here the [Guide to set up your shipping options](https://community.preciousplastic.com/academy/business/International_Shipping).
+You can find more about shipping and regions in our [Guide to set up your shipping options](https://community.preciousplastic.com/academy/business/International_Shipping).
 
 ![Profile Logo](../assets/Business/bazar-listingguide-7.png)
 
@@ -140,7 +136,7 @@ You can find here the [Guide to set up your shipping options](https://community.
 
 Ok, these are the guidelines we believe will **help your listings to perform well on the Bazar**. 
 
-To ensure a positive experience and performance throughout, make sure to also look at the **Profile Guidelines** and make your seller profile as informative, trustworthy and convincing as possible.
+To ensure a positive experience and performance throughout, make sure you have [set up your Seller account properly](https://community.preciousplastic.com/academy/business/Account_Setup) to make your your seller profile as informative, trustworthy and convincing as possible.
 
 Good luck and feel free to reach directly to us for help or if you think we’ve missed important tips on improving sellers listings. 
 
