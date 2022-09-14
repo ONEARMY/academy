@@ -14,15 +14,22 @@ sidebar_label: Set up payment
 
 # Set up your payment method
 
-In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As the standard payment processor on the Bazar, we use [Stripe](https://stripe.com/en-gb-de), and also recently added [Paypal](https://paypal.com/) as a second option. You will need to have at least one of those accounts to manage your payments, reimbursements, and invoices.
+In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As payment processors on the Bazar we provide [Stripe](https://stripe.com/en-gb-de) and [Paypal](https://paypal.com/). You will need to have at least one of those accounts to manage your payments, reimbursements, and invoices.
 
-# Stripe - Our standard payment processor
+Here you can jump directly to our guides:
+
+* 👉[Setup Stripe](#-Connect-your-Stripe-Account)
+* 👉[Setup Paypal](#-Connect-your-Paypal-Account)
+
+
+
+# Connect your Stripe Account
 
 First things first: To connect your Bazar account to Stripe, you will need a Stripe account.
 Don’t have one already? [Set up your Stripe account.](https://dashboard.stripe.com/register)
 
 - Creating an account is free
-- You need to have a registered organisation in a Stripe supported country [country](https://stripe.com/global)
+- You need to have a registered organisation in a Stripe supported  [country](https://stripe.com/global)
 - If your country is not supported, you can try setting up an account through Stripe [Atlas](https://stripe.com/atlas), or find another creative way around it
 
 Once you are set, you can connect your Bazar account to your Stripe account.
@@ -37,14 +44,12 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 ![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
 
 
-
 ## Step 2: Select processor (Stripe)
 
 - Select Stripe as processor, and fill other required infos
 - Then click on ‘configure’
 
 ![Select processor](../assets/Business/Set%20up%20payment-2-add%20method.png)
-
 
 
 ## Step 3: Connect to stripe
@@ -55,8 +60,6 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 ![Select processor](../assets/Business/Set%20up%20payment-3-Config.png)
 
 
-
-
 ## Step 4: Finish!
 
 - Click  ‘Create’ -  you should now see your payment method listed
@@ -64,7 +67,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 ![Select processor](../assets/Business/Set%20up%20payment-4-create.png) 
 
 
-# Connect to your Paypal Account
+# Connect your Paypal Account
 
 [Paypal](https://paypal.com/) is a very widely used payment tool that is very accessible in many countries. It can be good to offer it additionally to your Stripe payment method to avoid conflicts with Payments.
 
@@ -85,7 +88,7 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 
 - Select "Paypal Express Checkout" as processor
 - Then click on ‘configure’
-- 
+
 ![Payment methods](../assets/Business/Set_up_paypal_1.png)
 
 ## Step 3: Fill in Technical Details (1)
@@ -98,6 +101,7 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 ## Step 4: Fill in Technical Details (2)
 - Request your **Username, Password and Signature** in [Manage API Access](https://www.paypal.com/businessprofile/mytools/apiaccess/firstparty)
 - Copy it over into your Technical Details
+
 **When copying over names and numbers, make sure you're only copying the numbers & letters, and NOT empty spaces.**
 
 ![Payment methods](../assets/Business/Set_up_paypal_3.png)
@@ -115,24 +119,30 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 ![Payment methods](../assets/Business/Set_up_paypal_4.png)
 
 
-# You're now open for business 🎉
-Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼
-Before you leave this page, please stick around for the last important point!
+## You're now open for business 🎉
+Now you can start to create listings on the Bazar and start selling. Good luck 🙌🏼 Before you go and upload listings, please take a moment for this last important point!
 
 
 
-## The Bazar fee - 5% for the Community
-We would like to offer the services of the Bazar without any charges, but the reality is: Running, maintaining and improving a platform like the Bazar requires a lot of human resources and money.
+# The Bazar fee - 5% for the Community
+We would like to offer the services of the Bazar without any charges, but the reality is: Running, maintaining and improving a platform like the Bazar requires a lot of financial and human resources.
 
 This is why we have the Bazar fee, which means that 5% of each sale gets collected.
-It is then used to pay for the platform hosting, the bug-fixing, the technical support, the improvement and development of the platform etc.
+The fee is used to pay for the platform hosting, the bug-fixing, the technical support for sellers and customers, and in best case also the improvement and development of the platform.
 
-So by selling your precious things on the Bazar, you also contribute to making this plastic recycling marketplace as accessible and smooth for plastic recyclers to buy and sell and help them succeed in their recycling project. pre
+So by selling your precious things on the Bazar, you also contribute to making this plastic recycling marketplace as accessible and smooth for plastic recyclers to buy and sell and help them succeed in their recycling project. :)
 
-
-**How are the Bazar fees collected?** Every month we will send out invoices (via Stripe), charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
-
+> **How are the Bazar fees collected?** Every month we will send out invoices, charging 5% of the amount you sold that month. Keep this in mind and calculate this into your item prices!
 
 
-## Happy selling 💸
-Hope this is all clear, if you have any questions about this, best is to bring them up on the [#bazar-sellers channel](https://discord.gg/2E93VxB3CD) on Discord :)
+# Time to create listings 🎁
+
+Profile and payment methods are set up? 
+
+Then it's finally time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the Homepage, follow our [**Guidelines for creating good Bazar listings**](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
+
+## Questions? Feedback?
+
+Feel free to reach directly to us for help or if you think we’ve missed important tips and information.
+
+You can find us daily on Discord on the [#🙌bazar-seller channel](https://discord.gg/2E93VxB3CD) or can send us an email to **bazar@preciousplastic.com**.
