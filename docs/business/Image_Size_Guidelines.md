@@ -29,7 +29,6 @@ Stick to what the Bazar is made for as this is what customers will be looking fo
 
 The title of your item should be as straightforward as possible and include the essential elements of your item. It should not contain too much information but just enough for the customer to know straight away if this is what they are looking for. 
 
-Take a look at this example.
 ![Profile Logo](../assets/Business/bazar-listingguide-2.png)
 
 
@@ -131,7 +130,7 @@ You can find more about shipping and regions in our [**Guide to set up your ship
 
 Ok, these are the guidelines we believe will **help your listings to perform well on the Bazar**. Good luck!
 
-We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured on the homepage, make sure to check out and follow our guidelines [**how to get featured**](https://community.preciousplastic.com/academy/business/regions). 
+We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured (for example on the homepage, on email campaigns or social media) make sure to follow our guidelines [**how to get featured**](https://community.preciousplastic.com/academy/business/regions). 
 
 
 ## Questions? Feedback?
