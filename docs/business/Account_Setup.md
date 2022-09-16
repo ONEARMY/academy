@@ -55,8 +55,6 @@ Additionally, you can also add a photo of your workspace or shop to give some pe
 > Any relevant information that will provide detail to the customer on your business and make them **trust in your profile** and feel comfortable to purchase your items.
 
 
-*Example:*
-
 ![Profile Logo](../assets/Business/bazar-profileguide-5.png)
 
 
@@ -72,7 +70,7 @@ Make sure to make your profile recognisable by uploading a logo to your account.
 - The first logo is what will appear as your profile picture
 - The second logo is what will appear on your invoices to customers
 
-The recommended size for your logos is **250x250 pixels**, and the total size must be **under 5 MB**
+The recommended size for your logos is **250x250 pixels**, and the total size must be **under 5 MB**.
 
 ## 5. Give options to pay
 
@@ -88,10 +86,10 @@ If you need more information on how to set up payment options, please refer to t
 
 
 
-# All set? Happy selling!
+# All set? Time to create listings!
 If you fulfilled all of these steps, your profile should be set up well to sell and **perform well on the Bazar**. 
 
-To **get the most out of your listings** and increase your chances to get good sales and and promoted on the Homepage, follow our[Guidelines for creating good Bazar listings](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
+Now it's time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the Homepage, follow our [**Guidelines for creating good Bazar listings**](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
 
 ## Get your reviews
 
@@ -105,7 +103,7 @@ If customers do not leave a review on their own, you can **set your order status
 
 ## Questions? Feedback?
 
-Good luck and feel free to reach directly to us for help or if you think we’ve missed important tips on improving sellers listings. 
+Feel free to reach directly to us for help or if you think we’ve missed important tips and information.
 
 You can find us daily on Discord on the [#🙌bazar-seller channel](https://discord.gg/2E93VxB3CD) or can send us an email to **bazar@preciousplastic.com**.
 
