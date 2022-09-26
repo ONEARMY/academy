@@ -12,7 +12,7 @@ sidebar_label: Add Shipping Regions
 </style>
 
 
-# Get your listings featured
+# Get your listings featured ✨
 
 
 We love showcasing great work, and promote sellers who put love into their work and appearance on the Bazar.
@@ -31,11 +31,10 @@ By featuring a selection of items, the Bazar aims to:
 
 ## Where do we promote?
 
-- On the **Bazar Homepage** *(getting 6000+ unique page views per month)*
-- In **Bazar newsletters** *(going out to 6000+ customers / followers)*
-- On our **social media** ([Instagram](www.instagram.com/realpreciousplastic), [Facebook](www.facebook.com/preciousplasticcommunity)) *(exposing your work to ~100k followers)*
+- On the [Bazar Homepage](bazar.preciousplastic.com)
+- In **Bazar newsletters** to Bazar users and followers
+- On our **social media** ([Instagram](www.instagram.com/realpreciousplastic), [Facebook](www.facebook.com/preciousplasticcommunity))
 
-﻿
 ## Selection criteria 🧐
 
 These are the criteria we're looking for when selecting items to feature:
@@ -48,7 +47,7 @@ Rank in the **top 25** of relevant KPI | The listing must be in the top 25 of th
 **Not previously featured** | A listing that was already featured in the previous two months will not be selected. | Nice to have
 **Listing diversity** | Different types of listings will be selected within a section. *For example: We won’t select 2 moulds of the same shape.* | Nice to have
 **Seller diversity** | We aim to showcase listings from various sellers, to equally promote different projects in different countries. | If possible
-￼
+
 # Happy Selling ✌️
 
 Good luck and feel free to reach directly to us for help or if you have questions or ideas for increasing your visibility and sales on the Bazar :)
