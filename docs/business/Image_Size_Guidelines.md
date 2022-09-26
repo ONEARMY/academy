@@ -1,7 +1,7 @@
 ---
 id: Image_Size_Guidelines
-title: Image Size Guidelines
-sidebar_label: Image Size Guidelines
+title: Listing guidelines 
+sidebar_label: Listing guidelines
 ---
 
 <style>
@@ -27,7 +27,7 @@ Stick to what the Bazar is made for as this is what customers will be looking fo
 
 ## 2. Title
 
-The title of your item should be as straightforward as possible and include the essential elements of your item. It should not contain too much information but just enough for the customer to know straight away if this is what they are looking for. 
+The title of your item should be as straightforward as possible and include the essential elements of your item. It should not contain too much information but just enough for the customer to know straight away if this is what they are looking for.
 
 ![Profile Logo](../assets/Business/bazar-listingguide-2.png)
 
@@ -111,7 +111,7 @@ Listings with multiple options generally perform better as customers love to cho
 
 The more shipping options you have, the **wider range of customers** you can reach. 
 
-The easiest option to cover shipping options worldwide, is to set up a shipping price for **each of the biggest regions** (USA, South America, Europe, Africa, Russia, Asia, Oceania). 
+The easiest option to cover shipping options worldwide, is to set up a shipping price for **each of the biggest regions** (USA, South America, Europe, Africa, Russia, Asia, Oceania).
 
 If not set up per region, try to offer shipping for **as many countries as possible**.  We recommend having at the very least shipping options in **Europe and the United States** (as these are the most active user groups on the Bazar).
 
@@ -128,7 +128,7 @@ You can find more about shipping and regions in our [**Guide to set up your ship
 
 Ok, these are the guidelines we believe will **help your listings to perform well on the Bazar**. Good luck!
 
-We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured (for example on the homepage, on email campaigns or social media) make sure to follow our guidelines [**how to get featured**](https://community.preciousplastic.com/academy/business/regions). 
+We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured (for example on the homepage, on email campaigns or social media) make sure to follow our guidelines [**how to get featured**](https://community.preciousplastic.com/academy/business/regions).
 
 
 ## Questions? Feedback?

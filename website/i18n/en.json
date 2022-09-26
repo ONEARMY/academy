@@ -86,22 +86,20 @@
         "sidebar_label": "Business Plan Template"
       },
       "business/Image_Size_Guidelines": {
-        "title": "Image Size Guidelines",
-        "sidebar_label": "Image Size Guidelines"
+        "title": "Listing guidelines",
+        "sidebar_label": "Listing guidelines"
       },
-
+      "business/International_Shipping": {
+        "title": "Set up shipping",
+        "sidebar_label": "Set up shipping"
+      },
+      "business/regions": {
+        "title": "Get featured",
+        "sidebar_label": "Get featured"
+      },
       "business/Setup_Payment": {
         "title": "Setup payment",
         "sidebar_label": "Set up payment"
-      },
-      "business/International_Shipping": {
-        "title": "International Shipping",
-        "sidebar_label": "International Shipping"
-      },
-      "business/regions": {
-        "title": "Add Shipping Regions",
-        "sidebar_label": "Add Shipping Regions"
-
       },
       "business/workspacecalculator": {
         "title": "Workspace calculator",

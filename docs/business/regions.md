@@ -1,7 +1,7 @@
 ---
 id: regions
-title: Add Shipping Regions
-sidebar_label: Add Shipping Regions
+title: Get featured
+sidebar_label: Get featured
 ---
 
 <style>
@@ -17,7 +17,7 @@ sidebar_label: Add Shipping Regions
 
 We love showcasing great work, and promote sellers who put love into their work and appearance on the Bazar.
 
-**If you would like to see your listings featured, make sure to follow the guidelines below.** 
+**If you would like to see your listings featured, make sure to follow the guidelines below.**
 
 ## Why featuring?
 

@@ -1,7 +1,7 @@
 ---
 id: International_Shipping
-title: International Shipping
-sidebar_label: International Shipping
+title: Set up shipping
+sidebar_label: Set up shipping
 ---
 
 <style>
@@ -9,7 +9,7 @@ sidebar_label: International Shipping
   --highlight: #f7b77b;
   --hover: #f7b77b;
 }
-</style> 
+</style>
 
 ![Bazar Images](../assets/Business/world_map.jpeg)
 
@@ -18,13 +18,13 @@ sidebar_label: International Shipping
 Users from all over the world visit the Bazar on a daily basis. It’s important for you as a seller to have your shipping options set up properly, so your listings are ready to be purchased without any barrier.
 
 > **What if I don't provide shipping options?** Customers of different locations will see that your product is not set up to be shipped to their country. They can write a message to you to request to add their location, but many customers don't do this extra step, so **you can loose your sale**.
- 
-Setting this up in the beginning, will create a smoother experience for both sides, and can be of big help to increase your sales on the Bazar. 
+
+Setting this up in the beginning, will create a smoother experience for both sides, and can be of big help to increase your sales on the Bazar.
 
 
 
 ## 1. Domestic shipping
-As a minimum your product needs to have a domestic (your country) shipping price. 
+As a minimum your product needs to have a domestic (your country) shipping price.
 
 There are generally two options to set up a shipping price:
 
@@ -40,7 +40,7 @@ You can also apply a shipping rate across a region, which will apply to all coun
 
 > Setting up shipping for many regions will widen your audience and customers, but be sure to know what prices and conditions you're dealing with **before**, so you don't run into complications during a transaction with a customer.
 
-The regions show up by default, but if you don't want to offer shipping to all regions, you can remove individual areas manually (and also add them again later if you wish to). 
+The regions show up by default, but if you don't want to offer shipping to all regions, you can remove individual areas manually (and also add them again later if you wish to).
 
 As the shipping rates might vary even within a region, you can also add a different shipping rate for specific countries *(more about this in the next point)*.
 
@@ -64,8 +64,8 @@ Yes! You can set up a price that is suitable for most of the countries in a regi
 ![Login](../assets/Business/IS_4.png)
 
 
-### Make sure to add the Bazar’s largest markets 
-Not all locations are equal in impact. There are certain countries where many of the Bazar users are located. Make sure to add shipping options for these locations in order to increase the likelihood of a sale. 
+### Make sure to add the Bazar’s largest markets
+Not all locations are equal in impact. There are certain countries where many of the Bazar users are located. Make sure to add shipping options for these locations in order to increase the likelihood of a sale.
 
 ![Bazar Images](../assets/Business/IS_5.png)
 
