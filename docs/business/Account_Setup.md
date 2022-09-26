@@ -20,7 +20,7 @@ To build and strengthen your business on the Bazar, it's important to have a tru
 
 **Here are some Guidelines on how to set up an appealing profile.** 
 
-> Info: Only listings with proper seller profiles will be **promoted on the Bazar homepage**, which will help to increase your visibility and sales.
+> Info: Only listings with proper seller profiles will be **promoted on the homepage, newsletters and social media**, which will help to increase your visibility and sales.
 
 ## 1. Go to your seller profile 
 

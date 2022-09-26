@@ -18,7 +18,7 @@ sidebar_label: Image Size Guidelines
 Putting some love into your listing will help you to attract customers and make them trust in the quality of your work.
 High quality content on the Bazar will also make the overall experience of the Bazar more successful and therefore make the users happier and result in **more traffic and sales for everyone!**
 
->Good listings also have better chances to be **promoted on the Bazar homepage**, which will help to increase your visibility.
+>Good listings also have better chances to be **promoted on the homepage, newsletters and social media**, which will help to increase your visibility and sales.
 
 **Here are some Guidelines on how to create an appealing listing that has higher chances to be sold.** [This video](https://www.loom.com/share/b1df010a31b04a79b034f723b579cc4e) will go over the essential elements to consider, they will also be explained below.
 
@@ -63,14 +63,13 @@ This will help the customer **know what to expect when receiving the item** and 
 It also shows that you have been through this step before and makes you more **trustworthy**.
 
 ![Profile Logo](../assets/Business/bazar-listingguide-3.3.png)
-￼
 
 ### 3.4 CAD drawings
 
 If available, it can help to share the CAD or technical drawings of the machine, mould or item.
  This can give a better understanding of **exact measurements and assembly**, which can help the customer to assess whether their existing equipment will be compatible with your item.
 
-![Profile Logo](../assets/Business/bazar-listingguide-3.4.png) 
+![Profile Logo](../assets/Business/bazar-listingguide-3.4.png)
 
 # 4. Description
 
@@ -83,11 +82,10 @@ The buyer should be able to clearly understand all the key features, dimensions,
 If applicable, you could also include your terms & conditions.
 
 ![Profile Logo](../assets/Business/bazar-listingguide-4.png)
-￼
 
 ## 5. Features
 
-Completing the features section provided by the Precious Plastic Bazar helps the customer better understand the item he is buying and building trust with your store. 
+Completing the features section provided by the Precious Plastic Bazar helps the customer better understand the item he is buying and building trust with your store.
 
 Please make sure you **fill out as many as possible, ideally all**.
 

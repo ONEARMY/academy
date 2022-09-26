@@ -12,16 +12,12 @@ sidebar_label: Set up payment
 </style>
 
 
-# Set up your payment method
+# Set up your payment method 💸
 
 In order to sell on the Bazar, you will have to make sure that you have your payment set up properly. As payment processors on the Bazar we provide [Stripe](https://stripe.com/en-gb-de) and [Paypal](https://paypal.com/). You will need to have at least one of those accounts to manage your payments, reimbursements, and invoices.
 
-Here you can jump directly to our guides:
 
-* 👉[Setup Stripe](#-Connect-your-Stripe-Account)
-* 👉[Setup Paypal](#-Connect-your-Paypal-Account)
-
-
+![Payment methods](../assets/Business/Stripelogo.png)
 
 # Connect your Stripe Account
 
@@ -66,6 +62,7 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 
 ![Select processor](../assets/Business/Set%20up%20payment-4-create.png) 
 
+![Payment methods](../assets/Business/Paypallogo.png)
 
 # Connect your Paypal Account
 
@@ -139,7 +136,7 @@ So by selling your precious things on the Bazar, you also contribute to making t
 
 Profile and payment methods are set up? 
 
-Then it's finally time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the Homepage, follow our [**Guidelines for creating good Bazar listings**](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
+Then it's finally time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the homepage, newsletters and social media, follow our [**Guidelines for creating good Bazar listings**](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
 
 ## Questions? Feedback?
 
