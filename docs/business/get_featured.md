@@ -1,5 +1,5 @@
 ---
-id: regions
+id: get_featured
 title: Get featured
 sidebar_label: Get featured
 ---

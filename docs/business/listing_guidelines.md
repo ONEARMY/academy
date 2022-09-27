@@ -1,6 +1,6 @@
 ---
-id: Image_Size_Guidelines
-title: Listing guidelines 
+id: listing_guidelines 
+title: Listing guidelines
 sidebar_label: Listing guidelines
 ---
 

@@ -85,17 +85,17 @@
         "title": "Business Plan Template",
         "sidebar_label": "Business Plan Template"
       },
-      "business/Image_Size_Guidelines": {
+      "business/get_featured": {
+        "title": "Get featured",
+        "sidebar_label": "Get featured"
+      },
+      "business/listing_guidelines": {
         "title": "Listing guidelines",
         "sidebar_label": "Listing guidelines"
       },
-      "business/International_Shipping": {
+      "business/set_up_shipping": {
         "title": "Set up shipping",
         "sidebar_label": "Set up shipping"
-      },
-      "business/regions": {
-        "title": "Get featured",
-        "sidebar_label": "Get featured"
       },
       "business/Setup_Payment": {
         "title": "Setup payment",

@@ -59,9 +59,9 @@
 	"business/Account_Setup",
 	      "business/Account_Setup",
         "business/Setup_Payment",
-        "business/Image_Size_Guidelines",
-	      "business/International_Shipping",
-	      "business/regions"
+        "business/listing_guidelines",
+	      "business/set_up_shipping",
+	      "business/get_featured"
         ]
       }
 

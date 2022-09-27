@@ -1,5 +1,5 @@
 ---
-id: International_Shipping
+id: set_up_shipping
 title: Set up shipping
 sidebar_label: Set up shipping
 ---
