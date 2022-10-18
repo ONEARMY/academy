@@ -57,7 +57,7 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 > __Pro tip 1 :__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
 
 
-![Categories] (assets/create/categories.jpg)
+![How to](assets/create/categories.jpg)
 
 ## Categories
 
@@ -66,7 +66,7 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 ### ⚙️ Machines
 ✅ Cover image should show the fully built machine<br>
 ✅ Include files to replicate the machine (drawings, cad, 3d files etc..)<br>
-👍 Few steps we advise having:<br>
+👍 Few steps we advise having:
 - Step 1 > Explain the machine<br>
 - Step 2 > Mention tools required<br>
 - Step 3 > Challenges building the machine <br>
@@ -77,7 +77,7 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 ### 💅 Moulds
 ✅ Cover image should show the fully built mould<br>
 ✅ Include files to replicate the mould (cad, 3d files etc..)<br>
-👍 Few steps we advise having:<br>
+👍 Few steps we advise having:
 - Step 1 > Explain the mould<br>
 - Step 2 > Mention tools required<br>
 - Step 3 > Challenges producing the mould <br>
@@ -89,7 +89,7 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 ### 🔫 Products
 ✅ Cover image should show the final product<br>
 👍 Include files to replicate the product if needed<br>
-👍 Few steps we advise having:<br>
+👍 Few steps we advise having:
 - Step 1 > Explain the product<br>
 - Step 2 (as many steps as needed) > Talk about the process<br>
 - Step 3 (as many steps as needed) > Challenges making the product<br>
@@ -100,7 +100,7 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 ### 📖 Guides
 ✅ Cover image should show the topic of the guide<br>
 👍 Include files to replicate if needed<br>
-👍 Few steps we advise having:<br>
+👍 Few steps we advise having:
 - Step 1 > Explain the Guide<br>
 - Step 2 (as many steps as needed) > Talk about the process<br>
 - Step 3 (as many steps as needed) > Talk about the challenges<br>
