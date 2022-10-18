@@ -22,7 +22,7 @@ This is a powerful place on the web. Here people from around the world (like you
 > Pro-tip: have a look at our [how-tos](https://community.preciousplastic.com/how-to) its fun to browse around :)
 
 # How to make... a How-to
-Ok, you’ve had a look around the how-tos, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot.  Here a few guidelines to take in account
+Ok, you’ve had a look around the how-tos, perhaps used some of them, and now you’re ready to post your own. We and everyone in the Precious Plastic community really REALLY appreciates you taking the time to document your valuable information. Processes and development can be complex. It’s easy to get lost in the perfection of creating the perfect how-to with 45 steps. Aim for that. We love those. But realistically most other makers can get a lot of information from a good 3D model or a few pictures. If you upload that with a few steps thats explain roughly whats going on and why you are doing already helps a lot. Here a few guidelines to take in account
 
 
 
@@ -64,48 +64,48 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Guides. Each category has some slightly different requirements (✅) and guidelines (👍). Learn below how to optimise your How-to to fit its category.
 
 ### ⚙️ Machines
-✅ Cover image should show the fully built machine
-✅ Include files to replicate the machine (drawings, cad, 3d files etc..)
-👍 Few steps we advise having:
-Step 1 > Explain the machine
-Step 2 > Mention tools required
-Step 3 > Challenges building the machine 
-Step 4 > Explain how to run it
-Step 5 > Tips & tricks
-Step 6 > Link to the Bazar if you sell it there
+✅ Cover image should show the fully built machine<br>
+✅ Include files to replicate the machine (drawings, cad, 3d files etc..)<br>
+👍 Few steps we advise having:<br>
+- Step 1 > Explain the machine<br>
+- Step 2 > Mention tools required<br>
+- Step 3 > Challenges building the machine <br>
+- Step 4 > Explain how to run it<br>
+- Step 5 > Tips & tricks<br>
+- Step 6 > Link to the Bazar if you sell it there<br>
 
 ### 💅 Moulds
-✅ Cover image should show the fully built mould
-✅ Include files to replicate the mould (cad, 3d files etc..)
-👍 Few steps we advise having:
-Step 1 > Explain the mould
-Step 2 > Mention tools required
-Step 3 > Challenges producing the mould 
-Step 4 > Explain how to use the mould
-Step 5 > Tips & tricks
-Step 6 > Show the final product
-Step 7 > Link to the Bazar if you sell it there
+✅ Cover image should show the fully built mould<br>
+✅ Include files to replicate the mould (cad, 3d files etc..)<br>
+👍 Few steps we advise having:<br>
+- Step 1 > Explain the mould<br>
+- Step 2 > Mention tools required<br>
+- Step 3 > Challenges producing the mould <br>
+- Step 4 > Explain how to use the mould<br>
+- Step 5 > Tips & tricks<br>
+- Step 6 > Show the final product<br>
+- Step 7 > Link to the Bazar if you sell it there<br>
 
 ### 🔫 Products
-✅ Cover image should show the final product
-👍 Include files to replicate the product if needed
-👍 Few steps we advise having:
-Step 1 > Explain the product
-Step 2 (as many steps as needed) > Talk about the process
-Step 3 (as many steps as needed) > Challenges making the product
-Step 5 > Tips & tricks
-Step 6 > Show the final product
-Step 7 > Link to the Bazar if you sell it there
+✅ Cover image should show the final product<br>
+👍 Include files to replicate the product if needed<br>
+👍 Few steps we advise having:<br>
+- Step 1 > Explain the product<br>
+- Step 2 (as many steps as needed) > Talk about the process<br>
+- Step 3 (as many steps as needed) > Challenges making the product<br>
+- Step 5 > Tips & tricks<br>
+- Step 6 > Show the final product<br>
+- Step 7 > Link to the Bazar if you sell it there<br>
 
 ### 📖 Guides
-✅ Cover image should show the topic of the guide
-👍 Include files to replicate if needed
-👍 Few steps we advise having:
-Step 1 > Explain the Guide
-Step 2 (as many steps as needed) > Talk about the process
-Step 3 (as many steps as needed) > Talk about the challenges
-Step 5 > Tips & tricks
-Step 6 > Show the final outcome
+✅ Cover image should show the topic of the guide<br>
+👍 Include files to replicate if needed<br>
+👍 Few steps we advise having:<br>
+- Step 1 > Explain the Guide<br>
+- Step 2 (as many steps as needed) > Talk about the process<br>
+- Step 3 (as many steps as needed) > Talk about the challenges<br>
+- Step 5 > Tips & tricks<br>
+- Step 6 > Show the final outcome<br>
 
 
 ## Guidelines
