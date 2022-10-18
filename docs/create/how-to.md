@@ -56,7 +56,59 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 
 > __Pro tip 1 :__ Best is to always document (with lots of notes & photos) during the entire process of whatever you’re doing, so you have content ready for documenting.
 
-# Guidelines
+
+![Categories] (assets/create/categories.jpg)
+
+## Categories
+
+Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Guides. Each category has some slightly different requirements (✅) and guidelines (👍). Learn below how to optimise your How-to to fit its category.
+
+### ⚙️ Machines
+✅ Cover image should show the fully built machine
+✅ Include files to replicate the machine (drawings, cad, 3d files etc..)
+👍 Few steps we advise having:
+Step 1 > Explain the machine
+Step 2 > Mention tools required
+Step 3 > Challenges building the machine 
+Step 4 > Explain how to run it
+Step 5 > Tips & tricks
+Step 6 > Link to the Bazar if you sell it there
+
+### 💅 Moulds
+✅ Cover image should show the fully built mould
+✅ Include files to replicate the mould (cad, 3d files etc..)
+👍 Few steps we advise having:
+Step 1 > Explain the mould
+Step 2 > Mention tools required
+Step 3 > Challenges producing the mould 
+Step 4 > Explain how to use the mould
+Step 5 > Tips & tricks
+Step 6 > Show the final product
+Step 7 > Link to the Bazar if you sell it there
+
+### 🔫 Products
+✅ Cover image should show the final product
+👍 Include files to replicate the product if needed
+👍 Few steps we advise having:
+Step 1 > Explain the product
+Step 2 (as many steps as needed) > Talk about the process
+Step 3 (as many steps as needed) > Challenges making the product
+Step 5 > Tips & tricks
+Step 6 > Show the final product
+Step 7 > Link to the Bazar if you sell it there
+
+### 📖 Guides
+✅ Cover image should show the topic of the guide
+👍 Include files to replicate if needed
+👍 Few steps we advise having:
+Step 1 > Explain the Guide
+Step 2 (as many steps as needed) > Talk about the process
+Step 3 (as many steps as needed) > Talk about the challenges
+Step 5 > Tips & tricks
+Step 6 > Show the final outcome
+
+
+## Guidelines
 
 ### ✏️ Text
 - max. 700 characters per step
