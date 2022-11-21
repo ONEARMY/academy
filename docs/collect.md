@@ -73,7 +73,7 @@ There are numerous challenges connected with the way plastic is currently collec
 
 ## The Precious Plastic Collection System
 
-You probably know by know, but Precious Plastic is focused on citizens: people, just like us, just like you, taking action. We invite you to become more involved in your plastic waste and become part of the solution. By providing the information and infrastructure, community can be a tool for change.
+You probably know by now, but Precious Plastic is focused on citizens: people, just like us, just like you, taking action. We invite you to become more involved in your plastic waste and become part of the solution. By providing the information and infrastructure, community can be a tool for change.
 
 So how does this work for collecting plastic? Great question 😉
 
