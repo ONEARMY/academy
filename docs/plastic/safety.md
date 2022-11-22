@@ -125,7 +125,7 @@ When working with plastic, you should have an activated carbon filter gas mask, 
 
 <img style="margin-left: 0;" src="../assets/plastic/ventilation_three.jpg" width="600"/>
 
-LEV stands for Local Exhaust Ventilation, which is an industry standard to ventilate toxic air efficiently. This system is made of three parts: a hood for allowing contaminant clouds to enter the LEV, ducting which transfers air and the contaminant from the hood to the discharge point, and attached to a centrifugal fan with 780-1000 cubic meter (of what?) per hour.
+LEV stands for Local Exhaust Ventilation, which is an industry standard to ventilate toxic air efficiently. This system is made of three parts: a hood for allowing contaminant clouds to enter the LEV, ducting which transfers air and the contaminant from the hood to the discharge point, and attached to a centrifugal fan with 780-1000 cubic meter per hour.
 
 ## Activated Carbon
 
