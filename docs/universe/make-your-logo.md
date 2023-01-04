@@ -14,7 +14,7 @@ sidebar_label: Make your logo
 
 # Make your own logo!
 
-Hi there, good to see you. In this page we will show you how to make your own Precious Plastic logo. We have a few guidelines and tips and trick that help you make a good logo. We provide some files in the [download kit](../download) and have a cool online tools as well But more on that later. Overal the goal is to help you to have a strong logo to use for your Space. One that uses the worldwide brand recognition of Precious Plastic, is customized to your environment and works within the [ Universe ](../universe/universe).
+Hi there, good to see you. In this page we will show you how to make your own Precious Plastic logo. We have a few guidelines and some tips and tricks that will help you make a good logo. We provide some files in the [download kit](../download) and have a cool online tools as well, but more on that later. Overall the goal is to help you to have a strong logo to use for your Space. One that uses the worldwide brand recognition of Precious Plastic, is customized to your environment and works within the [ Universe ](../universe/universe).
 
 >We are open-source so you can basically do whatever you want, but if we all stick to the guideliness everything will run smooth and we collaborate on a global scale
 
