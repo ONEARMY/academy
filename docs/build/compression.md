@@ -158,4 +158,4 @@ Unique patterns |
 - [Hack: Solar Powered Melting Machine](https://davehakkens.nl/community/forums/topic/solar-powered-melting-machine/)
 - [How-to: Wall Clock](https://www.youtube.com/watch?v=e_jqIvSFfI4)<br>
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to our [Discord server](https://discordapp.com/invite/XQDmQVT). Here we talk nerdy about machines.**
