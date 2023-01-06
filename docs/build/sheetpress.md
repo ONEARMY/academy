@@ -115,4 +115,4 @@ The aluminum pressing plates are 1220x1220mm but there is often an overflow from
 * [How to bend sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
 * [How to build a shelving system with sheets](https://community.preciousplastic.com/how-to/make-a-shelving-system)
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head over to our [Discord server](https://discordapp.com/invite/XQDmQVT). Here we talk nerdy about machines.**

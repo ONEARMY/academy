@@ -113,4 +113,4 @@ Some examples of extrusion times for some moulds:
 * [Documentation of hopper cones](http://craig-russell.co.uk/demos/cone_calculator/)
 * [Documentation](http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf)
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head over to our [Discord server](https://discordapp.com/invite/XQDmQVT). Here we talk nerdy about machines.**

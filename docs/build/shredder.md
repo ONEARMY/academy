@@ -164,4 +164,4 @@ Portable |
 
 
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head over to our [Discord server](https://discordapp.com/invite/XQDmQVT). Here we talk nerdy about machines.**
