@@ -26,7 +26,7 @@ For example:
 For the machine files, here’s what to remember:
 
 ## Download files folder structure
-!(https://drive.google.com/file/d/1XvFsGTYaeWwieMNPBtCrSgEmQJ3ttnWI/view?usp=drive_link)
+![Fold structure example](assets/guides/machines-1.png)
 
 - Including the original format for 3D files is good but should always come together with a **STEP** file so that people can open it in different 3D Modelling softwares.
 - For laser cut files, **.DXF** generally works best and if there’s any engraving, make sure to include that information in your steps.
@@ -41,7 +41,7 @@ For the machine files, here’s what to remember:
 # Steps structure:
 ## How to title: 
 Ex. “Solar powered injection machine” (just the name of what it is, keep it simple).
-!(https://drive.google.com/file/d/1mxbO3aGBfAarraoIhBJs9PkALNI38imz/view?usp=drive_link)
+![Names examples](assets/guides/machines-2.png)
 *DO NOT USE PRECIOUS PLASTIC’S OFFICIAL MACHINE MODELS NUMBERING SYSTEM. 
 
 ## How to cover: 
@@ -52,7 +52,7 @@ Ex. “Solar powered injection machine” (just the name of what it is, keep it 
 - Add any other important or interesting information about the product/mould.
 
 ### Cover picture:
-!(https://drive.google.com/file/d/1AO54TFE9ilZqS_dU7TMonlPbGLUSpFhy/view?usp=drive_link)
+![Cover image examples](assets/guides/machines-3.png)
 It can be a render or a picture of the built machine in front of a clean background (or as clean as possible).
 
 ### Step #1 - Title:  Download.
@@ -68,7 +68,7 @@ In this folder you will find:
 ... and more :)
 
 #### Picture:
-!(https://drive.google.com/file/d/1pQR6ow-ls58OlTHYJZybGdopaPdScHBf/view?usp=drive_link)
+![Picture example](assets/guides/machines-4.png)
 Picture can be a render or a blueprint sample.
 
 
@@ -95,7 +95,7 @@ Now describe the needed skills to build this machine. Here is a non-exhaustive l
 - …
 
 #### Picture:
-!(https://drive.google.com/file/d/1nWWo2izcJn5Xe0ehSHFJ4ZpzkIBwl3Wa/view?usp=drive_link)
+![Machine example](assets/guides/machines-5.png)
 Picture should be of the machine built, **not** a render.
 
 ### Step 3: Run, create and sell :)   
@@ -107,7 +107,7 @@ Picture should be of the machine built, **not** a render.
 - Invite to sell and or buy in the Bazar.
 
 #### Picture:
-!(https://drive.google.com/file/d/1LgBR8dAPInoHTXJFYuFsvUZ2m31FPV5C/view?usp=drive_link)
+![Operation example](assets/guides/machines-6.png)
 Picture of the machine running and/ or of the product obtained
 
 
