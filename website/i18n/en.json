@@ -137,6 +137,9 @@
         "title": "Download",
         "sidebar_label": "Download-Kit"
       },
+      "guides/guidelines-moulds": {
+        "title": "guides/guidelines-moulds"
+      },
       "guides/machine-inventory": {
         "title": "Machine Inventory",
         "sidebar_label": "Research"

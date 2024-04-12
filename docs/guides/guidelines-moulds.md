@@ -23,7 +23,7 @@ For the mould files, here’s what to remember:
 ## Steps structure
 ### How to title: “_____ Mould” 
 Just the name of what it is, keep it simple.
-!(https://drive.google.com/file/d/1TpHzGOUQeml1z9-PymVvedFxYAwzXCYY/view?usp=drive_link)
+![How-to title examples](assets/guides/moulds-1.png)
 
 ### Intro/banner
 #### Text:
@@ -32,7 +32,7 @@ Add any other important or interesting information about the product/mould.
 
 #### Cover picture: 
 The best is to show the mould next to the final product, so people can easily recognize what they can make with it.
-!(https://drive.google.com/file/d/1FASRP2c1DdRlpXy9E9bM0IcMbKk4GVZF/view?usp=drive_link)
+![Cover image examples](assets/guides/moulds-2.png)
 
 ### Step 1 - Title: Download:
 #### Text:
@@ -44,8 +44,7 @@ The best is to show the mould next to the final product, so people can easily re
 
 #### Step picture: 
 Can be a render, screenshot of the 3D model or blueprint (basically what people will find in the download zip): 
-!(https://drive.google.com/file/d/1YjXrehveyWorSc4X6GdHwWOcN6BX42J2/view?usp=drive_link)
-
+![Step Picture examples](assets/guides/moulds-3.png)
 
 ### Step 2 - Title: Manufacture:
 #### Text:
@@ -55,7 +54,7 @@ Can be a render, screenshot of the 3D model or blueprint (basically what people 
 
 #### Step picture (if applicable): 
 Tools and materials needed layed out or close up to manufactured mould (not a render)
-!(https://drive.google.com/file/d/1AMYllwuKOHLPtowqAE3pYpObW-FzKO9_/view?usp=drive_link)
+![Tools and materials example images](assets/guides/moulds-4.png)
 
 
 ### Step 3 - Title: Inject! / Extrude! / Press! (Depending for what machine is the mould for):
@@ -67,7 +66,7 @@ Tools and materials needed layed out or close up to manufactured mould (not a re
 
 #### Step picture: 
 Mould open after injecting, finished product and/or different applications of the same product
-!(https://drive.google.com/file/d/1U7BGrRb83djG2-g8V9RLb3N2QrDu8fCZ/view?usp=drive_link)
+![Finished mould examples](assets/guides/moulds-5.png)
 
 ## Check some good mould how-tos for some inspiration:
 - [Flower Pot mould](https://community.preciousplastic.com/how-to/flowerpot-mould)
