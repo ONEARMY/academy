@@ -16,7 +16,7 @@ sidebar_label: Hello! 🤙
 }
 </style>
 
-# Welcome to the Precious Plastic Academy!
+# hummuss
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
