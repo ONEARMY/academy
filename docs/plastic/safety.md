@@ -159,4 +159,4 @@ If you take the proper safety precautions of a proper gas mask and extraction fi
 2. [Removal of VOCs from polluted air](http://beta.chem.uw.edu.pl/people/AMyslinski/nowy/zarzadzanie_01/literature_HWW/02.pdf)       
 3. [Evaluation of GAC filters to remove VOCs](https://www.isiaq.org/docs/papers/940.pdf)
 
-<b>Want to share feedback, chat about safety or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>

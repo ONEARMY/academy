@@ -59,4 +59,4 @@ Graphics are a powerful tool to communicate a message. We use it to share dry fu
 
 <img src="../assets/universe/posters.png" />
 
-<b>Have yout got any questions, need help making your poster or want to share what you made? Head to the [#Universe](https://discordapp.com/invite/QUw8A3w) channel on Discord. Here we talk about how you fit in the universe, roles, branding and your own logo.</b>
+<b>Have you got any questions, need help making your poster or want to share what you made? Head to the [#🤙community](https://discord.com/channels/586676777334865928/1176890008733483090) channel on Discord and use the tags Community or Showcase. Here we talk about community-related content, how you fit in the universe, roles, branding, your own logo and more.</b>

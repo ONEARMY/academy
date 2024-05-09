@@ -18,7 +18,7 @@ sidebar_label: FAQ
 <details><summary><b>How do I get started?</b></summary>
 <p>
 
-Our [main website](https://preciousplastic.com/) explains the overall picture of Precious Plastic. The [Academy](https://community.preciousplastic.com/academy/intro.html) has video tutorials and information for you to learn how to start recycling plastic. The [Map](https://community.preciousplastic.com/map) and [Discord](https://discord.com/invite/rnx7m4t) can connect you with recyclers in your local area. Be sure to add a pin to the map when you are up and running!
+Our [main website](https://preciousplastic.com/) explains the overall picture of Precious Plastic. The [Academy](https://community.preciousplastic.com/academy/intro.html) has video tutorials and information for you to learn how to start recycling plastic. The [Map](https://community.preciousplastic.com/map) and [Discord](https://discord.gg/gwkbpsWbAB) can connect you with recyclers in your local area. Be sure to add a pin to the map when you are up and running!
 </p>
 </details>
 
@@ -27,7 +27,7 @@ Our [main website](https://preciousplastic.com/) explains the overall picture of
 
 Precious Plastic is an open-source project. This means that you can share back your knowledge with the rest of the community to help grow the recycling base. There are two main ways to do so: 
 - How-Tos, these are step by step instructions that show tips and tricks you have discovered during your recycling journey. Whether these are a machine hack, new product, mould, event hosting or anything in between, we want to hear about them!
-- [Discord](https://discord.com/invite/rnx7m4t), share your know-how helping people who come with questions on our Discord. The best thing is to help new recyclers avoid mistakes you may have made so that more quality recycling can happen more often. We are very happy for people to share their knowledge and are grateful.
+- [Discord](https://discord.gg/gwkbpsWbAB), share your know-how helping people who come with questions on our Discord. The best thing is to help new recyclers avoid mistakes you may have made so that more quality recycling can happen more often. We are very happy for people to share their knowledge and are grateful.
 
 </p>
 </details>
@@ -118,7 +118,7 @@ If you build them according to our drawings, it should be ok. Overall they are s
 <details><summary><b>What are the requirements? (Space, tools/equipment, money, time, people)</b></summary>
 <p>
 
-It's different for every machine, the best place to find this information is in the [Build](https://community.preciousplastic.com/academy/build) section of the Academy. If you have any further questions, ask the community on [Discord](https://discord.com/invite/rnx7m4t).
+It's different for every machine, the best place to find this information is in the [Build](https://community.preciousplastic.com/academy/build) section of the Academy. If you have any further questions, ask the community on [Questions](https://community.preciousplastic.com/questions) if it's a technical question or on [Discord](https://discord.gg/gwkbpsWbAB) if it's about other topics..
 
 </p>
 </details>
@@ -133,7 +133,7 @@ You can find all the output technical details on the [starterkit](https://precio
 <details><summary><b>I have a technical question, where can I get help?</b></summary>
 <p>
 
-You can use [Discord](https://discord.com/invite/rnx7m4t). Many talented and informed community members and engineers are there and might be able to help you!
+You can use [Questions](https://community.preciousplastic.com/questions). Many talented and informed community members and engineers are there and might be able to help you!
 </p>
 </details>
 
@@ -179,7 +179,7 @@ Plastic is a pretty strong material and as long as it's sorted and cleaned prope
 <details><summary><b>Can Precious Plastic recycle PET?</b></summary>
 <p>
 
-We don’t have solutions for PET yet, head over to [Discord](https://discord.com/invite/rnx7m4t) and help us develop novel solutions to deal with PET.
+We don’t have solutions for PET yet, head over to [Discord](https://discord.gg/gwkbpsWbAB) and help us develop novel solutions to deal with PET.
 </p>
 </details>
 
@@ -201,7 +201,7 @@ Nop, we don't sell products.</p>
 <details><summary><b>I have an idea for a product, can you make it for me?</b></summary>
 <p>
 
-Nop, currently we cannot help you with product design. You can use the [Map](https://community.preciousplastic.com/map) to find a workspace to help you or chat with people on [Discord](https://discord.com/invite/rnx7m4t).</p>
+Nop, currently we cannot help you with product design. You can use the [Map](https://community.preciousplastic.com/map) to find a workspace to help you or chat with people on [Discord](https://discord.gg/gwkbpsWbAB).</p>
 </details>
 
 
@@ -306,7 +306,7 @@ The Community Program aims to help and reward the people and projects contributi
 <details><summary><b>Is there a translated version of the Academy?</b></summary>
 <p>
 
-Translation has been requested since day one and has been difficult to figure out. We have content in many different formats and platforms. Additionally, a community interfacing in many different languages can be more confusing than helpful. For these reasons we have translation on hold. But for now you can access REGIONS channels on [Discord](https://discord.com/invite/rnx7m4t) to chat in your language.
+Translation has been requested since day one and has been difficult to figure out. We have content in many different formats and platforms. Additionally, a community interfacing in many different languages can be more confusing than helpful. For these reasons we have translation on hold. But for now you can access REGIONS channels on [Discord](https://discord.gg/gwkbpsWbAB) to chat in your language.
 </p>
 </details>
 
@@ -366,14 +366,15 @@ Would love to but it is not possible at the moment :( If you would like to see a
 <details><summary><b>I'm stuck with something. Can I contact you to ask you a question?</b></summary>
 <p>
 
-[Discord](https://discord.com/invite/rnx7m4t) is the best places to ask questions and find answers from the community! If you're a Patreon supporter you can head to the Patreon Helpdesk on Discord.
+[Questions](https://community.preciousplastic.com/questions) is the best places to ask technical questions and find answers from the community! If you're looking to connect with community members, join [Discord](https://discord.gg/gwkbpsWbAB). 
+If you're a Patreon supporter you can head to the Patreon Helpdesk on Discord.
 </p>
 </details>
 
 <details><summary><b>I am doing a research project and would like to ask a few questions about the project?</b></summary>
 <p>
 
-Unfortunately, we can’t directly answer questions as we are a small team. We have all our information on the Academy and you can talk to many active people on our [Discord](https://discord.com/invite/rnx7m4t). Also contacting your local workspace on the [Map](https://community.preciousplastic.com/map) is another way to get great information.
+Unfortunately, we can’t directly answer questions as we are a small team. We have all our information on the Academy and you can talk to many active people on our [Discord](https://discord.gg/gwkbpsWbAB). Also contacting your local workspace on the [Map](https://community.preciousplastic.com/map) is another way to get great information.
 </p>
 </details>
 
@@ -383,4 +384,4 @@ Unfortunately, we can’t directly answer questions as we are a small team. We h
 Well we'd love to talk to you! Please visit our [Support](https://preciousplastic.com/support.html) page and find out how you can help.</p>
 </details>
 
-### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our Discord. There's a rundown of all the channels in the Chat section next.
+### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our Discord or to send us an email in community@preciousplastic.com

@@ -247,4 +247,5 @@ To make sure that the 3d files are solid closed geometries helps to speed up the
 
 Polygonal software like 3ds max, Cinema 4D, (Blender) and openSCAD are insufficient to build closed geometry. They can be used in rare cases like complex organic models, however then the complete process becomes more complicated in manufacturing.
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+

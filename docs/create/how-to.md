@@ -64,6 +64,7 @@ Ok now for the good stuff. Each step needs an intro, a description and photos. Y
 Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Guides. Each category has some slightly different requirements (✅) and guidelines (👍). Learn below how to optimise your How-to to fit its category.
 
 ### ⚙️ Machines
+> See specific guidelines [here](https://community.preciousplastic.com/academy/guides/guidelines-machines)
 ✅ Cover image should show the fully built machine<br>
 ✅ Include files to replicate the machine (drawings, cad, 3d files etc..)<br>
 👍 Few steps we advise having:
@@ -75,6 +76,7 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 - Step 6 > Link to the Bazar if you sell it there<br>
 
 ### 💅 Moulds
+> See specific guidelines [here](https://community.preciousplastic.com/academy/guides/guidelines-moulds)
 ✅ Cover image should show the fully built mould<br>
 ✅ Include files to replicate the mould (cad, 3d files etc..)<br>
 👍 Few steps we advise having:
@@ -146,4 +148,5 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 
 Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community! Sit back, relax and feel your [karma points](https://community.preciousplastic.com/academy/universe/contribute#5-reasons-why-you-should-share-back) growing.
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+

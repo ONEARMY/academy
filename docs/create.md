@@ -104,4 +104,5 @@ Made a cool product? Figured out how to streamline your production? Had a great 
 
 We’ve been busy designing the tools, resources and framework you need to run a Precious Plastic recycling workspace, and now you have all of the knowledge, it’s up to you to make it work in your local community and take it to the next level. Whether you want to create products, make moulds, hack the machines, collaborate with other designers/engineers, experiment, teach others, host collection parties, whichever you choose, make sure to keep the Precious Plastic spirit with you: be open, be collaborative.
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+

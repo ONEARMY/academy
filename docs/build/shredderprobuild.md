@@ -233,4 +233,4 @@ We designed a fully closed version of the hopper to prevent the plastic from jum
 
 You could use the shredder with no sieve, but in order to achieve different flake size standards - see input & output chapter - we provided different sieve designs to be cut. You can get your own drilled hole plates, but we designed these sieves to be the perfect sizes for our standards, with a denser holes concentration for efficiency and with a line for easy welding.
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>

@@ -196,4 +196,5 @@ Batch production ||
 - [How-to: Broom Hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)<br>
 - [Development: The Story Behind the Piranhaclamp](https://davehakkens.nl/community/forums/topic/the-story-behind-the-piranhaclamp/)<br>
 
-**If you need help, have questions or looking for someone to talk to in your lonely cold workspace. Head to the [#build](https://discordapp.com/invite/XQDmQVT) channel on Discord. Here we talk nerdy about machines.**
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+

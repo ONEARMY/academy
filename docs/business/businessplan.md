@@ -93,4 +93,4 @@ Click on the link below to open the document, and click File > Make a copy and y
 - Quality over quantity - don’t write more information if it’s not needed. You only have people's attention for so long, so don’t waste it.
 - This is an example outline for a business plan based on Precious Plastic business tools, but there are also other formats out there that may suit you better.
 
-<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>
+<b> If you want to chat with people locally and globally about your business, check out the Business tag on the [🤙community] channel on Discord (https://discord.com/channels/586676777334865928/1176890008733483090). We love numbers. Business models, revenue, bazar etc 🤑</b>

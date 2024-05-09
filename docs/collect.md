@@ -110,4 +110,4 @@ For people in our community we’re developed:
 - <b>Posters</b> for your workspace or for your community to help spread the word
 - A <b>tool to weigh</b> how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
 
-<b>Want to share feedback, chat about collecting plastic or learn more from the community? Head to the [#Collect](https://discordapp.com/invite/kpnYaEr) channel on Discord. Here we talk about the Collection system, Pickup points and how to sort plastic.</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
