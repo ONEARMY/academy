@@ -45,13 +45,13 @@ We advise to not change the logo to much, but this is still a bit..abstract. So 
 <img src="../assets/universe/not-3-variables.jpg" />
 
 ## Good & Not so good
-Below a few examples that stick to the guideliness and some that are not. Good luck with you own logo. If you need help or feedback join our [Discord](https://discordapp.com/invite/zmf98dw).  
+Below a few examples that stick to the guideliness and some that are not. Good luck with you own logo. If you need help or feedback join our [#🤙community](https://discord.com/channels/586676777334865928/1176890008733483090) channel on Discord.  
 <img src="../assets/universe/logo-examples.jpg" />
 
 
 
 # Let's make your logo!
-We provide 2 options to make your own logo. For both you need to install the Precious Plastic fonts. Make sure to keep the above guidelines in mind and if if you need help you can ask around in our [#Universe](https://discordapp.com/invite/QUw8A3w) channel in Discord.
+We provide 2 options to make your own logo. For both you need to install the Precious Plastic fonts. Make sure to keep the above guidelines in mind and if you need help you can ask around in our [#🤙community](https://discord.com/channels/586676777334865928/1176890008733483090) channel in Discord.
 
 1. **The oldschool way:** Download al the files and templates from the [download-kit](../download). You can use your own software to modify. Photoshop, Illustrator, GIMP, Sketch, paint. Whatever gets you going.
 
@@ -66,4 +66,4 @@ Enjoy & be creative!
 
 <img src="../assets/universe/figma-logo.gif" />
 
-<b>Have questions or need help making your logo? Head to the [#Universe](https://discordapp.com/invite/QUw8A3w) channel on Discord. Here we talk about how you fit in the universe, roles, branding and your own logo.</b>
+<b>Have questions or need help making your logo? Head to the [#🤙community](https://discord.com/channels/586676777334865928/1176890008733483090) channel on Discord. Here we talk about community-related content, how you fit in the universe, roles, branding, your own logo and more.</b>

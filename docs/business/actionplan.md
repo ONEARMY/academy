@@ -106,4 +106,4 @@ This is how you’ll be able to measure your success.
 - It’s much easier to revise the Action Plan than a full business plan. Take your action plan around to people you trust and respect to get their feedback and update your plan based on their advice. Focus on asking friends or family that are examples of your target groups - their feedback is the most important.
 - Check out the Starter kit!
 
-<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>
+<b> If you want to chat with people locally and globally about your business, check out the Business tag on the [🤙community] channel on Discord (https://discord.com/channels/586676777334865928/1176890008733483090). We love numbers. Business models, revenue, bazar etc 🤑</b>

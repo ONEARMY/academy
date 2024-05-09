@@ -98,4 +98,5 @@ Right on! OK now you have a pile of your products, itâ€™s time to mark them. Itâ
 
 </div>
 
-<b>Want to share feedback, chat about products/product design or learn more from the community? Head to the [#Create](https://discordapp.com/invite/yhmfzTZ) channel on Discord. Here we talk about product design, mouldmaking, color blends, finishing... everything to create precious objects!</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+

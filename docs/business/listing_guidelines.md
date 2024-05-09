@@ -135,4 +135,4 @@ We love showcasing great work, and support sellers who put love into their work 
 
 Feel free to reach directly to us for help or if you think we’ve missed important information and tipps.
 
-You can find us daily on Discord on the [#🙌bazar-seller channel](https://discord.gg/2E93VxB3CD) or can send us an email to **bazar@preciousplastic.com**.
+You can find us daily on Discord on the [#🛒bazar channel](https://discord.com/channels/586676777334865928/1177318319443939348) or can send us an email at **bazar@preciousplastic.com**.

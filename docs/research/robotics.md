@@ -119,4 +119,4 @@ The light enters the entrance slit that restricts light access so we only get th
 
 With this set up it is possible to exide molecules and measure their response, and then transfer the information to a computer for further analysis. Thanks to our team member Alejandro for his work so far. The Precious Plastic scanner is still very much a work in progress, but what’s exciting are the capabilities and possibilities of the system.
 
-<b>Want to learn more or share your knowledge? Head to the [#robotics](https://discordapp.com/invite/5UYM4Sd) and [#plastic scanner](https://discordapp.com/invite/Khxfgg7) channels on Discord. Here we talk efficiency, sorting, scanning and of course, robots 🤖</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>

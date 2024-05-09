@@ -182,4 +182,4 @@ The problem with designing a business tool to be applicable all across the world
 - The “money needed to start” also includes one month of operational costs, but if you want to be conservative, you might want something more like 3-6 months of operational costs available when you start.
 - “Full time employees needed” assumes a 40 hour work week, but this might be more or less depending on the work culture of your area.
 
-<b>Want to share feedback or chat business or learn more from the community? Head to the [#business](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk money. We love numbers. Business models, revenue, bazar etc 🤑</b>
+You can find us daily on Discord on the [#🛒bazar channel](https://discord.com/channels/586676777334865928/1177318319443939348) or can send us an email at **bazar@preciousplastic.com**.

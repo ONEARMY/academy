@@ -203,6 +203,6 @@ So, there are different types of plastic and one reason why  it’s so important
 ![Melting Temperatures](assets/plastic/melting-temperatures.jpg)
 <br>
 
-<b>Want to share feedback, chat about plastic or learn more from the community? Head to the [#plastic](https://discordapp.com/invite/n5d8Vrr) channel on Discord. Here we talk about plastic, safety, fumes and material properties.</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
 
 Ok that's it for the Basics of Plastic, we hope you learnt something! Check out the next chapter with Jerry to get even deeper into some of these topics.

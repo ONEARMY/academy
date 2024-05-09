@@ -104,4 +104,4 @@ And don’t be afraid to spice the place up with your own unique charm! Plants, 
 
 You’ve built your space. Nice! We’re all learning together, so be sure to share back any hacks or developments that have helped you improve your space 🙂
 
-<b>Want to share feedback, chat about the Shredder Workspace or learn more from the community? Head to the [#Spaces](https://discordapp.com/invite/p92s237) channel on Discord. Here we answer questions and give tips on setting up your workspace and how to run it.</b>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>

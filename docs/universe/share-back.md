@@ -36,9 +36,14 @@ __5. 🙃 Five sounds better then four:__ So point 5 is just to make a point
 
 # Centralised documentation: How to’s
 
-Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Forums, Discord, Slack, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [how-tos](https://community.preciousplastic.com/how-to). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other how-to. Its a place to centralise all the things we as a community learn. Because there is still a lot to figure out when it comes to plastic recycling. So we need each other.
+Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Questions, Discord, GitHub, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [how-tos](https://community.preciousplastic.com/how-to). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other how-to. Its a place to centralise all the things we as a community learn. We need each other.
 
-> Note: The how-tos are still very much under development. Many features like commenting and saving are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest
+# Questions
+Because there is still a lot to figure out when it comes to plastic recycling, we've started working on [Questions](https://community.preciousplastic.com/questions).
+It's a section designed to facilitate the exchange of technical knowledge and expertise within the Precious Plastic community in the long-term. 
+In a nutshell, its purpose it's to help you find answers to your technical questions about plastic recycling, machine operation, material properties and more.
+
+> Note: The Questions section is still very much under development. Many features like marking as completed and adding media to the comments are still missing. But the more you use it the easier for us to gather feedback and add improvements. So help us pioneering to make it better for the rest.
 
 # Tag us! #preciousplastic
 When you share your creations with the world, please mention/tag Precious Plastic. Why?
