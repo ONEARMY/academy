@@ -9,7 +9,7 @@
 // site configuration options.
 
 const siteConfig = {
-  title: "Precious Plastic Toolbox", // Title for your website.
+  title: "", // Title for your website.
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
   baseUrl: "/academy/",
@@ -28,7 +28,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [{ doc: "intro", label: "Academy" }],
+  headerLinks: [],
 
 
 
