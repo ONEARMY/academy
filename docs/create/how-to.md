@@ -148,5 +148,5 @@ Each How-to can be part of one of 4 categories: Machines, Moulds, Products or Gu
 
 Super awesome. You’re part of this journey with us and we are so grateful you’re sharing your knowledge with the rest of the Precious Plastic community! Sit back, relax and feel your [karma points](https://community.preciousplastic.com/academy/universe/contribute#5-reasons-why-you-should-share-back) growing.
 
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [Discord](https://discord.gg/gwkbpsWbAB).</p>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
 

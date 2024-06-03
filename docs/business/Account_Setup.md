@@ -105,7 +105,7 @@ If customers do not leave a review on their own, you can **set your order status
 
 Feel free to reach directly to us for help or if you think we’ve missed important tips and information.
 
-You can find us daily on Discord on the [#🛒bazar channel](https://discord.com/channels/586676777334865928/1177318319443939348) or can send us an email to **bazar@preciousplastic.com**.
+You can find us daily on Discord on the [#🛒bazar](https://discord.com/channels/586676777334865928/1177318319443939348) channel or can send us an email to **bazar@preciousplastic.com**.
 
 
 

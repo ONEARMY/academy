@@ -52,4 +52,4 @@ Rank in the **top 25** of relevant KPI | The listing must be in the top 25 of th
 
 Good luck and feel free to reach directly to us for help or if you have questions or ideas for increasing your visibility and sales on the Bazar :)
 
-You can find us daily on Discord on the [#🛒bazar channel](https://discord.com/channels/586676777334865928/1177318319443939348) or can send us an email at **bazar@preciousplastic.com**.
+You can find us daily on Discord on the [#🛒bazar](https://discord.com/channels/586676777334865928/1177318319443939348) channel or can send us an email at **bazar@preciousplastic.com**.

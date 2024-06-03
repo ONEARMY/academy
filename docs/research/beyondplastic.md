@@ -171,4 +171,5 @@ For all of the other natural binders mentioned above: all of them bind at a pret
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/UD57zOGqAPs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the [🌍beyond-plastic](https://discord.com/channels/586676777334865928/1177320429099159552) channel on Discord.</p>
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.com/channels/586676777334865928/1177320429099159552">🌍beyond-plastic</a> channel on Discord.</p>
+
