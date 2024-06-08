@@ -12,7 +12,7 @@ const siteConfig = {
   title: "", // Title for your website.
   tagline: "A website for testing",
   url: "https://onearmy.github.io", // Your website URL
-  baseUrl: "/academy/",
+  baseUrl: "/food-better-academy/",
   onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",
@@ -74,7 +74,7 @@ const siteConfig = {
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
     "https://buttons.github.io/buttons.js",
-    "/academy/js/custom.js",
+    "/food-better-academy/js/custom.js",
     "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
   ],
   stylesheets: [
