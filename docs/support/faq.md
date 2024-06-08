@@ -384,4 +384,4 @@ Unfortunately, we can’t directly answer questions as we are a small team. We h
 Well we'd love to talk to you! Please visit our [Support](https://preciousplastic.com/support.html) page and find out how you can help.</p>
 </details>
 
-### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our Discord or to send us an email in community@preciousplastic.com
+### That's a lot of questions! The quickest way to get anything answered that isn't here is to head to our [Questions](https://community.preciousplastic.com/questions) module!
