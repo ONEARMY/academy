@@ -12,9 +12,9 @@ sidebar_label: Hello! 🤙
 }
 </style>
 
-# Welcome to Food Better!
+# Welcome
 
-The goal is to offer a community where people can share adjustments (small and large) they make to their eating habits, which all together, have a big impact on the world.
+The goal is to offer a community where people can share adjustments (small and large) they make to their eating habits, which all together, have an impact on the world.
 
 Food can be a senstive topic. One day at work, I was speaking with a colleague during lunch, a good, funny guy. The fact he is vegan was mentioned casually. I immediately felt a pang of defensiveness. After a moment, I could explain my feelings: it was as if his decision to not eat animal products reflected badly on me. His basic existance was now a judgement against me. This internal defensiveness shutsdown logic and openess. He did nothing wrong.
 
@@ -26,3 +26,8 @@ But as always: the first time is the hardest and don't let good be the enemy of 
 
 ## What does the *better* in Food Better mean?
 placeholder 
+
+## Format
+titles of how-tos should be nouns.
+
+titles of Research Articles should start with a verb.
