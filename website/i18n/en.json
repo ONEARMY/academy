@@ -143,6 +143,9 @@
       "guides/guidelines-moulds": {
         "title": "guides/guidelines-moulds"
       },
+      "guides/guidelines-questions": {
+        "title": "guides/guidelines-questions"
+      },
       "guides/machine-inventory": {
         "title": "Machine Inventory",
         "sidebar_label": "Research"
@@ -161,7 +164,7 @@
       },
       "intro": {
         "title": "Intro",
-        "sidebar_label": "Hello! 🤙"
+        "sidebar_label": "Hello!"
       },
       "plastic/basics": {
         "title": "The Basics of Plastic",
@@ -210,6 +213,10 @@
       "spaces/shredder": {
         "title": "Setup a Shredder Workspace",
         "sidebar_label": "Shredder"
+      },
+      "start": {
+        "title": "start",
+        "sidebar_label": "start learning! 👋"
       },
       "styles": {
         "title": "Styles",

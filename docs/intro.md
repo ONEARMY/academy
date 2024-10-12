@@ -1,71 +1,112 @@
 ---
 id: intro
 title: Intro
-sidebar_label: Hello! 🤙
+sidebar_label: Hello!
 ---
 
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/dP1s7viFZHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+# Welcome to the Community Platform: the place where people meet, share and collaborate to tackle the plastic waste problem.
 
-<style>
-:root {
-  --highlight: #ffe084;
-  --links: #29bbe3;
-  --hover: rgb(131, 206, 235);
-}
-</style>
+  
 
-# Welcome to the Precious Plastic Academy!
+  
 
-<div class="videoChapters">
-<div class="videoChaptersMain">
+## Academy to learn recycling
 
-### Awesome to see you are interested in recycling plastic.
-We've created this collection of videos, tutorials and content to share the most crucial things we've learned over the past 7 years about transforming plastic waste into valuable products.
+  
 
-We will teach you about the basics of plastic - what types there are and how to identify them, collecting and separating plastic, building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more.
+The central place for the knowledge and methodology developed by Precious Plastic, during Version 4, the most recent version of our solutions. You'll find video tutorials, tips, drawings and much more on topics like plastic, machines, moulds, product design and business.
 
-We’ve created download kits and templates so once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world!
+  
 
-</div>
-<div class="videoChaptersSidebar">
+##### [Visit Academy](https://community.preciousplastic.com/academy)
 
-### Video Chapters
+  
+![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89b6a42a4252f621765_Academy.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89b6a42a4252f621765_Academy.png)
+  
 
-- 00:00 Introduction
-- 00:42 What will you learn
-- 01:40 Help & Feedback
-- 02:01 Donate
-- 02:30 Spread the project
+## Questions to seek support
 
-</div>
-</div>
+  
+
+Questions is a dedicated space for you to ask questions and seek support related to plastic recycling, if the information is not in our different knowledge libraries. This space allows you to engage with others, share knowledge, and find solutions to common challenges faced while tackling the plastic waste problem.
+
+Have a question about plastic recycling? If you haven’t found the answer in our knowledge libraries, ask the community and get the answers you need!
+
+  
+
+##### [Visit Questions](https://community.preciousplastic.com/questions?sort=Newest)
+
+![https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151032_vfrfx8.png](https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151032_vfrfx8.png)
+
+  
+
+  
+
+## Map to connect people
 
 
-![Open Source](assets/Intro/opensource.svg)
+Search and find recycling spaces near you, connect, meet and start collaborating to push local plastic recycling in your area.
 
-## But wait - why did you do this?
 
-At Precious Plastic we want to show the world the incredible opportunities of plastic waste in order to eliminate plastic pollution, reducing the demand for new virgin plastic and closing its materials loop while creating better livelihoods for people around the world. Precious Plastic is, above all, a cultural tool to change the way society perceives plastic.
+You’ll be able to find 1300 organisations* who can be machine and mould builders, plastic collection points or workspaces who transform plastic and connect with almost 4000* people who want to get started!
 
-All plastic laying around you is a resource, not waste. It is a material with great potential, laying all around the world that, if processed correctly, can become something new and valuable. This resource can become a source of income or an educational tool for your community, while making sure it doesn’t enter our environment.
+Make sure to [create your own pin](https://community.preciousplastic.com/academy/guides/platform) if you are running a Precious Plastic space.
 
-<img style="padding: 50px 0" src="./assets/Intro/PP_universe.svg" width="500px"/>
 
-We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a recycling workspace.
+##### [Visit Map](https://community-platform.webflow.io/u/map)
+  
 
-## Open source & License
-We share everything open source for anyone to use and benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Precious Plastic and shapes most decisions within our team. We believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively.
+![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89c946b12c2e0bd6ef3_Map.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89c946b12c2e0bd6ef3_Map.png)
+  
 
-Different parts of this project are under different license conditions
+## How-to, solutions from the community
 
-- **Content:** All our content is licensed under Creative Commons Attribution - Sharealike International 4.0. You can read a summary of that [here](https://creativecommons.org/licenses/by-sa/4.0/), or check out the full [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-- **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/academy/blob/master/LICENSE).
+  
 
-## Support & get involved
-If you are in the position to help there are many ways you can <a href="https://support.preciousplastic.com/">support Precious Plastic.</a>
+This is knowledge shared by the community.
 
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
+  
 
-Ok, let's dive in!
+A How-to is a tool for people to share step-by-step guides on how they use their creativity to make plastic precious. Learn how people around the world create machines, moulds, make products, collect plastic and more.
+
+  
+  
+
+With more than 230* How-tos already open-sourced on our platform, there's plenty to explore.
+
+  
+  
+
+If you have a unique solution, make sure to share it so more people can learn from you and work together to fix the plastic waste problem.
+
+  
+
+##### [Visit How-to](https://community-platform.webflow.io/u/how-to)
+
+
+![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89cc5e98ce652fb9b4b_How-To.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89cc5e98ce652fb9b4b_How-To.png)
+  
+
+  
+
+## Research to create new solutions
+
+  
+
+A place for users to share, collaborate and discuss various research findings, innovative ideas, and best practices in the field of plastic waste management.
+
+  
+
+Community members can engage in discussions about the 34* ongoing research topics, provide feedback, and collaborate on projects.
+
+  
+
+##### [Visit Research](https://community.preciousplastic.com/research?sort=LatestUpdated)
+
+  
+
+![https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151024_cmjrzz.png](https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151024_cmjrzz.png)
+  
+
+
+###### ***Last update: 09/2024**
