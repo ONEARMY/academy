@@ -4,109 +4,103 @@ title: Intro
 sidebar_label: Hello!
 ---
 
-# Welcome to the Community Platform: the place where people meet, share and collaborate to tackle the plastic waste problem.
+<style>
+:root {
+  --highlight: #ffe084;
+  --links: #29bbe3;
+  --hover: rgb(131, 206, 235);
+}
+</style>
 
+<div class="introHeroTitle">
   
+# Welcome to the </br> Community Platform
+## The place where people meet, share and collaborate to tackle the plastic waste problem.
 
-  
+</div>
 
-## Academy to learn recycling
+<div class="explanationSection">
+<div class="explanationItem">
+<div class="explanationText">
 
-  
+## Get started learning in our Academy
 
-The central place for the knowledge and methodology developed by Precious Plastic, during Version 4, the most recent version of our solutions. You'll find video tutorials, tips, drawings and much more on topics like plastic, machines, moulds, product design and business.
+The central place for the knowledge and methodology developed by Precious Plastic. You'll find video tutorials, tips, drawings and much more on topics like plastic, machines, moulds, product design and business. 
 
-  
+[Visit Academy](https://community.preciousplastic.com/academy)
 
-##### [Visit Academy](https://community.preciousplastic.com/academy)
 
-  
-![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89b6a42a4252f621765_Academy.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89b6a42a4252f621765_Academy.png)
-  
+</div>
+<img src="assets/Intro/module_academy.png" alt="screenshot preview of the academy module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
 
-## Questions to seek support
+## Ask Questions to get support
 
-  
-
-Questions is a dedicated space for you to ask questions and seek support related to plastic recycling, if the information is not in our different knowledge libraries. This space allows you to engage with others, share knowledge, and find solutions to common challenges faced while tackling the plastic waste problem.
+Questions is a dedicated space for you to ask questions and seek support related to plastic recycling, if the information is not in our different modules. This space allows you to engage with others, share knowledge, and find solutions to common challenges faced while tackling the plastic waste problem.
 
 Have a question about plastic recycling? If you haven’t found the answer in our knowledge libraries, ask the community and get the answers you need!
 
-  
+[Visit Questions](https://community.preciousplastic.com/questions)
 
-##### [Visit Questions](https://community.preciousplastic.com/questions?sort=Newest)
 
-![https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151032_vfrfx8.png](https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151032_vfrfx8.png)
+</div>
+<img src="assets/Intro/module_questions.png" alt="screenshot preview of the questions module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
 
-  
-
-  
-
-## Map to connect people
-
+## Browse the Map to connect with people
 
 Search and find recycling spaces near you, connect, meet and start collaborating to push local plastic recycling in your area.
 
-
-You’ll be able to find 1300 organisations* who can be machine and mould builders, plastic collection points or workspaces who transform plastic and connect with almost 4000* people who want to get started!
+You’ll be able to find X organisations* who can be machine and mould builders, plastic collection points or workspaces who transform plastic and connect with more than X* people who want to get started!
 
 Make sure to [create your own pin](https://community.preciousplastic.com/academy/guides/platform) if you are running a Precious Plastic space.
 
+[Visit Map](https://community.preciousplastic.com/map)
 
-##### [Visit Map](https://community-platform.webflow.io/u/map)
-  
 
-![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89c946b12c2e0bd6ef3_Map.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89c946b12c2e0bd6ef3_Map.png)
-  
+</div>
+<img src="assets/Intro/module_map.png" alt="screenshot preview of the map module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
 
-## How-to, solutions from the community
+## Find solutions from the community in how-tos
 
-  
+This is knowledge shared by the community. 
+A How-to is a tool for people to share files, documents and guides on how they use their creativity to make plastic precious. Learn how people around the world create machines, moulds, make products, collect plastic and more. 
 
-This is knowledge shared by the community.
-
-  
-
-A How-to is a tool for people to share step-by-step guides on how they use their creativity to make plastic precious. Learn how people around the world create machines, moulds, make products, collect plastic and more.
-
-  
-  
-
-With more than 230* How-tos already open-sourced on our platform, there's plenty to explore.
-
-  
-  
+With more than X* How-tos already open-sourced on our platform, there's plenty to explore. 
 
 If you have a unique solution, make sure to share it so more people can learn from you and work together to fix the plastic waste problem.
 
-  
-
-##### [Visit How-to](https://community-platform.webflow.io/u/how-to)
+[Visit How-tos](https://community.preciousplastic.com/how-to)
 
 
-![https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89cc5e98ce652fb9b4b_How-To.png](https://cdn.prod.website-files.com/5e004b03e5da773c54823bfb/5e12b89cc5e98ce652fb9b4b_How-To.png)
-  
+</div>
+<img src="assets/Intro/module_howtos.png" alt="screenshot preview of the how-tos module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
 
-  
-
-## Research to create new solutions
-
-  
+## Help with Research to create new solutions
 
 A place for users to share, collaborate and discuss various research findings, innovative ideas, and best practices in the field of plastic waste management.
 
-  
 
-Community members can engage in discussions about the 34* ongoing research topics, provide feedback, and collaborate on projects.
+Community members can engage in discussions about the X* ongoing research topics, provide feedback, and collaborate on projects.
 
-  
-
-##### [Visit Research](https://community.preciousplastic.com/research?sort=LatestUpdated)
-
-  
-
-![https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151024_cmjrzz.png](https://res.cloudinary.com/dttm21ef8/image/upload/v1725648250/Captura_de_tela_2024-09-06_151024_cmjrzz.png)
-  
+[Visit Research](https://community.preciousplastic.com/research)
 
 
-###### ***Last update: 09/2024**
+</div>
+<img src="assets/Intro/module_research.png" alt="screenshot preview of the research module" width="420" height="300" class="explanationImage">
+</div>
+</div>
+
+<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
+
+Ok, let's dive in!
