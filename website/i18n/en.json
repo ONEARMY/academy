@@ -143,6 +143,9 @@
       "guides/guidelines-moulds": {
         "title": "guides/guidelines-moulds"
       },
+      "guides/guidelines-questions": {
+        "title": "guides/guidelines-questions"
+      },
       "guides/machine-inventory": {
         "title": "Machine Inventory",
         "sidebar_label": "Research"

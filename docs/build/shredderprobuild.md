@@ -22,9 +22,14 @@ sidebar_label: - Build it
 
 # Build a Shredder Pro
 
-So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world!
+So you want to shred plastic? Cool! We have 2 different shredders: the original small Shredder, and the Shredder Pro. This is the Pro - it's more robust, advanced and productive than the smaller one, but also more complex to build. But if you're familiar with building machines it's very doable, and you can also buy parts on the bazar. Or the whole machine! You could even sell them yourself. The Shredder is actually the most requested machine around the world! 
 
->Tip: Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerances are definitely tighter. So you need to make sure your tools and skills are up for the job
+**Pro:**  Building a Shredder Pro requires a bit more advanced tools and skills than the normal shredder. The tools itself are still relative basic techniques and can be found anywhere in the world. But the tolerances are definitely tighter. So you need to make sure your tools and skills are up for the job
+
+
+> UPDATE 🚨 A new Shredder Pro is now available! Developed in collaboration with WEIMA, it’s more robust and safe but also more complex to build. You can find all the drawings and information to build and operate this machine <a href="https://community.preciousplastic.com/how-to/shredder-pro-by-weima-10">here</a></p>
+
+
 
 
 </div>

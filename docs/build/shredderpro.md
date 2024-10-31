@@ -26,6 +26,8 @@ sidebar_label: - Overview
 |  - Output Speed   | 15-25 r/min|
 |  - Minimum Service Factor   | 1,5 (2,2kW) / 1,2 (3kW)|
 
+> UPDATE 🚨 A new Shredder Pro is now available! Developed in collaboration with WEIMA, it’s more robust and safe but also more complex to build. You can find all the drawings and information to build and operate this machine <a href="https://community.preciousplastic.com/how-to/shredder-pro-by-weima-10">here</a></p>
+
 
 # 🌐 3D Model
 <iframe width="500" height="600" src="https://b2b.partcommunity.com/community/partcloud/embedded.html?route=embedded-viewer&name=Shredder+Pro+v1&model_id=96615&portal=b2b&noAutoload=true&autoRotate=false&hideMenu=true&topColor=%23FFFFFF&bottomColor=%23ffffff&cameraParams=false&varsettransfer=" frameborder="0" id="EmbeddedView-Iframe-96615" allowfullscreen></iframe>
