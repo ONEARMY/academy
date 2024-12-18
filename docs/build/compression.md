@@ -153,10 +153,10 @@ Unique patterns |
 
 
 # 🙌 Useful Links
-- [⭐️Upgrade: Compression V2.1](https://community.preciousplastic.com/how-to/compression-machine-21)
+- [⭐️Upgrade: Compression V2.1](https://community.preciousplastic.com/library/compression-machine-21)
 - [Hack: Compression](https://davehakkens.nl/community/forums/topic/machine-development-compression-oven/)
 - [Hack: Solar Powered Melting Machine](https://davehakkens.nl/community/forums/topic/solar-powered-melting-machine/)
-- [How-to: Wall Clock](https://www.youtube.com/watch?v=e_jqIvSFfI4)<br>
+- [Project: Wall Clock](https://www.youtube.com/watch?v=e_jqIvSFfI4)<br>
 
 <p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
 

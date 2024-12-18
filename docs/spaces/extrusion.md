@@ -89,7 +89,7 @@ Some essential items to get you started:
 
 - Extruder - of course.
 - Shredded plastic storage containers – this might be determined by who you buy your plastic from. What’s most important is to make sure that they’re sturdy to prevent accidental spills. Clear is nice, but not required.
-- Simple mould – could be beam or a brick. Best to start with something simple to familiarize yourself with the process then build out from there. Check out the <a href="https://community.preciousplastic.com/">how-tos</a> for inspiration.
+- Simple mould – could be beam or a brick. Best to start with something simple to familiarize yourself with the process then build out from there. Check out the <a href="https://community.preciousplastic.com/library/">library</a> for inspiration.
 - Basic tools - wrenches, channel lock pliers, screwdriver, safety glasses, heat resistant gloves and scoop.
 - Ventilation – filter mask, ventilation caddy, check out the <a href="https://community.preciousplastic.com/academy/plastic/safety">safety video</a> to learn more.
 - Workbench.

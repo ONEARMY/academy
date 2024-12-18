@@ -72,9 +72,9 @@ Right on! OK now you have a pile of your products, it’s time to mark them. It�
 
 # 🙌 Useful Links
 
-- [Different extrude textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
-- [Simple trick to mark your products](https://community.preciousplastic.com/how-to/make-a-simple-stamp-from-copper-wire)<br>
-- [Make your sheet shiny](https://community.preciousplastic.com/how-to/make-your-sheet-shiny)<br>
+- [Different extrude textures](https://community.preciousplastic.com/library/extrude-different-textures)<br>
+- [Simple trick to mark your products](https://community.preciousplastic.com/library/make-a-simple-stamp-from-copper-wire)<br>
+- [Make your sheet shiny](https://community.preciousplastic.com/library/make-your-sheet-shiny)<br>
 - [Polystyrene transparency](https://davehakkens.nl/community/forums/topic/polystyrene-transparency/)<br>
 - [Valuable marble from plastic](https://davehakkens.nl/community/forums/topic/valuable-marble-from-plastic/)<br>
 

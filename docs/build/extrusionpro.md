@@ -101,13 +101,13 @@ Some examples of extrusion times for some moulds:
 
 # 🙌 Useful Links
 
-* [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
-* [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
-* [ Visit our how-tos for upgrades and hacks](https://community.preciousplastic.com/how-to)
-* [How-to: make light beams](https://community.preciousplastic.com/how-to/make-a-lamp-with-beams)
-* [How-to: make a T profile](https://community.preciousplastic.com/how-to/make-a-tshape-beam-)
-* [Hack: Quick release nozzle](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)
-* [Hack: Flat nozzle ](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)
+* [Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
+* [Find a local machine shop on our map](https://community.preciousplastic.com/map)
+* [Visit our library for upgrades and hacks](https://community.preciousplastic.com/library)
+* [Project: make light beams](https://community.preciousplastic.com/library/make-a-lamp-with-beams)
+* [Project: make a T profile](https://community.preciousplastic.com/library/make-a-tshape-beam-)
+* [Hack: Quick release nozzle](https://community.preciousplastic.com/library/make-a-quick-release-for-the-extrusion-machine)
+* [Hack: Flat nozzle ](https://community.preciousplastic.com/library/make-a-flat-nozzle-for-the-extrusion-machine)
 * [Documentation of screw](http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf)
 * [Documentation](http://www.polydynamics.com/Rheology.pdf)
 * [Documentation of hopper cones](http://craig-russell.co.uk/demos/cone_calculator/)

@@ -156,10 +156,10 @@ Portable |
 </div>
 
 # 🙌 Useful Links
-- [⭐️Upgrade: Shredder 2.1](https://community.preciousplastic.com/how-to/shredder-21)
+- [⭐️Upgrade: Shredder 2.1](https://community.preciousplastic.com/library/shredder-21)
 - [Upgrade: Shredder efficiency](https://davehakkens.nl/community/forums/topic/shredder-efficiency/)
 - [Hack: Shredder & Extruder](https://davehakkens.nl/community/forums/topic/shredder-and-extrusion-industrial-electronics-2/)
-- [Hack: Human Powered Shredder](https://community.preciousplastic.com/how-to/human-powered-shredder)
+- [Hack: Human Powered Shredder](https://community.preciousplastic.com/library/human-powered-shredder)
 
 
 

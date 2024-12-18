@@ -1,8 +1,8 @@
-# Mould How-to guidelines
+# Mould Library Guidelines
 
-By sharing a mould How-to you’re contributing to develop the largest, decentralised, open source library of recycling machines. Big up on that 🤙
+By sharing a mould project you’re contributing to develop the largest, decentralised, open source library of recycling machines. Big up on that 🤙
 
-When it comes to moulds How to, the most important thing is to provide a complete download file with all the necessary files to replicate the moulds. We understand that most of the work for your how-to will go in designing your product and documenting it thoroughly, so a short 3-4 step how-to will be enough! If you want to add more steps for giving some tips and tricks regarding the mould manufacturing process it’s very valuable.
+When it comes to mould projects, the most important thing is to provide a complete download file with all the necessary files to replicate the moulds. We understand that most of the work for your project will go in designing your product and documenting it thoroughly, so short 3-4 steps will be enough! If you want to add more steps for giving some tips and tricks regarding the mould manufacturing process it’s very valuable.
 
 For the mould files, here’s what to remember:
 
@@ -21,9 +21,9 @@ For the mould files, here’s what to remember:
                 5. BOM
 
 ## Steps structure
-### How to title: “_____ Mould” 
+### Project title: “_____ Mould” 
 Just the name of what it is, keep it simple.
-![How-to title examples](assets/guides/moulds-1.png)
+![project title examples](assets/guides/moulds-1.png)
 
 ### Intro/banner
 #### Text:
@@ -68,6 +68,6 @@ Tools and materials needed layed out or close up to manufactured mould (not a re
 Mould open after injecting, finished product and/or different applications of the same product
 ![Finished mould examples](assets/guides/moulds-5.png)
 
-## Check some good mould how-tos for some inspiration:
-- [Flower Pot mould](https://community.preciousplastic.com/how-to/flowerpot-mould)
-- [Light Switch and socket mould](https://community.preciousplastic.com/how-to/make-a-lightswitch-and-socket)
+## Check some good mould projects for some inspiration:
+- [Flower Pot mould](https://community.preciousplastic.com/library/flowerpot-mould)
+- [Light Switch and socket mould](https://community.preciousplastic.com/library/make-a-lightswitch-and-socket)

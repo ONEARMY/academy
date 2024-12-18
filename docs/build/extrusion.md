@@ -162,12 +162,12 @@ User Friendly |
 - [V4 Extrusion Products](https://davehakkens.nl/community/forums/topic/extrusion-machine-products-v4/)<br>
 - [V4 Tubes & Profiles](https://davehakkens.nl/community/forums/topic/v4-extrusion-tubes-and-profiles/)<br>
 - [V4 Extrusion Moulds](https://davehakkens.nl/community/forums/topic/extrusion-moulds-v4/)<br>
-- [How-to: Beam Mould](https://community.preciousplastic.com/how-to/make-a-mould-to-extrude-beams)<br>
-- [How-to: Flat Nozzle](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)<br>
-- [How-to: Different Textures](https://community.preciousplastic.com/how-to/extrude-different-textures)<br>
-- [How-to: Bench](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)<br>
-- [How-to: Shelf](https://community.preciousplastic.com/how-to/make-a-shelf-with-sheets--beams)<br>
-- [How-to: Glass Beams](https://community.preciousplastic.com/how-to/make-glass-like-beams)<br>
+- [Project: Beam Mould](https://community.preciousplastic.com/library/make-a-mould-to-extrude-beams)<br>
+- [Project: Flat Nozzle](https://community.preciousplastic.com/library/make-a-flat-nozzle-for-the-extrusion-machine)<br>
+- [Project: Different Textures](https://community.preciousplastic.com/library/extrude-different-textures)<br>
+- [Project: Bench](https://community.preciousplastic.com/library/make-a-bench-with-beams)<br>
+- [Project: Shelf](https://community.preciousplastic.com/library/make-a-shelf-with-sheets--beams)<br>
+- [Project: Glass Beams](https://community.preciousplastic.com/library/make-glass-like-beams)<br>
 
 
 <p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>

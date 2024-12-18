@@ -1,12 +1,12 @@
-# Machines How-to guidelines
+# Machines Library Guidelines
 
-By sharing a machine How-to you’re contributing to develop the largest, decentralised, open source library of recycling machines. Big up on that 🤙
+By sharing a machine project you’re contributing to develop the largest, decentralised, open source library of recycling machines. Big up on that 🤙
 
-When it comes to  machines How-to, the most important thing is to provide a complete download file with all the necessary files to replicate the machine. We understand that most of the work for your how-to will go in designing your machine and documenting it thoroughly, so a short 3-4 step how-to will be enough! If you want to add more steps for giving some tips and tricks regarding the machine manufacturing process it’s very valuable.
+When it comes to machines projects, the most important thing is to provide a complete download file with all the necessary files to replicate the machine. We understand that most of the work for your project will go in designing your machine and documenting it thoroughly, so a short 3-4 steps will be enough! If you want to add more steps for giving some tips and tricks regarding the machine manufacturing process it’s very valuable.
 
-Regarding the documentation, we see CAD + a bill of material + schematic (if electric components) as the **minimum requirement** to share a machine how-to. This being said, it helps a lot if you can provide additional part and assembly drawings, laser cut files, manuals or any other relevant information to replicate this machine. 
+Regarding the documentation, we see CAD + a bill of material + schematic (if electric components) as the **minimum requirement** to share a machine project. This being said, it helps a lot if you can provide additional part and assembly drawings, laser cut files, manuals or any other relevant information to replicate this machine. 
 
-## Main requirements for these how-tos are:
+## Main requirements for these projects are:
 
 - Getting the files (at least at a minimum).
 - Describe the content you are providing 
@@ -39,12 +39,12 @@ For the machine files, here’s what to remember:
 
 
 # Steps structure:
-## How to title: 
+## Project title: 
 Ex. “Solar powered injection machine” (just the name of what it is, keep it simple).
 ![Names examples](assets/guides/machines-2.png)
 *DO NOT USE PRECIOUS PLASTIC’S OFFICIAL MACHINE MODELS NUMBERING SYSTEM. 
 
-## How to cover: 
+## Project cover: 
 ### Text:
 - Explain what machine it is. 
 *Tip: check “information about naming” for more details below.
@@ -103,7 +103,7 @@ Picture should be of the machine built, **not** a render.
 - Explain how the machine should be operated.
 - Explain what product you obtain with the machine.
 - Give the relevant input / output of the machine (type of plastic, thickness, productivity, electric consumption…).
-- Link relevant how-tos.
+- Link to other relevant library projects.
 - Invite to sell and or buy in the Bazar.
 
 #### Picture:
@@ -138,11 +138,11 @@ For example, your machine name can:
 - Include your workspace name (Shredder PRO LRF, Injection sustainable studio…)
 - Include an adaptation of the design (Shredder 2.1 imperial …)
 
-## Check some good machine how-tos for some inspiration:
-- [SPR - 2.3](https://community.preciousplastic.com/how-to/spr---23)
-- [SHR - 2.3](https://community.preciousplastic.com/how-to/shr---33-)
-- [INJ - 2.1](https://community.preciousplastic.com/how-to/inj---21-)
-- [EXTPRO - 1.2 ](https://community.preciousplastic.com/how-to/extpro---12)
+## Check some good machine project for some inspiration:
+- [SPR - 2.3](https://community.preciousplastic.com/library/spr---23)
+- [SHR - 2.3](https://community.preciousplastic.com/library/shr---33-)
+- [INJ - 2.1](https://community.preciousplastic.com/library/inj---21-)
+- [EXTPRO - 1.2 ](https://community.preciousplastic.com/library/extpro---12)
 
 
 

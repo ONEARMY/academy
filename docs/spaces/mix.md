@@ -86,7 +86,7 @@ Some essential items to get you started:
 - Machines - of course. You can get them all or start with a combination that fits your workspace's goals. 
 - Pre-shredded plastic storage containers - bags work well, might depend on how you collect your plastic.
 - Shredded plastic storage containers – Can be almost anything. What’s most important is to make sure that they’re sturdy to prevent accidental spills. If you have your own shredder, it’s nice to use storage containers that you can shred into then store, so that you don’t have to pour shredded plastic from one container to another – helps keep types and colours pure. Clear containers are nice, but not required.
-- Simple moulds – could be beam, bowl, or any other item – depends on which machines you use. Best to start with something simple to familiarise yourself with the process, then build from there. Check out the <a href="https://community.preciousplastic.com/">how-tos</a> for inspiration.
+- Simple moulds – could be beam, bowl, or any other item – depends on which machines you use. Best to start with something simple to familiarise yourself with the process, then build from there. Check out the <a href="https://community.preciousplastic.com/library">library</a> for inspiration.
 - Basic tools - wrenches, scoop, hammer, chisel, channel lock pliers, screwdriver, safety glasses and heat resistant gloves.
 - Ventilation – filter mask, ventilation caddy, check out the <a href="https://community.preciousplastic.com/academy/plastic/safety">safety video</a> to learn more.
 - Workbench.

@@ -27,7 +27,7 @@ The injection machine has a quick production output with high precision, while i
 
 > Pro-tip: Invest in a good mould. Good mould, good output :)
 
-> Pro-tip: A new improved version of the injection machine which can be disassembled and has some additional safety features can be found in the [how-tos](https://community.preciousplastic.com/how-to/injection-machine---designed-for-disassembly). If you are building a new one consider taking a look at this one before ordering parts.
+> Pro-tip: A new improved version of the injection machine which can be disassembled and has some additional safety features can be found in the [library](https://community.preciousplastic.com/library/injection-machine---designed-for-disassembly). If you are building a new one consider taking a look at this one before ordering parts.
 
 
 </div>
@@ -182,18 +182,18 @@ Batch production ||
 </div>
 
 # 🙌 Useful Links
-- [How-to: Injection Machine - Designed for disassembly](https://community.preciousplastic.com/how-to/injection-machine---designed-for-disassembly)<br>
-- [Upgrade: Make a Quick Release Mould](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)<br>
+- [Project: Injection Machine - Designed for disassembly](https://community.preciousplastic.com/library/injection-machine---designed-for-disassembly)<br>
+- [Upgrade: Make a Quick Release Mould](https://community.preciousplastic.com/library/make-a-quick-release-opening-system-for-injection-moulds)<br>
 - [Hack: Benchtop Injector](https://davehakkens.nl/community/forums/topic/benchtop-smaller-machines/)<br>
 - [Hack: Injection Nozzle Refinement](https://davehakkens.nl/community/forums/topic/injectionextrusion-nozzle-refinement/)
-- [How-to: Carabiner](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
-- [How-to: Quick Release](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)<br>
-- [How-to: Cast Aluminium Moulds](https://www.youtube.com/watch?v=5LhHUBz9uL0)<br>
-- [How-to: CNC iPhone Case Mould](https://www.youtube.com/watch?v=ZYFoWP-3MYE)<br>
-- [How-to: Geodesic Dome](https://community.preciousplastic.com/how-to/build-a-geodesic-dome)<br>
-- [How-to: Precious Plastic Monash Machine](https://www.preciousplasticmonash.com/download-kit)<br>
-- [How-to: Handplane](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)<br>
-- [How-to: Broom Hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)<br>
+- [Project: Carabiner](https://community.preciousplastic.com/library/make-a-carabiner-cnc-vs-lasercut)<br>
+- [Project: Quick Release](https://community.preciousplastic.com/library/make-a-quick-release-for-the-extrusion-machine)<br>
+- [Project: Cast Aluminium Moulds](https://www.youtube.com/watch?v=5LhHUBz9uL0)<br>
+- [Project: CNC iPhone Case Mould](https://www.youtube.com/watch?v=ZYFoWP-3MYE)<br>
+- [Project: Geodesic Dome](https://community.preciousplastic.com/library/build-a-geodesic-dome)<br>
+- [Project: Precious Plastic Monash Machine](https://www.preciousplasticmonash.com/download-kit)<br>
+- [Project: Handplane](https://community.preciousplastic.com/library/make-a-handplane-simple-mould)<br>
+- [Project: Broom Hanger](https://community.preciousplastic.com/library/make-a-broom-hanger)<br>
 - [Development: The Story Behind the Piranhaclamp](https://davehakkens.nl/community/forums/topic/the-story-behind-the-piranhaclamp/)<br>
 
 <p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>

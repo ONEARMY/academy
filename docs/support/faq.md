@@ -26,7 +26,7 @@ Our [main website](https://preciousplastic.com/) explains the overall picture of
 <p>
 
 Precious Plastic is an open-source project. This means that you can share back your knowledge with the rest of the community to help grow the recycling base. There are two main ways to do so: 
-- How-Tos, these are step by step instructions that show tips and tricks you have discovered during your recycling journey. Whether these are a machine hack, new product, mould, event hosting or anything in between, we want to hear about them!
+- You can share projects in the library, where you add files, step-by-step guides and tips and tricks you have discovered during your recycling journey. Whether these are a machine hack, new product, mould, event hosting or anything in between, we want to hear about them!
 - [Discord](https://discord.gg/gwkbpsWbAB), share your know-how helping people who come with questions on our Discord. The best thing is to help new recyclers avoid mistakes you may have made so that more quality recycling can happen more often. We are very happy for people to share their knowledge and are grateful.
 
 </p>
@@ -111,7 +111,7 @@ Yes, we would love that. The more people recycle, the better. The profit is all 
 <details><summary><b>Are the machines safe to work with?</b></summary>
 <p>
 
-If you build them according to our drawings, it should be ok. Overall they are safe to work with. However, a machine like a shredder can do quite some damage. But you can always customise the machines and make them safer. For more safety tips, check out the [How-tos](https://community.preciousplastic.com/how-to). Either way, please always watch out!
+If you build them according to our drawings, it should be ok. Overall they are safe to work with. However, a machine like a shredder can do quite some damage. But you can always customise the machines and make them safer. For more safety tips, check out the [library](https://community.preciousplastic.com/library). Either way, please always watch out!
 </p>
 </details>
 

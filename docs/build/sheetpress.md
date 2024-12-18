@@ -103,17 +103,17 @@ The aluminum pressing plates are 1220x1220mm but there is often an overflow from
 
 # 🙌 Useful Links
 
-* [ Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
-* [ Find a local machine shop on our map](https://community.preciousplastic.com/map)
-* [ Visit our how-tos for upgrades and hacks](https://community.preciousplastic.com/how-to)
+* [Buy or sell parts & machines on our bazar](https://bazar.preciousplastic.com)
+* [Find a local machine shop on our map](https://community.preciousplastic.com/map)
+* [Visit our library for upgrades and hacks](https://community.preciousplastic.com/library)
 * [⭐️ How to setup a full Sheetpress workspace](spaces/sheetpress.md)
 * [⭐️ For questions go to our #build channel in Discord](https://discordapp.com/invite/XQDmQVT)
-* [⭐️ How to make a chair with sheets](https://community.preciousplastic.com/how-to/make-a-chair-with-bent-sheets)
+* [⭐️ How to make a chair with sheets](https://community.preciousplastic.com/library/make-a-chair-with-bent-sheets)
 * [Forum post about building the Sheetpress system](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
 * [Forum post about building a big oven](https://davehakkens.nl/community/forums/topic/sheet-press-mould-oven/)
 * [Forum post about an alternative version](https://davehakkens.nl/community/forums/topic/v4-sheet-press-system/)
-* [How to bend sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
-* [How to build a shelving system with sheets](https://community.preciousplastic.com/how-to/make-a-shelving-system)
+* [How to bend sheets](https://community.preciousplastic.com/library/bend-plastic-sheets)
+* [How to build a shelving system with sheets](https://community.preciousplastic.com/library/make-a-shelving-system)
 
 <p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
 

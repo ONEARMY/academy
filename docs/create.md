@@ -87,10 +87,10 @@ It's worth noting that there are many ways of exploring moulds and new methods, 
 
 <b>Want to see some of the best moulds from the community?</b>
 
-- [Make a handplane - simple mould](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)<br>
-- [Make a broom hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)<br>
-- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)<br>
-- [Make an interlocking brick](https://community.preciousplastic.com/how-to/make-an-interlocking-brick)
+- [Make a handplane - simple mould](https://community.preciousplastic.com/library/make-a-handplane-simple-mould)<br>
+- [Make a broom hanger](https://community.preciousplastic.com/library/make-a-broom-hanger)<br>
+- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/library/make-a-carabiner-cnc-vs-lasercut)<br>
+- [Make an interlocking brick](https://community.preciousplastic.com/library/make-an-interlocking-brick)
 
 # 💰 Make plastic valuable
 
@@ -98,7 +98,7 @@ We believe that plastic should not be seen as disposable or cheap. We strive to 
 
 # 🤝 Share back
 
-Made a cool product? Figured out how to streamline your production? Had a great mould made? Our global community (you!) is the backbone of Precious Plastic and together we are finding new solutions every day to tackle the plastic problem. Don’t forget to publish a How-To, or post in the community Discord. Help fuel the project forward!.
+Made a cool product? Figured out how to streamline your production? Had a great mould made? Our global community (you!) is the backbone of Precious Plastic and together we are finding new solutions every day to tackle the plastic problem. Don’t forget to publish a project, or post in the community Discord. Help fuel the project forward!.
 
 # Be open and collaborative
 

@@ -85,7 +85,7 @@ Some essential items to get you started:
 
 - Injection machine - of course.
 - Shredded plastic storage containers – this might be determined by who you buy your plastic from. What’s most important is to make sure that they’re sturdy to prevent accidental spills. Clear is nice, but not required.
-- Simple mould – there are loads of methods and materials you can use to make a mould – lasercut, CNC, 3D-print, aluminium, steel, acrylic. Check out the <a href="https://community.preciousplastic.com/">how-tos</a> for inspiration.
+- Simple mould – there are loads of methods and materials you can use to make a mould – lasercut, CNC, 3D-print, aluminium, steel, acrylic. Check out the <a href="https://community.preciousplastic.com/library">library</a> for inspiration.
 - Basic tools - wrenches, putty knife, safety glasses, hammer, chisel, heat resistant gloves, timer, scoop.
 - Ventilation – filter mask, ventilation caddy, check out the <a href="https://community.preciousplastic.com/academy/plastic/safety">safety video</a> to learn more.
 - Workbench.

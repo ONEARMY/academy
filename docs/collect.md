@@ -106,7 +106,7 @@ For citizens we have a website that will teach them about the Precious Plastic r
 
 For people in our community we’re developed:
 - A <b>starter-kit:</b> if you’re interested in becoming a collection point this will give you everything you need to get started
-- A <b>platform</b> to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
+- A <b>platform</b> to connect everyone in the community. You can use the map to find local workspaces, or read the library to learn about other collection strategies from around the world
 - <b>Posters</b> for your workspace or for your community to help spread the word
 - A <b>tool to weigh</b> how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
 

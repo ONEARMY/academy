@@ -21,7 +21,7 @@ The Community Program aims to help and reward the people and projects contributi
 <br>
 🚩 Type | 🤝 Requirements | 💫 Rewards
 --- | --- | ---
-<b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful things<br>- Comment (soon)
+<b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post projects<br>- Useful things<br>- Comment (soon)
 <b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](#ally-checklist-)|- Create a pin on the map<br>- Eligible for communication and sales<br>- Eligible to become a Verified profile
 <b>Verified</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-verified.png" width="200px"/> |- All of the above<br>- 8+ stars on Ally Checklist<br>- Legal Entity for 1+ year<br>- 1500 followers on main social media account<br>- 2 full-time paid employees  |- Verified badge<br>- Verified slack channels<br>- Ongoing communication<br> - Sales opportunities<br>- Eligible for collaborations
 
@@ -59,7 +59,7 @@ Precious Plastic Spaces can greatly help Precious Plastic by crediting and menti
 - Mention and credit Precious Plastic on their social media i.e "Part of @realPreciousPlastic"
 - Use #preciousplastic on their posts
 - Use our logo generator
-- Create how-tos sharing back knowledge with the community
+- Create projects sharing back knowledge with the community
 - Use a proactive approach to bring more people in the movement
 
 

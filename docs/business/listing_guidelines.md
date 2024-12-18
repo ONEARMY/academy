@@ -56,7 +56,7 @@ Close ups as well as wide angles will help to get a feeling of the details and q
 ![Profile Logo](../assets/Business/bazar-listingguide-3.2.png)
 
 ### 3.3 Shipping box (incl. dimensions)
- Especially when buying a machine, it is very useful for the customer to include a picture of the shipping box with dimensions. 
+Especially when buying a machine, it is very useful for the customer to include a picture of the shipping box with dimensions. 
 
 This will help the customer **know what to expect when receiving the item** and if they need special equipment to unload it (e.g.: delivery pallet and need for a forklift). 
 
@@ -67,7 +67,7 @@ It also shows that you have been through this step before and makes you more **t
 ### 3.4 CAD drawings
 
 If available, it can help to share the CAD or technical drawings of the machine, mould or item.
- This can give a better understanding of **exact measurements and assembly**, which can help the customer to assess whether their existing equipment will be compatible with your item.
+This can give a better understanding of **exact measurements and assembly**, which can help the customer to assess whether their existing equipment will be compatible with your item.
 
 ![Profile Logo](../assets/Business/bazar-listingguide-3.4.png)
 

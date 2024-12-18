@@ -54,7 +54,7 @@ This section is quite juicy, we have been designing products alongside the commu
 4. Extrusion machine.
 5. Sheetpress
 6. Injection
-7. how-tos
+7. Library
 
 ## Getting started
 
@@ -137,12 +137,12 @@ This technique allows you to extrude solid plastic beams by attaching a metal mo
 
 <b>Moulds and techniques:</b>
 
-- [Make a flat nozzle for the extrusion machine](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)
-- [Extrude different textures](https://community.preciousplastic.com/how-to/make-a-mould-to-extrude-beams)
-- [Make a t-shape beam](https://community.preciousplastic.com/how-to/make-a-tshape-beam-)
-- [Make glasslike beams](https://community.preciousplastic.com/how-to/make-glasslike-beams)
-- [Extrude into a closed mould](https://community.preciousplastic.com/how-to/extrude-into-a-closed-mould)
-- [Make a quick release for the extrusion machine](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)
+- [Make a flat nozzle for the extrusion machine](https://community.preciousplastic.com/library/make-a-flat-nozzle-for-the-extrusion-machine)
+- [Extrude different textures](https://community.preciousplastic.com/library/make-a-mould-to-extrude-beams)
+- [Make a t-shape beam](https://community.preciousplastic.com/library/make-a-tshape-beam-)
+- [Make glasslike beams](https://community.preciousplastic.com/library/make-glasslike-beams)
+- [Extrude into a closed mould](https://community.preciousplastic.com/library/extrude-into-a-closed-mould)
+- [Make a quick release for the extrusion machine](https://community.preciousplastic.com/library/make-a-quick-release-for-the-extrusion-machine)
 
 Figuring out how the colour is extruded and hardens take a few experiments. Basically, as the plastic moves through the beam mould, it hardens as it touches the metal, and the following plastic will fill the middle of the beam. This means that the colour you put in first will create the surface of the beam. 
 
@@ -161,21 +161,21 @@ These are the type of design decisions you would consider before you go into pro
 
 <b>Products:</b>
 
-- [Make extruded plastic bricks](https://community.preciousplastic.com/how-to/make-extruded-plastic-bricks)
-- [Build brick structures](https://community.preciousplastic.com/how-to/build-brick-structures)
-- [Make a bench with beams](https://community.preciousplastic.com/how-to/make-a-bench-with-beams)
-- [Make a lamp with beams](https://community.preciousplastic.com/how-to/make-a-lamp-with-beams)
-- [Create an extruded lamp](https://community.preciousplastic.com/how-to/create-an-extruded-lamp)
+- [Make extruded plastic bricks](https://community.preciousplastic.com/library/make-extruded-plastic-bricks)
+- [Build brick structures](https://community.preciousplastic.com/library/build-brick-structures)
+- [Make a bench with beams](https://community.preciousplastic.com/library/make-a-bench-with-beams)
+- [Make a lamp with beams](https://community.preciousplastic.com/library/make-a-lamp-with-beams)
+- [Create an extruded lamp](https://community.preciousplastic.com/library/create-an-extruded-lamp)
 
 ## The Sheetpress
 
-This machine creates sheets up to 1 x 1 metre with a range of thicknesses between 6mm - 30mm. When making a sheet mould there are many different configurations of size, thickness and surface finish. Do your research, read through different how-tos and check out the products on the Bazar before investing in the best mould that will fit your needs. Some different methods are:
+This machine creates sheets up to 1 x 1 metre with a range of thicknesses between 6mm - 30mm. When making a sheet mould there are many different configurations of size, thickness and surface finish. Do your research, read through different projects and check out the products on the Bazar before investing in the best mould that will fit your needs. Some different methods are:
 
-- [Cut plastic jigsaw](https://community.preciousplastic.com/how-to/cut-plastic-jigsaw)
-- [Drill and screw through plastic](https://community.preciousplastic.com/how-to/drill-and-screw-through-plastic)
-- [Cut plastic with the table saw](https://community.preciousplastic.com/how-to/cut-plastic-with-the-table-saw)
-- [Make your sheet shiny](https://community.preciousplastic.com/how-to/make-your-sheet-shiny)
-- [Bend plastic sheets](https://community.preciousplastic.com/how-to/bend-plastic-sheets)
+- [Cut plastic jigsaw](https://community.preciousplastic.com/library/cut-plastic-jigsaw)
+- [Drill and screw through plastic](https://community.preciousplastic.com/library/drill-and-screw-through-plastic)
+- [Cut plastic with the table saw](https://community.preciousplastic.com/library/cut-plastic-with-the-table-saw)
+- [Make your sheet shiny](https://community.preciousplastic.com/library/make-your-sheet-shiny)
+- [Bend plastic sheets](https://community.preciousplastic.com/library/bend-plastic-sheets)
 
 ![How Sheetpress Works](assets/create/sheetpress_design.svg)
 
@@ -209,9 +209,9 @@ This is quite fun! By applying the right temperature for a period of time you ca
 
 <b>Products:</b>
 
-- [Make a chair with bent sheets](https://community.preciousplastic.com/how-to/make-a-chair-with-bent-sheets)
-- [Make a mould to bend sheets](https://community.preciousplastic.com/how-to/make-a-mould-to-bend-sheets)
-- [Make a stool with woodworking techniques](https://community.preciousplastic.com/how-to/make-a-stool-with-woodworking-techniques)
+- [Make a chair with bent sheets](https://community.preciousplastic.com/library/make-a-chair-with-bent-sheets)
+- [Make a mould to bend sheets](https://community.preciousplastic.com/library/make-a-mould-to-bend-sheets)
+- [Make a stool with woodworking techniques](https://community.preciousplastic.com/library/make-a-stool-with-woodworking-techniques)
 
 
 ## The Injection machine
@@ -228,25 +228,25 @@ This machine will allow you to be versatile with your production because all you
 
 <b>Techniques:</b>
 
-- [Work with the injection machine](https://community.preciousplastic.com/how-to/work-with-the-injection-machine)
-- [Make a quick release opening system for injection moulds](https://community.preciousplastic.com/how-to/make-a-quick-release-opening-system-for-injection-moulds)
+- [Work with the injection machine](https://community.preciousplastic.com/library/work-with-the-injection-machine)
+- [Make a quick release opening system for injection moulds](https://community.preciousplastic.com/library/make-a-quick-release-opening-system-for-injection-moulds)
 
 
 <b>Products:</b>
 
-- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/how-to/make-a-carabiner-cnc-vs-lasercut)
-- [Make a lightswitch and socket](https://community.preciousplastic.com/how-to/make-a-lightswitch-and-socket)
-- [Make an interlocking brick](https://community.preciousplastic.com/how-to/make-an-interlocking-brick)
-- [Make a handplane - simple mould](https://community.preciousplastic.com/how-to/make-a-handplane-simple-mould)
-- [Make a broom hanger](https://community.preciousplastic.com/how-to/make-a-broom-hanger)
+- [Make a carabiner CNC vs laser cut](https://community.preciousplastic.com/library/make-a-carabiner-cnc-vs-lasercut)
+- [Make a lightswitch and socket](https://community.preciousplastic.com/library/make-a-lightswitch-and-socket)
+- [Make an interlocking brick](https://community.preciousplastic.com/library/make-an-interlocking-brick)
+- [Make a handplane - simple mould](https://community.preciousplastic.com/library/make-a-handplane-simple-mould)
+- [Make a broom hanger](https://community.preciousplastic.com/library/make-a-broom-hanger)
 
 <p class="note">Note: make sure to know the total amount of plastic that can fit in the barrel - this will limit the volume of the final product. It is usually around 150cm3 - this is quite small. It's not a problem, just a design constraint!</p> 
 
 ![Human with mould](assets/create/person-with-mould.jpg)
 
-## how-tos
+## Library
 
-When designing products to be produced with the Precious Plastic machines, your best resource will be the how-tos! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on [Questions](https://community.preciousplastic.com/questions) because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own How-To so we can all benefit from your awesome knowledge. 
+When designing products to be produced with the Precious Plastic machines, your best resource will be the library! You’ll find product designs, techniques and hacks, some from us and many are from the community. You can also check in on [Questions](https://community.preciousplastic.com/questions) because when (not if 😉) you get stuck, it’s very likely someone else has come across the same problem! If you come up with a super cool new product, hack or technique, create your own projects so we can all benefit from your awesome knowledge. 
 
 <p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
 

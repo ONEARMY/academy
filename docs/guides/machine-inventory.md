@@ -9,13 +9,13 @@ sidebar_label: Research
 
 The machine inventory is a place for documenting and sharing Precious Plastic machines. These machines can come from the Precious Plastic team, machine shops / workspaces in the community, or individual members of the community. It was created for more machines to be shared within the community and more iterative versions of the machines from the Precious Plastic team. 
 
-### Difference between Machine Inventory, Download-kit, and How-to 
+### Difference between Machine Inventory, Download-kit, and Library Projects
 
 The download kit (which matches with the Academy) is for the place for the “final” content and designs. This is when we feel something is fully worked out and documented, and we want to encourage people to replicate it.
 
 The machine inventory is for faster iterative development. There are many steps for a final design (and let’s be honest, final is never final). The machine inventory is for just that. It’s the place to find the latest and greatest from around the community, but not necessarily with all the documentation necessary to hold your hand all the way through. It’s best for machine builders who’ve had previous experience building Precious Plastic machines. 
 
-How-tos are full step-by-step guides for how to do something in the Precious Plastic Universe. Whether it's a machine hack, unique collection system, new product or otherwise. The scope is beyond just machines, and has a higher lift in terms of amount of information you need to provide.
+Library projects are full step-by-step guides for how to do something in the Precious Plastic Universe. Whether it's a machine hack, unique collection system, new product or otherwise. The scope is beyond just machines, and has a higher lift in terms of amount of information you need to provide.
 
 
 ## Documentation

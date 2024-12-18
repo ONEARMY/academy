@@ -61,8 +61,8 @@ This can help you to find and connect more easily with the right people!
 
 #### Interact and connect with the Community
 
-As a member you’ll be able to add How-to’s and events, but you won’t have a pin on the map. But if
-there is a Community Point in your area, reach out, so you can connect with that local group :)
+As a member you’ll be able to add projects and questions. If there is a 
+Community Point in your area, reach out, so you can connect with that local group :)
 
 ### Collection Point
 You’re collecting plastic? Great! Here we’ll ask you for: 
@@ -176,6 +176,6 @@ Write a little text about your group and activities. It’s nice to include:
 - Do you have regular meetup times or open days? And when? 
 
 #### Contact link 
-Add an invitation link to the communication tool you mainly use (might be whatsapp, telegram, slack, wechat or others), so others can join the group easily. If you don’t have one yet, maybe consider setting one up! Check out more tips on this [How-to](https://community.preciousplastic.com/how-to/set-up-a-community-point).
+Add an invitation link to the communication tool you mainly use (might be whatsapp, telegram, slack, wechat or others), so others can join the group easily. If you don’t have one yet, maybe consider setting one up! Check out more tips on this [library project](https://community.preciousplastic.com/library/set-up-a-community-point).
 
 Also include a contact/email of the main community builder in your group who has the best overview of the area and can answer newcomers’ questions.

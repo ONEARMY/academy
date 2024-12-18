@@ -8,7 +8,7 @@ sidebar_label: Research
 
 # What is the research module?
 
-This module in the community platform is made for people to share their research. There are still many things to learn and figure out when working with recycled plastic. Instead of everyone making the same mistakes in their workspace we can learn from each other. It follows a process from A to Z with all the mistakes, failures and pivots in between. It’s messy, rough and uncertain of the output. The difference with our [how-tos](https://community.preciousplastic.com/how-to) is that in how to’s the final result is posted, the things that actually worked out. I’s shows you “how to” do something and research starts with a question,  “Can we..” figure this out?
+This module in the community platform is made for people to share their research. There are still many things to learn and figure out when working with recycled plastic. Instead of everyone making the same mistakes in their workspace we can learn from each other. It follows a process from A to Z with all the mistakes, failures and pivots in between. It’s messy, rough and uncertain of the output. The difference with our [library](https://community.preciousplastic.com/library) is that the project's final result is posted, the things that actually worked out. I’s shows you how to do something and research starts with a question, “Can we..” figure this out?
 
 
 

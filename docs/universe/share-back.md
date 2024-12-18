@@ -34,9 +34,9 @@ __5. 🙃 Five sounds better then four:__ So point 5 is just to make a point
 <img src="../assets/universe/how-to.png"/>
 
 
-# Centralised documentation: How to’s
+# Centralised Documentation: The Library
 
-Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Questions, Discord, GitHub, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [how-tos](https://community.preciousplastic.com/how-to). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other how-to. Its a place to centralise all the things we as a community learn. We need each other.
+Documentation and sharing knowledge is actually one of the challenges with working open-source. You easily end up with knowledge shattered on the web. Questions, Discord, GitHub, Stackoverflow, comments etc. It easily becomes a mess making it very hard to really find good long term information back. Thats why we started working on [the library](https://community.preciousplastic.com/library). A centralised place in the community where members can upload their design, lessons, hacks, upgrades etc. You can filter on tags to find what you need and refer to other projects. Its a place to centralise all the things we as a community learn. We need each other.
 
 # Questions
 Because there is still a lot to figure out when it comes to plastic recycling, we've started working on [Questions](https://community.preciousplastic.com/questions).
@@ -59,4 +59,4 @@ So what to do? Use the hashtag [#preciousplastic](https://www.instagram.com/expl
 
 - ⭐️ Follow our [instagram](https://instagram.com/realpreciousplastic) to have a look at beautiful things from our community
 - ⭐️ Browse the community[ Facebook](https://facebook.com/preciousplastic) to see real and rough things made by our global army
-- ⭐️ Visit [this chapter](https://community.preciousplastic.com/academy/create/howto) in the academy to see step by step how to create the best how-to
+- ⭐️ Visit [this chapter](https://community.preciousplastic.com/academy/create/library) in the academy to see step by step how to create the best project
