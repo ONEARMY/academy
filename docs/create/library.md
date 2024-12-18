@@ -1,5 +1,5 @@
 ---
-id: howto
+id: library
 title: Browse the Library
 sidebar_label: Library
 ---
