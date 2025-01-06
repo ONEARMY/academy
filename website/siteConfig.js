@@ -106,17 +106,12 @@ const siteConfig = {
       {
         fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
         toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
-        redirects: [],
-        createRedirects(existingPath) {
-          if (existingPath.includes('/howto')) {
-            // Redirect from /docs/team/X to /community/X and /docs/support/X to /community/X
-            return [
-              existingPath.replace('/howto', '/library'),
-              existingPath.replace('/howto', '/library'),
-            ];
+        redirects: [
+          {
+            from: 'academy/create/howto',
+            to: 'academy/create/library',
           }
-          return undefined; // Return a falsy value: no redirect created
-        },
+        ],
       },
     ],
   ],
