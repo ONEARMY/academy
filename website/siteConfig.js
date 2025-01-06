@@ -30,9 +30,6 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [{ doc: "intro", label: "Academy" }],
 
-
-
-
   /* path to images for header/footer */
   headerIcon: "img/favicon.ico",
   footerIcon: "img/favicon.ico",
@@ -97,11 +94,32 @@ const siteConfig = {
   // collapsie menu: true,
   docsSideNavCollapsible: true,
   // Show documentation's last update time.
-  enableUpdateTime: true
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
+        toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
+        redirects: [],
+        createRedirects(existingPath) {
+          if (existingPath.includes('/howto')) {
+            // Redirect from /docs/team/X to /community/X and /docs/support/X to /community/X
+            return [
+              existingPath.replace('/howto', '/library'),
+              existingPath.replace('/howto', '/library'),
+            ];
+          }
+          return undefined; // Return a falsy value: no redirect created
+        },
+      },
+    ],
+  ],
 };
 
 module.exports = siteConfig;
