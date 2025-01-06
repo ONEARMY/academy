@@ -121,13 +121,13 @@
         "title": "Finishing Plastic",
         "sidebar_label": "Finished objects"
       },
-      "create/howto": {
-        "title": "Browse how-to",
-        "sidebar_label": "How to's"
-      },
       "create/injection-moulds": {
         "title": "Tips on injection mouldmaking",
         "sidebar_label": "Injection moulds"
+      },
+      "create/library": {
+        "title": "Browse the Library",
+        "sidebar_label": "Library"
       },
       "done": {
         "title": "Done?",
