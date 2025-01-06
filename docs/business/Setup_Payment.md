@@ -136,7 +136,7 @@ So by selling your precious things on the Bazar, you also contribute to making t
 
 Profile and payment methods are set up? 
 
-Then it's finally time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the homepage, newsletters and social media, follow our [**Guidelines for creating good Bazar listings**](https://community.preciousplastic.com/academy/business/Image_Size_Guidelines).
+Then it's finally time to upload the items you would like to sell. To **get the most out of your listings**, increase your chances to get good sales and get promoted on the homepage, newsletters and social media, follow our [**Guidelines for creating good Bazar listings**](/academy/business/listing_guidelines).
 
 ## Questions? Feedback?
 

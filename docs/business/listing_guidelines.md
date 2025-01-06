@@ -119,7 +119,7 @@ If not set up per region, try to offer shipping for **as many countries as possi
 
 Also make sure to pay attention to setting the price for each **additional item** (especially for machines it is very likely that double the quantity means double the shipping price).
 
-You can find more about shipping and regions in our [**Guide to set up your shipping options**](https://community.preciousplastic.com/academy/business/International_Shipping).
+You can find more about shipping and regions in our [**Guide to set up your shipping options**](/academy/business/set_up_shipping).
 
 ![Profile Logo](../assets/Business/bazar-listingguide-7.png)
 
@@ -128,7 +128,7 @@ You can find more about shipping and regions in our [**Guide to set up your ship
 
 Ok, these are the guidelines we believe will **help your listings to perform well on the Bazar**. Good luck!
 
-We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured (for example on the homepage, on email campaigns or social media) make sure to follow our guidelines [**how to get featured**](https://community.preciousplastic.com/academy/business/regions).
+We love showcasing great work, and support sellers who put love into their work and appearance on the Bazar. If you would like to see your listings featured (for example on the homepage, on email campaigns or social media) make sure to follow our guidelines [**how to get featured**](/academy/business/get_featured).
 
 
 ## Questions? Feedback?
