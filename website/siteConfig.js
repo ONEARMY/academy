@@ -108,8 +108,8 @@ const siteConfig = {
         toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
         redirects: [
           {
-            from: 'academy/create/howto',
-            to: 'academy/create/library',
+            from: '/academy/create/howto',
+            to: '/academy/create/library',
           }
         ],
       },
