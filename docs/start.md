@@ -1,7 +1,7 @@
 ---
 id: start
 title: start
-sidebar_label: start learning! 👋
+sidebar_label: Start learning! 👋
 ---
 
 <div class="videocontainer">
