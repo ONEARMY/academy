@@ -152,7 +152,7 @@ article div span h1:first-child {
 h1,
 h2,
 h3 {
-  font-family: "Varela Round", "sans-serif";
+  font-family: 'Varela Round', 'sans-serif';
 }
 
 /* Remove pro-tip formatting
@@ -205,7 +205,7 @@ article code:before {
   background-repeat: no-repeat;
   background-size: auto;
   position: absolute;
-  content: "";
+  content: '';
   display: block;
   top: 0;
   left: 0;
@@ -217,61 +217,61 @@ article code:before {
 
 .navGroups > .navGroup:nth-child(1) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(1) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_intro.svg");
+  background-image: url('/academy/img/highlight_stroke_intro.svg');
   background-size: 102.68px 39.91px;
 }
 
 .navGroups > .navGroup:nth-child(2) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(2) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_plastic.svg");
+  background-image: url('/academy/img/highlight_stroke_plastic.svg');
   background-size: 138.01px 41.37px;
 }
 
 .navGroups > .navGroup:nth-child(3) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(3) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_build.svg");
+  background-image: url('/academy/img/highlight_stroke_build.svg');
   background-size: 135.23px 44.16px;
 }
 
 .navGroups > .navGroup:nth-child(4) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(4) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_collect.svg");
+  background-image: url('/academy/img/highlight_stroke_collect.svg');
   background-size: 154.69px 44.96px;
 }
 
 .navGroups > .navGroup:nth-child(5) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(5) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_create.svg");
+  background-image: url('/academy/img/highlight_stroke_create.svg');
   background-size: 136.83px 37px;
 }
 
 .navGroups > .navGroup:nth-child(6) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(6) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_business.svg");
+  background-image: url('/academy/img/highlight_stroke_business.svg');
   background-size: 173.72px 36.5px;
 }
 
 .navGroups > .navGroup:nth-child(7) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(7) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_starterkits.svg");
+  background-image: url('/academy/img/highlight_stroke_starterkits.svg');
   background-size: 174.46px 42.01px;
 }
 
 .navGroups > .navGroup:nth-child(8) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(8) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_experiments.svg");
+  background-image: url('/academy/img/highlight_stroke_experiments.svg');
   background-size: 243.5px 49.04px;
 }
 
 .navGroups > .navGroup:nth-child(9) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(9) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_questions.svg");
+  background-image: url('/academy/img/highlight_stroke_questions.svg');
   background-size: 148.4px 39.91px;
 }
 
 .navGroups > .navGroup:nth-child(10) > .collapsible:hover,
 .navGroups > .navGroup:nth-child(10) > ul:after {
-  background-image: url("/academy/img/highlight_stroke_download.svg");
+  background-image: url('/academy/img/highlight_stroke_download.svg');
   background-size: 201.44px 46.2px;
 }
 
@@ -288,12 +288,12 @@ article code:before {
 }
 
 .toc .toggleNav .navGroup h4.navGroupSubcategoryTitle:after {
-  content: "";
+  content: '';
   position: absolute;
   right: 0;
   top: 50%;
   display: block;
-  background-image: url("/academy/img/chevron-down.svg");
+  background-image: url('/academy/img/chevron-down.svg');
   background-repeat: no-repeat;
   width: 24px;
   height: 24px;
@@ -364,6 +364,71 @@ article code:before {
 .videoChaptersSidebar {
   display: none;
 }
+
+/* Start of custom css for the Intro page for mobile viewport */
+
+/* Intro Hero Title styling */
+
+.introHeroTitle {
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+}
+
+.introHeroTitle h1 {
+  margin-bottom: 15px;
+}
+
+.introHeroTitle h2 {
+  font-size: 1.25em;
+  margin: auto min(max(calc(100% - 430px), 0px), 15%);
+}
+
+/* Blocks explaining each part of academy */
+
+.explanationSection {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin: 50px 0px;
+}
+
+.explanationItem {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.explanationText p:last-of-type a:last-of-type {
+  font-family: 'Varela Round', 'sans-serif';
+  color: #000;
+  background-color: #fee77b;
+  border: 2px solid #2c2c2c;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none !important;
+  display: inline-block;
+  transition: background 0.3s, color 0.3s;
+
+  margin-top: 10px;
+}
+
+.explanationText p:last-of-type a:last-of-type:hover {
+  background: #f58d8e;
+  color: #fff;
+}
+
+.explanationText p:last-of-type a:last-of-type::after {
+  content: ' →';
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.explanationImage {
+  object-fit: contain;
+}
+
+/* End of custom css for the Intro page for mobile viewport */
 
 .tns-outer {
   position: relative;
@@ -490,7 +555,6 @@ button.tns-nav-active {
   text-align: left;
 }
 
-
 /* Edit page button */
 a.edit-page-link {
   float: none;
@@ -540,6 +604,7 @@ hr {
   .toc {
     padding: 50px 0;
   }
+
   /*
   .mainContainer {
       height: 100%;
@@ -577,7 +642,7 @@ hr {
 }
 
 /* Tablet (think iPad) and up */
-@media only screen and (min-device-width: 768px) {
+@media only screen and (min-width: 768px) {
   .videoChaptersMain {
     width: 75%;
     margin-right: 5%;
@@ -603,6 +668,44 @@ hr {
   .videoChaptersSidebar li:last-child {
     margin-bottom: 0;
   }
+
+  /* Start of custom css for the Intro page for tablet and up viewports */
+
+  .introHeroTitle {
+    /* margin-top: 0; */
+  }
+
+  .introHeroTitle h1 {
+    font-size: 4em;
+    margin-bottom: 20px;
+  }
+
+  .introHeroTitle h2 {
+    font-size: 1.5em;
+    margin: auto 20%;
+  }
+
+  .explanationItem {
+    gap: 5%;
+    flex-direction: row;
+  }
+
+  .explanationItem:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+
+  .explanationText {
+    width: 60%;
+    align-self: center;
+    min-height: 200px;
+  }
+
+  .explanationImage {
+    display: block;
+    align-self: center;
+  }
+
+  /* End of custom css for the Intro page for tablet and up viewports */
 }
 
 .loaded.fileStats {

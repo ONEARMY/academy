@@ -1,12 +1,8 @@
 ---
 id: intro
 title: Intro
-sidebar_label: Hello! 🤙
+sidebar_label: Hello!
 ---
-
-<div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/dP1s7viFZHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <style>
 :root {
@@ -16,56 +12,98 @@ sidebar_label: Hello! 🤙
 }
 </style>
 
-# Welcome to the Precious Plastic Academy!
-
-<div class="videoChapters">
-<div class="videoChaptersMain">
-
-### Awesome to see you are interested in recycling plastic.
-We've created this collection of videos, tutorials and content to share the most crucial things we've learned over the past 7 years about transforming plastic waste into valuable products.
-
-We will teach you about the basics of plastic - what types there are and how to identify them, collecting and separating plastic, building your own machines, business models you can adopt, how to become an important member in the Precious Plastic community, and much more.
-
-We’ve created download kits and templates so once you’ve gone through everything, you’ll be ready to start your own recycling workspace, anywhere in the world!
+<div class="introHeroTitle">
+  
+# Welcome to our </br> online community
+## The place where people meet, share and collaborate to tackle the plastic waste problem.
 
 </div>
-<div class="videoChaptersSidebar">
 
-### Video Chapters
+<div class="explanationSection">
+<div class="explanationItem">
+<div class="explanationText">
+<br><br>
 
-- 00:00 Introduction
-- 00:42 What will you learn
-- 01:40 Help & Feedback
-- 02:01 Donate
-- 02:30 Spread the project
+## 📓 Get started learning in our Academy
 
+Here is how you learn how to become a plastic recycler. You'll find video tutorials, 3D models, business models, tips, blueprints and much more 
+
+[Visit Academy](https://community.preciousplastic.com/academy/start)
+
+
+</div>
+<img src="assets/Intro/module_academy.png" alt="screenshot preview of the academy module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
+
+<br><br>
+
+## ❓ Ask Questions to get support
+
+Get community support for your plastic recycling questions. Engage with others, share knowledge back, and find solutions to common challenges. 
+
+And don't forget to help out others :)
+
+
+[Visit Questions](https://community.preciousplastic.com/questions)
+
+
+</div>
+<img src="assets/Intro/module_questions.png" alt="screenshot preview of the questions module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
+
+<br><br>
+
+
+## 🌎 Browse the Map to connect
+
+Find local community members near you. There are over +1000 spaces, from machine builders, plastic collection points and recycling workspaces.
+
+Add your [own space to the map](https://community.preciousplastic.com/academy/guides/platform)
+
+[Visit Map](https://community.preciousplastic.com/map)
+
+
+</div>
+<img src="assets/Intro/module_map.png" alt="screenshot preview of the map module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
+
+<br>
+
+## 🔍 Find community solutions in our Library
+
+Solutions made by the community. New products, blueprints of machines, 3D models of moulds, betters ways to collect and much more
+
+There are +200 projects already open-sourced, lots more to explore!
+
+
+[Visit How-tos](https://community.preciousplastic.com/how-to)
+
+
+</div>
+<img src="assets/Intro/module_howtos.png" alt="screenshot preview of the how-tos module" width="420" height="300" class="explanationImage">
+</div>
+<div class="explanationItem">
+<div class="explanationText">
+
+<br><br>
+
+## ⚙ Help research to find new solutions
+
+The place to continue R&D and find new soltuions to reduce plastic waste. Start a research and get help from the global community, get feedback ideas and collaborate.
+
+[Visit Research](https://community.preciousplastic.com/research)
+
+
+</div>
+<img src="assets/Intro/module_research.png" alt="screenshot preview of the research module" width="420" height="300" class="explanationImage">
 </div>
 </div>
 
-
-![Open Source](assets/Intro/opensource.svg)
-
-## But wait - why did you do this?
-
-At Precious Plastic we want to show the world the incredible opportunities of plastic waste in order to eliminate plastic pollution, reducing the demand for new virgin plastic and closing its materials loop while creating better livelihoods for people around the world. Precious Plastic is, above all, a cultural tool to change the way society perceives plastic.
-
-All plastic laying around you is a resource, not waste. It is a material with great potential, laying all around the world that, if processed correctly, can become something new and valuable. This resource can become a source of income or an educational tool for your community, while making sure it doesn’t enter our environment.
-
-<img style="padding: 50px 0" src="./assets/Intro/PP_universe.svg" width="500px"/>
-
-We have created machines, documentation, video tutorials, campaigns and a platform to empower people across the planet to start working with plastic waste locally while trying to decentralise and localise plastic recycling technologies, infrastructures and knowledge by providing open-source designs for machines, moulds and consumer products, as well as business models and tools for you to set up and run a recycling workspace.
-
-## Open source & License
-We share everything open source for anyone to use and benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Precious Plastic and shapes most decisions within our team. We believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively.
-
-Different parts of this project are under different license conditions
-
-- **Content:** All our content is licensed under Creative Commons Attribution - Sharealike International 4.0. You can read a summary of that [here](https://creativecommons.org/licenses/by-sa/4.0/), or check out the full [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-- **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/academy/blob/master/LICENSE).
-
-## Support & get involved
-If you are in the position to help there are many ways you can <a href="https://support.preciousplastic.com/">support Precious Plastic.</a>
-
-<p class="note">Are you interested to connect with the Precious Plastic community? Perhaps you want to learn more or share your own knowledge. Well you're in luck! We have created a <a href="https://community.preciousplastic.com/questions">Questions</a> section for the community to collaborate. Now if you want to chat with people locally and globally, check out the <a href="https://discord.gg/gwkbpsWbAB">Discord</a></p>
 
 Ok, let's dive in!

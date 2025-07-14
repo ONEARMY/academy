@@ -12,5 +12,6 @@
   "devDependencies": {
     "@docusaurus/plugin-client-redirects": "^3.7.0",
     "docusaurus": "^1.14.3"
-  }
+  },
+  "dependencies": {}
 }
