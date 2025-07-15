@@ -82,7 +82,7 @@ Solutions made by the community. New products, blueprints of machines, 3D models
 There are +200 projects already open-sourced, lots more to explore!
 
 
-[Visit How-tos](https://community.preciousplastic.com/how-to)
+[Visit Library](https://community.preciousplastic.com/library)
 
 
 </div>
