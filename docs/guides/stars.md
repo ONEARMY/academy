@@ -23,7 +23,7 @@ The Community Program aims to help and reward the people and projects contributi
 --- | --- | ---
 <b>Member/Space</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/community-program-member.png" width="200px"/> |- Be nice <br> - Don’t spam |- Create a profile<br>- Post how-to<br>- Useful things<br>- Comment (soon)
 <b>Ally</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/all-spaces-with-no-member.png" width="200px"/>|- All of the above<br>- Get 6 stars or more in the [Ally Checklist](#ally-checklist-)|- Create a pin on the map<br>- Eligible for communication and sales<br>- Eligible to become a Verified profile
-<b>PRO</b> <br> <br> <img style="margin-left: 0;" src="../assets/build/PRO_icon.png" width="200px"/> |- All of the above<br>- Be a workspace<br>- Support monthly 25€  |- PRO badge<br>- Increased visibility on the platform<br>- Support the development of Precious Plastic<br>- More to come…
+<b>PRO</b> <br> <br> <img style="margin-left: 0;" src="../assets/universe/pro-icon.png" width="50px"/> |- All of the above<br>- Be a workspace<br>- Support monthly 25€  |- PRO badge<br>- Increased visibility on the platform<br>- Support the development of Precious Plastic<br>- More to come…
 
 
 
@@ -43,6 +43,7 @@ PRO is designed for workspaces that want to support the global Precious Plastic 
 To become a PRO Member, you just need to:
 - Be a workspace
 - Sign up for the PRO membership by paying the monthly or yearly fee<br>
+
 As a PRO workspace, you will gain extra visibility, and more exclusive perks coming soon. Your membership helps us build better tools, resources, and support systems for recycling workspaces around the world.<br>
 You can join the PRO program [here](https://preciousplastic.com/pro-membership).
 <br>
