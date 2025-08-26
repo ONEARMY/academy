@@ -158,10 +158,6 @@
         "title": "Research module Guide",
         "sidebar_label": "Research"
       },
-      "guides/community-program": {
-        "title": "Community Program",
-        "sidebar_label": "Community Program"
-      },
       "intro": {
         "title": "Intro",
         "sidebar_label": "Hello!"
@@ -238,9 +234,17 @@
         "title": "Make your own logo",
         "sidebar_label": "Make your logo"
       },
+      "universe/pro": {
+        "title": "PRO Membership",
+        "sidebar_label": "PRO Membership"
+      },
       "universe/contribute": {
         "title": "Share back & Contribute",
         "sidebar_label": "Share back"
+      },
+      "universe/community-program": {
+        "title": "Community Program",
+        "sidebar_label": "Community Program"
       },
       "universe/universe": {
         "title": "Universe",

@@ -234,10 +234,10 @@ Yes you can! Check out the branding and style guidelines in the Academy under [S
 </p>
 </details>
 
-<details><summary><b>What is a Verified workspace and how do I become one?</b></summary>
+<details><summary><b>What is a PRO workspace and how do I become one?</b></summary>
 <p>
 
-The Precious Plastic Verified spaces are the projects pushing Preicous Plastic to the next level. Check out the [Community Program](https://community.preciousplastic.com/academy/guides/community-program) on the Academy to learn more.
+The Precious Plastic PRO workspaces are members supporting the community with a fee while gaining extra visibility, and other perks. Check out the [Community Program](https://community.preciousplastic.com/academy/universe/pro) on the Academy to learn more.
 </p>
 </details>
 

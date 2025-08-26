@@ -80,7 +80,8 @@
       "universe/universe",
       "universe/branding",
       "universe/yourlogo",
-      "guides/community-program",
+      "universe/community-program",
+      "universe/pro",
       "universe/contribute"
     ],
     "📦 Download": ["download"],
