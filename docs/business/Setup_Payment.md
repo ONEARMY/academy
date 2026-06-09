@@ -34,8 +34,8 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 ## Step 1: Add a payment method
 
 - Login to the [seller dashboard](https://newbazar.preciousplastic.com/my_admin_panel.php)
-- Go to Administration/ Payment methods.
-- Click on ‘+’- to add one.
+- Go to Settings / Payment methods.
+- Click on ‘+ Add payment method’ to add one.
 
 ![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
 
