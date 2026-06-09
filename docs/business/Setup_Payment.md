@@ -37,21 +37,23 @@ Once you are set, you can connect your Bazar account to your Stripe account.
 - Go to Settings / Payment methods.
 - Click on ‘+ Add payment method’ to add one.
 
-![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
+<img width="942" height="360" alt="202606 Payment 1" src="https://github.com/user-attachments/assets/6b7b9b10-faba-47a6-bb2b-ee70e3bafa73" />
+<img width="794" height="124" alt="202606 Bazar Payment 2" src="https://github.com/user-attachments/assets/063e0799-88f5-48b2-a875-6a58bf4627a2" />
 
 
 ## Step 2: Select processor (Stripe)
 
-- Select Stripe as processor, and fill other required infos
+- Select Stripe as processor
 - Then click on ‘configure’
 
-![Select processor](../assets/Business/Set%20up%20payment-2-add%20method.png)
+<img width="946" height="455" alt="202606 Bazar Payment Stripe 3" src="https://github.com/user-attachments/assets/17e83cc9-5701-4073-a807-fce672dd71c8" />
 
 
 ## Step 3: Connect to stripe
 
 - Fill out info for ‘configure’
 - Find your publishable key + secret key on your stripe account/Developers/API keys
+- Fill out your country and currency of your Stripe account
 
 ![Select processor](../assets/Business/Set%20up%20payment-3-Config.png)
 
@@ -75,10 +77,11 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 ## Step 1: Add a payment method
 
 - Login to the [seller dashboard](https://newbazar.preciousplastic.com/my_admin_panel.php)
-- Go to Administration/ Payment methods.
-- Click on ‘+’- to add one.
+- Go to Settings / Payment methods.
+- Click on ‘+ Add payment method’ to add one.
 
-![Payment methods](../assets/Business/Set%20up%20payment-1-payment%20methods.png)
+<img width="942" height="360" alt="202606 Payment 1" src="https://github.com/user-attachments/assets/6b7b9b10-faba-47a6-bb2b-ee70e3bafa73" />
+<img width="794" height="124" alt="202606 Bazar Payment 2" src="https://github.com/user-attachments/assets/063e0799-88f5-48b2-a875-6a58bf4627a2" />
 
 
 ## Step 2: Select processor (Paypal)
@@ -86,7 +89,8 @@ If you don’t have one, [create one](https://www.paypal.com/bizsignup/#/checkAc
 - Select "Paypal Express Checkout" as processor
 - Then click on ‘configure’
 
-![Payment methods](../assets/Business/Set_up_paypal_1.png)
+<img width="900" height="451" alt="202606 Bazar Payment PayPal 3" src="https://github.com/user-attachments/assets/fbced536-5dd7-4995-a164-ca028337cacb" />
+
 
 ## Step 3: Fill in Technical Details (1)
 - Scroll down to the **Technical Details** field, this is where you’ll have to insert information from your Paypal Account
