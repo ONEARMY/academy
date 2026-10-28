@@ -1,6 +1,6 @@
 {
   "academy-sidebar": {
-    "1. Intro": ["intro", "start"],
+    "1. Intro": ["intro"],
     "2. Plastic": ["plastic/basics", "plastic/safety", "plastic/nerdy"],
     "3. Build": [
       "build",

@@ -1,5 +1,5 @@
 ---
-id: start
+id: intro
 title: start
 sidebar_label: Start learning! 👋
 ---

@@ -163,8 +163,8 @@
         "sidebar_label": "Community Program"
       },
       "intro": {
-        "title": "Intro",
-        "sidebar_label": "Hello!"
+        "title": "start",
+        "sidebar_label": "Start learning! 👋"
       },
       "plastic/basics": {
         "title": "The Basics of Plastic",
@@ -213,10 +213,6 @@
       "spaces/shredder": {
         "title": "Setup a Shredder Workspace",
         "sidebar_label": "Shredder"
-      },
-      "start": {
-        "title": "start",
-        "sidebar_label": "Start learning! 👋"
       },
       "styles": {
         "title": "Styles",
