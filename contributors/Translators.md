@@ -10,18 +10,13 @@ Here's an example of the [markdown file](https://github.com/ONEARMY/academy/blob
 ![](images/overview.png)
 
 ## How the translation works
-The main bulk of the translation work is to take the markdown files for every page, and rewrite all the visible content in the translation language. For example, if translating into french we will need to create another `build.md` file written in french, and stored in a separate folder (currently `academy/website/translated_docs/fr`).
+All translations are managed online using a system called [crowdin](https://crowdin.com/). Not only does this allow multiple translators to collaborate on files, it also provides tools to track revisions across languages, apply automated machine-translation as a base for contributors to work from, and sync with github to provide final output.
+
+>Note, there is already lots of really good documentation on the crowdin website for handling all steps of the translation process, however recently they have launched a new platform for enterprise which we are using, and currently has only limited documentation. So find some more general guidance below.
 
 ![](images/overview-fr.png)
 
 > There are also a few bits of text injected into pages from elsewhere (like navigation sidebars, or the page titles themselves). These also require translation, but someone still needs to outline how to do this!!
-
-The benefit to translating file-by-file as opposed to storing individual lines of text (or relying on google translate) is that we can use the full page context to provide an exact translation for the text which can, at times, be quite technical or in need of precision.
-
-## Managing Translations
-All translations are managed online using a system called [crowdin](https://crowdin.com/). Not only does this allow multiple translators to collaborate on files, it also provides tools to track revisions across languages, apply automated machine-translation as a base for contributors to work from, and sync with github to provide final output.
-
->Note, there is already lots of really good documentation on the crowdin website for handling all steps of the translation process, however recently they have launched a new platform for enterprise which we are using, and currently has only limited documentation. So find some more general guidance below.
 
 # Translators Docs
 
@@ -38,21 +33,27 @@ So as a couple pre-requisites, before requesting additional languages it would b
 - Would many people benefit from the work?
 - Is there someone to manage the work?
 - Are there multiple people able to spend time translating all the content (there's quite a lot!)
-- Would translators have the technical knowledge to know if what is written is accurate - precision machines require precision translation!!!
+- Would translators have the technical knowledge to know if what is written is accurate? precision machines require precision translation!!!
 
 >A good place start these discussions could be country community channels on the [Precious Plastic Discord](https://discordapp.com/invite/AKuxkpx).
 
 If the answers to all of these are reasonably positive, then the next step would be to drop a message into this GitHub thread: https://github.com/ONEARMY/academy/issues/77
 
+At the moment the languages enabled are French, Japanese and Spanish.
 
 ## Joining a translation project
-Translations are hosted by crowdin, and require an account at https://onearmy.crowdin.com/. Once you have an account, you will need to let the project manager for your language know either your username or email, and they can send an invite to the specific translation project.
+
+To start translating you need to:
+
+- create an account in crowdin, at https://accounts.crowdin.com/register?domain=ONEARMY
+- once you have an account, you will need to let the project manager for your language know either your crowdin username or email
 
 > Don't know who the project manager is? No problem, take a look through the discussion at https://github.com/ONEARMY/academy/issues/77 and hopefully it will say. Otherwise you could always try ask around on discord.
 
-
 ## Loading translation files
-From the project homepage, click on a language to see the full list of files for translation. 
+
+Once your access to the translation project has been accepted by a manager, you will be able to translate.
+From the [project homepage](https://onearmy.crowdin.com/u/projects/2) click on a language to see the full list of files for translation.
 
 The folder structure follows the same structure as the website, so if for example you wanted to translate https://onearmy.github.io/academy/plastic/basics page, you can see the file at `plastic/basics.md`
 
@@ -79,7 +80,7 @@ Integration into the final public academy site takes one more approval step from
 
 # Managers Docs
 ## Adding languages for translation
-Anybody with Manager priviledges can add more languages for translation. To do this simply go to the `target languages` menu from the project home dropdown.
+Anybody with Manager privileges can add more languages for translation. To do this simply go to the `target languages` menu from the project home dropdown.
 
 ![](images/target_languages.png)
 
@@ -87,8 +88,8 @@ Anybody with Manager priviledges can add more languages for translation. To do t
 Additional languages can be added as [custom languages](https://support.crowdin.com/changing-target-languages/), however before doing this it is recommended to check with developers whether the platform is capable of supporting these.
 
 ## Inviting translators
-This can be one via email, or by adding a user's username from the `Members` page. 
->It is also possible to create links for sharing, however in the past we have found them to be a bit termpermental (expiring after single use). Feel free to try though!
+This can be done via email, or by adding a user's username from the `Members` page in crowdin.
+It is also possible to create links for sharing, but they expire after single use. Feel free to try though!
 
 ## Handling changes to source files
 From time to time small changes might be made to source files, as users point out typos, corrections, clarifications etc. Once these have been made to the default english version of the files, they will show up as requiring translation within the project home page.
@@ -98,7 +99,7 @@ Crowdin will automatically detect some minor changes (such as punctuation change
 
 For other smaller changes (such as word changes), crowdin will use it's bank of all previous translations to automatically detect and suggest translation changes. These should be reviewed by the manager and can usually be updated pretty quickly.
 
-For larger changes, such as addition of new files, or large text changes then it is likely that maangers will want to assign the file back to translators for translation.
+For larger changes, such as addition of new files, or big text changes, then it is likely that managers will want to assign the file back to translators for translation.
 
 ## TODO
 - General workflow
