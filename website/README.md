@@ -81,7 +81,7 @@ title: This Blog Post Needs To Be Edited
 Edit me...
 ```
 
-For more information about blog posts, click [here](https://docusaurus.io/docs/en/adding-blog)
+For more information about blog posts, click [here](https://v1.docusaurus.io/docs/en/adding-blog)
 
 # Adding Content
 
